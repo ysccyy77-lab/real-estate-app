@@ -1,0 +1,32 @@
+name: Auto Update Real Estate Transactions
+
+on:
+  schedule:
+    # 한국 시간 기준 매주 일요일 새벽 3시(UTC 토요일 18:00)에 실행
+    - cron: '0 18 * * 6'
+  workflow_dispatch: # 수동으로도 버튼을 눌러 실행할 수 있도록 허용
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v3
+
+      - name: Node.js 세팅
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: 실거래가 수집 스크립트 실행
+        run: |
+          node scratch/update_transactions.cjs
+
+      - name: 새롭게 수집된 데이터 커밋 및 푸시
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/transactions/*.json
+          git commit -m "Auto-update: 실거래가 데이터 갱신" || echo "No changes to commit"
+          git push

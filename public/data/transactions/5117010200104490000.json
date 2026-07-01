@@ -1,0 +1,135 @@
+[
+  {
+    "aptNm": "주공12",
+    "dealAmount": "92,000",
+    "date": "2024-06-30",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "92,500",
+    "date": "2024-06-22",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "92,500",
+    "date": "2024-06-19",
+    "floor": 11,
+    "area": 83.01
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "80,000",
+    "date": "2024-06-18",
+    "floor": 11,
+    "area": 74.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "80,000",
+    "date": "2024-06-18",
+    "floor": 11,
+    "area": 74.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "65,000",
+    "date": "2024-06-01",
+    "floor": 1,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "87,000",
+    "date": "2024-05-24",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "70,000",
+    "date": "2024-05-16",
+    "floor": 14,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "70,000",
+    "date": "2024-05-13",
+    "floor": 13,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "73,750",
+    "date": "2024-05-04",
+    "floor": 10,
+    "area": 60.21
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "69,800",
+    "date": "2024-04-27",
+    "floor": 4,
+    "area": 61.38
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "90,000",
+    "date": "2024-04-13",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "70,000",
+    "date": "2024-04-09",
+    "floor": 6,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "68,100",
+    "date": "2024-03-22",
+    "floor": 5,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "65,000",
+    "date": "2024-03-12",
+    "floor": 13,
+    "area": 83.01
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "74,000",
+    "date": "2024-03-09",
+    "floor": 7,
+    "area": 61.38
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "88,500",
+    "date": "2024-02-22",
+    "floor": 14,
+    "area": 83.01
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "70,000",
+    "date": "2024-02-07",
+    "floor": 6,
+    "area": 73.08
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "72,000",
+    "date": "2024-01-25",
+    "floor": 11,
+    "area": 61.38
+  }
+]

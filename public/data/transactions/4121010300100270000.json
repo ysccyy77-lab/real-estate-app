@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "주공11",
+    "dealAmount": "40,000",
+    "date": "2024-06-29",
+    "floor": 9,
+    "area": 41.3
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "36,300",
+    "date": "2024-06-26",
+    "floor": 5,
+    "area": 36.16
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "39,900",
+    "date": "2024-06-07",
+    "floor": 7,
+    "area": 41.3
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "37,000",
+    "date": "2024-06-03",
+    "floor": 9,
+    "area": 36.16
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "50,950",
+    "date": "2024-04-24",
+    "floor": 14,
+    "area": 49.94
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "49,400",
+    "date": "2024-03-25",
+    "floor": 9,
+    "area": 49.94
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "47,500",
+    "date": "2024-03-05",
+    "floor": 13,
+    "area": 49.94
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "35,500",
+    "date": "2024-02-16",
+    "floor": 14,
+    "area": 36.16
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "49,500",
+    "date": "2024-02-08",
+    "floor": 10,
+    "area": 49.94
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "35,000",
+    "date": "2024-02-06",
+    "floor": 6,
+    "area": 36.16
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "48,800",
+    "date": "2024-01-30",
+    "floor": 12,
+    "area": 49.94
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "49,000",
+    "date": "2024-01-27",
+    "floor": 8,
+    "area": 49.94
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "48,000",
+    "date": "2024-01-24",
+    "floor": 4,
+    "area": 49.94
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "40,000",
+    "date": "2024-01-16",
+    "floor": 13,
+    "area": 41.3
+  },
+  {
+    "aptNm": "주공11",
+    "dealAmount": "34,300",
+    "date": "2024-01-05",
+    "floor": 6,
+    "area": 36.16
+  }
+]

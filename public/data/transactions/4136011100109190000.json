@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "현대2",
+    "dealAmount": "44,000",
+    "date": "2024-04-22",
+    "floor": 4,
+    "area": 84.75
+  },
+  {
+    "aptNm": "현대2",
+    "dealAmount": "46,500",
+    "date": "2024-03-19",
+    "floor": 6,
+    "area": 84.75
+  },
+  {
+    "aptNm": "현대2",
+    "dealAmount": "49,000",
+    "date": "2024-02-14",
+    "floor": 9,
+    "area": 84.75
+  },
+  {
+    "aptNm": "현대2",
+    "dealAmount": "44,000",
+    "date": "2024-01-25",
+    "floor": 10,
+    "area": 84.75
+  }
+]
