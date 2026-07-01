@@ -167,11 +167,10 @@ export default function AptDetailModal({ apt, calcResult, onClose }) {
                           전용 {type.area}㎡
                         </span>
                       </div>
-                      {type.landShare && (
-                        <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '3px' }}>
-                          대지지분 {type.landShare}평
-                        </div>
-                      )}
+                      <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '3px', display: 'flex', gap: '8px' }}>
+                        {type.house != null && <span>{type.house.toLocaleString()}세대</span>}
+                        {type.landShare && <span>대지지분 {type.landShare}평</span>}
+                      </div>
                     </div>
 
                     {/* 최근 실거래가 */}
