@@ -156,9 +156,11 @@ export default function AptDetailModal({ apt, calcResult, onClose }) {
               <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
                 {transactions.map((tx, idx) => {
                   const pyeong = (tx.area * 0.3025).toFixed(1);
-                  const priceStr = tx.price >= 10000 
-                    ? `${Math.floor(tx.price/10000)}억 ${tx.price%10000 === 0 ? '' : (tx.price%10000).toLocaleString()}`
-                    : `${tx.price.toLocaleString()}`;
+                  // 국토부 데이터는 dealAmount ("54,000" 형태의 문자열)로 들어옵니다.
+                  const priceNum = parseInt((tx.dealAmount || '0').replace(/,/g, ''), 10);
+                  const priceStr = priceNum >= 10000 
+                    ? `${Math.floor(priceNum/10000)}억 ${priceNum%10000 === 0 ? '' : (priceNum%10000).toLocaleString()}`
+                    : `${priceNum.toLocaleString()}`;
 
                   return (
                     <div key={idx} style={{ 
