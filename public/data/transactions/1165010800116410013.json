@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "아남",
+    "dealAmount": "193,000",
+    "date": "2026-04-10",
+    "floor": 3,
+    "area": 71.1
+  },
+  {
+    "aptNm": "아남",
+    "dealAmount": "207,000",
+    "date": "2026-03-07",
+    "floor": 13,
+    "area": 71.1
+  },
+  {
+    "aptNm": "아남",
+    "dealAmount": "219,000",
+    "date": "2026-02-23",
+    "floor": 4,
+    "area": 71.1
+  }
+]

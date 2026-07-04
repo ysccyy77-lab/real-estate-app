@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "성원5차",
+    "dealAmount": "27,000",
+    "date": "2026-06-09",
+    "floor": 8,
+    "area": 60
+  },
+  {
+    "aptNm": "성원5차",
+    "dealAmount": "25,500",
+    "date": "2026-05-19",
+    "floor": 15,
+    "area": 60
+  },
+  {
+    "aptNm": "성원5차",
+    "dealAmount": "25,300",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 60
+  },
+  {
+    "aptNm": "성원5차",
+    "dealAmount": "29,000",
+    "date": "2026-02-28",
+    "floor": 11,
+    "area": 60
+  }
+]

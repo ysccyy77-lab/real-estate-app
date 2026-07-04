@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "승산벽산",
+    "dealAmount": "14,000",
+    "date": "2026-06-11",
+    "floor": 11,
+    "area": 79.89
+  },
+  {
+    "aptNm": "승산벽산",
+    "dealAmount": "16,000",
+    "date": "2026-04-10",
+    "floor": 14,
+    "area": 84.68
+  },
+  {
+    "aptNm": "해남",
+    "dealAmount": "3,950",
+    "date": "2026-03-08",
+    "floor": 1,
+    "area": 59.29
+  },
+  {
+    "aptNm": "해남",
+    "dealAmount": "3,500",
+    "date": "2026-02-03",
+    "floor": 5,
+    "area": 60.71
+  }
+]

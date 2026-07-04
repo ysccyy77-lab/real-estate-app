@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "대신쉐르빌",
+    "dealAmount": "4,000",
+    "date": "2026-06-04",
+    "floor": 15,
+    "area": 33.3393
+  },
+  {
+    "aptNm": "대신쉐르빌",
+    "dealAmount": "2,700",
+    "date": "2026-05-23",
+    "floor": 8,
+    "area": 33.3393
+  },
+  {
+    "aptNm": "대신쉐르빌",
+    "dealAmount": "3,180",
+    "date": "2026-05-17",
+    "floor": 6,
+    "area": 33.3393
+  },
+  {
+    "aptNm": "대신쉐르빌",
+    "dealAmount": "2,700",
+    "date": "2026-05-15",
+    "floor": 14,
+    "area": 33.3393
+  },
+  {
+    "aptNm": "대신쉐르빌",
+    "dealAmount": "3,150",
+    "date": "2026-04-13",
+    "floor": 5,
+    "area": 33.3393
+  },
+  {
+    "aptNm": "퀸즈드림",
+    "dealAmount": "22,500",
+    "date": "2026-04-09",
+    "floor": 9,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대신쉐르빌",
+    "dealAmount": "3,000",
+    "date": "2026-03-26",
+    "floor": 11,
+    "area": 33.3393
+  },
+  {
+    "aptNm": "대신쉐르빌",
+    "dealAmount": "3,000",
+    "date": "2026-03-12",
+    "floor": 6,
+    "area": 33.3393
+  },
+  {
+    "aptNm": "대신쉐르빌",
+    "dealAmount": "2,800",
+    "date": "2026-03-10",
+    "floor": 13,
+    "area": 33.3393
+  }
+]

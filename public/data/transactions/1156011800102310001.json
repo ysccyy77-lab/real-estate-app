@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "신성그랜드타워",
+    "dealAmount": "90,500",
+    "date": "2026-06-19",
+    "floor": 5,
+    "area": 156.03
+  },
+  {
+    "aptNm": "서인백조",
+    "dealAmount": "7,010",
+    "date": "2026-04-02",
+    "floor": 2,
+    "area": 84.35
+  },
+  {
+    "aptNm": "한라",
+    "dealAmount": "68,000",
+    "date": "2026-03-17",
+    "floor": 2,
+    "area": 59.85
+  },
+  {
+    "aptNm": "한라",
+    "dealAmount": "83,000",
+    "date": "2026-03-01",
+    "floor": 12,
+    "area": 84.91
+  }
+]

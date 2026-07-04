@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "유호",
+    "dealAmount": "27,900",
+    "date": "2026-06-03",
+    "floor": 5,
+    "area": 84.78
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "21,000",
+    "date": "2026-04-13",
+    "floor": 13,
+    "area": 59.82
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "23,000",
+    "date": "2026-04-11",
+    "floor": 16,
+    "area": 59.82
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "30,000",
+    "date": "2026-04-10",
+    "floor": 19,
+    "area": 84.78
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "22,000",
+    "date": "2026-04-09",
+    "floor": 16,
+    "area": 59.82
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "23,000",
+    "date": "2026-04-06",
+    "floor": 15,
+    "area": 74.21
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "21,000",
+    "date": "2026-02-05",
+    "floor": 4,
+    "area": 59.82
+  }
+]

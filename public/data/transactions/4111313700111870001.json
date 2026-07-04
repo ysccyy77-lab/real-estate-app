@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "신현대",
+    "dealAmount": "31,000",
+    "date": "2026-05-14",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신현대",
+    "dealAmount": "34,000",
+    "date": "2026-05-04",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신현대",
+    "dealAmount": "36,800",
+    "date": "2026-04-14",
+    "floor": 5,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신현대",
+    "dealAmount": "36,000",
+    "date": "2026-03-22",
+    "floor": 6,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신현대",
+    "dealAmount": "36,000",
+    "date": "2026-02-07",
+    "floor": 6,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신현대",
+    "dealAmount": "34,000",
+    "date": "2026-02-07",
+    "floor": 4,
+    "area": 84.99
+  }
+]

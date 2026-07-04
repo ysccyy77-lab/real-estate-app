@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "한진",
+    "dealAmount": "5,300",
+    "date": "2026-06-19",
+    "floor": 7,
+    "area": 32
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "5,300",
+    "date": "2026-06-11",
+    "floor": 14,
+    "area": 32
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "5,700",
+    "date": "2026-05-25",
+    "floor": 7,
+    "area": 32
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "5,550",
+    "date": "2026-05-19",
+    "floor": 5,
+    "area": 32
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "5,900",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 32
+  },
+  {
+    "aptNm": "동양하이츠",
+    "dealAmount": "18,900",
+    "date": "2026-03-12",
+    "floor": 8,
+    "area": 75.87
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "6,400",
+    "date": "2026-03-07",
+    "floor": 15,
+    "area": 32
+  },
+  {
+    "aptNm": "동양하이츠",
+    "dealAmount": "19,000",
+    "date": "2026-03-06",
+    "floor": 7,
+    "area": 75.87
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "5,350",
+    "date": "2026-02-09",
+    "floor": 9,
+    "area": 32
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "5,800",
+    "date": "2026-02-01",
+    "floor": 13,
+    "area": 32
+  }
+]

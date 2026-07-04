@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "경동하이츠",
+    "dealAmount": "9,500",
+    "date": "2026-06-01",
+    "floor": 1,
+    "area": 84.85
+  },
+  {
+    "aptNm": "아중마을아남",
+    "dealAmount": "18,300",
+    "date": "2026-05-30",
+    "floor": 11,
+    "area": 84.92
+  },
+  {
+    "aptNm": "아중마을아남",
+    "dealAmount": "17,700",
+    "date": "2026-05-26",
+    "floor": 10,
+    "area": 79.55
+  },
+  {
+    "aptNm": "아중마을아남",
+    "dealAmount": "21,700",
+    "date": "2026-05-11",
+    "floor": 8,
+    "area": 84.92
+  },
+  {
+    "aptNm": "아중마을아남",
+    "dealAmount": "17,000",
+    "date": "2026-04-15",
+    "floor": 5,
+    "area": 84.92
+  },
+  {
+    "aptNm": "아중마을아남",
+    "dealAmount": "24,200",
+    "date": "2026-03-19",
+    "floor": 9,
+    "area": 84.92
+  },
+  {
+    "aptNm": "아중마을아남",
+    "dealAmount": "21,400",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 84.92
+  },
+  {
+    "aptNm": "아중마을아남",
+    "dealAmount": "20,800",
+    "date": "2026-02-27",
+    "floor": 1,
+    "area": 84.92
+  },
+  {
+    "aptNm": "아중마을아남",
+    "dealAmount": "25,000",
+    "date": "2026-02-19",
+    "floor": 10,
+    "area": 84.92
+  }
+]

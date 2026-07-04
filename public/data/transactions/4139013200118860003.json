@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "서해1",
+    "dealAmount": "36,000",
+    "date": "2026-04-18",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서해1",
+    "dealAmount": "31,500",
+    "date": "2026-04-06",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서해1",
+    "dealAmount": "36,800",
+    "date": "2026-03-24",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서해1",
+    "dealAmount": "36,000",
+    "date": "2026-03-23",
+    "floor": 7,
+    "area": 74.85
+  },
+  {
+    "aptNm": "서해1",
+    "dealAmount": "29,800",
+    "date": "2026-03-07",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서해1",
+    "dealAmount": "35,000",
+    "date": "2026-03-06",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서해1",
+    "dealAmount": "36,500",
+    "date": "2026-03-03",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서해1",
+    "dealAmount": "36,000",
+    "date": "2026-02-13",
+    "floor": 7,
+    "area": 84.98
+  }
+]

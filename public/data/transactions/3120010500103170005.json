@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "문화청솔",
+    "dealAmount": "15,700",
+    "date": "2026-07-01",
+    "floor": 10,
+    "area": 84.135
+  },
+  {
+    "aptNm": "문화청솔",
+    "dealAmount": "13,800",
+    "date": "2026-05-22",
+    "floor": 12,
+    "area": 84.135
+  },
+  {
+    "aptNm": "문화청솔",
+    "dealAmount": "7,850",
+    "date": "2026-05-21",
+    "floor": 4,
+    "area": 59.63
+  },
+  {
+    "aptNm": "문화청솔",
+    "dealAmount": "11,300",
+    "date": "2026-04-07",
+    "floor": 14,
+    "area": 59.57
+  },
+  {
+    "aptNm": "문화청솔",
+    "dealAmount": "14,800",
+    "date": "2026-04-06",
+    "floor": 8,
+    "area": 73.59
+  }
+]

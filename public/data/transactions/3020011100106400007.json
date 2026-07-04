@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "봉명시티빌",
+    "dealAmount": "7,800",
+    "date": "2026-05-18",
+    "floor": 10,
+    "area": 37.52
+  },
+  {
+    "aptNm": "선원대자연",
+    "dealAmount": "15,000",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 59.494
+  },
+  {
+    "aptNm": "봉명시티빌",
+    "dealAmount": "9,100",
+    "date": "2026-05-07",
+    "floor": 6,
+    "area": 37.52
+  },
+  {
+    "aptNm": "선원대자연",
+    "dealAmount": "16,600",
+    "date": "2026-03-07",
+    "floor": 6,
+    "area": 59.494
+  },
+  {
+    "aptNm": "봉명시티빌",
+    "dealAmount": "7,900",
+    "date": "2026-03-06",
+    "floor": 7,
+    "area": 37.52
+  },
+  {
+    "aptNm": "봉명시티빌",
+    "dealAmount": "8,600",
+    "date": "2026-02-03",
+    "floor": 5,
+    "area": 46.24
+  }
+]

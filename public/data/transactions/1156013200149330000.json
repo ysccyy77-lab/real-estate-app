@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "우성5",
+    "dealAmount": "94,900",
+    "date": "2026-05-13",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성5",
+    "dealAmount": "95,000",
+    "date": "2026-04-30",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성5",
+    "dealAmount": "90,200",
+    "date": "2026-04-29",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성5",
+    "dealAmount": "88,000",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성5",
+    "dealAmount": "95,000",
+    "date": "2026-04-27",
+    "floor": 17,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성5",
+    "dealAmount": "94,000",
+    "date": "2026-04-18",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성5",
+    "dealAmount": "87,300",
+    "date": "2026-03-26",
+    "floor": 6,
+    "area": 84.98
+  }
+]

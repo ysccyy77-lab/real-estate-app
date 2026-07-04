@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "SR벨리체",
+    "dealAmount": "16,800",
+    "date": "2026-05-11",
+    "floor": 5,
+    "area": 42.76
+  },
+  {
+    "aptNm": "일우근주맨션",
+    "dealAmount": "13,800",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 84.34
+  },
+  {
+    "aptNm": "일우근주맨션",
+    "dealAmount": "14,000",
+    "date": "2026-03-12",
+    "floor": 16,
+    "area": 84.72
+  },
+  {
+    "aptNm": "SR벨리체",
+    "dealAmount": "13,000",
+    "date": "2026-02-02",
+    "floor": 10,
+    "area": 30.28
+  }
+]

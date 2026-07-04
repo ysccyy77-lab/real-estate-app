@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "서광1",
+    "dealAmount": "8,000",
+    "date": "2026-06-13",
+    "floor": 1,
+    "area": 64.92
+  },
+  {
+    "aptNm": "한국",
+    "dealAmount": "23,000",
+    "date": "2026-05-05",
+    "floor": 2,
+    "area": 59.986
+  },
+  {
+    "aptNm": "한국",
+    "dealAmount": "29,000",
+    "date": "2026-04-03",
+    "floor": 9,
+    "area": 84.566
+  },
+  {
+    "aptNm": "한국",
+    "dealAmount": "29,000",
+    "date": "2026-03-31",
+    "floor": 10,
+    "area": 84.566
+  }
+]

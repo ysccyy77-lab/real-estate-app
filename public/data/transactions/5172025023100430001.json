@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "한진신세대",
+    "dealAmount": "5,100",
+    "date": "2026-06-21",
+    "floor": 1,
+    "area": 59.74
+  },
+  {
+    "aptNm": "미진1",
+    "dealAmount": "12,900",
+    "date": "2026-06-14",
+    "floor": 13,
+    "area": 82.86
+  },
+  {
+    "aptNm": "내설악",
+    "dealAmount": "12,300",
+    "date": "2026-06-01",
+    "floor": 6,
+    "area": 59.46
+  },
+  {
+    "aptNm": "내설악",
+    "dealAmount": "8,700",
+    "date": "2026-05-26",
+    "floor": 1,
+    "area": 59.46
+  },
+  {
+    "aptNm": "내설악",
+    "dealAmount": "9,000",
+    "date": "2026-04-28",
+    "floor": 11,
+    "area": 59.46
+  },
+  {
+    "aptNm": "내설악",
+    "dealAmount": "10,200",
+    "date": "2026-04-17",
+    "floor": 14,
+    "area": 59.46
+  },
+  {
+    "aptNm": "내설악",
+    "dealAmount": "13,500",
+    "date": "2026-04-16",
+    "floor": 8,
+    "area": 84.42
+  },
+  {
+    "aptNm": "내설악",
+    "dealAmount": "13,500",
+    "date": "2026-04-15",
+    "floor": 8,
+    "area": 84.42
+  },
+  {
+    "aptNm": "냉림지엘리더스파크",
+    "dealAmount": "20,000",
+    "date": "2026-03-27",
+    "floor": 5,
+    "area": 76.0589
+  },
+  {
+    "aptNm": "냉림지엘리더스파크",
+    "dealAmount": "20,000",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 76.0589
+  },
+  {
+    "aptNm": "내설악",
+    "dealAmount": "9,800",
+    "date": "2026-03-18",
+    "floor": 14,
+    "area": 59.46
+  },
+  {
+    "aptNm": "한진신세대",
+    "dealAmount": "3,000",
+    "date": "2026-03-15",
+    "floor": 4,
+    "area": 59.74
+  },
+  {
+    "aptNm": "한진신세대",
+    "dealAmount": "1,950",
+    "date": "2026-03-09",
+    "floor": 6,
+    "area": 59.74
+  },
+  {
+    "aptNm": "현대빌라(43-1)",
+    "dealAmount": "250,000",
+    "date": "2026-03-07",
+    "floor": 6,
+    "area": 148.77
+  }
+]

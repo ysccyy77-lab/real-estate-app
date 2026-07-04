@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "남운진주맨션",
+    "dealAmount": "17,700",
+    "date": "2026-06-29",
+    "floor": 6,
+    "area": 67.74
+  },
+  {
+    "aptNm": "남운진주맨션",
+    "dealAmount": "17,250",
+    "date": "2026-04-20",
+    "floor": 8,
+    "area": 67.74
+  },
+  {
+    "aptNm": "남운진주맨션",
+    "dealAmount": "16,000",
+    "date": "2026-03-16",
+    "floor": 1,
+    "area": 67.74
+  },
+  {
+    "aptNm": "대웅맨션",
+    "dealAmount": "4,500",
+    "date": "2026-03-11",
+    "floor": 4,
+    "area": 55.15
+  },
+  {
+    "aptNm": "남운진주맨션",
+    "dealAmount": "16,900",
+    "date": "2026-03-03",
+    "floor": 2,
+    "area": 76.39
+  },
+  {
+    "aptNm": "남운진주맨션",
+    "dealAmount": "19,000",
+    "date": "2026-02-23",
+    "floor": 8,
+    "area": 78.69
+  },
+  {
+    "aptNm": "남운진주맨션",
+    "dealAmount": "16,500",
+    "date": "2026-02-02",
+    "floor": 5,
+    "area": 76.44
+  }
+]

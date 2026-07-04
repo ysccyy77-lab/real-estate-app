@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "대우2차",
+    "dealAmount": "12,300",
+    "date": "2026-06-02",
+    "floor": 7,
+    "area": 84.954
+  },
+  {
+    "aptNm": "대우2차",
+    "dealAmount": "12,200",
+    "date": "2026-05-28",
+    "floor": 7,
+    "area": 59.998
+  },
+  {
+    "aptNm": "대우2차",
+    "dealAmount": "9,600",
+    "date": "2026-03-31",
+    "floor": 6,
+    "area": 59.998
+  },
+  {
+    "aptNm": "대우2차",
+    "dealAmount": "10,200",
+    "date": "2026-03-30",
+    "floor": 3,
+    "area": 84.954
+  },
+  {
+    "aptNm": "대우2차",
+    "dealAmount": "13,500",
+    "date": "2026-03-28",
+    "floor": 14,
+    "area": 84.954
+  },
+  {
+    "aptNm": "대우2차",
+    "dealAmount": "8,400",
+    "date": "2026-03-17",
+    "floor": 7,
+    "area": 59.998
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "CJ나인파크",
+    "dealAmount": "61,500",
+    "date": "2026-06-25",
+    "floor": 15,
+    "area": 165.315
+  },
+  {
+    "aptNm": "CJ나인파크",
+    "dealAmount": "53,900",
+    "date": "2026-05-18",
+    "floor": 8,
+    "area": 127.509
+  },
+  {
+    "aptNm": "에코빌리지Ⅲ",
+    "dealAmount": "25,000",
+    "date": "2026-04-22",
+    "floor": 10,
+    "area": 57.19
+  },
+  {
+    "aptNm": "노은노블레스",
+    "dealAmount": "32,000",
+    "date": "2026-04-15",
+    "floor": 5,
+    "area": 114.81
+  },
+  {
+    "aptNm": "CJ나인파크",
+    "dealAmount": "53,900",
+    "date": "2026-04-02",
+    "floor": 8,
+    "area": 127.509
+  },
+  {
+    "aptNm": "CJ나인파크",
+    "dealAmount": "54,000",
+    "date": "2026-02-23",
+    "floor": 15,
+    "area": 127.509
+  }
+]

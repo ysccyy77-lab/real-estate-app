@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "힐탑",
+    "dealAmount": "7,000",
+    "date": "2026-07-02",
+    "floor": 15,
+    "area": 55.77
+  },
+  {
+    "aptNm": "힐탑",
+    "dealAmount": "6,100",
+    "date": "2026-06-22",
+    "floor": 9,
+    "area": 45.33
+  },
+  {
+    "aptNm": "뜨란채주공",
+    "dealAmount": "35,300",
+    "date": "2026-05-30",
+    "floor": 20,
+    "area": 51.69
+  },
+  {
+    "aptNm": "뜨란채주공",
+    "dealAmount": "48,000",
+    "date": "2026-04-18",
+    "floor": 17,
+    "area": 84.75
+  },
+  {
+    "aptNm": "뜨란채주공",
+    "dealAmount": "36,200",
+    "date": "2026-04-17",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "힐탑",
+    "dealAmount": "5,600",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 45.33
+  },
+  {
+    "aptNm": "힐탑",
+    "dealAmount": "8,400",
+    "date": "2026-03-22",
+    "floor": 9,
+    "area": 59.7
+  },
+  {
+    "aptNm": "뜨란채주공",
+    "dealAmount": "41,200",
+    "date": "2026-03-09",
+    "floor": 18,
+    "area": 59.99
+  },
+  {
+    "aptNm": "힐탑",
+    "dealAmount": "7,700",
+    "date": "2026-02-27",
+    "floor": 9,
+    "area": 55.77
+  }
+]

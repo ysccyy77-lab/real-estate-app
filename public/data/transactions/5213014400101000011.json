@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "롯데아파트",
+    "dealAmount": "11,750",
+    "date": "2026-06-15",
+    "floor": 11,
+    "area": 74.025
+  },
+  {
+    "aptNm": "롯데아파트",
+    "dealAmount": "9,850",
+    "date": "2026-06-02",
+    "floor": 5,
+    "area": 74.025
+  },
+  {
+    "aptNm": "롯데아파트",
+    "dealAmount": "9,600",
+    "date": "2026-05-14",
+    "floor": 2,
+    "area": 74.025
+  },
+  {
+    "aptNm": "롯데아파트",
+    "dealAmount": "17,000",
+    "date": "2026-04-24",
+    "floor": 10,
+    "area": 131.75
+  },
+  {
+    "aptNm": "롯데아파트",
+    "dealAmount": "10,400",
+    "date": "2026-04-19",
+    "floor": 2,
+    "area": 84.84
+  },
+  {
+    "aptNm": "롯데아파트",
+    "dealAmount": "9,600",
+    "date": "2026-04-10",
+    "floor": 11,
+    "area": 74.025
+  },
+  {
+    "aptNm": "롯데아파트",
+    "dealAmount": "12,500",
+    "date": "2026-03-16",
+    "floor": 6,
+    "area": 84.84
+  }
+]

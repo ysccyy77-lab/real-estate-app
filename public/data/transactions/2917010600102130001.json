@@ -1,0 +1,114 @@
+[
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "27,900",
+    "date": "2026-06-25",
+    "floor": 8,
+    "area": 76.94
+  },
+  {
+    "aptNm": "성지",
+    "dealAmount": "9,000",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 79.2
+  },
+  {
+    "aptNm": "삼보빌라",
+    "dealAmount": "5,000",
+    "date": "2026-06-06",
+    "floor": 5,
+    "area": 77.56
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "28,200",
+    "date": "2026-05-26",
+    "floor": 4,
+    "area": 76.94
+  },
+  {
+    "aptNm": "대진골든빌리지",
+    "dealAmount": "25,000",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 161.505
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "35,000",
+    "date": "2026-05-07",
+    "floor": 17,
+    "area": 84.91
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "37,000",
+    "date": "2026-05-04",
+    "floor": 21,
+    "area": 84.91
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "28,250",
+    "date": "2026-04-29",
+    "floor": 16,
+    "area": 76.94
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "32,750",
+    "date": "2026-04-20",
+    "floor": 20,
+    "area": 84.91
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "32,000",
+    "date": "2026-04-04",
+    "floor": 13,
+    "area": 84.91
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "29,300",
+    "date": "2026-03-26",
+    "floor": 10,
+    "area": 76.94
+  },
+  {
+    "aptNm": "어반카운티",
+    "dealAmount": "16,000",
+    "date": "2026-03-14",
+    "floor": 6,
+    "area": 52.9504
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "35,000",
+    "date": "2026-03-10",
+    "floor": 14,
+    "area": 84.91
+  },
+  {
+    "aptNm": "성지",
+    "dealAmount": "9,800",
+    "date": "2026-02-27",
+    "floor": 4,
+    "area": 79.2
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "36,800",
+    "date": "2026-02-24",
+    "floor": 21,
+    "area": 84.91
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
+    "dealAmount": "29,500",
+    "date": "2026-02-21",
+    "floor": 23,
+    "area": 76.94
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "aptNm": "광명",
+    "dealAmount": "10,500",
+    "date": "2026-06-30",
+    "floor": 3,
+    "area": 46.625
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "6,800",
+    "date": "2026-05-28",
+    "floor": 4,
+    "area": 46.625
+  },
+  {
+    "aptNm": "침산동서",
+    "dealAmount": "13,700",
+    "date": "2026-05-20",
+    "floor": 3,
+    "area": 39.87
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "23,500",
+    "date": "2026-05-12",
+    "floor": 1,
+    "area": 59.93
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "29,000",
+    "date": "2026-04-27",
+    "floor": 7,
+    "area": 59.93
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "28,700",
+    "date": "2026-04-25",
+    "floor": 13,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부흥",
+    "dealAmount": "8,350",
+    "date": "2026-04-15",
+    "floor": 5,
+    "area": 46.98
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "12,000",
+    "date": "2026-04-12",
+    "floor": 2,
+    "area": 45.975
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "10,500",
+    "date": "2026-04-12",
+    "floor": 1,
+    "area": 45.975
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "34,000",
+    "date": "2026-04-07",
+    "floor": 9,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "27,900",
+    "date": "2026-03-19",
+    "floor": 11,
+    "area": 59.93
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "36,750",
+    "date": "2026-03-19",
+    "floor": 16,
+    "area": 84.92
+  },
+  {
+    "aptNm": "분포맨션",
+    "dealAmount": "22,000",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 56.26
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "31,000",
+    "date": "2026-03-14",
+    "floor": 11,
+    "area": 59.93
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "43,500",
+    "date": "2026-03-08",
+    "floor": 15,
+    "area": 120.56
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "27,000",
+    "date": "2026-02-26",
+    "floor": 8,
+    "area": 59.93
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "12,700",
+    "date": "2026-02-24",
+    "floor": 2,
+    "area": 46.625
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "30,500",
+    "date": "2026-02-21",
+    "floor": 11,
+    "area": 59.93
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "10,400",
+    "date": "2026-02-10",
+    "floor": 1,
+    "area": 45.975
+  },
+  {
+    "aptNm": "침산동서",
+    "dealAmount": "23,400",
+    "date": "2026-02-07",
+    "floor": 16,
+    "area": 84.985
+  },
+  {
+    "aptNm": "침산동서",
+    "dealAmount": "17,950",
+    "date": "2026-02-05",
+    "floor": 11,
+    "area": 57.69
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "37,300",
+    "date": "2026-02-03",
+    "floor": 10,
+    "area": 84.92
+  }
+]

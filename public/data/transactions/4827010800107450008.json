@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "우영타워",
+    "dealAmount": "5,550",
+    "date": "2026-04-18",
+    "floor": 2,
+    "area": 54.06
+  },
+  {
+    "aptNm": "우영타워",
+    "dealAmount": "7,400",
+    "date": "2026-03-30",
+    "floor": 11,
+    "area": 60
+  },
+  {
+    "aptNm": "우영타워",
+    "dealAmount": "5,900",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 54.06
+  },
+  {
+    "aptNm": "우영타워",
+    "dealAmount": "6,600",
+    "date": "2026-03-12",
+    "floor": 4,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우영타워",
+    "dealAmount": "7,300",
+    "date": "2026-03-12",
+    "floor": 10,
+    "area": 60
+  },
+  {
+    "aptNm": "우영타워",
+    "dealAmount": "5,600",
+    "date": "2026-02-20",
+    "floor": 4,
+    "area": 54.06
+  },
+  {
+    "aptNm": "우영타워",
+    "dealAmount": "5,000",
+    "date": "2026-02-12",
+    "floor": 1,
+    "area": 54.06
+  }
+]

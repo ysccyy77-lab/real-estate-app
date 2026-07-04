@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "118,500",
+    "date": "2026-06-11",
+    "floor": 18,
+    "area": 84.84
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "104,300",
+    "date": "2026-05-30",
+    "floor": 7,
+    "area": 84.84
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "110,000",
+    "date": "2026-05-30",
+    "floor": 19,
+    "area": 84.84
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "112,800",
+    "date": "2026-04-16",
+    "floor": 15,
+    "area": 84.84
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "97,000",
+    "date": "2026-03-31",
+    "floor": 15,
+    "area": 59.88
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "94,300",
+    "date": "2026-03-11",
+    "floor": 15,
+    "area": 59.88
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "96,000",
+    "date": "2026-02-22",
+    "floor": 2,
+    "area": 59.88
+  }
+]

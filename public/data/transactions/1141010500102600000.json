@@ -1,0 +1,1143 @@
+[
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "62,200",
+    "date": "2026-06-28",
+    "floor": 18,
+    "area": 84.9897
+  },
+  {
+    "aptNm": "우정혁신도시푸르지오",
+    "dealAmount": "54,800",
+    "date": "2026-06-28",
+    "floor": 11,
+    "area": 75.986
+  },
+  {
+    "aptNm": "대동이미지2단지",
+    "dealAmount": "14,800",
+    "date": "2026-06-27",
+    "floor": 14,
+    "area": 72.5162
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "65,250",
+    "date": "2026-06-26",
+    "floor": 21,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "9,000",
+    "date": "2026-06-25",
+    "floor": 4,
+    "area": 59.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "77,000",
+    "date": "2026-06-24",
+    "floor": 7,
+    "area": 59.39
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "9,500",
+    "date": "2026-06-24",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "35,000",
+    "date": "2026-06-22",
+    "floor": 1,
+    "area": 84.4557
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "28,500",
+    "date": "2026-06-21",
+    "floor": 10,
+    "area": 69.9261
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "105,000",
+    "date": "2026-06-17",
+    "floor": 12,
+    "area": 43.2
+  },
+  {
+    "aptNm": "우정혁신도시푸르지오",
+    "dealAmount": "54,500",
+    "date": "2026-06-16",
+    "floor": 8,
+    "area": 75.986
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "58,800",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "110,000",
+    "date": "2026-06-15",
+    "floor": 4,
+    "area": 43.2
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "170,000",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 84.95
+  },
+  {
+    "aptNm": "주공8(저층)",
+    "dealAmount": "80,000",
+    "date": "2026-06-13",
+    "floor": 5,
+    "area": 71.89
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "77,500",
+    "date": "2026-06-13",
+    "floor": 11,
+    "area": 58.01
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "92,000",
+    "date": "2026-06-12",
+    "floor": 12,
+    "area": 43.2
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "9,900",
+    "date": "2026-06-12",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "9,500",
+    "date": "2026-06-11",
+    "floor": 18,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대동이미지2단지",
+    "dealAmount": "12,700",
+    "date": "2026-06-09",
+    "floor": 1,
+    "area": 59.9573
+  },
+  {
+    "aptNm": "동부센트레빌",
+    "dealAmount": "104,500",
+    "date": "2026-06-04",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "우정혁신도시푸르지오",
+    "dealAmount": "56,500",
+    "date": "2026-06-04",
+    "floor": 3,
+    "area": 84.996
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "131,000",
+    "date": "2026-06-02",
+    "floor": 5,
+    "area": 58.13
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "66,500",
+    "date": "2026-06-01",
+    "floor": 40,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "136,000",
+    "date": "2026-06-01",
+    "floor": 5,
+    "area": 153.08
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "70,000",
+    "date": "2026-05-30",
+    "floor": 3,
+    "area": 59.39
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "59,000",
+    "date": "2026-05-30",
+    "floor": 36,
+    "area": 78.9091
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "63,100",
+    "date": "2026-05-30",
+    "floor": 37,
+    "area": 84.9506
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "106,000",
+    "date": "2026-05-30",
+    "floor": 14,
+    "area": 43.2
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "69,800",
+    "date": "2026-05-29",
+    "floor": 1,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(저층)",
+    "dealAmount": "71,000",
+    "date": "2026-05-29",
+    "floor": 1,
+    "area": 62.17
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "59,750",
+    "date": "2026-05-29",
+    "floor": 10,
+    "area": 45.77
+  },
+  {
+    "aptNm": "주공8(저층)",
+    "dealAmount": "61,000",
+    "date": "2026-05-26",
+    "floor": 3,
+    "area": 84.41
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "94,000",
+    "date": "2026-05-26",
+    "floor": 3,
+    "area": 43.2
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "66,200",
+    "date": "2026-05-25",
+    "floor": 34,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "우정혁신도시푸르지오",
+    "dealAmount": "54,500",
+    "date": "2026-05-22",
+    "floor": 3,
+    "area": 84.996
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "58,000",
+    "date": "2026-05-21",
+    "floor": 9,
+    "area": 84.9114
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "9,000",
+    "date": "2026-05-21",
+    "floor": 7,
+    "area": 59.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "74,400",
+    "date": "2026-05-18",
+    "floor": 9,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "70,000",
+    "date": "2026-05-15",
+    "floor": 6,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "40,000",
+    "date": "2026-05-15",
+    "floor": 7,
+    "area": 59.39
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "26,300",
+    "date": "2026-05-14",
+    "floor": 7,
+    "area": 69.793
+  },
+  {
+    "aptNm": "복현우방타운",
+    "dealAmount": "22,800",
+    "date": "2026-05-14",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "31,700",
+    "date": "2026-05-13",
+    "floor": 5,
+    "area": 84.68
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "12,700",
+    "date": "2026-05-11",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "70,000",
+    "date": "2026-05-09",
+    "floor": 7,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "57,000",
+    "date": "2026-05-08",
+    "floor": 14,
+    "area": 45.77
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "67,000",
+    "date": "2026-05-08",
+    "floor": 10,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "68,500",
+    "date": "2026-05-08",
+    "floor": 12,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "59,500",
+    "date": "2026-05-08",
+    "floor": 4,
+    "area": 45.77
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "58,000",
+    "date": "2026-05-07",
+    "floor": 4,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "동부센트레빌",
+    "dealAmount": "123,800",
+    "date": "2026-05-07",
+    "floor": 16,
+    "area": 114.92
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "80,000",
+    "date": "2026-05-07",
+    "floor": 1,
+    "area": 43.2
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "12,300",
+    "date": "2026-05-06",
+    "floor": 3,
+    "area": 84.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "89,000",
+    "date": "2026-05-05",
+    "floor": 7,
+    "area": 79.07
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "64,500",
+    "date": "2026-05-05",
+    "floor": 44,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "96,000",
+    "date": "2026-05-05",
+    "floor": 7,
+    "area": 43.2
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "92,500",
+    "date": "2026-05-04",
+    "floor": 15,
+    "area": 43.2
+  },
+  {
+    "aptNm": "동부센트레빌",
+    "dealAmount": "98,000",
+    "date": "2026-05-02",
+    "floor": 17,
+    "area": 59.86
+  },
+  {
+    "aptNm": "우정혁신도시푸르지오",
+    "dealAmount": "54,500",
+    "date": "2026-05-02",
+    "floor": 18,
+    "area": 75.986
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "66,000",
+    "date": "2026-04-30",
+    "floor": 13,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "68,000",
+    "date": "2026-04-30",
+    "floor": 1,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "65,000",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 58.01
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "60,000",
+    "date": "2026-04-25",
+    "floor": 36,
+    "area": 84.9506
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "61,500",
+    "date": "2026-04-25",
+    "floor": 34,
+    "area": 84.9897
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "73,000",
+    "date": "2026-04-24",
+    "floor": 11,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "59,000",
+    "date": "2026-04-24",
+    "floor": 8,
+    "area": 45.77
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "71,500",
+    "date": "2026-04-24",
+    "floor": 10,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "71,000",
+    "date": "2026-04-24",
+    "floor": 4,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "72,000",
+    "date": "2026-04-23",
+    "floor": 7,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "60,000",
+    "date": "2026-04-23",
+    "floor": 9,
+    "area": 45.77
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "72,000",
+    "date": "2026-04-22",
+    "floor": 14,
+    "area": 59.39
+  },
+  {
+    "aptNm": "우정혁신도시푸르지오",
+    "dealAmount": "57,000",
+    "date": "2026-04-21",
+    "floor": 17,
+    "area": 84.996
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "34,100",
+    "date": "2026-04-18",
+    "floor": 10,
+    "area": 84.68
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "14,800",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대동이미지2단지",
+    "dealAmount": "14,500",
+    "date": "2026-04-17",
+    "floor": 3,
+    "area": 72.5162
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "68,000",
+    "date": "2026-04-14",
+    "floor": 5,
+    "area": 58.01
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "75,000",
+    "date": "2026-04-14",
+    "floor": 10,
+    "area": 43.2
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "66,000",
+    "date": "2026-04-13",
+    "floor": 3,
+    "area": 58.01
+  },
+  {
+    "aptNm": "복현우방타운",
+    "dealAmount": "17,700",
+    "date": "2026-04-13",
+    "floor": 8,
+    "area": 59.98
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "93,000",
+    "date": "2026-04-13",
+    "floor": 3,
+    "area": 47.4
+  },
+  {
+    "aptNm": "대동이미지2단지",
+    "dealAmount": "13,400",
+    "date": "2026-04-11",
+    "floor": 14,
+    "area": 59.9573
+  },
+  {
+    "aptNm": "복현우방타운",
+    "dealAmount": "32,000",
+    "date": "2026-04-10",
+    "floor": 10,
+    "area": 134.94
+  },
+  {
+    "aptNm": "동부센트레빌",
+    "dealAmount": "97,000",
+    "date": "2026-04-10",
+    "floor": 13,
+    "area": 59.86
+  },
+  {
+    "aptNm": "동부센트레빌",
+    "dealAmount": "124,000",
+    "date": "2026-04-10",
+    "floor": 14,
+    "area": 114.92
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "67,200",
+    "date": "2026-04-09",
+    "floor": 2,
+    "area": 58.01
+  },
+  {
+    "aptNm": "대동이미지2단지",
+    "dealAmount": "18,500",
+    "date": "2026-04-09",
+    "floor": 16,
+    "area": 84.9274
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "59,200",
+    "date": "2026-04-08",
+    "floor": 3,
+    "area": 45.77
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "64,000",
+    "date": "2026-04-08",
+    "floor": 23,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "68,200",
+    "date": "2026-04-07",
+    "floor": 5,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "89,000",
+    "date": "2026-04-07",
+    "floor": 14,
+    "area": 79.07
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "70,000",
+    "date": "2026-04-06",
+    "floor": 6,
+    "area": 59.39
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "64,500",
+    "date": "2026-04-05",
+    "floor": 37,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "복현우방타운",
+    "dealAmount": "21,400",
+    "date": "2026-04-03",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "100,000",
+    "date": "2026-04-03",
+    "floor": 7,
+    "area": 43.2
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "99,000",
+    "date": "2026-04-01",
+    "floor": 15,
+    "area": 43.2
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "13,700",
+    "date": "2026-04-01",
+    "floor": 7,
+    "area": 84.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "67,500",
+    "date": "2026-03-31",
+    "floor": 4,
+    "area": 59.39
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "29,000",
+    "date": "2026-03-31",
+    "floor": 15,
+    "area": 69.793
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "163,000",
+    "date": "2026-03-31",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "92,000",
+    "date": "2026-03-31",
+    "floor": 5,
+    "area": 43.2
+  },
+  {
+    "aptNm": "동부센트레빌",
+    "dealAmount": "109,000",
+    "date": "2026-03-30",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "60,000",
+    "date": "2026-03-28",
+    "floor": 14,
+    "area": 45.77
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "57,500",
+    "date": "2026-03-28",
+    "floor": 1,
+    "area": 45.77
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "36,400",
+    "date": "2026-03-28",
+    "floor": 16,
+    "area": 84.4557
+  },
+  {
+    "aptNm": "동부센트레빌",
+    "dealAmount": "113,000",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "대동이미지2단지",
+    "dealAmount": "18,500",
+    "date": "2026-03-27",
+    "floor": 17,
+    "area": 84.9977
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "33,100",
+    "date": "2026-03-26",
+    "floor": 12,
+    "area": 84.4439
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "9,100",
+    "date": "2026-03-25",
+    "floor": 17,
+    "area": 59.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "69,500",
+    "date": "2026-03-24",
+    "floor": 13,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "69,500",
+    "date": "2026-03-23",
+    "floor": 3,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "69,000",
+    "date": "2026-03-20",
+    "floor": 14,
+    "area": 58.01
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "185,000",
+    "date": "2026-03-20",
+    "floor": 14,
+    "area": 187.12
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "69,000",
+    "date": "2026-03-19",
+    "floor": 8,
+    "area": 59.39
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "140,000",
+    "date": "2026-03-19",
+    "floor": 11,
+    "area": 59.96
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "59,000",
+    "date": "2026-03-15",
+    "floor": 10,
+    "area": 84.9114
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "59,800",
+    "date": "2026-03-13",
+    "floor": 14,
+    "area": 45.77
+  },
+  {
+    "aptNm": "우정혁신도시푸르지오",
+    "dealAmount": "54,500",
+    "date": "2026-03-13",
+    "floor": 3,
+    "area": 84.996
+  },
+  {
+    "aptNm": "복현우방타운",
+    "dealAmount": "17,700",
+    "date": "2026-03-12",
+    "floor": 8,
+    "area": 59.98
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "28,800",
+    "date": "2026-03-11",
+    "floor": 13,
+    "area": 69.793
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "29,000",
+    "date": "2026-03-11",
+    "floor": 6,
+    "area": 69.9261
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "180,000",
+    "date": "2026-03-11",
+    "floor": 4,
+    "area": 187.12
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "68,500",
+    "date": "2026-03-09",
+    "floor": 4,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "69,300",
+    "date": "2026-03-09",
+    "floor": 10,
+    "area": 58.01
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "62,900",
+    "date": "2026-03-08",
+    "floor": 29,
+    "area": 84.9897
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "29,000",
+    "date": "2026-03-07",
+    "floor": 12,
+    "area": 69.9261
+  },
+  {
+    "aptNm": "우정혁신도시푸르지오",
+    "dealAmount": "57,700",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 84.994
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "12,500",
+    "date": "2026-03-07",
+    "floor": 13,
+    "area": 84.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "60,000",
+    "date": "2026-03-06",
+    "floor": 12,
+    "area": 45.77
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "65,000",
+    "date": "2026-03-06",
+    "floor": 13,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "69,500",
+    "date": "2026-03-05",
+    "floor": 13,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "70,000",
+    "date": "2026-03-05",
+    "floor": 5,
+    "area": 58.01
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "57,500",
+    "date": "2026-03-04",
+    "floor": 19,
+    "area": 84.9114
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "95,000",
+    "date": "2026-03-03",
+    "floor": 10,
+    "area": 43.2
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "33,000",
+    "date": "2026-03-02",
+    "floor": 3,
+    "area": 84.68
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "70,000",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(저층)",
+    "dealAmount": "86,700",
+    "date": "2026-02-28",
+    "floor": 3,
+    "area": 84.41
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "58,000",
+    "date": "2026-02-28",
+    "floor": 16,
+    "area": 78.9091
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "34,200",
+    "date": "2026-02-27",
+    "floor": 21,
+    "area": 69.9261
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "95,000",
+    "date": "2026-02-25",
+    "floor": 9,
+    "area": 43.2
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "59,500",
+    "date": "2026-02-24",
+    "floor": 14,
+    "area": 45.77
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "57,800",
+    "date": "2026-02-23",
+    "floor": 10,
+    "area": 78.9091
+  },
+  {
+    "aptNm": "동부센트레빌",
+    "dealAmount": "89,700",
+    "date": "2026-02-21",
+    "floor": 3,
+    "area": 59.86
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "11,800",
+    "date": "2026-02-20",
+    "floor": 18,
+    "area": 84.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "49,000",
+    "date": "2026-02-14",
+    "floor": 1,
+    "area": 45.77
+  },
+  {
+    "aptNm": "현대리버빌1지구",
+    "dealAmount": "160,000",
+    "date": "2026-02-13",
+    "floor": 3,
+    "area": 84.95
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "64,800",
+    "date": "2026-02-12",
+    "floor": 1,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "70,500",
+    "date": "2026-02-12",
+    "floor": 6,
+    "area": 59.39
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "70,500",
+    "date": "2026-02-12",
+    "floor": 7,
+    "area": 59.39
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "62,400",
+    "date": "2026-02-11",
+    "floor": 20,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "56,500",
+    "date": "2026-02-10",
+    "floor": 5,
+    "area": 45.77
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "59,700",
+    "date": "2026-02-08",
+    "floor": 35,
+    "area": 84.9897
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "64,000",
+    "date": "2026-02-08",
+    "floor": 42,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "61,000",
+    "date": "2026-02-07",
+    "floor": 13,
+    "area": 84.9506
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "60,000",
+    "date": "2026-02-07",
+    "floor": 26,
+    "area": 84.9339
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "84,500",
+    "date": "2026-02-06",
+    "floor": 12,
+    "area": 79.07
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "55,000",
+    "date": "2026-02-06",
+    "floor": 8,
+    "area": 45.77
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "56,500",
+    "date": "2026-02-06",
+    "floor": 9,
+    "area": 45.77
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "12,000",
+    "date": "2026-02-06",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "주공8(고층)",
+    "dealAmount": "68,000",
+    "date": "2026-02-03",
+    "floor": 3,
+    "area": 59.39
+  },
+  {
+    "aptNm": "창원한신휴플러스오션파크",
+    "dealAmount": "36,000",
+    "date": "2026-02-03",
+    "floor": 12,
+    "area": 84.4557
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "59,700",
+    "date": "2026-02-01",
+    "floor": 35,
+    "area": 84.9897
+  },
+  {
+    "aptNm": "대구역오페라W",
+    "dealAmount": "61,100",
+    "date": "2026-02-01",
+    "floor": 41,
+    "area": 84.9506
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "aptNm": "서울숲리버그린동아아파트",
+    "dealAmount": "200,000",
+    "date": "2026-06-27",
+    "floor": 13,
+    "area": 84.83
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "4,600",
+    "date": "2026-06-26",
+    "floor": 10,
+    "area": 27.36
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "40,800",
+    "date": "2026-06-25",
+    "floor": 9,
+    "area": 84.9051
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "35,800",
+    "date": "2026-06-19",
+    "floor": 21,
+    "area": 74.958
+  },
+  {
+    "aptNm": "서울숲리버그린동아아파트",
+    "dealAmount": "170,000",
+    "date": "2026-06-19",
+    "floor": 21,
+    "area": 59.98
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "43,100",
+    "date": "2026-06-11",
+    "floor": 22,
+    "area": 84.9882
+  },
+  {
+    "aptNm": "오산라온프라이빗스위트",
+    "dealAmount": "43,500",
+    "date": "2026-06-04",
+    "floor": 10,
+    "area": 84.9654
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "20,000",
+    "date": "2026-06-02",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "38,300",
+    "date": "2026-05-29",
+    "floor": 9,
+    "area": 74.958
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "82,000",
+    "date": "2026-05-29",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "서울숲리버그린동아아파트",
+    "dealAmount": "150,000",
+    "date": "2026-05-26",
+    "floor": 4,
+    "area": 59.98
+  },
+  {
+    "aptNm": "대륙타운",
+    "dealAmount": "3,900",
+    "date": "2026-05-17",
+    "floor": 6,
+    "area": 84.09
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "42,500",
+    "date": "2026-05-16",
+    "floor": 17,
+    "area": 84.6947
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "22,000",
+    "date": "2026-05-12",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "44,800",
+    "date": "2026-05-10",
+    "floor": 17,
+    "area": 84.9882
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "36,000",
+    "date": "2026-05-10",
+    "floor": 5,
+    "area": 74.9587
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "41,500",
+    "date": "2026-05-09",
+    "floor": 19,
+    "area": 84.9882
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "41,200",
+    "date": "2026-05-09",
+    "floor": 12,
+    "area": 84.9383
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "37,000",
+    "date": "2026-05-02",
+    "floor": 13,
+    "area": 74.958
+  },
+  {
+    "aptNm": "서울숲리버그린동아아파트",
+    "dealAmount": "188,000",
+    "date": "2026-04-30",
+    "floor": 13,
+    "area": 84.83
+  },
+  {
+    "aptNm": "서울숲리버그린동아아파트",
+    "dealAmount": "172,000",
+    "date": "2026-04-28",
+    "floor": 12,
+    "area": 84.83
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "60,000",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 84.68
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "78,500",
+    "date": "2026-04-27",
+    "floor": 10,
+    "area": 84.68
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "51,000",
+    "date": "2026-04-27",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "76,500",
+    "date": "2026-04-24",
+    "floor": 13,
+    "area": 84.68
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "35,500",
+    "date": "2026-04-20",
+    "floor": 11,
+    "area": 74.9587
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "40,800",
+    "date": "2026-04-20",
+    "floor": 15,
+    "area": 84.9882
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "81,000",
+    "date": "2026-04-19",
+    "floor": 16,
+    "area": 84.68
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "82,000",
+    "date": "2026-04-19",
+    "floor": 10,
+    "area": 84.94
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "41,800",
+    "date": "2026-04-11",
+    "floor": 20,
+    "area": 84.9383
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "72,500",
+    "date": "2026-04-11",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "38,300",
+    "date": "2026-04-09",
+    "floor": 6,
+    "area": 74.958
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "40,500",
+    "date": "2026-04-06",
+    "floor": 4,
+    "area": 84.9882
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "18,500",
+    "date": "2026-04-04",
+    "floor": 13,
+    "area": 76.23
+  },
+  {
+    "aptNm": "서울숲리버그린동아아파트",
+    "dealAmount": "169,000",
+    "date": "2026-04-04",
+    "floor": 17,
+    "area": 59.98
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "82,000",
+    "date": "2026-03-28",
+    "floor": 16,
+    "area": 84.94
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "40,000",
+    "date": "2026-03-20",
+    "floor": 15,
+    "area": 84.9882
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "78,000",
+    "date": "2026-03-20",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "21,100",
+    "date": "2026-03-19",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "23,400",
+    "date": "2026-03-17",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "74,000",
+    "date": "2026-03-17",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "오산라온프라이빗스위트",
+    "dealAmount": "45,000",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 84.9654
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "36,000",
+    "date": "2026-03-12",
+    "floor": 27,
+    "area": 74.9587
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "37,800",
+    "date": "2026-03-11",
+    "floor": 26,
+    "area": 74.958
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "36,000",
+    "date": "2026-03-09",
+    "floor": 7,
+    "area": 74.958
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "38,000",
+    "date": "2026-03-05",
+    "floor": 19,
+    "area": 74.958
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "78,300",
+    "date": "2026-03-02",
+    "floor": 10,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "75,000",
+    "date": "2026-02-23",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "오산라온프라이빗스위트",
+    "dealAmount": "45,000",
+    "date": "2026-02-22",
+    "floor": 14,
+    "area": 84.9617
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "79,000",
+    "date": "2026-02-18",
+    "floor": 9,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대신센츄럴타운",
+    "dealAmount": "22,500",
+    "date": "2026-02-14",
+    "floor": 6,
+    "area": 84.81
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "75,300",
+    "date": "2026-02-13",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "36,000",
+    "date": "2026-02-11",
+    "floor": 8,
+    "area": 74.9587
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "73,000",
+    "date": "2026-02-11",
+    "floor": 9,
+    "area": 84.68
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "80,000",
+    "date": "2026-02-10",
+    "floor": 16,
+    "area": 84.68
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "28,000",
+    "date": "2026-02-09",
+    "floor": 6,
+    "area": 131.1
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "19,000",
+    "date": "2026-02-04",
+    "floor": 2,
+    "area": 76.23
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "80,000",
+    "date": "2026-02-04",
+    "floor": 11,
+    "area": 84.94
+  }
+]

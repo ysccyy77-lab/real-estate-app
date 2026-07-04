@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "진례동원",
+    "dealAmount": "11,400",
+    "date": "2026-06-12",
+    "floor": 13,
+    "area": 84.81
+  },
+  {
+    "aptNm": "진례동원",
+    "dealAmount": "7,700",
+    "date": "2026-06-09",
+    "floor": 9,
+    "area": 59.88
+  },
+  {
+    "aptNm": "진례동원",
+    "dealAmount": "6,000",
+    "date": "2026-04-28",
+    "floor": 10,
+    "area": 59.88
+  },
+  {
+    "aptNm": "반도보라맨션",
+    "dealAmount": "65,000",
+    "date": "2026-04-10",
+    "floor": 2,
+    "area": 70.38
+  },
+  {
+    "aptNm": "반도보라맨션",
+    "dealAmount": "73,000",
+    "date": "2026-02-11",
+    "floor": 3,
+    "area": 79.02
+  }
+]

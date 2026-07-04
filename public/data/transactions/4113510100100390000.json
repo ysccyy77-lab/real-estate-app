@@ -1,0 +1,359 @@
+[
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "30,000",
+    "date": "2026-06-30",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "46,500",
+    "date": "2026-06-23",
+    "floor": 1,
+    "area": 118.6
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "153,000",
+    "date": "2026-06-16",
+    "floor": 5,
+    "area": 59.82
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "38,000",
+    "date": "2026-06-16",
+    "floor": 9,
+    "area": 76.77
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "8,200",
+    "date": "2026-06-15",
+    "floor": 1,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "37,500",
+    "date": "2026-06-12",
+    "floor": 11,
+    "area": 76.77
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "8,200",
+    "date": "2026-06-12",
+    "floor": 3,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "36,900",
+    "date": "2026-06-08",
+    "floor": 11,
+    "area": 76.77
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "37,400",
+    "date": "2026-06-06",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "37,200",
+    "date": "2026-06-06",
+    "floor": 16,
+    "area": 76.77
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "160,000",
+    "date": "2026-06-02",
+    "floor": 9,
+    "area": 69.96
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "9,250",
+    "date": "2026-06-02",
+    "floor": 3,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "8,300",
+    "date": "2026-06-02",
+    "floor": 4,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "21,000",
+    "date": "2026-05-29",
+    "floor": 9,
+    "area": 36.63
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "8,900",
+    "date": "2026-05-28",
+    "floor": 3,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "32,700",
+    "date": "2026-05-27",
+    "floor": 14,
+    "area": 59.78
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "7,700",
+    "date": "2026-05-27",
+    "floor": 5,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "9,000",
+    "date": "2026-05-25",
+    "floor": 4,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "40,000",
+    "date": "2026-05-22",
+    "floor": 6,
+    "area": 76.77
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "8,500",
+    "date": "2026-05-20",
+    "floor": 2,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "7,900",
+    "date": "2026-05-20",
+    "floor": 4,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "8,400",
+    "date": "2026-05-18",
+    "floor": 4,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "8,000",
+    "date": "2026-05-18",
+    "floor": 5,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "36,000",
+    "date": "2026-05-13",
+    "floor": 17,
+    "area": 76.77
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "173,500",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 84.6
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "34,800",
+    "date": "2026-05-09",
+    "floor": 17,
+    "area": 76.77
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "46,500",
+    "date": "2026-05-06",
+    "floor": 6,
+    "area": 118.6
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "136,700",
+    "date": "2026-05-04",
+    "floor": 5,
+    "area": 59.82
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "34,800",
+    "date": "2026-05-02",
+    "floor": 17,
+    "area": 76.77
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "36,500",
+    "date": "2026-04-29",
+    "floor": 4,
+    "area": 76.77
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "147,000",
+    "date": "2026-04-29",
+    "floor": 3,
+    "area": 80.01
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "27,500",
+    "date": "2026-04-20",
+    "floor": 8,
+    "area": 49.85
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "150,000",
+    "date": "2026-04-18",
+    "floor": 3,
+    "area": 59.82
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "197,300",
+    "date": "2026-04-11",
+    "floor": 13,
+    "area": 128.09
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "32,500",
+    "date": "2026-04-09",
+    "floor": 15,
+    "area": 59.78
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "150,000",
+    "date": "2026-04-09",
+    "floor": 4,
+    "area": 82
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "27,000",
+    "date": "2026-04-08",
+    "floor": 9,
+    "area": 49.85
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "37,500",
+    "date": "2026-04-05",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "31,000",
+    "date": "2026-04-03",
+    "floor": 7,
+    "area": 59.78
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "35,100",
+    "date": "2026-03-28",
+    "floor": 12,
+    "area": 59.78
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "135,000",
+    "date": "2026-03-28",
+    "floor": 2,
+    "area": 80.01
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "136,000",
+    "date": "2026-03-27",
+    "floor": 6,
+    "area": 80.01
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "16,000",
+    "date": "2026-03-26",
+    "floor": 13,
+    "area": 36.63
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "8,200",
+    "date": "2026-03-07",
+    "floor": 2,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "150,000",
+    "date": "2026-03-04",
+    "floor": 7,
+    "area": 80.01
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "18,000",
+    "date": "2026-02-28",
+    "floor": 7,
+    "area": 36.63
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "175,300",
+    "date": "2026-02-27",
+    "floor": 4,
+    "area": 84.6
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "178,000",
+    "date": "2026-02-13",
+    "floor": 6,
+    "area": 84.6
+  },
+  {
+    "aptNm": "샛별",
+    "dealAmount": "8,300",
+    "date": "2026-02-06",
+    "floor": 1,
+    "area": 80.6
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "32,500",
+    "date": "2026-02-05",
+    "floor": 16,
+    "area": 59.78
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "32,500",
+    "date": "2026-02-05",
+    "floor": 17,
+    "area": 59.78
+  }
+]

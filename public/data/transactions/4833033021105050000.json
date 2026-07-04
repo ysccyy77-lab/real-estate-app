@@ -1,0 +1,737 @@
+[
+  {
+    "aptNm": "용두암현대1",
+    "dealAmount": "31,000",
+    "date": "2026-07-02",
+    "floor": 1,
+    "area": 83.55
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "58,000",
+    "date": "2026-06-26",
+    "floor": 1,
+    "area": 50.97
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "120,000",
+    "date": "2026-06-25",
+    "floor": 5,
+    "area": 114.57
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "69,500",
+    "date": "2026-06-13",
+    "floor": 16,
+    "area": 75.617
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "63,000",
+    "date": "2026-06-13",
+    "floor": 14,
+    "area": 63.851
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "71,500",
+    "date": "2026-06-12",
+    "floor": 9,
+    "area": 75.617
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "58,500",
+    "date": "2026-06-11",
+    "floor": 2,
+    "area": 63.851
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "55,000",
+    "date": "2026-06-11",
+    "floor": 1,
+    "area": 51.29
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "61,900",
+    "date": "2026-06-10",
+    "floor": 16,
+    "area": 63.998
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "62,800",
+    "date": "2026-06-07",
+    "floor": 6,
+    "area": 63.998
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "74,000",
+    "date": "2026-06-06",
+    "floor": 11,
+    "area": 75.617
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "69,500",
+    "date": "2026-06-06",
+    "floor": 7,
+    "area": 75.617
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "38,000",
+    "date": "2026-06-03",
+    "floor": 10,
+    "area": 75.743
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "84,500",
+    "date": "2026-06-02",
+    "floor": 5,
+    "area": 72.73
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "62,500",
+    "date": "2026-06-02",
+    "floor": 1,
+    "area": 54.48
+  },
+  {
+    "aptNm": "현대비치타운",
+    "dealAmount": "15,000",
+    "date": "2026-06-01",
+    "floor": 17,
+    "area": 59.98
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "29,000",
+    "date": "2026-05-30",
+    "floor": 1,
+    "area": 63.8491
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "47,500",
+    "date": "2026-05-26",
+    "floor": 22,
+    "area": 84.9845
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "68,800",
+    "date": "2026-05-23",
+    "floor": 12,
+    "area": 75.617
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "68,500",
+    "date": "2026-05-23",
+    "floor": 11,
+    "area": 75.938
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "44,800",
+    "date": "2026-05-22",
+    "floor": 19,
+    "area": 84.6729
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "103,000",
+    "date": "2026-05-21",
+    "floor": 14,
+    "area": 114.57
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "85,500",
+    "date": "2026-05-21",
+    "floor": 11,
+    "area": 72.73
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "85,000",
+    "date": "2026-05-19",
+    "floor": 10,
+    "area": 74.2
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "65,500",
+    "date": "2026-05-18",
+    "floor": 3,
+    "area": 54.48
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "56,500",
+    "date": "2026-05-15",
+    "floor": 7,
+    "area": 51.29
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "88,500",
+    "date": "2026-05-14",
+    "floor": 4,
+    "area": 84.97
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "59,000",
+    "date": "2026-05-13",
+    "floor": 10,
+    "area": 50.97
+  },
+  {
+    "aptNm": "우신그린피아",
+    "dealAmount": "16,000",
+    "date": "2026-05-12",
+    "floor": 7,
+    "area": 83.58
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "93,000",
+    "date": "2026-05-12",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "65,000",
+    "date": "2026-05-07",
+    "floor": 14,
+    "area": 54.48
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "83,500",
+    "date": "2026-05-06",
+    "floor": 12,
+    "area": 84.97
+  },
+  {
+    "aptNm": "용두암현대1",
+    "dealAmount": "28,500",
+    "date": "2026-05-06",
+    "floor": 6,
+    "area": 83.55
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "62,000",
+    "date": "2026-05-04",
+    "floor": 14,
+    "area": 63.998
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "68,500",
+    "date": "2026-05-02",
+    "floor": 9,
+    "area": 75.617
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "87,500",
+    "date": "2026-05-02",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "현대비치타운",
+    "dealAmount": "13,500",
+    "date": "2026-05-01",
+    "floor": 9,
+    "area": 59.98
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "76,700",
+    "date": "2026-04-29",
+    "floor": 3,
+    "area": 72.73
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "60,000",
+    "date": "2026-04-27",
+    "floor": 15,
+    "area": 54.48
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "64,000",
+    "date": "2026-04-24",
+    "floor": 12,
+    "area": 54.48
+  },
+  {
+    "aptNm": "우정",
+    "dealAmount": "113,000",
+    "date": "2026-04-23",
+    "floor": 3,
+    "area": 84.6
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "60,000",
+    "date": "2026-04-22",
+    "floor": 7,
+    "area": 50.97
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "40,000",
+    "date": "2026-04-20",
+    "floor": 21,
+    "area": 75.8596
+  },
+  {
+    "aptNm": "화원대백맨션",
+    "dealAmount": "15,700",
+    "date": "2026-04-18",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우정",
+    "dealAmount": "105,500",
+    "date": "2026-04-18",
+    "floor": 10,
+    "area": 84.6
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "79,900",
+    "date": "2026-04-16",
+    "floor": 15,
+    "area": 72.49
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "58,500",
+    "date": "2026-04-15",
+    "floor": 1,
+    "area": 63.851
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "79,000",
+    "date": "2026-04-14",
+    "floor": 8,
+    "area": 74.2
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "59,000",
+    "date": "2026-04-11",
+    "floor": 4,
+    "area": 51.29
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "81,000",
+    "date": "2026-04-10",
+    "floor": 9,
+    "area": 72.49
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "50,000",
+    "date": "2026-04-10",
+    "floor": 9,
+    "area": 51.29
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "92,000",
+    "date": "2026-04-08",
+    "floor": 5,
+    "area": 84.97
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "69,000",
+    "date": "2026-04-07",
+    "floor": 10,
+    "area": 75.938
+  },
+  {
+    "aptNm": "우정",
+    "dealAmount": "90,000",
+    "date": "2026-04-06",
+    "floor": 7,
+    "area": 59.89
+  },
+  {
+    "aptNm": "화성고려파크뷰",
+    "dealAmount": "75,000",
+    "date": "2026-04-04",
+    "floor": 6,
+    "area": 145.8243
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "45,000",
+    "date": "2026-04-04",
+    "floor": 21,
+    "area": 84.6729
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "78,700",
+    "date": "2026-04-04",
+    "floor": 12,
+    "area": 74.2
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "78,000",
+    "date": "2026-04-02",
+    "floor": 5,
+    "area": 72.73
+  },
+  {
+    "aptNm": "현대비치타운",
+    "dealAmount": "16,000",
+    "date": "2026-04-02",
+    "floor": 4,
+    "area": 59.98
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "62,000",
+    "date": "2026-03-31",
+    "floor": 12,
+    "area": 63.998
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "99,500",
+    "date": "2026-03-30",
+    "floor": 13,
+    "area": 114.57
+  },
+  {
+    "aptNm": "화원대백맨션",
+    "dealAmount": "14,100",
+    "date": "2026-03-29",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "36,300",
+    "date": "2026-03-29",
+    "floor": 19,
+    "area": 63.8491
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "63,700",
+    "date": "2026-03-28",
+    "floor": 3,
+    "area": 54.48
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "85,000",
+    "date": "2026-03-28",
+    "floor": 4,
+    "area": 84.97
+  },
+  {
+    "aptNm": "현대비치타운",
+    "dealAmount": "17,700",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 84.745
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "73,000",
+    "date": "2026-03-27",
+    "floor": 13,
+    "area": 84.514
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "87,000",
+    "date": "2026-03-27",
+    "floor": 5,
+    "area": 84.97
+  },
+  {
+    "aptNm": "용두암현대1",
+    "dealAmount": "26,800",
+    "date": "2026-03-27",
+    "floor": 6,
+    "area": 67.32
+  },
+  {
+    "aptNm": "힐스테이트삼동��",
+    "dealAmount": "66,800",
+    "date": "2026-03-25",
+    "floor": 7,
+    "area": 75.617
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "84,800",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 72.73
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "41,500",
+    "date": "2026-03-23",
+    "floor": 6,
+    "area": 84.6729
+  },
+  {
+    "aptNm": "우정",
+    "dealAmount": "87,000",
+    "date": "2026-03-21",
+    "floor": 3,
+    "area": 59.89
+  },
+  {
+    "aptNm": "화원대백맨션",
+    "dealAmount": "11,000",
+    "date": "2026-03-19",
+    "floor": 14,
+    "area": 59.45
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "65,000",
+    "date": "2026-03-17",
+    "floor": 10,
+    "area": 54.48
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "34,800",
+    "date": "2026-03-16",
+    "floor": 3,
+    "area": 63.8491
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "36,000",
+    "date": "2026-03-15",
+    "floor": 17,
+    "area": 63.4496
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "60,000",
+    "date": "2026-03-13",
+    "floor": 11,
+    "area": 51.29
+  },
+  {
+    "aptNm": "현대비치타운",
+    "dealAmount": "17,000",
+    "date": "2026-03-13",
+    "floor": 14,
+    "area": 84.745
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "64,000",
+    "date": "2026-03-12",
+    "floor": 9,
+    "area": 75.617
+  },
+  {
+    "aptNm": "현대비치타운",
+    "dealAmount": "19,400",
+    "date": "2026-03-12",
+    "floor": 23,
+    "area": 84.745
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "38,500",
+    "date": "2026-03-11",
+    "floor": 17,
+    "area": 75.9248
+  },
+  {
+    "aptNm": "대덕브라운스톤",
+    "dealAmount": "39,000",
+    "date": "2026-03-11",
+    "floor": 2,
+    "area": 75.9248
+  },
+  {
+    "aptNm": "우신그린피아",
+    "dealAmount": "14,000",
+    "date": "2026-03-10",
+    "floor": 18,
+    "area": 59.8
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "77,300",
+    "date": "2026-03-10",
+    "floor": 8,
+    "area": 72.73
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "78,500",
+    "date": "2026-03-06",
+    "floor": 10,
+    "area": 72.73
+  },
+  {
+    "aptNm": "우신그린피아",
+    "dealAmount": "13,630",
+    "date": "2026-03-03",
+    "floor": 13,
+    "area": 59.8
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "86,000",
+    "date": "2026-02-23",
+    "floor": 3,
+    "area": 84.97
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "64,000",
+    "date": "2026-02-20",
+    "floor": 7,
+    "area": 54.48
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "75,700",
+    "date": "2026-02-20",
+    "floor": 6,
+    "area": 72.49
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "64,000",
+    "date": "2026-02-14",
+    "floor": 11,
+    "area": 75.617
+  },
+  {
+    "aptNm": "용두암현대1",
+    "dealAmount": "29,500",
+    "date": "2026-02-14",
+    "floor": 4,
+    "area": 83.55
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "58,000",
+    "date": "2026-02-13",
+    "floor": 10,
+    "area": 54.48
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "69,000",
+    "date": "2026-02-12",
+    "floor": 18,
+    "area": 75.938
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "78,000",
+    "date": "2026-02-10",
+    "floor": 10,
+    "area": 72.73
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "56,000",
+    "date": "2026-02-07",
+    "floor": 15,
+    "area": 50.97
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "57,000",
+    "date": "2026-02-07",
+    "floor": 5,
+    "area": 51.29
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "52,000",
+    "date": "2026-02-07",
+    "floor": 1,
+    "area": 51.29
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "77,000",
+    "date": "2026-02-07",
+    "floor": 14,
+    "area": 72.49
+  },
+  {
+    "aptNm": "한영",
+    "dealAmount": "7,100",
+    "date": "2026-02-06",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "112,000",
+    "date": "2026-02-06",
+    "floor": 3,
+    "area": 114.57
+  },
+  {
+    "aptNm": "현대비치타운",
+    "dealAmount": "16,000",
+    "date": "2026-02-06",
+    "floor": 2,
+    "area": 84.745
+  },
+  {
+    "aptNm": "롯데(505)",
+    "dealAmount": "58,500",
+    "date": "2026-02-04",
+    "floor": 6,
+    "area": 54.48
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "58,700",
+    "date": "2026-02-03",
+    "floor": 1,
+    "area": 63.998
+  },
+  {
+    "aptNm": "힐스테이트삼동역",
+    "dealAmount": "65,800",
+    "date": "2026-02-02",
+    "floor": 6,
+    "area": 75.938
+  }
+]

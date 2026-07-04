@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "유씨티",
+    "dealAmount": "7,200",
+    "date": "2026-06-30",
+    "floor": 15,
+    "area": 20.53
+  },
+  {
+    "aptNm": "유씨티",
+    "dealAmount": "7,700",
+    "date": "2026-06-10",
+    "floor": 17,
+    "area": 20.43
+  },
+  {
+    "aptNm": "유씨티",
+    "dealAmount": "7,700",
+    "date": "2026-06-10",
+    "floor": 13,
+    "area": 20.43
+  },
+  {
+    "aptNm": "유씨티",
+    "dealAmount": "7,600",
+    "date": "2026-06-10",
+    "floor": 8,
+    "area": 20.43
+  },
+  {
+    "aptNm": "유씨티",
+    "dealAmount": "7,700",
+    "date": "2026-06-10",
+    "floor": 8,
+    "area": 19.24
+  },
+  {
+    "aptNm": "유씨티",
+    "dealAmount": "7,200",
+    "date": "2026-06-09",
+    "floor": 15,
+    "area": 20.53
+  },
+  {
+    "aptNm": "유씨티",
+    "dealAmount": "7,500",
+    "date": "2026-05-18",
+    "floor": 8,
+    "area": 19.24
+  },
+  {
+    "aptNm": "유씨티",
+    "dealAmount": "7,600",
+    "date": "2026-05-18",
+    "floor": 8,
+    "area": 20.43
+  }
+]

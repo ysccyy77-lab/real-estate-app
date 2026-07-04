@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "신우",
+    "dealAmount": "26,000",
+    "date": "2026-06-19",
+    "floor": 11,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "23,000",
+    "date": "2026-06-18",
+    "floor": 20,
+    "area": 59.97
+  },
+  {
+    "aptNm": "새들맨션",
+    "dealAmount": "23,000",
+    "date": "2026-06-02",
+    "floor": 6,
+    "area": 84.13
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "25,000",
+    "date": "2026-05-12",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "26,500",
+    "date": "2026-05-07",
+    "floor": 12,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "23,400",
+    "date": "2026-04-07",
+    "floor": 18,
+    "area": 59.97
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "26,700",
+    "date": "2026-04-04",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "23,500",
+    "date": "2026-03-31",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "새들맨션",
+    "dealAmount": "21,800",
+    "date": "2026-03-25",
+    "floor": 7,
+    "area": 84.13
+  },
+  {
+    "aptNm": "덕동반포빌라트",
+    "dealAmount": "138,000",
+    "date": "2026-03-17",
+    "floor": 1,
+    "area": 128.18
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "24,000",
+    "date": "2026-03-10",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "덕동반포빌라트",
+    "dealAmount": "180,000",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 113.31
+  }
+]

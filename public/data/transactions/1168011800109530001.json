@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "SK허브프리모",
+    "dealAmount": "105,000",
+    "date": "2026-05-09",
+    "floor": 14,
+    "area": 67.57
+  },
+  {
+    "aptNm": "SK허브프리모",
+    "dealAmount": "104,000",
+    "date": "2026-04-14",
+    "floor": 8,
+    "area": 67.57
+  },
+  {
+    "aptNm": "SK허브프리모",
+    "dealAmount": "38,500",
+    "date": "2026-03-18",
+    "floor": 7,
+    "area": 33.8
+  },
+  {
+    "aptNm": "SK허브프리모",
+    "dealAmount": "109,500",
+    "date": "2026-03-01",
+    "floor": 15,
+    "area": 67.57
+  }
+]

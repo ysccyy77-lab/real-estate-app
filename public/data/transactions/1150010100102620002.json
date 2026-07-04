@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "현대(262-2)",
+    "dealAmount": "15,500",
+    "date": "2026-06-06",
+    "floor": 8,
+    "area": 84.82
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "91,000",
+    "date": "2026-05-29",
+    "floor": 7,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "70,000",
+    "date": "2026-05-22",
+    "floor": 12,
+    "area": 84.87
+  },
+  {
+    "aptNm": "그린아파트",
+    "dealAmount": "7,700",
+    "date": "2026-05-09",
+    "floor": 6,
+    "area": 68.24
+  },
+  {
+    "aptNm": "현대(262-2)",
+    "dealAmount": "15,000",
+    "date": "2026-04-23",
+    "floor": 10,
+    "area": 84.82
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "88,000",
+    "date": "2026-04-07",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "현대(262-2)",
+    "dealAmount": "19,000",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 84.82
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "105,500",
+    "date": "2026-03-28",
+    "floor": 9,
+    "area": 84.87
+  },
+  {
+    "aptNm": "그린아파트",
+    "dealAmount": "11,000",
+    "date": "2026-03-20",
+    "floor": 2,
+    "area": 78.56
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "105,000",
+    "date": "2026-02-14",
+    "floor": 4,
+    "area": 84.87
+  }
+]

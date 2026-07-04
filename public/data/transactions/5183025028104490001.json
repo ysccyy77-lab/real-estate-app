@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "6,700",
+    "date": "2026-06-22",
+    "floor": 13,
+    "area": 31.5408
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "7,500",
+    "date": "2026-06-05",
+    "floor": 2,
+    "area": 31.5408
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "16,700",
+    "date": "2026-06-02",
+    "floor": 14,
+    "area": 84.7407
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "12,000",
+    "date": "2026-04-13",
+    "floor": 6,
+    "area": 59.449
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "11,300",
+    "date": "2026-04-10",
+    "floor": 14,
+    "area": 59.449
+  },
+  {
+    "aptNm": "경원",
+    "dealAmount": "31,500",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 59.4
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "11,800",
+    "date": "2026-03-29",
+    "floor": 7,
+    "area": 59.449
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "6,900",
+    "date": "2026-03-04",
+    "floor": 12,
+    "area": 31.5408
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "6,200",
+    "date": "2026-03-04",
+    "floor": 4,
+    "area": 31.5408
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "15,000",
+    "date": "2026-02-28",
+    "floor": 6,
+    "area": 59.449
+  },
+  {
+    "aptNm": "명지푸르미",
+    "dealAmount": "14,500",
+    "date": "2026-02-02",
+    "floor": 1,
+    "area": 84.7407
+  }
+]

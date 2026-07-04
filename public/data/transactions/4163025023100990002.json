@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "태영데시안",
+    "dealAmount": "14,000",
+    "date": "2026-05-29",
+    "floor": 4,
+    "area": 59.96
+  },
+  {
+    "aptNm": "신일파크맨션",
+    "dealAmount": "9,750",
+    "date": "2026-05-18",
+    "floor": 1,
+    "area": 68.22
+  },
+  {
+    "aptNm": "장미APT",
+    "dealAmount": "36,700",
+    "date": "2026-05-11",
+    "floor": 4,
+    "area": 40.86
+  },
+  {
+    "aptNm": "장미APT",
+    "dealAmount": "39,900",
+    "date": "2026-05-05",
+    "floor": 4,
+    "area": 40.68
+  },
+  {
+    "aptNm": "장미APT",
+    "dealAmount": "39,000",
+    "date": "2026-03-13",
+    "floor": 2,
+    "area": 43.65
+  },
+  {
+    "aptNm": "태영데시안",
+    "dealAmount": "17,000",
+    "date": "2026-03-10",
+    "floor": 2,
+    "area": 84.98
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "그린나래",
+    "dealAmount": "3,200",
+    "date": "2026-05-15",
+    "floor": 6,
+    "area": 21.3158
+  },
+  {
+    "aptNm": "그린나래",
+    "dealAmount": "3,600",
+    "date": "2026-04-01",
+    "floor": 2,
+    "area": 21.3158
+  },
+  {
+    "aptNm": "그린나래",
+    "dealAmount": "2,800",
+    "date": "2026-03-31",
+    "floor": 7,
+    "area": 21.3158
+  },
+  {
+    "aptNm": "그린나래",
+    "dealAmount": "6,200",
+    "date": "2026-03-11",
+    "floor": 2,
+    "area": 34.4599
+  },
+  {
+    "aptNm": "그린나래",
+    "dealAmount": "3,500",
+    "date": "2026-02-23",
+    "floor": 5,
+    "area": 21.3158
+  },
+  {
+    "aptNm": "그린나래",
+    "dealAmount": "3,050",
+    "date": "2026-02-06",
+    "floor": 5,
+    "area": 21.3158
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "aptNm": "윤창APT",
+    "dealAmount": "23,000",
+    "date": "2026-06-26",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "23,600",
+    "date": "2026-06-03",
+    "floor": 7,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "23,500",
+    "date": "2026-06-01",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "윤창APT",
+    "dealAmount": "20,400",
+    "date": "2026-05-23",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "24,100",
+    "date": "2026-05-16",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "23,500",
+    "date": "2026-05-01",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "18,800",
+    "date": "2026-04-25",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
+    "aptNm": "윤창APT",
+    "dealAmount": "20,900",
+    "date": "2026-04-21",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "제이파크",
+    "dealAmount": "20,800",
+    "date": "2026-04-16",
+    "floor": 4,
+    "area": 59.8532
+  },
+  {
+    "aptNm": "제이파크",
+    "dealAmount": "20,800",
+    "date": "2026-04-16",
+    "floor": 6,
+    "area": 59.8532
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "18,900",
+    "date": "2026-04-15",
+    "floor": 15,
+    "area": 59.85
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "19,000",
+    "date": "2026-03-26",
+    "floor": 15,
+    "area": 59.85
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "23,500",
+    "date": "2026-03-18",
+    "floor": 7,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "23,700",
+    "date": "2026-03-07",
+    "floor": 16,
+    "area": 84.96
+  },
+  {
+    "aptNm": "제이파크",
+    "dealAmount": "21,000",
+    "date": "2026-03-03",
+    "floor": 6,
+    "area": 59.8532
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "18,000",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 59.85
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "16,300",
+    "date": "2026-02-25",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "성서영남우방타운",
+    "dealAmount": "23,700",
+    "date": "2026-02-11",
+    "floor": 16,
+    "area": 84.96
+  }
+]

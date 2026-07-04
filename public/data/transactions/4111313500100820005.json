@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "27,000",
+    "date": "2026-06-30",
+    "floor": 7,
+    "area": 59.4
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "33,250",
+    "date": "2026-06-15",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "27,000",
+    "date": "2026-06-12",
+    "floor": 10,
+    "area": 59.4
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "39,500",
+    "date": "2026-06-03",
+    "floor": 6,
+    "area": 84.92
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "26,400",
+    "date": "2026-05-30",
+    "floor": 18,
+    "area": 59.4
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "35,600",
+    "date": "2026-05-14",
+    "floor": 18,
+    "area": 84.92
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "35,800",
+    "date": "2026-04-27",
+    "floor": 17,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "35,200",
+    "date": "2026-03-23",
+    "floor": 6,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "31,200",
+    "date": "2026-03-16",
+    "floor": 14,
+    "area": 84.92
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "32,000",
+    "date": "2026-03-15",
+    "floor": 11,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "31,900",
+    "date": "2026-03-13",
+    "floor": 20,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "35,000",
+    "date": "2026-03-13",
+    "floor": 16,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "34,700",
+    "date": "2026-03-07",
+    "floor": 6,
+    "area": 84.92
+  },
+  {
+    "aptNm": "삼익2차",
+    "dealAmount": "32,000",
+    "date": "2026-02-27",
+    "floor": 5,
+    "area": 84.92
+  }
+]

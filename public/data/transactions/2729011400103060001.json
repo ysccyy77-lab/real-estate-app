@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "거산1",
+    "dealAmount": "29,800",
+    "date": "2026-05-15",
+    "floor": 16,
+    "area": 84.69
+  },
+  {
+    "aptNm": "거산1",
+    "dealAmount": "31,000",
+    "date": "2026-05-09",
+    "floor": 11,
+    "area": 84.69
+  },
+  {
+    "aptNm": "아카시아",
+    "dealAmount": "21,800",
+    "date": "2026-05-02",
+    "floor": 1,
+    "area": 84.995
+  },
+  {
+    "aptNm": "아카시아",
+    "dealAmount": "20,500",
+    "date": "2026-04-24",
+    "floor": 2,
+    "area": 84.995
+  },
+  {
+    "aptNm": "거산1",
+    "dealAmount": "30,600",
+    "date": "2026-03-11",
+    "floor": 2,
+    "area": 84.69
+  },
+  {
+    "aptNm": "거산1",
+    "dealAmount": "23,800",
+    "date": "2026-03-11",
+    "floor": 9,
+    "area": 59.76
+  },
+  {
+    "aptNm": "거산1",
+    "dealAmount": "29,800",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 84.69
+  },
+  {
+    "aptNm": "대화파크맨션",
+    "dealAmount": "6,100",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 73.68
+  },
+  {
+    "aptNm": "대화파크맨션",
+    "dealAmount": "8,600",
+    "date": "2026-03-07",
+    "floor": 1,
+    "area": 79.62
+  },
+  {
+    "aptNm": "거산1",
+    "dealAmount": "25,100",
+    "date": "2026-02-25",
+    "floor": 11,
+    "area": 59.76
+  },
+  {
+    "aptNm": "대화파크맨션",
+    "dealAmount": "7,600",
+    "date": "2026-02-20",
+    "floor": 2,
+    "area": 71.34
+  },
+  {
+    "aptNm": "아카시아",
+    "dealAmount": "16,300",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 84.995
+  },
+  {
+    "aptNm": "그린시티",
+    "dealAmount": "26,800",
+    "date": "2026-02-18",
+    "floor": 9,
+    "area": 67.3743
+  }
+]

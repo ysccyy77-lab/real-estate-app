@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "대우2차상가",
+    "dealAmount": "4,400",
+    "date": "2026-06-21",
+    "floor": 12,
+    "area": 54.21
+  },
+  {
+    "aptNm": "옥산금정",
+    "dealAmount": "4,100",
+    "date": "2026-05-28",
+    "floor": 4,
+    "area": 31.05
+  },
+  {
+    "aptNm": "옥산금정",
+    "dealAmount": "4,200",
+    "date": "2026-05-26",
+    "floor": 6,
+    "area": 31.05
+  },
+  {
+    "aptNm": "대우2차상가",
+    "dealAmount": "4,400",
+    "date": "2026-04-04",
+    "floor": 4,
+    "area": 54.21
+  },
+  {
+    "aptNm": "옥산금정",
+    "dealAmount": "4,200",
+    "date": "2026-03-08",
+    "floor": 2,
+    "area": 31.05
+  },
+  {
+    "aptNm": "대우2차상가",
+    "dealAmount": "5,100",
+    "date": "2026-03-04",
+    "floor": 15,
+    "area": 54.21
+  },
+  {
+    "aptNm": "옥산금정",
+    "dealAmount": "4,300",
+    "date": "2026-02-21",
+    "floor": 9,
+    "area": 31.05
+  }
+]

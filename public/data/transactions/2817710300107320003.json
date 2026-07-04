@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "50,300",
+    "date": "2026-07-01",
+    "floor": 15,
+    "area": 116.509
+  },
+  {
+    "aptNm": "럭키베스티빌",
+    "dealAmount": "27,000",
+    "date": "2026-06-23",
+    "floor": 9,
+    "area": 58.87
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "42,000",
+    "date": "2026-06-11",
+    "floor": 16,
+    "area": 91.3
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "52,000",
+    "date": "2026-06-02",
+    "floor": 30,
+    "area": 130.897
+  },
+  {
+    "aptNm": "럭키베스티빌",
+    "dealAmount": "28,000",
+    "date": "2026-05-30",
+    "floor": 6,
+    "area": 58.39
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "41,000",
+    "date": "2026-05-26",
+    "floor": 18,
+    "area": 95.953
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "41,000",
+    "date": "2026-05-23",
+    "floor": 16,
+    "area": 95.953
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "40,500",
+    "date": "2026-05-19",
+    "floor": 5,
+    "area": 95.953
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "34,000",
+    "date": "2026-05-18",
+    "floor": 11,
+    "area": 59.79
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "53,000",
+    "date": "2026-05-08",
+    "floor": 16,
+    "area": 130.897
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "47,500",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 118.308
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "49,000",
+    "date": "2026-04-14",
+    "floor": 27,
+    "area": 116.509
+  },
+  {
+    "aptNm": "럭키베스티빌",
+    "dealAmount": "28,500",
+    "date": "2026-04-09",
+    "floor": 11,
+    "area": 58.39
+  },
+  {
+    "aptNm": "엑슬루타워",
+    "dealAmount": "42,800",
+    "date": "2026-02-26",
+    "floor": 15,
+    "area": 95.953
+  }
+]

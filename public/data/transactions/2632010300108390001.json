@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "16,800",
+    "date": "2026-06-24",
+    "floor": 1,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "19,000",
+    "date": "2026-05-30",
+    "floor": 5,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "20,000",
+    "date": "2026-05-28",
+    "floor": 11,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "17,000",
+    "date": "2026-05-27",
+    "floor": 2,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "대아산성",
+    "dealAmount": "5,450",
+    "date": "2026-05-25",
+    "floor": 2,
+    "area": 59.82
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "19,900",
+    "date": "2026-04-28",
+    "floor": 6,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "19,000",
+    "date": "2026-04-24",
+    "floor": 7,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "동원맨션",
+    "dealAmount": "12,000",
+    "date": "2026-04-11",
+    "floor": 5,
+    "area": 63.81
+  },
+  {
+    "aptNm": "대아산성",
+    "dealAmount": "4,000",
+    "date": "2026-04-03",
+    "floor": 2,
+    "area": 59.82
+  },
+  {
+    "aptNm": "동원맨션",
+    "dealAmount": "10,300",
+    "date": "2026-03-20",
+    "floor": 5,
+    "area": 56.85
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "19,000",
+    "date": "2026-03-19",
+    "floor": 13,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "대아산성",
+    "dealAmount": "8,100",
+    "date": "2026-03-05",
+    "floor": 15,
+    "area": 59.82
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "20,000",
+    "date": "2026-02-23",
+    "floor": 8,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "19,200",
+    "date": "2026-02-21",
+    "floor": 18,
+    "area": 84.6339
+  },
+  {
+    "aptNm": "동신아름마을",
+    "dealAmount": "20,900",
+    "date": "2026-02-13",
+    "floor": 9,
+    "area": 84.6339
+  }
+]

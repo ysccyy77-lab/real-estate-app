@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "삼양힐",
+    "dealAmount": "19,500",
+    "date": "2026-05-29",
+    "floor": 4,
+    "area": 65.225
+  },
+  {
+    "aptNm": "서울가든",
+    "dealAmount": "60,000",
+    "date": "2026-05-21",
+    "floor": 10,
+    "area": 85.92
+  },
+  {
+    "aptNm": "서울가든",
+    "dealAmount": "59,000",
+    "date": "2026-05-09",
+    "floor": 4,
+    "area": 85.92
+  },
+  {
+    "aptNm": "서울가든",
+    "dealAmount": "51,000",
+    "date": "2026-04-04",
+    "floor": 2,
+    "area": 71.54
+  },
+  {
+    "aptNm": "서울가든",
+    "dealAmount": "57,500",
+    "date": "2026-03-28",
+    "floor": 1,
+    "area": 85.92
+  },
+  {
+    "aptNm": "은실",
+    "dealAmount": "11,000",
+    "date": "2026-03-24",
+    "floor": 5,
+    "area": 58.87
+  },
+  {
+    "aptNm": "서울가든",
+    "dealAmount": "42,000",
+    "date": "2026-03-18",
+    "floor": 7,
+    "area": 85.92
+  }
+]

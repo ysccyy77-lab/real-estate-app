@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "한성",
+    "dealAmount": "117,000",
+    "date": "2026-05-29",
+    "floor": 9,
+    "area": 59.54
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "114,500",
+    "date": "2026-05-08",
+    "floor": 11,
+    "area": 59.54
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "97,000",
+    "date": "2026-03-19",
+    "floor": 1,
+    "area": 59.54
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "110,000",
+    "date": "2026-02-26",
+    "floor": 8,
+    "area": 59.54
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "100,000",
+    "date": "2026-02-04",
+    "floor": 9,
+    "area": 59.54
+  }
+]

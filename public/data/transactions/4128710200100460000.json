@@ -1,0 +1,702 @@
+[
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "42,200",
+    "date": "2026-06-29",
+    "floor": 18,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "44,600",
+    "date": "2026-06-25",
+    "floor": 10,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "만수주공3단지",
+    "dealAmount": "22,000",
+    "date": "2026-06-25",
+    "floor": 5,
+    "area": 53.85
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "130,000",
+    "date": "2026-06-23",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "쌍용플래티넘노블",
+    "dealAmount": "87,000",
+    "date": "2026-06-21",
+    "floor": 24,
+    "area": 124.11
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "40,000",
+    "date": "2026-06-19",
+    "floor": 13,
+    "area": 73.98
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "34,300",
+    "date": "2026-06-19",
+    "floor": 13,
+    "area": 84.9877
+  },
+  {
+    "aptNm": "대곡한라하우젠트",
+    "dealAmount": "31,300",
+    "date": "2026-06-19",
+    "floor": 17,
+    "area": 84.9774
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "72,000",
+    "date": "2026-06-19",
+    "floor": 17,
+    "area": 137.4558
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "30,000",
+    "date": "2026-06-18",
+    "floor": 9,
+    "area": 59.9268
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "34,700",
+    "date": "2026-06-17",
+    "floor": 16,
+    "area": 71.175
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "132,000",
+    "date": "2026-06-14",
+    "floor": 3,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대곡한라하우젠트",
+    "dealAmount": "30,700",
+    "date": "2026-06-13",
+    "floor": 13,
+    "area": 84.9774
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "41,000",
+    "date": "2026-06-12",
+    "floor": 4,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "14,000",
+    "date": "2026-06-06",
+    "floor": 2,
+    "area": 64.92
+  },
+  {
+    "aptNm": "만수주공3단지",
+    "dealAmount": "29,000",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 61.77
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "34,900",
+    "date": "2026-06-05",
+    "floor": 5,
+    "area": 84.9785
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "35,000",
+    "date": "2026-06-03",
+    "floor": 12,
+    "area": 59.49
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "44,000",
+    "date": "2026-06-01",
+    "floor": 14,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "126,500",
+    "date": "2026-06-01",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "44,900",
+    "date": "2026-05-30",
+    "floor": 14,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "26,000",
+    "date": "2026-05-26",
+    "floor": 1,
+    "area": 71.175
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "42,300",
+    "date": "2026-05-25",
+    "floor": 16,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "35,500",
+    "date": "2026-05-23",
+    "floor": 9,
+    "area": 84.9785
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "38,000",
+    "date": "2026-05-18",
+    "floor": 7,
+    "area": 73.98
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "42,000",
+    "date": "2026-05-17",
+    "floor": 16,
+    "area": 84.945
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "28,500",
+    "date": "2026-05-14",
+    "floor": 2,
+    "area": 59.9268
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "195,000",
+    "date": "2026-05-14",
+    "floor": 18,
+    "area": 59.82
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "36,800",
+    "date": "2026-05-13",
+    "floor": 10,
+    "area": 84.9877
+  },
+  {
+    "aptNm": "대곡한라하우젠트",
+    "dealAmount": "25,000",
+    "date": "2026-05-11",
+    "floor": 4,
+    "area": 71.0771
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "40,500",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 73.98
+  },
+  {
+    "aptNm": "우암대진",
+    "dealAmount": "13,800",
+    "date": "2026-05-09",
+    "floor": 5,
+    "area": 49.14
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "29,300",
+    "date": "2026-05-07",
+    "floor": 15,
+    "area": 59.9626
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "45,500",
+    "date": "2026-04-29",
+    "floor": 15,
+    "area": 128.3853
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "120,500",
+    "date": "2026-04-28",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "일도2차신천지",
+    "dealAmount": "23,900",
+    "date": "2026-04-27",
+    "floor": 4,
+    "area": 59.98
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "119,500",
+    "date": "2026-04-25",
+    "floor": 7,
+    "area": 84.83
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "37,000",
+    "date": "2026-04-22",
+    "floor": 4,
+    "area": 71.175
+  },
+  {
+    "aptNm": "쌍용플래티넘노블",
+    "dealAmount": "90,000",
+    "date": "2026-04-22",
+    "floor": 20,
+    "area": 124.11
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "190,000",
+    "date": "2026-04-22",
+    "floor": 14,
+    "area": 59.82
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "53,000",
+    "date": "2026-04-20",
+    "floor": 11,
+    "area": 129.73
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "180,000",
+    "date": "2026-04-19",
+    "floor": 9,
+    "area": 59.82
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "120,000",
+    "date": "2026-04-19",
+    "floor": 3,
+    "area": 84.94
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "33,000",
+    "date": "2026-04-16",
+    "floor": 8,
+    "area": 59.49
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "15,500",
+    "date": "2026-04-16",
+    "floor": 4,
+    "area": 64.92
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "218,000",
+    "date": "2026-04-16",
+    "floor": 4,
+    "area": 83.4
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "87,000",
+    "date": "2026-04-16",
+    "floor": 1,
+    "area": 64.38
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "39,200",
+    "date": "2026-04-15",
+    "floor": 14,
+    "area": 84.945
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "38,000",
+    "date": "2026-04-14",
+    "floor": 2,
+    "area": 105.8151
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "34,500",
+    "date": "2026-04-11",
+    "floor": 4,
+    "area": 71.175
+  },
+  {
+    "aptNm": "태평보성",
+    "dealAmount": "15,250",
+    "date": "2026-04-10",
+    "floor": 1,
+    "area": 42.9
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "43,000",
+    "date": "2026-04-09",
+    "floor": 6,
+    "area": 128.3853
+  },
+  {
+    "aptNm": "쌍용플래티넘노블",
+    "dealAmount": "87,000",
+    "date": "2026-04-08",
+    "floor": 30,
+    "area": 124.11
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "201,000",
+    "date": "2026-04-08",
+    "floor": 14,
+    "area": 83.4
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "187,000",
+    "date": "2026-04-07",
+    "floor": 18,
+    "area": 59.82
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "94,700",
+    "date": "2026-04-06",
+    "floor": 3,
+    "area": 64.38
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "38,000",
+    "date": "2026-04-03",
+    "floor": 11,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "104,500",
+    "date": "2026-04-01",
+    "floor": 3,
+    "area": 79.52
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "46,500",
+    "date": "2026-03-31",
+    "floor": 12,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "199,000",
+    "date": "2026-03-26",
+    "floor": 1,
+    "area": 83.4
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "104,500",
+    "date": "2026-03-26",
+    "floor": 9,
+    "area": 79.52
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "210,000",
+    "date": "2026-03-25",
+    "floor": 11,
+    "area": 83.4
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "14,000",
+    "date": "2026-03-23",
+    "floor": 1,
+    "area": 61.26
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "35,800",
+    "date": "2026-03-21",
+    "floor": 21,
+    "area": 84.9785
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "42,000",
+    "date": "2026-03-21",
+    "floor": 9,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "119,500",
+    "date": "2026-03-21",
+    "floor": 7,
+    "area": 84.83
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "37,000",
+    "date": "2026-03-20",
+    "floor": 3,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "106,300",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 79.52
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "194,000",
+    "date": "2026-03-18",
+    "floor": 6,
+    "area": 83.4
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "43,000",
+    "date": "2026-03-17",
+    "floor": 11,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "116,000",
+    "date": "2026-03-17",
+    "floor": 7,
+    "area": 84.83
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "98,000",
+    "date": "2026-03-16",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "40,000",
+    "date": "2026-03-13",
+    "floor": 12,
+    "area": 84.945
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "37,000",
+    "date": "2026-03-13",
+    "floor": 4,
+    "area": 71.175
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "46,500",
+    "date": "2026-03-13",
+    "floor": 12,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "49,000",
+    "date": "2026-03-12",
+    "floor": 13,
+    "area": 129.73
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "35,500",
+    "date": "2026-03-11",
+    "floor": 9,
+    "area": 84.9785
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "119,500",
+    "date": "2026-03-06",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "105,500",
+    "date": "2026-03-06",
+    "floor": 13,
+    "area": 79.52
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "43,200",
+    "date": "2026-02-28",
+    "floor": 14,
+    "area": 112.1157
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "113,000",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 84.83
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "33,500",
+    "date": "2026-02-23",
+    "floor": 10,
+    "area": 59.49
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "37,800",
+    "date": "2026-02-22",
+    "floor": 9,
+    "area": 84.9877
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "200,000",
+    "date": "2026-02-21",
+    "floor": 1,
+    "area": 83.4
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "40,400",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "96,900",
+    "date": "2026-02-14",
+    "floor": 2,
+    "area": 79.52
+  },
+  {
+    "aptNm": "한전사택",
+    "dealAmount": "8,000",
+    "date": "2026-02-14",
+    "floor": 1,
+    "area": 62.96
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "41,100",
+    "date": "2026-02-12",
+    "floor": 12,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "127,500",
+    "date": "2026-02-12",
+    "floor": 10,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "12,500",
+    "date": "2026-02-11",
+    "floor": 5,
+    "area": 64.92
+  },
+  {
+    "aptNm": "무학자이",
+    "dealAmount": "42,200",
+    "date": "2026-02-11",
+    "floor": 22,
+    "area": 112.1157
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "250,000",
+    "date": "2026-02-11",
+    "floor": 4,
+    "area": 129.93
+  },
+  {
+    "aptNm": "사월화성파크드림(2단지)",
+    "dealAmount": "45,000",
+    "date": "2026-02-09",
+    "floor": 17,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "38,000",
+    "date": "2026-02-08",
+    "floor": 2,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "94,000",
+    "date": "2026-02-07",
+    "floor": 15,
+    "area": 64.38
+  },
+  {
+    "aptNm": "용현현대1차",
+    "dealAmount": "34,000",
+    "date": "2026-02-03",
+    "floor": 12,
+    "area": 71.175
+  },
+  {
+    "aptNm": "엠브이아파트",
+    "dealAmount": "230,000",
+    "date": "2026-02-03",
+    "floor": 3,
+    "area": 129.93
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "30,800",
+    "date": "2026-02-02",
+    "floor": 9,
+    "area": 59.49
+  },
+  {
+    "aptNm": "강선마을4단지동신",
+    "dealAmount": "37,500",
+    "date": "2026-02-02",
+    "floor": 3,
+    "area": 73.98
+  },
+  {
+    "aptNm": "쌍용플래티넘노블",
+    "dealAmount": "91,000",
+    "date": "2026-02-02",
+    "floor": 21,
+    "area": 123.9
+  }
+]

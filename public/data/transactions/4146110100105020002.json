@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "삼환",
+    "dealAmount": "29,400",
+    "date": "2026-06-28",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "32,000",
+    "date": "2026-05-30",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "32,000",
+    "date": "2026-05-11",
+    "floor": 18,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "33,000",
+    "date": "2026-03-15",
+    "floor": 6,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "36,000",
+    "date": "2026-02-10",
+    "floor": 17,
+    "area": 84.99
+  }
+]

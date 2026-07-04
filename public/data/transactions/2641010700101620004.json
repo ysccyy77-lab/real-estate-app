@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "삼한골든뷰",
+    "dealAmount": "5,800",
+    "date": "2026-06-25",
+    "floor": 16,
+    "area": 23.9243
+  },
+  {
+    "aptNm": "삼한골든뷰",
+    "dealAmount": "6,300",
+    "date": "2026-05-14",
+    "floor": 12,
+    "area": 25.9643
+  },
+  {
+    "aptNm": "효성",
+    "dealAmount": "7,300",
+    "date": "2026-04-10",
+    "floor": 1,
+    "area": 37.48
+  },
+  {
+    "aptNm": "백석세아2차",
+    "dealAmount": "8,000",
+    "date": "2026-03-16",
+    "floor": 8,
+    "area": 58.62
+  },
+  {
+    "aptNm": "백석세아2차",
+    "dealAmount": "8,100",
+    "date": "2026-03-02",
+    "floor": 1,
+    "area": 58.62
+  },
+  {
+    "aptNm": "백석세아2차",
+    "dealAmount": "9,300",
+    "date": "2026-02-06",
+    "floor": 7,
+    "area": 58.62
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "aptNm": "금호",
+    "dealAmount": "59,500",
+    "date": "2026-06-27",
+    "floor": 6,
+    "area": 84.86
+  },
+  {
+    "aptNm": "삼경장미",
+    "dealAmount": "15,000",
+    "date": "2026-06-25",
+    "floor": 18,
+    "area": 84.98
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "20,300",
+    "date": "2026-06-08",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "19,700",
+    "date": "2026-06-08",
+    "floor": 11,
+    "area": 84.84
+  },
+  {
+    "aptNm": "입암2주공",
+    "dealAmount": "8,200",
+    "date": "2026-06-04",
+    "floor": 3,
+    "area": 39.3
+  },
+  {
+    "aptNm": "남영프라자",
+    "dealAmount": "33,750",
+    "date": "2026-06-04",
+    "floor": 3,
+    "area": 80.64
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "18,500",
+    "date": "2026-06-04",
+    "floor": 2,
+    "area": 84.84
+  },
+  {
+    "aptNm": "금호",
+    "dealAmount": "63,000",
+    "date": "2026-06-02",
+    "floor": 9,
+    "area": 84.7
+  },
+  {
+    "aptNm": "벽산신익타운",
+    "dealAmount": "15,800",
+    "date": "2026-05-30",
+    "floor": 4,
+    "area": 84.905
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "15,200",
+    "date": "2026-05-29",
+    "floor": 14,
+    "area": 59.34
+  },
+  {
+    "aptNm": "강선마을5단지(동부,건영)",
+    "dealAmount": "59,000",
+    "date": "2026-05-27",
+    "floor": 1,
+    "area": 100.14
+  },
+  {
+    "aptNm": "사월화성파크드림(3단지)",
+    "dealAmount": "41,000",
+    "date": "2026-05-17",
+    "floor": 15,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "오션블루",
+    "dealAmount": "19,000",
+    "date": "2026-05-16",
+    "floor": 18,
+    "area": 41.55
+  },
+  {
+    "aptNm": "강선마을5단지(동부,건영)",
+    "dealAmount": "59,500",
+    "date": "2026-05-14",
+    "floor": 8,
+    "area": 100.14
+  },
+  {
+    "aptNm": "사월화성파크드림(3단지)",
+    "dealAmount": "53,400",
+    "date": "2026-05-13",
+    "floor": 15,
+    "area": 93.735
+  },
+  {
+    "aptNm": "사월화성파크드림(3단지)",
+    "dealAmount": "44,000",
+    "date": "2026-05-10",
+    "floor": 11,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "입암2주공",
+    "dealAmount": "8,300",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 39.69
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "13,700",
+    "date": "2026-05-09",
+    "floor": 7,
+    "area": 59.34
+  },
+  {
+    "aptNm": "입암2주공",
+    "dealAmount": "7,300",
+    "date": "2026-05-05",
+    "floor": 3,
+    "area": 39.69
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "13,800",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 59.34
+  },
+  {
+    "aptNm": "현대그린",
+    "dealAmount": "58,000",
+    "date": "2026-04-30",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "금호",
+    "dealAmount": "50,000",
+    "date": "2026-04-25",
+    "floor": 21,
+    "area": 59.96
+  },
+  {
+    "aptNm": "강선마을5단지(동부,건영)",
+    "dealAmount": "65,000",
+    "date": "2026-04-24",
+    "floor": 15,
+    "area": 132.12
+  },
+  {
+    "aptNm": "현대그린",
+    "dealAmount": "60,000",
+    "date": "2026-04-23",
+    "floor": 6,
+    "area": 84.99
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "18,900",
+    "date": "2026-04-21",
+    "floor": 10,
+    "area": 84.84
+  },
+  {
+    "aptNm": "남영프라자",
+    "dealAmount": "36,800",
+    "date": "2026-04-18",
+    "floor": 3,
+    "area": 78.25
+  },
+  {
+    "aptNm": "삼경장미",
+    "dealAmount": "15,100",
+    "date": "2026-04-11",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대그린",
+    "dealAmount": "62,000",
+    "date": "2026-04-11",
+    "floor": 5,
+    "area": 84.99
+  },
+  {
+    "aptNm": "사월화성파크드림(3단지)",
+    "dealAmount": "53,400",
+    "date": "2026-04-09",
+    "floor": 7,
+    "area": 93.735
+  },
+  {
+    "aptNm": "입암2주공",
+    "dealAmount": "7,500",
+    "date": "2026-04-07",
+    "floor": 3,
+    "area": 39.3
+  },
+  {
+    "aptNm": "입암2주공",
+    "dealAmount": "7,700",
+    "date": "2026-04-06",
+    "floor": 3,
+    "area": 39.3
+  },
+  {
+    "aptNm": "금호",
+    "dealAmount": "48,500",
+    "date": "2026-04-06",
+    "floor": 15,
+    "area": 59.96
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "15,400",
+    "date": "2026-04-03",
+    "floor": 16,
+    "area": 59.34
+  },
+  {
+    "aptNm": "현대그린",
+    "dealAmount": "57,000",
+    "date": "2026-03-28",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "현대그린",
+    "dealAmount": "61,000",
+    "date": "2026-03-26",
+    "floor": 4,
+    "area": 84.99
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "16,050",
+    "date": "2026-03-25",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
+    "aptNm": "삼경장미",
+    "dealAmount": "13,000",
+    "date": "2026-03-25",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "11,500",
+    "date": "2026-03-24",
+    "floor": 3,
+    "area": 59.34
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "14,900",
+    "date": "2026-03-24",
+    "floor": 14,
+    "area": 59.34
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "18,000",
+    "date": "2026-03-23",
+    "floor": 5,
+    "area": 84.84
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "17,700",
+    "date": "2026-03-21",
+    "floor": 4,
+    "area": 84.84
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "19,300",
+    "date": "2026-03-20",
+    "floor": 18,
+    "area": 84.84
+  },
+  {
+    "aptNm": "사월화성파크드림(3단지)",
+    "dealAmount": "45,000",
+    "date": "2026-03-17",
+    "floor": 7,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "금호",
+    "dealAmount": "49,000",
+    "date": "2026-03-17",
+    "floor": 19,
+    "area": 59.96
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "16,800",
+    "date": "2026-03-16",
+    "floor": 12,
+    "area": 59.34
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "16,200",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 59.34
+  },
+  {
+    "aptNm": "사월화성파크드림(3단지)",
+    "dealAmount": "52,000",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 93.735
+  },
+  {
+    "aptNm": "벽산신익타운",
+    "dealAmount": "13,800",
+    "date": "2026-03-05",
+    "floor": 12,
+    "area": 74.655
+  },
+  {
+    "aptNm": "사월화성파크드림(3단지)",
+    "dealAmount": "40,300",
+    "date": "2026-02-25",
+    "floor": 8,
+    "area": 84.9999
+  },
+  {
+    "aptNm": "입암2주공",
+    "dealAmount": "9,500",
+    "date": "2026-02-20",
+    "floor": 4,
+    "area": 46.68
+  },
+  {
+    "aptNm": "금호",
+    "dealAmount": "49,000",
+    "date": "2026-02-14",
+    "floor": 17,
+    "area": 59.96
+  },
+  {
+    "aptNm": "한솔",
+    "dealAmount": "18,000",
+    "date": "2026-02-11",
+    "floor": 3,
+    "area": 83.88
+  },
+  {
+    "aptNm": "강선마을5단지(동부,건영)",
+    "dealAmount": "57,500",
+    "date": "2026-02-08",
+    "floor": 6,
+    "area": 99.94
+  }
+]

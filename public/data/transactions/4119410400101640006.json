@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "포스코트",
+    "dealAmount": "400,000",
+    "date": "2026-05-29",
+    "floor": 15,
+    "area": 209.03
+  },
+  {
+    "aptNm": "염광",
+    "dealAmount": "27,000",
+    "date": "2026-05-15",
+    "floor": 11,
+    "area": 63.76
+  },
+  {
+    "aptNm": "염광",
+    "dealAmount": "28,000",
+    "date": "2026-05-06",
+    "floor": 11,
+    "area": 69.52
+  },
+  {
+    "aptNm": "염광",
+    "dealAmount": "22,500",
+    "date": "2026-03-22",
+    "floor": 6,
+    "area": 52.33
+  },
+  {
+    "aptNm": "염광",
+    "dealAmount": "26,500",
+    "date": "2026-03-04",
+    "floor": 4,
+    "area": 63.76
+  },
+  {
+    "aptNm": "염광",
+    "dealAmount": "27,000",
+    "date": "2026-02-21",
+    "floor": 1,
+    "area": 69.52
+  },
+  {
+    "aptNm": "염광",
+    "dealAmount": "22,500",
+    "date": "2026-02-20",
+    "floor": 10,
+    "area": 52.33
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "이주아트빌",
+    "dealAmount": "22,800",
+    "date": "2026-04-10",
+    "floor": 13,
+    "area": 84
+  },
+  {
+    "aptNm": "이주아트빌",
+    "dealAmount": "19,500",
+    "date": "2026-03-16",
+    "floor": 6,
+    "area": 84
+  },
+  {
+    "aptNm": "명성강변2",
+    "dealAmount": "6,000",
+    "date": "2026-03-06",
+    "floor": 13,
+    "area": 59.74
+  },
+  {
+    "aptNm": "명성강변2",
+    "dealAmount": "7,800",
+    "date": "2026-02-13",
+    "floor": 12,
+    "area": 59.74
+  }
+]

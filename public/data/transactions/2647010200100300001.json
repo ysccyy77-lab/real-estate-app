@@ -1,0 +1,611 @@
+[
+  {
+    "aptNm": "한신",
+    "dealAmount": "58,500",
+    "date": "2026-06-29",
+    "floor": 3,
+    "area": 84.94
+  },
+  {
+    "aptNm": "디에트르송도시그니처뷰",
+    "dealAmount": "130,000",
+    "date": "2026-06-23",
+    "floor": 8,
+    "area": 114.9873
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "62,000",
+    "date": "2026-06-22",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "35,000",
+    "date": "2026-06-19",
+    "floor": 15,
+    "area": 84.962
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "60,800",
+    "date": "2026-06-16",
+    "floor": 17,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "185,000",
+    "date": "2026-06-13",
+    "floor": 19,
+    "area": 84.69
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "62,500",
+    "date": "2026-06-10",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "60,000",
+    "date": "2026-06-06",
+    "floor": 16,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "61,500",
+    "date": "2026-06-05",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "180,000",
+    "date": "2026-06-05",
+    "floor": 25,
+    "area": 84.69
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "62,000",
+    "date": "2026-06-03",
+    "floor": 9,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "62,000",
+    "date": "2026-06-01",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "60,000",
+    "date": "2026-06-01",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "59,500",
+    "date": "2026-05-29",
+    "floor": 17,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "64,000",
+    "date": "2026-05-28",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "59,500",
+    "date": "2026-05-25",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "57,000",
+    "date": "2026-05-22",
+    "floor": 17,
+    "area": 84.94
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "9,700",
+    "date": "2026-05-20",
+    "floor": 1,
+    "area": 60.855
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "61,000",
+    "date": "2026-05-20",
+    "floor": 10,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "57,500",
+    "date": "2026-05-18",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "38,300",
+    "date": "2026-05-15",
+    "floor": 8,
+    "area": 84.53
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "58,000",
+    "date": "2026-05-14",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "36,500",
+    "date": "2026-05-11",
+    "floor": 5,
+    "area": 84.94
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "10,300",
+    "date": "2026-05-09",
+    "floor": 3,
+    "area": 60.855
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "56,000",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "61,000",
+    "date": "2026-05-07",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "삼호가든맨션(5차)",
+    "dealAmount": "390,000",
+    "date": "2026-05-07",
+    "floor": 4,
+    "area": 142.11
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "15,500",
+    "date": "2026-05-05",
+    "floor": 3,
+    "area": 53.676
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "54,000",
+    "date": "2026-05-05",
+    "floor": 1,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "64,000",
+    "date": "2026-05-05",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "17,800",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 53.676
+  },
+  {
+    "aptNm": "삼호가든맨션(5차)",
+    "dealAmount": "474,000",
+    "date": "2026-05-01",
+    "floor": 11,
+    "area": 153.54
+  },
+  {
+    "aptNm": "선우",
+    "dealAmount": "16,000",
+    "date": "2026-04-30",
+    "floor": 4,
+    "area": 48.96
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "54,800",
+    "date": "2026-04-25",
+    "floor": 1,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "61,000",
+    "date": "2026-04-24",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "146,600",
+    "date": "2026-04-24",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "177,900",
+    "date": "2026-04-24",
+    "floor": 9,
+    "area": 84.69
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "164,500",
+    "date": "2026-04-24",
+    "floor": 9,
+    "area": 59.55
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "62,500",
+    "date": "2026-04-21",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "33,600",
+    "date": "2026-04-20",
+    "floor": 9,
+    "area": 84.53
+  },
+  {
+    "aptNm": "선우",
+    "dealAmount": "20,900",
+    "date": "2026-04-20",
+    "floor": 2,
+    "area": 58.59
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "23,800",
+    "date": "2026-04-18",
+    "floor": 14,
+    "area": 59.946
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "181,200",
+    "date": "2026-04-16",
+    "floor": 14,
+    "area": 84.69
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "30,000",
+    "date": "2026-04-15",
+    "floor": 1,
+    "area": 70.96
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "29,800",
+    "date": "2026-04-14",
+    "floor": 5,
+    "area": 70.96
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "61,000",
+    "date": "2026-04-14",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "62,000",
+    "date": "2026-04-10",
+    "floor": 13,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "54,500",
+    "date": "2026-04-09",
+    "floor": 2,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "53,500",
+    "date": "2026-04-04",
+    "floor": 2,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "190,000",
+    "date": "2026-04-02",
+    "floor": 3,
+    "area": 114.84
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "60,000",
+    "date": "2026-04-01",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "38,921",
+    "date": "2026-03-30",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "59,500",
+    "date": "2026-03-28",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "54,000",
+    "date": "2026-03-28",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "34,000",
+    "date": "2026-03-27",
+    "floor": 8,
+    "area": 134.64
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "170,000",
+    "date": "2026-03-27",
+    "floor": 23,
+    "area": 84.69
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "34,700",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "59,500",
+    "date": "2026-03-25",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "159,000",
+    "date": "2026-03-25",
+    "floor": 5,
+    "area": 59.37
+  },
+  {
+    "aptNm": "디에트르송도시그니처뷰",
+    "dealAmount": "105,000",
+    "date": "2026-03-24",
+    "floor": 24,
+    "area": 84.9691
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "61,000",
+    "date": "2026-03-23",
+    "floor": 10,
+    "area": 84.94
+  },
+  {
+    "aptNm": "선우",
+    "dealAmount": "19,700",
+    "date": "2026-03-23",
+    "floor": 3,
+    "area": 58.59
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "65,500",
+    "date": "2026-03-21",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "60,950",
+    "date": "2026-03-17",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "32,000",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 84.94
+  },
+  {
+    "aptNm": "선우",
+    "dealAmount": "20,000",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 58.59
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "165,000",
+    "date": "2026-03-12",
+    "floor": 13,
+    "area": 59.85
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "61,000",
+    "date": "2026-03-07",
+    "floor": 13,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "65,000",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "166,000",
+    "date": "2026-03-07",
+    "floor": 12,
+    "area": 59.75
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "57,000",
+    "date": "2026-03-05",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "60,000",
+    "date": "2026-03-04",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "59,000",
+    "date": "2026-03-03",
+    "floor": 9,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "59,000",
+    "date": "2026-03-02",
+    "floor": 16,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "170,500",
+    "date": "2026-02-28",
+    "floor": 4,
+    "area": 84.69
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "33,000",
+    "date": "2026-02-27",
+    "floor": 9,
+    "area": 70.96
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "59,500",
+    "date": "2026-02-27",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "59,300",
+    "date": "2026-02-24",
+    "floor": 5,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "55,000",
+    "date": "2026-02-21",
+    "floor": 9,
+    "area": 77.46
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "55,000",
+    "date": "2026-02-21",
+    "floor": 10,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "163,000",
+    "date": "2026-02-12",
+    "floor": 3,
+    "area": 59.75
+  },
+  {
+    "aptNm": "당산현대5차",
+    "dealAmount": "164,000",
+    "date": "2026-02-12",
+    "floor": 24,
+    "area": 59.75
+  },
+  {
+    "aptNm": "원정그린빌",
+    "dealAmount": "15,150",
+    "date": "2026-02-09",
+    "floor": 5,
+    "area": 78.807
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "56,500",
+    "date": "2026-02-09",
+    "floor": 2,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "58,000",
+    "date": "2026-02-07",
+    "floor": 7,
+    "area": 77.46
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "58,800",
+    "date": "2026-02-07",
+    "floor": 17,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "57,500",
+    "date": "2026-02-04",
+    "floor": 17,
+    "area": 84.94
+  }
+]

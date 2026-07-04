@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "네오리더스사상",
+    "dealAmount": "13,250",
+    "date": "2026-05-30",
+    "floor": 24,
+    "area": 34.24
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "11,700",
+    "date": "2026-05-27",
+    "floor": 4,
+    "area": 68.01
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "11,700",
+    "date": "2026-05-27",
+    "floor": 6,
+    "area": 68.01
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "15,500",
+    "date": "2026-05-14",
+    "floor": 15,
+    "area": 84.208
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "15,000",
+    "date": "2026-04-27",
+    "floor": 11,
+    "area": 115.193
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "11,000",
+    "date": "2026-04-18",
+    "floor": 12,
+    "area": 74.65
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "11,900",
+    "date": "2026-03-26",
+    "floor": 9,
+    "area": 83.938
+  }
+]

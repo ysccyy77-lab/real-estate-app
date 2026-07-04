@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "현대3",
+    "dealAmount": "15,750",
+    "date": "2026-06-15",
+    "floor": 2,
+    "area": 59.46
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "16,900",
+    "date": "2026-05-26",
+    "floor": 4,
+    "area": 59.46
+  },
+  {
+    "aptNm": "전원맨션",
+    "dealAmount": "5,000",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 59.72
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "16,900",
+    "date": "2026-05-02",
+    "floor": 4,
+    "area": 59.46
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "19,800",
+    "date": "2026-04-25",
+    "floor": 1,
+    "area": 59.46
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "18,200",
+    "date": "2026-04-24",
+    "floor": 4,
+    "area": 59.46
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "16,700",
+    "date": "2026-04-18",
+    "floor": 4,
+    "area": 59.46
+  },
+  {
+    "aptNm": "전원맨션",
+    "dealAmount": "8,800",
+    "date": "2026-04-15",
+    "floor": 5,
+    "area": 82.21
+  },
+  {
+    "aptNm": "전원맨션",
+    "dealAmount": "9,300",
+    "date": "2026-04-11",
+    "floor": 9,
+    "area": 82.21
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "17,000",
+    "date": "2026-04-06",
+    "floor": 5,
+    "area": 59.46
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "16,200",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 59.46
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "16,500",
+    "date": "2026-03-23",
+    "floor": 1,
+    "area": 59.46
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "20,900",
+    "date": "2026-03-08",
+    "floor": 4,
+    "area": 75.18
+  }
+]

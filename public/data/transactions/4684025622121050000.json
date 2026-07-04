@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "진흥한우리",
+    "dealAmount": "12,300",
+    "date": "2026-06-25",
+    "floor": 5,
+    "area": 69.03
+  },
+  {
+    "aptNm": "진흥한우리",
+    "dealAmount": "15,100",
+    "date": "2026-06-03",
+    "floor": 1,
+    "area": 84.41
+  },
+  {
+    "aptNm": "진흥한우리",
+    "dealAmount": "19,500",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 84.41
+  },
+  {
+    "aptNm": "진흥한우리",
+    "dealAmount": "18,500",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 84.41
+  },
+  {
+    "aptNm": "진흥한우리",
+    "dealAmount": "12,200",
+    "date": "2026-02-06",
+    "floor": 2,
+    "area": 69.03
+  },
+  {
+    "aptNm": "진흥한우리",
+    "dealAmount": "14,800",
+    "date": "2026-02-03",
+    "floor": 15,
+    "area": 84.41
+  }
+]

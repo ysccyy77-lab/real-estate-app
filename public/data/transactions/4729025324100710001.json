@@ -1,0 +1,338 @@
+[
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "3,000",
+    "date": "2026-06-27",
+    "floor": 12,
+    "area": 33.54
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "16,500",
+    "date": "2026-06-26",
+    "floor": 15,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "21,000",
+    "date": "2026-06-14",
+    "floor": 13,
+    "area": 59.962
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "2,800",
+    "date": "2026-06-11",
+    "floor": 13,
+    "area": 33.54
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "22,000",
+    "date": "2026-06-08",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "24,500",
+    "date": "2026-06-06",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "원일에이플러스",
+    "dealAmount": "25,500",
+    "date": "2026-05-31",
+    "floor": 6,
+    "area": 84.915
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "27,000",
+    "date": "2026-05-27",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "22,700",
+    "date": "2026-05-23",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "24,000",
+    "date": "2026-05-22",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "28,000",
+    "date": "2026-05-22",
+    "floor": 1,
+    "area": 130.736
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "3,350",
+    "date": "2026-05-21",
+    "floor": 20,
+    "area": 33.54
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "23,000",
+    "date": "2026-05-20",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "6,100",
+    "date": "2026-05-17",
+    "floor": 12,
+    "area": 59.26
+  },
+  {
+    "aptNm": "아주",
+    "dealAmount": "36,300",
+    "date": "2026-05-14",
+    "floor": 6,
+    "area": 71.25
+  },
+  {
+    "aptNm": "아주",
+    "dealAmount": "44,800",
+    "date": "2026-05-09",
+    "floor": 5,
+    "area": 82.41
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "3,300",
+    "date": "2026-05-09",
+    "floor": 19,
+    "area": 33.54
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "5,000",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 59.26
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "2,700",
+    "date": "2026-05-02",
+    "floor": 11,
+    "area": 33.54
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "2,900",
+    "date": "2026-05-01",
+    "floor": 16,
+    "area": 33.54
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "22,500",
+    "date": "2026-04-26",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "2,800",
+    "date": "2026-04-24",
+    "floor": 2,
+    "area": 33.54
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "26,500",
+    "date": "2026-04-19",
+    "floor": 12,
+    "area": 84.98
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "5,400",
+    "date": "2026-04-16",
+    "floor": 19,
+    "area": 59.26
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "27,500",
+    "date": "2026-04-09",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "3,000",
+    "date": "2026-04-03",
+    "floor": 17,
+    "area": 33.54
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "22,400",
+    "date": "2026-03-31",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "원일에이플러스",
+    "dealAmount": "26,000",
+    "date": "2026-03-30",
+    "floor": 14,
+    "area": 84.915
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "5,000",
+    "date": "2026-03-30",
+    "floor": 14,
+    "area": 59.26
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "3,000",
+    "date": "2026-03-25",
+    "floor": 23,
+    "area": 33.54
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "3,280",
+    "date": "2026-03-21",
+    "floor": 24,
+    "area": 33.54
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "2,800",
+    "date": "2026-03-19",
+    "floor": 21,
+    "area": 33.54
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "21,400",
+    "date": "2026-03-19",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "5,500",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 59.26
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "22,500",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "원일에이플러스",
+    "dealAmount": "24,800",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 84.915
+  },
+  {
+    "aptNm": "원일에이플러스",
+    "dealAmount": "20,500",
+    "date": "2026-03-09",
+    "floor": 2,
+    "area": 59.955
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "3,800",
+    "date": "2026-03-04",
+    "floor": 11,
+    "area": 33.54
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "2,800",
+    "date": "2026-02-25",
+    "floor": 21,
+    "area": 33.54
+  },
+  {
+    "aptNm": "신흥",
+    "dealAmount": "12,500",
+    "date": "2026-02-25",
+    "floor": 4,
+    "area": 68.48
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "3,600",
+    "date": "2026-02-24",
+    "floor": 16,
+    "area": 33.54
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "4,000",
+    "date": "2026-02-21",
+    "floor": 23,
+    "area": 33.54
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "2,770",
+    "date": "2026-02-20",
+    "floor": 4,
+    "area": 33.54
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "26,500",
+    "date": "2026-02-19",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동문동코아루",
+    "dealAmount": "24,000",
+    "date": "2026-02-18",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "아주",
+    "dealAmount": "39,500",
+    "date": "2026-02-14",
+    "floor": 1,
+    "area": 71.25
+  },
+  {
+    "aptNm": "원일에이플러스",
+    "dealAmount": "27,000",
+    "date": "2026-02-07",
+    "floor": 4,
+    "area": 84.915
+  },
+  {
+    "aptNm": "경산1차삼주봉황타운",
+    "dealAmount": "2,700",
+    "date": "2026-02-05",
+    "floor": 4,
+    "area": 33.54
+  }
+]

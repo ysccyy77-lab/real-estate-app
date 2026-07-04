@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "현광",
+    "dealAmount": "4,800",
+    "date": "2026-06-24",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "6,600",
+    "date": "2026-04-28",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "5,800",
+    "date": "2026-03-15",
+    "floor": 5,
+    "area": 59.99
+  }
+]

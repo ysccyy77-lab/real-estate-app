@@ -1,0 +1,471 @@
+[
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "41,000",
+    "date": "2026-06-25",
+    "floor": 10,
+    "area": 84.6
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "8,400",
+    "date": "2026-06-22",
+    "floor": 7,
+    "area": 49.92
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "15,000",
+    "date": "2026-06-19",
+    "floor": 1,
+    "area": 84.54
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "8,300",
+    "date": "2026-06-18",
+    "floor": 12,
+    "area": 49.92
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "47,000",
+    "date": "2026-06-17",
+    "floor": 2,
+    "area": 131.16
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "12,300",
+    "date": "2026-06-12",
+    "floor": 3,
+    "area": 84.54
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "56,500",
+    "date": "2026-06-11",
+    "floor": 5,
+    "area": 146.24
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "7,200",
+    "date": "2026-06-08",
+    "floor": 14,
+    "area": 39.95
+  },
+  {
+    "aptNm": "산호옥마을",
+    "dealAmount": "11,300",
+    "date": "2026-06-02",
+    "floor": 10,
+    "area": 84.723
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "38,900",
+    "date": "2026-05-28",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "어반빌리지",
+    "dealAmount": "13,000",
+    "date": "2026-05-27",
+    "floor": 6,
+    "area": 49.86
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "32,000",
+    "date": "2026-05-26",
+    "floor": 6,
+    "area": 72.54
+  },
+  {
+    "aptNm": "산호옥마을",
+    "dealAmount": "8,500",
+    "date": "2026-05-26",
+    "floor": 3,
+    "area": 59.959
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "8,000",
+    "date": "2026-05-25",
+    "floor": 2,
+    "area": 49.92
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "38,000",
+    "date": "2026-05-23",
+    "floor": 5,
+    "area": 84.81
+  },
+  {
+    "aptNm": "이너스내안에",
+    "dealAmount": "93,000",
+    "date": "2026-05-20",
+    "floor": 12,
+    "area": 84.78
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "33,700",
+    "date": "2026-05-20",
+    "floor": 14,
+    "area": 72.48
+  },
+  {
+    "aptNm": "한중",
+    "dealAmount": "6,800",
+    "date": "2026-05-20",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "34,700",
+    "date": "2026-05-18",
+    "floor": 7,
+    "area": 84.6
+  },
+  {
+    "aptNm": "장림대동맨션",
+    "dealAmount": "16,800",
+    "date": "2026-05-14",
+    "floor": 7,
+    "area": 84.96
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "40,000",
+    "date": "2026-05-14",
+    "floor": 8,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "38,300",
+    "date": "2026-05-11",
+    "floor": 7,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "34,200",
+    "date": "2026-05-11",
+    "floor": 8,
+    "area": 72.48
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "8,250",
+    "date": "2026-05-08",
+    "floor": 6,
+    "area": 49.92
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "55,000",
+    "date": "2026-05-07",
+    "floor": 12,
+    "area": 131.16
+  },
+  {
+    "aptNm": "효자촌(미래타운)",
+    "dealAmount": "164,000",
+    "date": "2026-05-06",
+    "floor": 14,
+    "area": 134.64
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "40,000",
+    "date": "2026-05-06",
+    "floor": 3,
+    "area": 84.6
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "9,200",
+    "date": "2026-04-30",
+    "floor": 12,
+    "area": 59.64
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "40,000",
+    "date": "2026-04-29",
+    "floor": 3,
+    "area": 84.6
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "7,000",
+    "date": "2026-04-28",
+    "floor": 3,
+    "area": 39.95
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "38,000",
+    "date": "2026-04-25",
+    "floor": 5,
+    "area": 84.6
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "14,900",
+    "date": "2026-04-22",
+    "floor": 10,
+    "area": 84.54
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "7,100",
+    "date": "2026-04-21",
+    "floor": 18,
+    "area": 39.95
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "37,500",
+    "date": "2026-04-21",
+    "floor": 7,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "50,500",
+    "date": "2026-04-20",
+    "floor": 7,
+    "area": 131.16
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "38,500",
+    "date": "2026-04-17",
+    "floor": 5,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "31,500",
+    "date": "2026-04-16",
+    "floor": 12,
+    "area": 72.48
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "15,500",
+    "date": "2026-04-11",
+    "floor": 6,
+    "area": 84.54
+  },
+  {
+    "aptNm": "어반빌리지",
+    "dealAmount": "13,200",
+    "date": "2026-04-10",
+    "floor": 12,
+    "area": 48.87
+  },
+  {
+    "aptNm": "어반빌리지",
+    "dealAmount": "13,100",
+    "date": "2026-04-08",
+    "floor": 12,
+    "area": 49.86
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "31,500",
+    "date": "2026-04-07",
+    "floor": 7,
+    "area": 72.48
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "14,000",
+    "date": "2026-04-06",
+    "floor": 15,
+    "area": 84.54
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "7,000",
+    "date": "2026-04-04",
+    "floor": 8,
+    "area": 39.95
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "21,500",
+    "date": "2026-04-03",
+    "floor": 5,
+    "area": 72.48
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "9,000",
+    "date": "2026-03-31",
+    "floor": 9,
+    "area": 49.92
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "7,950",
+    "date": "2026-03-28",
+    "floor": 2,
+    "area": 49.92
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "9,000",
+    "date": "2026-03-28",
+    "floor": 14,
+    "area": 49.92
+  },
+  {
+    "aptNm": "효자촌(미래타운)",
+    "dealAmount": "160,000",
+    "date": "2026-03-27",
+    "floor": 13,
+    "area": 101.94
+  },
+  {
+    "aptNm": "한중",
+    "dealAmount": "4,800",
+    "date": "2026-03-24",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼우궁전",
+    "dealAmount": "4,200",
+    "date": "2026-03-23",
+    "floor": 5,
+    "area": 59.925
+  },
+  {
+    "aptNm": "산호옥마을",
+    "dealAmount": "14,000",
+    "date": "2026-03-21",
+    "floor": 3,
+    "area": 84.723
+  },
+  {
+    "aptNm": "산호옥마을",
+    "dealAmount": "12,700",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 84.723
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "11,500",
+    "date": "2026-03-18",
+    "floor": 3,
+    "area": 59.64
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "33,000",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "31,000",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 72.48
+  },
+  {
+    "aptNm": "산호옥마을",
+    "dealAmount": "11,850",
+    "date": "2026-03-13",
+    "floor": 10,
+    "area": 84.723
+  },
+  {
+    "aptNm": "삼우궁전",
+    "dealAmount": "4,000",
+    "date": "2026-03-11",
+    "floor": 4,
+    "area": 59.925
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "36,000",
+    "date": "2026-03-11",
+    "floor": 4,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "31,000",
+    "date": "2026-03-11",
+    "floor": 1,
+    "area": 84.6
+  },
+  {
+    "aptNm": "이너스내안에",
+    "dealAmount": "91,000",
+    "date": "2026-03-08",
+    "floor": 10,
+    "area": 84.78
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "30,000",
+    "date": "2026-03-05",
+    "floor": 7,
+    "area": 72.54
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "8,000",
+    "date": "2026-03-04",
+    "floor": 3,
+    "area": 49.92
+  },
+  {
+    "aptNm": "산호옥마을",
+    "dealAmount": "10,000",
+    "date": "2026-02-21",
+    "floor": 10,
+    "area": 59.959
+  },
+  {
+    "aptNm": "산호옥마을",
+    "dealAmount": "14,000",
+    "date": "2026-02-10",
+    "floor": 9,
+    "area": 84.723
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "9,000",
+    "date": "2026-02-07",
+    "floor": 13,
+    "area": 49.92
+  },
+  {
+    "aptNm": "어반빌리지",
+    "dealAmount": "12,800",
+    "date": "2026-02-07",
+    "floor": 11,
+    "area": 49.96
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "7,650",
+    "date": "2026-02-06",
+    "floor": 8,
+    "area": 39.95
+  }
+]

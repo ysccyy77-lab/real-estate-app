@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "묵정",
+    "dealAmount": "50,500",
+    "date": "2026-06-05",
+    "floor": 9,
+    "area": 52.46
+  },
+  {
+    "aptNm": "묵정",
+    "dealAmount": "49,000",
+    "date": "2026-05-26",
+    "floor": 1,
+    "area": 52.46
+  },
+  {
+    "aptNm": "묵정",
+    "dealAmount": "44,500",
+    "date": "2026-04-22",
+    "floor": 1,
+    "area": 52.46
+  },
+  {
+    "aptNm": "묵정",
+    "dealAmount": "50,000",
+    "date": "2026-04-13",
+    "floor": 6,
+    "area": 52.46
+  },
+  {
+    "aptNm": "묵정",
+    "dealAmount": "57,300",
+    "date": "2026-04-08",
+    "floor": 9,
+    "area": 52.46
+  }
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "54,000",
+    "date": "2026-07-01",
+    "floor": 3,
+    "area": 72.9963
+  },
+  {
+    "aptNm": "일성한빛타운",
+    "dealAmount": "6,100",
+    "date": "2026-06-30",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "35,000",
+    "date": "2026-06-29",
+    "floor": 14,
+    "area": 101.1107
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "61,000",
+    "date": "2026-06-26",
+    "floor": 14,
+    "area": 59.9158
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "30,500",
+    "date": "2026-06-25",
+    "floor": 12,
+    "area": 72.4488
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "49,000",
+    "date": "2026-06-25",
+    "floor": 12,
+    "area": 145.131
+  },
+  {
+    "aptNm": "신일라이프",
+    "dealAmount": "41,000",
+    "date": "2026-06-24",
+    "floor": 9,
+    "area": 59.47
+  },
+  {
+    "aptNm": "덕진엘르디움",
+    "dealAmount": "25,000",
+    "date": "2026-06-24",
+    "floor": 4,
+    "area": 74.2295
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "34,000",
+    "date": "2026-06-23",
+    "floor": 23,
+    "area": 84.7627
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "47,000",
+    "date": "2026-06-21",
+    "floor": 1,
+    "area": 60.5801
+  },
+  {
+    "aptNm": "오정휴먼시아2단지",
+    "dealAmount": "63,000",
+    "date": "2026-06-20",
+    "floor": 5,
+    "area": 84.69
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "90,800",
+    "date": "2026-06-19",
+    "floor": 2,
+    "area": 134.993
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "48,500",
+    "date": "2026-06-18",
+    "floor": 3,
+    "area": 59.9967
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "110,000",
+    "date": "2026-06-18",
+    "floor": 6,
+    "area": 204.202
+  },
+  {
+    "aptNm": "신원당(삼보8)",
+    "dealAmount": "45,200",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 84.6
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "100,000",
+    "date": "2026-06-16",
+    "floor": 2,
+    "area": 204.202
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "36,000",
+    "date": "2026-06-14",
+    "floor": 26,
+    "area": 84.9892
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "101,700",
+    "date": "2026-06-13",
+    "floor": 4,
+    "area": 164.242
+  },
+  {
+    "aptNm": "가양역두산위브",
+    "dealAmount": "117,000",
+    "date": "2026-06-13",
+    "floor": 12,
+    "area": 64.46
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "64,500",
+    "date": "2026-06-11",
+    "floor": 19,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "신일라이프",
+    "dealAmount": "29,000",
+    "date": "2026-06-10",
+    "floor": 4,
+    "area": 81.68
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "59,000",
+    "date": "2026-06-08",
+    "floor": 24,
+    "area": 59.9158
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "47,500",
+    "date": "2026-06-06",
+    "floor": 14,
+    "area": 60.5801
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "49,500",
+    "date": "2026-06-06",
+    "floor": 13,
+    "area": 60.5801
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "95,000",
+    "date": "2026-06-02",
+    "floor": 20,
+    "area": 204.202
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "41,400",
+    "date": "2026-06-01",
+    "floor": 4,
+    "area": 126.2789
+  },
+  {
+    "aptNm": "오정휴먼시아2단지",
+    "dealAmount": "61,500",
+    "date": "2026-05-30",
+    "floor": 6,
+    "area": 84.69
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "98,500",
+    "date": "2026-05-30",
+    "floor": 6,
+    "area": 134.993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "99,000",
+    "date": "2026-05-27",
+    "floor": 9,
+    "area": 204.202
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "97,500",
+    "date": "2026-05-26",
+    "floor": 1,
+    "area": 204.202
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "34,400",
+    "date": "2026-05-25",
+    "floor": 4,
+    "area": 101.1115
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "103,000",
+    "date": "2026-05-23",
+    "floor": 7,
+    "area": 164.242
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "66,500",
+    "date": "2026-05-20",
+    "floor": 14,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "32,000",
+    "date": "2026-05-20",
+    "floor": 3,
+    "area": 84.7627
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "62,500",
+    "date": "2026-05-19",
+    "floor": 11,
+    "area": 84.9986
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "97,000",
+    "date": "2026-05-17",
+    "floor": 10,
+    "area": 134.993
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "59,900",
+    "date": "2026-05-16",
+    "floor": 3,
+    "area": 59.9158
+  },
+  {
+    "aptNm": "오정휴먼시아2단지",
+    "dealAmount": "57,500",
+    "date": "2026-05-14",
+    "floor": 3,
+    "area": 84.69
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "75,000",
+    "date": "2026-05-13",
+    "floor": 16,
+    "area": 204.202
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "85,000",
+    "date": "2026-05-13",
+    "floor": 18,
+    "area": 134.993
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "44,800",
+    "date": "2026-05-12",
+    "floor": 12,
+    "area": 59.9967
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "41,000",
+    "date": "2026-05-11",
+    "floor": 13,
+    "area": 126.2789
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "92,000",
+    "date": "2026-05-10",
+    "floor": 13,
+    "area": 134.993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "95,000",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 164.242
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "103,000",
+    "date": "2026-05-08",
+    "floor": 11,
+    "area": 164.242
+  },
+  {
+    "aptNm": "가양역두산위브",
+    "dealAmount": "113,000",
+    "date": "2026-05-08",
+    "floor": 7,
+    "area": 84.74
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "98,000",
+    "date": "2026-05-06",
+    "floor": 11,
+    "area": 134.993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "90,000",
+    "date": "2026-05-05",
+    "floor": 9,
+    "area": 134.993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "86,000",
+    "date": "2026-05-02",
+    "floor": 2,
+    "area": 134.993
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "59,600",
+    "date": "2026-04-28",
+    "floor": 5,
+    "area": 59.9135
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "36,200",
+    "date": "2026-04-25",
+    "floor": 30,
+    "area": 84.7627
+  },
+  {
+    "aptNm": "신원당(삼보8)",
+    "dealAmount": "45,500",
+    "date": "2026-04-23",
+    "floor": 6,
+    "area": 84.6
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "89,500",
+    "date": "2026-04-22",
+    "floor": 2,
+    "area": 134.993
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "36,900",
+    "date": "2026-04-22",
+    "floor": 5,
+    "area": 84.8683
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "47,000",
+    "date": "2026-04-21",
+    "floor": 9,
+    "area": 59.9967
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "37,000",
+    "date": "2026-04-21",
+    "floor": 6,
+    "area": 72.9929
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "35,100",
+    "date": "2026-04-21",
+    "floor": 14,
+    "area": 84.9932
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "59,800",
+    "date": "2026-04-20",
+    "floor": 24,
+    "area": 59.9158
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "64,500",
+    "date": "2026-04-18",
+    "floor": 15,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "47,000",
+    "date": "2026-04-17",
+    "floor": 16,
+    "area": 126.3993
+  },
+  {
+    "aptNm": "일성한빛타운",
+    "dealAmount": "5,900",
+    "date": "2026-04-16",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "43,500",
+    "date": "2026-04-15",
+    "floor": 7,
+    "area": 126.3993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "122,500",
+    "date": "2026-04-14",
+    "floor": 12,
+    "area": 239.193
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "30,000",
+    "date": "2026-04-14",
+    "floor": 14,
+    "area": 84.9677
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "34,300",
+    "date": "2026-04-14",
+    "floor": 5,
+    "area": 84.7627
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "103,000",
+    "date": "2026-04-11",
+    "floor": 8,
+    "area": 164.242
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "63,900",
+    "date": "2026-04-10",
+    "floor": 9,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "34,800",
+    "date": "2026-04-08",
+    "floor": 10,
+    "area": 84.8683
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "58,600",
+    "date": "2026-04-07",
+    "floor": 10,
+    "area": 59.9135
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "65,000",
+    "date": "2026-04-07",
+    "floor": 24,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "100,000",
+    "date": "2026-04-07",
+    "floor": 7,
+    "area": 204.202
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "64,800",
+    "date": "2026-04-04",
+    "floor": 6,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "105,000",
+    "date": "2026-04-04",
+    "floor": 16,
+    "area": 164.242
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "96,500",
+    "date": "2026-04-04",
+    "floor": 2,
+    "area": 164.242
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "37,500",
+    "date": "2026-04-04",
+    "floor": 17,
+    "area": 84.7627
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "58,400",
+    "date": "2026-03-30",
+    "floor": 13,
+    "area": 59.9158
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "63,700",
+    "date": "2026-03-30",
+    "floor": 15,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "99,000",
+    "date": "2026-03-28",
+    "floor": 20,
+    "area": 134.993
+  },
+  {
+    "aptNm": "가양역두산위브",
+    "dealAmount": "105,000",
+    "date": "2026-03-28",
+    "floor": 16,
+    "area": 59.98
+  },
+  {
+    "aptNm": "가양역두산위브",
+    "dealAmount": "113,000",
+    "date": "2026-03-28",
+    "floor": 5,
+    "area": 64.46
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "64,000",
+    "date": "2026-03-27",
+    "floor": 23,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "58,800",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 59.9158
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "105,200",
+    "date": "2026-03-26",
+    "floor": 12,
+    "area": 204.202
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "28,800",
+    "date": "2026-03-26",
+    "floor": 19,
+    "area": 59.9934
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "100,500",
+    "date": "2026-03-20",
+    "floor": 3,
+    "area": 204.202
+  },
+  {
+    "aptNm": "오정휴먼시아2단지",
+    "dealAmount": "67,000",
+    "date": "2026-03-19",
+    "floor": 5,
+    "area": 110.53
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "36,000",
+    "date": "2026-03-19",
+    "floor": 4,
+    "area": 101.1107
+  },
+  {
+    "aptNm": "오정휴먼시아2단지",
+    "dealAmount": "62,500",
+    "date": "2026-03-13",
+    "floor": 7,
+    "area": 84.69
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "56,800",
+    "date": "2026-03-13",
+    "floor": 15,
+    "area": 59.9135
+  },
+  {
+    "aptNm": "오정휴먼시아2단지",
+    "dealAmount": "62,500",
+    "date": "2026-03-12",
+    "floor": 7,
+    "area": 84.69
+  },
+  {
+    "aptNm": "가양역두산위브",
+    "dealAmount": "100,000",
+    "date": "2026-03-11",
+    "floor": 6,
+    "area": 59.98
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "45,000",
+    "date": "2026-03-10",
+    "floor": 11,
+    "area": 59.8502
+  },
+  {
+    "aptNm": "오정휴먼시아2단지",
+    "dealAmount": "59,500",
+    "date": "2026-03-10",
+    "floor": 6,
+    "area": 84.69
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "59,800",
+    "date": "2026-03-10",
+    "floor": 14,
+    "area": 59.9158
+  },
+  {
+    "aptNm": "신원당(삼보8)",
+    "dealAmount": "54,000",
+    "date": "2026-03-09",
+    "floor": 13,
+    "area": 114.33
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "37,500",
+    "date": "2026-03-08",
+    "floor": 26,
+    "area": 84.8683
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "56,700",
+    "date": "2026-03-07",
+    "floor": 24,
+    "area": 59.9135
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "93,000",
+    "date": "2026-03-05",
+    "floor": 5,
+    "area": 134.993
+  },
+  {
+    "aptNm": "신원당(삼보8)",
+    "dealAmount": "53,300",
+    "date": "2026-03-04",
+    "floor": 9,
+    "area": 114.33
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "105,000",
+    "date": "2026-03-04",
+    "floor": 16,
+    "area": 164.242
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "93,000",
+    "date": "2026-02-27",
+    "floor": 6,
+    "area": 134.993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "120,000",
+    "date": "2026-02-26",
+    "floor": 15,
+    "area": 239.193
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "34,000",
+    "date": "2026-02-26",
+    "floor": 14,
+    "area": 84.7627
+  },
+  {
+    "aptNm": "태전7지구C-13BL태전파크자이",
+    "dealAmount": "44,200",
+    "date": "2026-02-25",
+    "floor": 2,
+    "area": 59.9967
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "63,000",
+    "date": "2026-02-25",
+    "floor": 8,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "103,500",
+    "date": "2026-02-25",
+    "floor": 5,
+    "area": 164.242
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "37,000",
+    "date": "2026-02-24",
+    "floor": 12,
+    "area": 84.9932
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "61,700",
+    "date": "2026-02-20",
+    "floor": 19,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "신원당(삼보8)",
+    "dealAmount": "54,000",
+    "date": "2026-02-15",
+    "floor": 14,
+    "area": 114.33
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "99,000",
+    "date": "2026-02-14",
+    "floor": 16,
+    "area": 134.993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "89,000",
+    "date": "2026-02-13",
+    "floor": 6,
+    "area": 134.993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "93,000",
+    "date": "2026-02-12",
+    "floor": 2,
+    "area": 134.993
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "64,000",
+    "date": "2026-02-11",
+    "floor": 23,
+    "area": 74.5822
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "97,000",
+    "date": "2026-02-10",
+    "floor": 3,
+    "area": 164.242
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "36,300",
+    "date": "2026-02-09",
+    "floor": 16,
+    "area": 84.9677
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "30,200",
+    "date": "2026-02-09",
+    "floor": 8,
+    "area": 84.9677
+  },
+  {
+    "aptNm": "가양역두산위브",
+    "dealAmount": "118,000",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 84.74
+  },
+  {
+    "aptNm": "신일라이프",
+    "dealAmount": "46,500",
+    "date": "2026-02-09",
+    "floor": 11,
+    "area": 81.68
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "30,200",
+    "date": "2026-02-07",
+    "floor": 1,
+    "area": 84.9677
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "27,700",
+    "date": "2026-02-07",
+    "floor": 22,
+    "area": 59.9934
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "39,500",
+    "date": "2026-02-07",
+    "floor": 9,
+    "area": 84.7627
+  },
+  {
+    "aptNm": "모아미래도",
+    "dealAmount": "34,300",
+    "date": "2026-02-07",
+    "floor": 7,
+    "area": 84.7627
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "57,000",
+    "date": "2026-02-06",
+    "floor": 24,
+    "area": 59.9158
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "28,200",
+    "date": "2026-02-06",
+    "floor": 24,
+    "area": 59.9934
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "46,000",
+    "date": "2026-02-06",
+    "floor": 19,
+    "area": 126.3993
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "90,800",
+    "date": "2026-02-05",
+    "floor": 6,
+    "area": 134.993
+  },
+  {
+    "aptNm": "신원당(삼보8)",
+    "dealAmount": "44,000",
+    "date": "2026-02-04",
+    "floor": 13,
+    "area": 84.6
+  },
+  {
+    "aptNm": "LG빌리지3",
+    "dealAmount": "96,000",
+    "date": "2026-02-04",
+    "floor": 18,
+    "area": 134.993
+  },
+  {
+    "aptNm": "오정휴먼시아2단지",
+    "dealAmount": "55,000",
+    "date": "2026-02-03",
+    "floor": 1,
+    "area": 84.69
+  },
+  {
+    "aptNm": "e편한세상영통2차(1단지)",
+    "dealAmount": "54,000",
+    "date": "2026-02-02",
+    "floor": 11,
+    "area": 59.9158
+  }
+]

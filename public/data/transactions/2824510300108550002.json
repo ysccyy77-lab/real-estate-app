@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "한일",
+    "dealAmount": "23,000",
+    "date": "2026-05-29",
+    "floor": 9,
+    "area": 65.52
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "25,000",
+    "date": "2026-04-10",
+    "floor": 12,
+    "area": 74.43
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "23,200",
+    "date": "2026-04-06",
+    "floor": 7,
+    "area": 65.52
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "22,500",
+    "date": "2026-03-19",
+    "floor": 8,
+    "area": 74.43
+  }
+]

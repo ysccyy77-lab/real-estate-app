@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "비젼아파트101동",
+    "dealAmount": "68,500",
+    "date": "2026-06-25",
+    "floor": 5,
+    "area": 99.95
+  },
+  {
+    "aptNm": "우방타운1",
+    "dealAmount": "11,500",
+    "date": "2026-06-24",
+    "floor": 5,
+    "area": 78.18
+  },
+  {
+    "aptNm": "화인테크노빌",
+    "dealAmount": "8,000",
+    "date": "2026-06-15",
+    "floor": 1,
+    "area": 59.9335
+  },
+  {
+    "aptNm": "화인테크노빌",
+    "dealAmount": "10,600",
+    "date": "2026-05-22",
+    "floor": 12,
+    "area": 59.9335
+  },
+  {
+    "aptNm": "우방타운1",
+    "dealAmount": "15,550",
+    "date": "2026-05-21",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "화인테크노빌",
+    "dealAmount": "9,000",
+    "date": "2026-05-18",
+    "floor": 11,
+    "area": 59.9335
+  },
+  {
+    "aptNm": "우방타운1",
+    "dealAmount": "9,300",
+    "date": "2026-04-23",
+    "floor": 5,
+    "area": 66.01
+  },
+  {
+    "aptNm": "화인테크노빌",
+    "dealAmount": "9,000",
+    "date": "2026-04-18",
+    "floor": 8,
+    "area": 59.9335
+  },
+  {
+    "aptNm": "우방타운1",
+    "dealAmount": "11,000",
+    "date": "2026-03-07",
+    "floor": 1,
+    "area": 78.18
+  },
+  {
+    "aptNm": "화인테크노빌",
+    "dealAmount": "12,000",
+    "date": "2026-02-26",
+    "floor": 11,
+    "area": 59.9335
+  },
+  {
+    "aptNm": "우방타운1",
+    "dealAmount": "12,300",
+    "date": "2026-02-16",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "우방타운1",
+    "dealAmount": "10,800",
+    "date": "2026-02-13",
+    "floor": 4,
+    "area": 78.18
+  },
+  {
+    "aptNm": "화인테크노빌",
+    "dealAmount": "11,000",
+    "date": "2026-02-10",
+    "floor": 6,
+    "area": 59.9335
+  },
+  {
+    "aptNm": "화인테크노빌",
+    "dealAmount": "11,600",
+    "date": "2026-02-07",
+    "floor": 6,
+    "area": 59.9335
+  }
+]

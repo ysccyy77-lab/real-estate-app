@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "성거백승",
+    "dealAmount": "10,200",
+    "date": "2026-06-16",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
+    "aptNm": "성거백승",
+    "dealAmount": "10,500",
+    "date": "2026-04-19",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
+    "aptNm": "성거백승",
+    "dealAmount": "12,800",
+    "date": "2026-04-05",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "로얄맨션다동",
+    "dealAmount": "4,550",
+    "date": "2026-03-30",
+    "floor": 5,
+    "area": 57.02
+  },
+  {
+    "aptNm": "성거백승",
+    "dealAmount": "8,800",
+    "date": "2026-03-01",
+    "floor": 17,
+    "area": 59.85
+  }
+]

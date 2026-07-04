@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "중앙",
+    "dealAmount": "20,000",
+    "date": "2026-05-12",
+    "floor": 5,
+    "area": 84.24
+  },
+  {
+    "aptNm": "삼성푸른",
+    "dealAmount": "7,700",
+    "date": "2026-04-11",
+    "floor": 9,
+    "area": 59.949
+  },
+  {
+    "aptNm": "태양",
+    "dealAmount": "3,750",
+    "date": "2026-04-02",
+    "floor": 4,
+    "area": 59.97
+  },
+  {
+    "aptNm": "태양",
+    "dealAmount": "6,300",
+    "date": "2026-04-01",
+    "floor": 5,
+    "area": 84.86
+  },
+  {
+    "aptNm": "삼성푸른",
+    "dealAmount": "7,300",
+    "date": "2026-03-26",
+    "floor": 9,
+    "area": 59.949
+  },
+  {
+    "aptNm": "삼성푸른",
+    "dealAmount": "7,900",
+    "date": "2026-03-19",
+    "floor": 8,
+    "area": 59.949
+  },
+  {
+    "aptNm": "삼성푸른",
+    "dealAmount": "10,100",
+    "date": "2026-03-17",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "삼성푸른",
+    "dealAmount": "10,800",
+    "date": "2026-03-06",
+    "floor": 14,
+    "area": 84.93
+  },
+  {
+    "aptNm": "삼성푸른",
+    "dealAmount": "10,000",
+    "date": "2026-03-06",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "삼성푸른",
+    "dealAmount": "8,400",
+    "date": "2026-02-18",
+    "floor": 14,
+    "area": 59.949
+  },
+  {
+    "aptNm": "삼성푸른",
+    "dealAmount": "13,000",
+    "date": "2026-02-15",
+    "floor": 5,
+    "area": 84.93
+  }
+]

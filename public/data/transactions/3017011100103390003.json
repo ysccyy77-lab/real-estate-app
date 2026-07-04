@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "디안더블레스",
+    "dealAmount": "10,600",
+    "date": "2026-06-29",
+    "floor": 11,
+    "area": 24.6312
+  },
+  {
+    "aptNm": "대영은호",
+    "dealAmount": "7,500",
+    "date": "2026-06-23",
+    "floor": 1,
+    "area": 59.58
+  },
+  {
+    "aptNm": "대영은호",
+    "dealAmount": "5,500",
+    "date": "2026-06-23",
+    "floor": 5,
+    "area": 56.46
+  },
+  {
+    "aptNm": "디안더블레스",
+    "dealAmount": "10,000",
+    "date": "2026-03-27",
+    "floor": 9,
+    "area": 24.6312
+  },
+  {
+    "aptNm": "디안더블레스",
+    "dealAmount": "18,000",
+    "date": "2026-03-19",
+    "floor": 5,
+    "area": 49.9825
+  },
+  {
+    "aptNm": "대영은호",
+    "dealAmount": "6,500",
+    "date": "2026-02-24",
+    "floor": 7,
+    "area": 59.82
+  },
+  {
+    "aptNm": "장미(가동)",
+    "dealAmount": "8,400",
+    "date": "2026-02-04",
+    "floor": 7,
+    "area": 84.9
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "18,000",
+    "date": "2026-07-02",
+    "floor": 18,
+    "area": 76.878
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "51,500",
+    "date": "2026-06-29",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "용산2우방타운",
+    "dealAmount": "15,800",
+    "date": "2026-06-27",
+    "floor": 16,
+    "area": 59.43
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "22,300",
+    "date": "2026-06-20",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "88,500",
+    "date": "2026-06-19",
+    "floor": 10,
+    "area": 84.27
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "52,500",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 84.97
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "22,000",
+    "date": "2026-06-16",
+    "floor": 15,
+    "area": 84.896
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "21,600",
+    "date": "2026-06-13",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "47,000",
+    "date": "2026-06-12",
+    "floor": 3,
+    "area": 84.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "17,100",
+    "date": "2026-06-11",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "83,000",
+    "date": "2026-06-10",
+    "floor": 9,
+    "area": 84.27
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "16,800",
+    "date": "2026-06-09",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "23,500",
+    "date": "2026-06-05",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "21,500",
+    "date": "2026-06-05",
+    "floor": 6,
+    "area": 84.627
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "15,000",
+    "date": "2026-06-03",
+    "floor": 1,
+    "area": 59.998
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "19,300",
+    "date": "2026-05-28",
+    "floor": 15,
+    "area": 76.878
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "75,000",
+    "date": "2026-05-25",
+    "floor": 3,
+    "area": 84.33
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "47,000",
+    "date": "2026-05-23",
+    "floor": 3,
+    "area": 84.97
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "82,500",
+    "date": "2026-05-22",
+    "floor": 7,
+    "area": 84.27
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "52,200",
+    "date": "2026-05-18",
+    "floor": 3,
+    "area": 84.97
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "21,000",
+    "date": "2026-05-17",
+    "floor": 7,
+    "area": 84.488
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "20,500",
+    "date": "2026-05-16",
+    "floor": 15,
+    "area": 84.896
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "18,000",
+    "date": "2026-05-14",
+    "floor": 12,
+    "area": 59.96
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "23,200",
+    "date": "2026-05-14",
+    "floor": 14,
+    "area": 84.98
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "18,100",
+    "date": "2026-05-14",
+    "floor": 9,
+    "area": 59.96
+  },
+  {
+    "aptNm": "푸르지오캐슬(301~302)",
+    "dealAmount": "24,000",
+    "date": "2026-05-14",
+    "floor": 13,
+    "area": 59.74
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "74,500",
+    "date": "2026-05-07",
+    "floor": 7,
+    "area": 84.33
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "50,500",
+    "date": "2026-05-06",
+    "floor": 10,
+    "area": 84.39
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "50,200",
+    "date": "2026-05-05",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "용산2우방타운",
+    "dealAmount": "16,100",
+    "date": "2026-05-01",
+    "floor": 11,
+    "area": 59.43
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "17,250",
+    "date": "2026-04-30",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "76,000",
+    "date": "2026-04-30",
+    "floor": 4,
+    "area": 84.27
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "49,500",
+    "date": "2026-04-30",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "17,500",
+    "date": "2026-04-28",
+    "floor": 10,
+    "area": 59.982
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "75,000",
+    "date": "2026-04-27",
+    "floor": 8,
+    "area": 84.27
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "17,500",
+    "date": "2026-04-25",
+    "floor": 13,
+    "area": 59.998
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "70,000",
+    "date": "2026-04-24",
+    "floor": 1,
+    "area": 84.27
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "22,600",
+    "date": "2026-04-19",
+    "floor": 6,
+    "area": 74.97
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "17,500",
+    "date": "2026-04-19",
+    "floor": 3,
+    "area": 59.998
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "48,800",
+    "date": "2026-04-18",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "푸르지오캐슬(301~302)",
+    "dealAmount": "25,300",
+    "date": "2026-04-16",
+    "floor": 19,
+    "area": 59.74
+  },
+  {
+    "aptNm": "용산2우방타운",
+    "dealAmount": "15,700",
+    "date": "2026-04-14",
+    "floor": 12,
+    "area": 59.43
+  },
+  {
+    "aptNm": "푸르지오캐슬(301~302)",
+    "dealAmount": "24,500",
+    "date": "2026-04-14",
+    "floor": 8,
+    "area": 59.74
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "17,000",
+    "date": "2026-04-13",
+    "floor": 8,
+    "area": 59.998
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "19,900",
+    "date": "2026-04-11",
+    "floor": 1,
+    "area": 74.97
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "52,000",
+    "date": "2026-04-11",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "e편한세상시민공원2단지",
+    "dealAmount": "45,000",
+    "date": "2026-04-08",
+    "floor": 7,
+    "area": 59.968
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "49,500",
+    "date": "2026-04-08",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "76,000",
+    "date": "2026-04-06",
+    "floor": 12,
+    "area": 84.33
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "16,000",
+    "date": "2026-04-04",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "31,200",
+    "date": "2026-04-03",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "22,700",
+    "date": "2026-03-31",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "16,800",
+    "date": "2026-03-31",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "19,000",
+    "date": "2026-03-29",
+    "floor": 3,
+    "area": 74.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "16,800",
+    "date": "2026-03-29",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "21,400",
+    "date": "2026-03-28",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "75,000",
+    "date": "2026-03-28",
+    "floor": 14,
+    "area": 84.33
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "17,700",
+    "date": "2026-03-26",
+    "floor": 9,
+    "area": 59.998
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "71,000",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "19,900",
+    "date": "2026-03-21",
+    "floor": 8,
+    "area": 74.97
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "19,300",
+    "date": "2026-03-21",
+    "floor": 15,
+    "area": 76.878
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "23,400",
+    "date": "2026-03-19",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "34,000",
+    "date": "2026-03-19",
+    "floor": 6,
+    "area": 142.75
+  },
+  {
+    "aptNm": "용산2우방타운",
+    "dealAmount": "11,600",
+    "date": "2026-03-18",
+    "floor": 12,
+    "area": 34.21
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "20,500",
+    "date": "2026-03-16",
+    "floor": 3,
+    "area": 84.488
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "48,000",
+    "date": "2026-03-15",
+    "floor": 4,
+    "area": 84.97
+  },
+  {
+    "aptNm": "푸르지오캐슬(301~302)",
+    "dealAmount": "24,100",
+    "date": "2026-03-15",
+    "floor": 4,
+    "area": 59.74
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "17,000",
+    "date": "2026-03-14",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "용산2우방타운",
+    "dealAmount": "21,400",
+    "date": "2026-03-09",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "용산2우방타운",
+    "dealAmount": "25,000",
+    "date": "2026-03-07",
+    "floor": 10,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "49,700",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 84.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "19,000",
+    "date": "2026-03-03",
+    "floor": 4,
+    "area": 74.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "21,500",
+    "date": "2026-03-01",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "50,800",
+    "date": "2026-02-28",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "23,500",
+    "date": "2026-02-26",
+    "floor": 13,
+    "area": 74.97
+  },
+  {
+    "aptNm": "극동스타클래스센트럴",
+    "dealAmount": "18,000",
+    "date": "2026-02-25",
+    "floor": 15,
+    "area": 59.998
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "70,000",
+    "date": "2026-02-23",
+    "floor": 1,
+    "area": 84.27
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "49,700",
+    "date": "2026-02-20",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "20,500",
+    "date": "2026-02-15",
+    "floor": 8,
+    "area": 74.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "23,600",
+    "date": "2026-02-15",
+    "floor": 13,
+    "area": 74.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "19,000",
+    "date": "2026-02-11",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "용산2우방타운",
+    "dealAmount": "23,400",
+    "date": "2026-02-07",
+    "floor": 9,
+    "area": 84.94
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "23,000",
+    "date": "2026-02-06",
+    "floor": 9,
+    "area": 74.97
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "73,700",
+    "date": "2026-02-06",
+    "floor": 13,
+    "area": 84.33
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "46,000",
+    "date": "2026-02-05",
+    "floor": 1,
+    "area": 84.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "22,700",
+    "date": "2026-02-03",
+    "floor": 8,
+    "area": 84.98
+  }
+]

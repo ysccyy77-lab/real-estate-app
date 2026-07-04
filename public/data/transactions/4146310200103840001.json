@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "동부",
+    "dealAmount": "72,000",
+    "date": "2026-06-26",
+    "floor": 2,
+    "area": 62.17
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "72,500",
+    "date": "2026-06-15",
+    "floor": 7,
+    "area": 62.17
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "71,500",
+    "date": "2026-06-10",
+    "floor": 9,
+    "area": 62.17
+  },
+  {
+    "aptNm": "한빛골드빌1차",
+    "dealAmount": "74,700",
+    "date": "2026-05-17",
+    "floor": 11,
+    "area": 84.77
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "70,000",
+    "date": "2026-05-14",
+    "floor": 7,
+    "area": 62.17
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "71,000",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 62.17
+  },
+  {
+    "aptNm": "우공팰리스",
+    "dealAmount": "105,000",
+    "date": "2026-04-13",
+    "floor": 2,
+    "area": 84.42
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "72,000",
+    "date": "2026-04-02",
+    "floor": 6,
+    "area": 62.17
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "66,500",
+    "date": "2026-02-28",
+    "floor": 9,
+    "area": 62.17
+  }
+]

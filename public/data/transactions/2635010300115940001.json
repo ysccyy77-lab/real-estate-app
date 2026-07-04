@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "보훈",
+    "dealAmount": "7,100",
+    "date": "2026-06-26",
+    "floor": 3,
+    "area": 40.66
+  },
+  {
+    "aptNm": "보훈",
+    "dealAmount": "3,900",
+    "date": "2026-06-01",
+    "floor": 2,
+    "area": 40.66
+  },
+  {
+    "aptNm": "세일주택",
+    "dealAmount": "13,000",
+    "date": "2026-05-22",
+    "floor": 1,
+    "area": 65.7
+  }
+]

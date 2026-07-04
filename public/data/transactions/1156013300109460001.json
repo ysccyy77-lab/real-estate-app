@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "67,700",
+    "date": "2026-06-13",
+    "floor": 13,
+    "area": 59.76
+  },
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "86,000",
+    "date": "2026-05-09",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "68,000",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 59.76
+  },
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "77,000",
+    "date": "2026-05-09",
+    "floor": 13,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "60,000",
+    "date": "2026-04-26",
+    "floor": 1,
+    "area": 59.76
+  },
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "81,500",
+    "date": "2026-04-16",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "77,000",
+    "date": "2026-04-08",
+    "floor": 16,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "63,500",
+    "date": "2026-04-06",
+    "floor": 5,
+    "area": 59.76
+  },
+  {
+    "aptNm": "대림현대",
+    "dealAmount": "68,000",
+    "date": "2026-03-28",
+    "floor": 15,
+    "area": 59.76
+  }
+]

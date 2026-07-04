@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "대동차룡",
+    "dealAmount": "15,900",
+    "date": "2026-05-27",
+    "floor": 2,
+    "area": 49.98
+  },
+  {
+    "aptNm": "대동차룡",
+    "dealAmount": "13,900",
+    "date": "2026-05-02",
+    "floor": 1,
+    "area": 49.98
+  },
+  {
+    "aptNm": "대동차룡",
+    "dealAmount": "17,350",
+    "date": "2026-04-08",
+    "floor": 5,
+    "area": 49.98
+  },
+  {
+    "aptNm": "대동차룡",
+    "dealAmount": "16,000",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 49.98
+  }
+]

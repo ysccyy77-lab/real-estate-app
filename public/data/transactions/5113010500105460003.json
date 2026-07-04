@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "미소지움아파트",
+    "dealAmount": "13,700",
+    "date": "2026-05-10",
+    "floor": 5,
+    "area": 44.7838
+  },
+  {
+    "aptNm": "서초",
+    "dealAmount": "7,000",
+    "date": "2026-05-07",
+    "floor": 11,
+    "area": 46.915
+  },
+  {
+    "aptNm": "서초",
+    "dealAmount": "6,500",
+    "date": "2026-03-17",
+    "floor": 8,
+    "area": 46.915
+  },
+  {
+    "aptNm": "서초",
+    "dealAmount": "6,500",
+    "date": "2026-03-01",
+    "floor": 11,
+    "area": 46.915
+  },
+  {
+    "aptNm": "서초",
+    "dealAmount": "6,000",
+    "date": "2026-02-24",
+    "floor": 7,
+    "area": 46.915
+  },
+  {
+    "aptNm": "서초",
+    "dealAmount": "6,400",
+    "date": "2026-02-08",
+    "floor": 6,
+    "area": 46.915
+  }
+]

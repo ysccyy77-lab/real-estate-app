@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "동신",
+    "dealAmount": "30,500",
+    "date": "2026-04-15",
+    "floor": 9,
+    "area": 72.9
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "30,700",
+    "date": "2026-03-03",
+    "floor": 7,
+    "area": 58.59
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "26,500",
+    "date": "2026-02-19",
+    "floor": 9,
+    "area": 58.59
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "37,000",
+    "date": "2026-02-11",
+    "floor": 8,
+    "area": 72.9
+  }
+]

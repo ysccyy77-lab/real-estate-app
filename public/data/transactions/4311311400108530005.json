@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "포빌",
+    "dealAmount": "12,700",
+    "date": "2026-04-28",
+    "floor": 6,
+    "area": 47.215
+  },
+  {
+    "aptNm": "포빌",
+    "dealAmount": "13,300",
+    "date": "2026-04-24",
+    "floor": 19,
+    "area": 47.215
+  },
+  {
+    "aptNm": "포빌",
+    "dealAmount": "13,250",
+    "date": "2026-04-21",
+    "floor": 16,
+    "area": 47.215
+  },
+  {
+    "aptNm": "포빌",
+    "dealAmount": "13,000",
+    "date": "2026-04-21",
+    "floor": 18,
+    "area": 47.215
+  },
+  {
+    "aptNm": "포빌",
+    "dealAmount": "8,000",
+    "date": "2026-03-17",
+    "floor": 9,
+    "area": 22.915
+  },
+  {
+    "aptNm": "포빌",
+    "dealAmount": "8,280",
+    "date": "2026-02-09",
+    "floor": 9,
+    "area": 22.821
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "SJ성진힐스",
+    "dealAmount": "36,500",
+    "date": "2026-04-25",
+    "floor": 9,
+    "area": 57.74
+  },
+  {
+    "aptNm": "마동2단지",
+    "dealAmount": "5,600",
+    "date": "2026-03-14",
+    "floor": 1,
+    "area": 52.37
+  },
+  {
+    "aptNm": "SJ성진힐스",
+    "dealAmount": "31,800",
+    "date": "2026-02-05",
+    "floor": 11,
+    "area": 48.46
+  }
+]

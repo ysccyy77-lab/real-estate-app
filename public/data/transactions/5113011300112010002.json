@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "동신",
+    "dealAmount": "18,000",
+    "date": "2026-06-23",
+    "floor": 5,
+    "area": 84.48
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "14,800",
+    "date": "2026-06-19",
+    "floor": 1,
+    "area": 84.48
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "17,500",
+    "date": "2026-06-15",
+    "floor": 8,
+    "area": 84.48
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "14,800",
+    "date": "2026-05-27",
+    "floor": 5,
+    "area": 84.48
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "13,800",
+    "date": "2026-05-22",
+    "floor": 2,
+    "area": 75.6
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "14,800",
+    "date": "2026-02-27",
+    "floor": 5,
+    "area": 84.48
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "16,500",
+    "date": "2026-02-22",
+    "floor": 2,
+    "area": 84.48
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "19,500",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 84.48
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "18,000",
+    "date": "2026-02-05",
+    "floor": 14,
+    "area": 84.48
+  }
+]

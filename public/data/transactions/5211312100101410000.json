@@ -1,0 +1,884 @@
+[
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "5,800",
+    "date": "2026-07-03",
+    "floor": 1,
+    "area": 38.88
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,500",
+    "date": "2026-06-26",
+    "floor": 9,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,200",
+    "date": "2026-06-26",
+    "floor": 15,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "7,000",
+    "date": "2026-06-26",
+    "floor": 5,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,700",
+    "date": "2026-06-22",
+    "floor": 15,
+    "area": 59.93
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "24,300",
+    "date": "2026-06-20",
+    "floor": 8,
+    "area": 75.12
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "26,000",
+    "date": "2026-06-19",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "44,000",
+    "date": "2026-06-16",
+    "floor": 6,
+    "area": 84.782
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,200",
+    "date": "2026-06-15",
+    "floor": 4,
+    "area": 49.89
+  },
+  {
+    "aptNm": "우방3차",
+    "dealAmount": "21,000",
+    "date": "2026-06-12",
+    "floor": 14,
+    "area": 131.22
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,200",
+    "date": "2026-06-11",
+    "floor": 7,
+    "area": 49.89
+  },
+  {
+    "aptNm": "우방3차",
+    "dealAmount": "18,000",
+    "date": "2026-06-10",
+    "floor": 1,
+    "area": 131.22
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "4,800",
+    "date": "2026-06-10",
+    "floor": 4,
+    "area": 43.29
+  },
+  {
+    "aptNm": "새중동",
+    "dealAmount": "10,800",
+    "date": "2026-06-09",
+    "floor": 4,
+    "area": 50.82
+  },
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "7,400",
+    "date": "2026-06-08",
+    "floor": 6,
+    "area": 38.88
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "18,500",
+    "date": "2026-06-08",
+    "floor": 4,
+    "area": 59.9
+  },
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "6,800",
+    "date": "2026-06-06",
+    "floor": 8,
+    "area": 38.88
+  },
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "6,500",
+    "date": "2026-06-06",
+    "floor": 5,
+    "area": 38.88
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "18,100",
+    "date": "2026-06-06",
+    "floor": 13,
+    "area": 59.97
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,300",
+    "date": "2026-06-05",
+    "floor": 3,
+    "area": 49.89
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "19,400",
+    "date": "2026-06-04",
+    "floor": 4,
+    "area": 59.9
+  },
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "6,000",
+    "date": "2026-05-31",
+    "floor": 9,
+    "area": 38.88
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "29,500",
+    "date": "2026-05-30",
+    "floor": 11,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "33,500",
+    "date": "2026-05-27",
+    "floor": 5,
+    "area": 59.4
+  },
+  {
+    "aptNm": "우방3차",
+    "dealAmount": "18,000",
+    "date": "2026-05-27",
+    "floor": 1,
+    "area": 131.22
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,300",
+    "date": "2026-05-21",
+    "floor": 13,
+    "area": 49.89
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "17,500",
+    "date": "2026-05-20",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,900",
+    "date": "2026-05-18",
+    "floor": 13,
+    "area": 49.89
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "27,000",
+    "date": "2026-05-16",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "3,550",
+    "date": "2026-05-15",
+    "floor": 11,
+    "area": 30.31
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "7,100",
+    "date": "2026-05-11",
+    "floor": 5,
+    "area": 59.93
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "5,000",
+    "date": "2026-05-10",
+    "floor": 2,
+    "area": 43.29
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "34,000",
+    "date": "2026-05-09",
+    "floor": 20,
+    "area": 74.7821
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "196,000",
+    "date": "2026-05-08",
+    "floor": 6,
+    "area": 129.45
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "7,000",
+    "date": "2026-05-08",
+    "floor": 10,
+    "area": 49.89
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "29,000",
+    "date": "2026-05-08",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "33,400",
+    "date": "2026-05-07",
+    "floor": 20,
+    "area": 78.9317
+  },
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "6,500",
+    "date": "2026-05-06",
+    "floor": 8,
+    "area": 38.88
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "168,000",
+    "date": "2026-05-05",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,000",
+    "date": "2026-05-05",
+    "floor": 3,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,600",
+    "date": "2026-05-04",
+    "floor": 6,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,200",
+    "date": "2026-05-04",
+    "floor": 16,
+    "area": 49.89
+  },
+  {
+    "aptNm": "수정아파트",
+    "dealAmount": "5,100",
+    "date": "2026-05-02",
+    "floor": 3,
+    "area": 49.57
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "121,000",
+    "date": "2026-05-01",
+    "floor": 15,
+    "area": 50.4
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,300",
+    "date": "2026-04-30",
+    "floor": 1,
+    "area": 49.89
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "26,000",
+    "date": "2026-04-30",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,100",
+    "date": "2026-04-29",
+    "floor": 17,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,900",
+    "date": "2026-04-27",
+    "floor": 13,
+    "area": 49.89
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "30,000",
+    "date": "2026-04-23",
+    "floor": 12,
+    "area": 59.4
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,900",
+    "date": "2026-04-21",
+    "floor": 17,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "7,700",
+    "date": "2026-04-20",
+    "floor": 18,
+    "area": 59.93
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "3,480",
+    "date": "2026-04-19",
+    "floor": 15,
+    "area": 30.31
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,400",
+    "date": "2026-04-17",
+    "floor": 5,
+    "area": 49.89
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "174,000",
+    "date": "2026-04-16",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "25,700",
+    "date": "2026-04-15",
+    "floor": 1,
+    "area": 84.94
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "34,500",
+    "date": "2026-04-13",
+    "floor": 14,
+    "area": 79.5826
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "3,300",
+    "date": "2026-04-13",
+    "floor": 15,
+    "area": 30.31
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,800",
+    "date": "2026-04-10",
+    "floor": 4,
+    "area": 59.93
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "33,000",
+    "date": "2026-04-09",
+    "floor": 12,
+    "area": 59.4
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,300",
+    "date": "2026-04-07",
+    "floor": 12,
+    "area": 49.89
+  },
+  {
+    "aptNm": "아이에스빌리브",
+    "dealAmount": "40,200",
+    "date": "2026-04-06",
+    "floor": 4,
+    "area": 74.48
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "18,000",
+    "date": "2026-04-06",
+    "floor": 4,
+    "area": 59.97
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "3,570",
+    "date": "2026-04-05",
+    "floor": 15,
+    "area": 30.31
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "34,500",
+    "date": "2026-04-04",
+    "floor": 11,
+    "area": 134.62
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "41,500",
+    "date": "2026-03-31",
+    "floor": 3,
+    "area": 84.782
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,779",
+    "date": "2026-03-31",
+    "floor": 6,
+    "area": 49.89
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "31,800",
+    "date": "2026-03-30",
+    "floor": 7,
+    "area": 77.3871
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "35,000",
+    "date": "2026-03-28",
+    "floor": 12,
+    "area": 59.4
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "33,300",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 76.0213
+  },
+  {
+    "aptNm": "옥산서한이다음",
+    "dealAmount": "19,700",
+    "date": "2026-03-27",
+    "floor": 2,
+    "area": 84.9455
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "177,000",
+    "date": "2026-03-25",
+    "floor": 11,
+    "area": 101.67
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "33,000",
+    "date": "2026-03-24",
+    "floor": 10,
+    "area": 59.4
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "22,300",
+    "date": "2026-03-24",
+    "floor": 1,
+    "area": 75.12
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,550",
+    "date": "2026-03-21",
+    "floor": 15,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,150",
+    "date": "2026-03-21",
+    "floor": 2,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "7,100",
+    "date": "2026-03-21",
+    "floor": 5,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,780",
+    "date": "2026-03-20",
+    "floor": 12,
+    "area": 49.89
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "3,200",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 30.31
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "8,500",
+    "date": "2026-03-19",
+    "floor": 15,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,500",
+    "date": "2026-03-18",
+    "floor": 5,
+    "area": 49.89
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "18,400",
+    "date": "2026-03-18",
+    "floor": 17,
+    "area": 59.97
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "23,900",
+    "date": "2026-03-18",
+    "floor": 15,
+    "area": 75.12
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "51,000",
+    "date": "2026-03-17",
+    "floor": 12,
+    "area": 134.91
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,800",
+    "date": "2026-03-17",
+    "floor": 4,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,300",
+    "date": "2026-03-15",
+    "floor": 12,
+    "area": 49.89
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "32,000",
+    "date": "2026-03-14",
+    "floor": 10,
+    "area": 77.3871
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "29,200",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 78.8694
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "26,300",
+    "date": "2026-03-13",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "19,000",
+    "date": "2026-03-13",
+    "floor": 4,
+    "area": 59.9
+  },
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "6,500",
+    "date": "2026-03-12",
+    "floor": 4,
+    "area": 38.88
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,700",
+    "date": "2026-03-11",
+    "floor": 3,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,800",
+    "date": "2026-03-10",
+    "floor": 8,
+    "area": 49.89
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "32,750",
+    "date": "2026-03-09",
+    "floor": 19,
+    "area": 74.4647
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,000",
+    "date": "2026-03-09",
+    "floor": 12,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,300",
+    "date": "2026-03-08",
+    "floor": 15,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,000",
+    "date": "2026-03-06",
+    "floor": 4,
+    "area": 49.89
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "18,000",
+    "date": "2026-03-06",
+    "floor": 12,
+    "area": 59.97
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,500",
+    "date": "2026-03-04",
+    "floor": 4,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,400",
+    "date": "2026-03-04",
+    "floor": 3,
+    "area": 49.89
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "27,000",
+    "date": "2026-03-03",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,650",
+    "date": "2026-03-02",
+    "floor": 8,
+    "area": 59.93
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,800",
+    "date": "2026-03-01",
+    "floor": 9,
+    "area": 49.89
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "31,500",
+    "date": "2026-02-28",
+    "floor": 14,
+    "area": 75.2088
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "3,800",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 30.31
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "25,200",
+    "date": "2026-02-27",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,000",
+    "date": "2026-02-26",
+    "floor": 13,
+    "area": 59.93
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "21,000",
+    "date": "2026-02-24",
+    "floor": 5,
+    "area": 59.9
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "185,000",
+    "date": "2026-02-23",
+    "floor": 5,
+    "area": 101.67
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "160,000",
+    "date": "2026-02-23",
+    "floor": 1,
+    "area": 84.97
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,200",
+    "date": "2026-02-21",
+    "floor": 3,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,800",
+    "date": "2026-02-20",
+    "floor": 10,
+    "area": 59.93
+  },
+  {
+    "aptNm": "건영아모리움",
+    "dealAmount": "33,000",
+    "date": "2026-02-19",
+    "floor": 15,
+    "area": 78.466
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,700",
+    "date": "2026-02-19",
+    "floor": 1,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,900",
+    "date": "2026-02-19",
+    "floor": 6,
+    "area": 59.93
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "3,500",
+    "date": "2026-02-19",
+    "floor": 3,
+    "area": 30.31
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "174,000",
+    "date": "2026-02-14",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "5,050",
+    "date": "2026-02-13",
+    "floor": 6,
+    "area": 49.89
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "24,500",
+    "date": "2026-02-13",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "청솔마을(대원)",
+    "dealAmount": "199,000",
+    "date": "2026-02-12",
+    "floor": 21,
+    "area": 129.45
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "24,600",
+    "date": "2026-02-10",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "40,000",
+    "date": "2026-02-09",
+    "floor": 3,
+    "area": 84.782
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "30,000",
+    "date": "2026-02-06",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "7,000",
+    "date": "2026-02-06",
+    "floor": 16,
+    "area": 59.93
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "18,700",
+    "date": "2026-02-06",
+    "floor": 2,
+    "area": 59.9
+  },
+  {
+    "aptNm": "우방3차",
+    "dealAmount": "13,500",
+    "date": "2026-02-05",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "6,900",
+    "date": "2026-02-04",
+    "floor": 5,
+    "area": 38.88
+  }
+]

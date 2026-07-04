@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "송산중명",
+    "dealAmount": "6,700",
+    "date": "2026-06-26",
+    "floor": 7,
+    "area": 59.34
+  },
+  {
+    "aptNm": "송산중명",
+    "dealAmount": "6,600",
+    "date": "2026-06-09",
+    "floor": 15,
+    "area": 59.34
+  },
+  {
+    "aptNm": "송산중명",
+    "dealAmount": "6,700",
+    "date": "2026-05-04",
+    "floor": 6,
+    "area": 59.34
+  },
+  {
+    "aptNm": "송산중명",
+    "dealAmount": "4,500",
+    "date": "2026-04-30",
+    "floor": 1,
+    "area": 59.34
+  },
+  {
+    "aptNm": "송산중명",
+    "dealAmount": "6,800",
+    "date": "2026-04-28",
+    "floor": 6,
+    "area": 59.34
+  },
+  {
+    "aptNm": "송산중명",
+    "dealAmount": "6,200",
+    "date": "2026-04-23",
+    "floor": 9,
+    "area": 59.34
+  },
+  {
+    "aptNm": "송산중명",
+    "dealAmount": "6,600",
+    "date": "2026-04-01",
+    "floor": 4,
+    "area": 59.34
+  }
+]

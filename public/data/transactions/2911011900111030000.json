@@ -1,0 +1,912 @@
+[
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "29,000",
+    "date": "2026-06-30",
+    "floor": 1,
+    "area": 68.13
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "34,500",
+    "date": "2026-06-26",
+    "floor": 13,
+    "area": 59.31
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "75,700",
+    "date": "2026-06-24",
+    "floor": 6,
+    "area": 74.99
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "84,000",
+    "date": "2026-06-24",
+    "floor": 10,
+    "area": 84.38
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "73,500",
+    "date": "2026-06-20",
+    "floor": 9,
+    "area": 74.96
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "9,500",
+    "date": "2026-06-17",
+    "floor": 1,
+    "area": 45.066
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "30,000",
+    "date": "2026-06-13",
+    "floor": 16,
+    "area": 59.31
+  },
+  {
+    "aptNm": "취암모닝빌아파트",
+    "dealAmount": "25,000",
+    "date": "2026-06-13",
+    "floor": 2,
+    "area": 59.9944
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "30,000",
+    "date": "2026-06-12",
+    "floor": 2,
+    "area": 68.13
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "29,500",
+    "date": "2026-06-12",
+    "floor": 7,
+    "area": 59.31
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "110,000",
+    "date": "2026-06-12",
+    "floor": 2,
+    "area": 84.9
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "38,000",
+    "date": "2026-06-08",
+    "floor": 5,
+    "area": 68.13
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "21,800",
+    "date": "2026-06-06",
+    "floor": 11,
+    "area": 84.994
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "73,500",
+    "date": "2026-06-04",
+    "floor": 17,
+    "area": 74.96
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "62,000",
+    "date": "2026-06-03",
+    "floor": 3,
+    "area": 84.72
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "17,500",
+    "date": "2026-06-03",
+    "floor": 13,
+    "area": 74.657
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "29,800",
+    "date": "2026-06-02",
+    "floor": 8,
+    "area": 59.31
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "30,800",
+    "date": "2026-05-28",
+    "floor": 8,
+    "area": 59.31
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "35,700",
+    "date": "2026-05-28",
+    "floor": 4,
+    "area": 68.13
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "79,000",
+    "date": "2026-05-27",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "34,500",
+    "date": "2026-05-27",
+    "floor": 12,
+    "area": 68.13
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "106,500",
+    "date": "2026-05-27",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "73,500",
+    "date": "2026-05-25",
+    "floor": 11,
+    "area": 74.96
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "73,200",
+    "date": "2026-05-25",
+    "floor": 5,
+    "area": 74.98
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "34,000",
+    "date": "2026-05-23",
+    "floor": 4,
+    "area": 68.13
+  },
+  {
+    "aptNm": "청주현진에버빌",
+    "dealAmount": "30,000",
+    "date": "2026-05-23",
+    "floor": 1,
+    "area": 84.984
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "35,000",
+    "date": "2026-05-22",
+    "floor": 13,
+    "area": 68.13
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "99,500",
+    "date": "2026-05-22",
+    "floor": 4,
+    "area": 76.05
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "27,300",
+    "date": "2026-05-21",
+    "floor": 2,
+    "area": 59.31
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "67,500",
+    "date": "2026-05-21",
+    "floor": 3,
+    "area": 134.78
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "50,000",
+    "date": "2026-05-21",
+    "floor": 2,
+    "area": 55.65
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "14,500",
+    "date": "2026-05-20",
+    "floor": 6,
+    "area": 59.983
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "32,900",
+    "date": "2026-05-19",
+    "floor": 8,
+    "area": 68.13
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "73,000",
+    "date": "2026-05-16",
+    "floor": 4,
+    "area": 74.97
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "32,000",
+    "date": "2026-05-16",
+    "floor": 10,
+    "area": 68.13
+  },
+  {
+    "aptNm": "청주현진에버빌",
+    "dealAmount": "28,500",
+    "date": "2026-05-15",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "71,500",
+    "date": "2026-05-13",
+    "floor": 10,
+    "area": 74.97
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "79,000",
+    "date": "2026-05-13",
+    "floor": 22,
+    "area": 84.88
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "78,500",
+    "date": "2026-05-12",
+    "floor": 18,
+    "area": 84.38
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "29,000",
+    "date": "2026-05-11",
+    "floor": 11,
+    "area": 59.31
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "29,000",
+    "date": "2026-05-11",
+    "floor": 7,
+    "area": 59.31
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "105,000",
+    "date": "2026-05-07",
+    "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "70,000",
+    "date": "2026-05-06",
+    "floor": 17,
+    "area": 84.98
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "28,000",
+    "date": "2026-05-04",
+    "floor": 18,
+    "area": 59.31
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "89,000",
+    "date": "2026-05-02",
+    "floor": 14,
+    "area": 84.9
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "33,500",
+    "date": "2026-05-01",
+    "floor": 14,
+    "area": 68.13
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "70,000",
+    "date": "2026-04-30",
+    "floor": 16,
+    "area": 134.78
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "74,500",
+    "date": "2026-04-30",
+    "floor": 16,
+    "area": 55.65
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "79,700",
+    "date": "2026-04-28",
+    "floor": 7,
+    "area": 84.38
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "37,000",
+    "date": "2026-04-28",
+    "floor": 15,
+    "area": 68.13
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "108,800",
+    "date": "2026-04-25",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "한양수자인",
+    "dealAmount": "23,800",
+    "date": "2026-04-24",
+    "floor": 9,
+    "area": 70.435
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "35,000",
+    "date": "2026-04-23",
+    "floor": 3,
+    "area": 68.13
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "31,500",
+    "date": "2026-04-23",
+    "floor": 5,
+    "area": 68.13
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "29,000",
+    "date": "2026-04-23",
+    "floor": 10,
+    "area": 68.13
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "104,000",
+    "date": "2026-04-23",
+    "floor": 18,
+    "area": 84.9
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "30,900",
+    "date": "2026-04-22",
+    "floor": 15,
+    "area": 68.13
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "63,700",
+    "date": "2026-04-19",
+    "floor": 8,
+    "area": 84.72
+  },
+  {
+    "aptNm": "청주현진에버빌",
+    "dealAmount": "28,000",
+    "date": "2026-04-19",
+    "floor": 12,
+    "area": 84.99
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "75,000",
+    "date": "2026-04-18",
+    "floor": 14,
+    "area": 84.68
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "110,000",
+    "date": "2026-04-16",
+    "floor": 14,
+    "area": 84.9
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "74,700",
+    "date": "2026-04-15",
+    "floor": 3,
+    "area": 84.38
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "35,000",
+    "date": "2026-04-15",
+    "floor": 6,
+    "area": 68.13
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "30,500",
+    "date": "2026-04-15",
+    "floor": 2,
+    "area": 68.13
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "78,500",
+    "date": "2026-04-14",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "18,500",
+    "date": "2026-04-14",
+    "floor": 21,
+    "area": 84.994
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "31,900",
+    "date": "2026-04-13",
+    "floor": 4,
+    "area": 68.13
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "29,500",
+    "date": "2026-04-12",
+    "floor": 1,
+    "area": 68.13
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "14,400",
+    "date": "2026-04-09",
+    "floor": 22,
+    "area": 59.983
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "70,000",
+    "date": "2026-04-08",
+    "floor": 4,
+    "area": 74.97
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "31,000",
+    "date": "2026-04-08",
+    "floor": 6,
+    "area": 68.13
+  },
+  {
+    "aptNm": "청주현진에버빌",
+    "dealAmount": "33,100",
+    "date": "2026-04-07",
+    "floor": 12,
+    "area": 84.984
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "32,000",
+    "date": "2026-04-06",
+    "floor": 8,
+    "area": 68.13
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "90,500",
+    "date": "2026-04-06",
+    "floor": 2,
+    "area": 76.05
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "63,000",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 74.97
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "62,000",
+    "date": "2026-04-04",
+    "floor": 4,
+    "area": 84.72
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "68,500",
+    "date": "2026-04-03",
+    "floor": 1,
+    "area": 74.96
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "33,000",
+    "date": "2026-04-03",
+    "floor": 7,
+    "area": 68.13
+  },
+  {
+    "aptNm": "청주현진에버빌",
+    "dealAmount": "28,500",
+    "date": "2026-04-03",
+    "floor": 10,
+    "area": 84.993
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "114,000",
+    "date": "2026-04-02",
+    "floor": 10,
+    "area": 84.9
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "38,500",
+    "date": "2026-03-28",
+    "floor": 12,
+    "area": 68.13
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "28,000",
+    "date": "2026-03-28",
+    "floor": 2,
+    "area": 59.31
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "53,000",
+    "date": "2026-03-28",
+    "floor": 4,
+    "area": 59.55
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "18,500",
+    "date": "2026-03-27",
+    "floor": 3,
+    "area": 84.994
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "76,000",
+    "date": "2026-03-23",
+    "floor": 17,
+    "area": 84.68
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "80,000",
+    "date": "2026-03-23",
+    "floor": 17,
+    "area": 84.9
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "34,400",
+    "date": "2026-03-21",
+    "floor": 7,
+    "area": 68.13
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "74,800",
+    "date": "2026-03-20",
+    "floor": 5,
+    "area": 84.68
+  },
+  {
+    "aptNm": "청주현진에버빌",
+    "dealAmount": "25,500",
+    "date": "2026-03-20",
+    "floor": 2,
+    "area": 84.993
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "30,000",
+    "date": "2026-03-19",
+    "floor": 7,
+    "area": 68.13
+  },
+  {
+    "aptNm": "한양수자인",
+    "dealAmount": "23,400",
+    "date": "2026-03-16",
+    "floor": 13,
+    "area": 70.435
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "77,000",
+    "date": "2026-03-14",
+    "floor": 6,
+    "area": 84.38
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "76,000",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "54,000",
+    "date": "2026-03-14",
+    "floor": 2,
+    "area": 84.72
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "52,000",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 59.55
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "53,000",
+    "date": "2026-03-14",
+    "floor": 5,
+    "area": 59.55
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "102,500",
+    "date": "2026-03-14",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "74,000",
+    "date": "2026-03-13",
+    "floor": 22,
+    "area": 84.88
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "80,000",
+    "date": "2026-03-13",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "77,500",
+    "date": "2026-03-11",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "75,500",
+    "date": "2026-03-10",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "98,800",
+    "date": "2026-03-10",
+    "floor": 8,
+    "area": 76.05
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "47,000",
+    "date": "2026-03-09",
+    "floor": 3,
+    "area": 59.55
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "34,900",
+    "date": "2026-03-08",
+    "floor": 5,
+    "area": 68.13
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "73,000",
+    "date": "2026-03-07",
+    "floor": 10,
+    "area": 74.97
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "69,700",
+    "date": "2026-03-07",
+    "floor": 14,
+    "area": 74.97
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "72,800",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 74.97
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "57,500",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 84.72
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "74,000",
+    "date": "2026-03-05",
+    "floor": 3,
+    "area": 84.38
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "67,000",
+    "date": "2026-03-03",
+    "floor": 1,
+    "area": 74.97
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "74,000",
+    "date": "2026-03-02",
+    "floor": 2,
+    "area": 84.38
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "71,000",
+    "date": "2026-03-02",
+    "floor": 14,
+    "area": 74.96
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "74,000",
+    "date": "2026-03-01",
+    "floor": 8,
+    "area": 134.78
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "70,000",
+    "date": "2026-02-27",
+    "floor": 8,
+    "area": 74.97
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "35,700",
+    "date": "2026-02-27",
+    "floor": 12,
+    "area": 68.13
+  },
+  {
+    "aptNm": "한양수자인",
+    "dealAmount": "22,300",
+    "date": "2026-02-26",
+    "floor": 11,
+    "area": 71.839
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "70,000",
+    "date": "2026-02-24",
+    "floor": 18,
+    "area": 74.97
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "63,700",
+    "date": "2026-02-24",
+    "floor": 14,
+    "area": 84.72
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "31,000",
+    "date": "2026-02-21",
+    "floor": 6,
+    "area": 59.31
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "70,500",
+    "date": "2026-02-14",
+    "floor": 9,
+    "area": 74.96
+  },
+  {
+    "aptNm": "꿈마을(동아)",
+    "dealAmount": "72,000",
+    "date": "2026-02-12",
+    "floor": 20,
+    "area": 134.78
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "68,800",
+    "date": "2026-02-11",
+    "floor": 11,
+    "area": 74.97
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "37,000",
+    "date": "2026-02-10",
+    "floor": 6,
+    "area": 68.13
+  },
+  {
+    "aptNm": "후곡마을(주공)",
+    "dealAmount": "35,000",
+    "date": "2026-02-10",
+    "floor": 9,
+    "area": 68.13
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "21,750",
+    "date": "2026-02-09",
+    "floor": 14,
+    "area": 84.994
+  },
+  {
+    "aptNm": "은하수벽산",
+    "dealAmount": "75,000",
+    "date": "2026-02-07",
+    "floor": 11,
+    "area": 55.65
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "71,000",
+    "date": "2026-02-06",
+    "floor": 5,
+    "area": 74.96
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "74,700",
+    "date": "2026-02-03",
+    "floor": 21,
+    "area": 84.88
+  },
+  {
+    "aptNm": "동일스위트2",
+    "dealAmount": "14,700",
+    "date": "2026-02-03",
+    "floor": 15,
+    "area": 59.983
+  },
+  {
+    "aptNm": "도래울파크뷰",
+    "dealAmount": "75,000",
+    "date": "2026-02-02",
+    "floor": 16,
+    "area": 84.98
+  }
+]

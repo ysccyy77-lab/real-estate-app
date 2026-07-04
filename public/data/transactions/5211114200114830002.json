@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "서곡두산",
+    "dealAmount": "28,000",
+    "date": "2026-06-06",
+    "floor": 16,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서곡두산",
+    "dealAmount": "31,300",
+    "date": "2026-05-27",
+    "floor": 15,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서곡두산",
+    "dealAmount": "27,400",
+    "date": "2026-05-26",
+    "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서곡두산",
+    "dealAmount": "27,000",
+    "date": "2026-05-14",
+    "floor": 11,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서곡두산",
+    "dealAmount": "27,300",
+    "date": "2026-05-05",
+    "floor": 17,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서곡두산",
+    "dealAmount": "29,200",
+    "date": "2026-04-08",
+    "floor": 17,
+    "area": 84.82
+  },
+  {
+    "aptNm": "서곡두산",
+    "dealAmount": "31,700",
+    "date": "2026-04-04",
+    "floor": 18,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서곡두산",
+    "dealAmount": "21,000",
+    "date": "2026-03-10",
+    "floor": 4,
+    "area": 84.9
+  }
+]

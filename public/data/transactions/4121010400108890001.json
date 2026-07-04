@@ -1,5 +1,89 @@
 [
   {
+    "aptNm": "청광플러스원",
+    "dealAmount": "20,700",
+    "date": "2026-05-26",
+    "floor": 2,
+    "area": 84.5821
+  },
+  {
+    "aptNm": "개운고층",
+    "dealAmount": "36,300",
+    "date": "2026-05-25",
+    "floor": 5,
+    "area": 80.56
+  },
+  {
+    "aptNm": "청광플러스원",
+    "dealAmount": "21,500",
+    "date": "2026-04-24",
+    "floor": 5,
+    "area": 84.5821
+  },
+  {
+    "aptNm": "청광플러스원",
+    "dealAmount": "20,800",
+    "date": "2026-04-24",
+    "floor": 4,
+    "area": 84.5821
+  },
+  {
+    "aptNm": "청광플러스원",
+    "dealAmount": "21,500",
+    "date": "2026-04-23",
+    "floor": 13,
+    "area": 84.5821
+  },
+  {
+    "aptNm": "청광플러스원",
+    "dealAmount": "21,800",
+    "date": "2026-04-10",
+    "floor": 11,
+    "area": 84.5821
+  },
+  {
+    "aptNm": "청광플러스원",
+    "dealAmount": "21,400",
+    "date": "2026-04-02",
+    "floor": 7,
+    "area": 84.5821
+  },
+  {
+    "aptNm": "청광플러스원",
+    "dealAmount": "21,800",
+    "date": "2026-03-25",
+    "floor": 10,
+    "area": 84.5821
+  },
+  {
+    "aptNm": "개운고층",
+    "dealAmount": "37,500",
+    "date": "2026-03-18",
+    "floor": 5,
+    "area": 80.56
+  },
+  {
+    "aptNm": "개운고층",
+    "dealAmount": "40,000",
+    "date": "2026-03-15",
+    "floor": 12,
+    "area": 80.56
+  },
+  {
+    "aptNm": "청광플러스원",
+    "dealAmount": "21,400",
+    "date": "2026-03-08",
+    "floor": 7,
+    "area": 84.5821
+  },
+  {
+    "aptNm": "청광플러스원",
+    "dealAmount": "19,900",
+    "date": "2026-02-07",
+    "floor": 5,
+    "area": 84.5821
+  },
+  {
     "aptNm": "개운고층",
     "dealAmount": "47,000",
     "date": "2024-06-27",

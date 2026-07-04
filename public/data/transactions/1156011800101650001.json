@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "구서신동아",
+    "dealAmount": "17,500",
+    "date": "2026-04-02",
+    "floor": 17,
+    "area": 59.79
+  },
+  {
+    "aptNm": "구서신동아",
+    "dealAmount": "17,700",
+    "date": "2026-04-02",
+    "floor": 11,
+    "area": 59.79
+  },
+  {
+    "aptNm": "구서신동아",
+    "dealAmount": "19,300",
+    "date": "2026-03-30",
+    "floor": 13,
+    "area": 59.79
+  },
+  {
+    "aptNm": "구서신동아",
+    "dealAmount": "27,000",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 84.81
+  },
+  {
+    "aptNm": "동아에코빌",
+    "dealAmount": "105,000",
+    "date": "2026-03-27",
+    "floor": 5,
+    "area": 84.99
+  },
+  {
+    "aptNm": "미래힐타운",
+    "dealAmount": "18,500",
+    "date": "2026-03-25",
+    "floor": 8,
+    "area": 84.7
+  },
+  {
+    "aptNm": "구서신동아",
+    "dealAmount": "26,900",
+    "date": "2026-03-21",
+    "floor": 10,
+    "area": 84.81
+  },
+  {
+    "aptNm": "동아에코빌",
+    "dealAmount": "104,500",
+    "date": "2026-03-17",
+    "floor": 23,
+    "area": 84.99
+  },
+  {
+    "aptNm": "구서신동아",
+    "dealAmount": "24,300",
+    "date": "2026-03-06",
+    "floor": 1,
+    "area": 84.81
+  },
+  {
+    "aptNm": "구서신동아",
+    "dealAmount": "17,300",
+    "date": "2026-03-06",
+    "floor": 2,
+    "area": 59.79
+  },
+  {
+    "aptNm": "동아에코빌",
+    "dealAmount": "110,000",
+    "date": "2026-02-11",
+    "floor": 13,
+    "area": 84.99
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "칠원대동",
+    "dealAmount": "5,800",
+    "date": "2026-05-30",
+    "floor": 4,
+    "area": 59.62
+  },
+  {
+    "aptNm": "칠원대동",
+    "dealAmount": "8,400",
+    "date": "2026-05-19",
+    "floor": 7,
+    "area": 74.57
+  },
+  {
+    "aptNm": "칠원대동",
+    "dealAmount": "6,100",
+    "date": "2026-04-27",
+    "floor": 2,
+    "area": 59.62
+  },
+  {
+    "aptNm": "칠원대동",
+    "dealAmount": "8,500",
+    "date": "2026-04-13",
+    "floor": 15,
+    "area": 74.57
+  },
+  {
+    "aptNm": "무지개타운",
+    "dealAmount": "5,000",
+    "date": "2026-03-23",
+    "floor": 2,
+    "area": 72.375
+  },
+  {
+    "aptNm": "칠원대동",
+    "dealAmount": "7,000",
+    "date": "2026-03-23",
+    "floor": 7,
+    "area": 59.97
+  }
+]

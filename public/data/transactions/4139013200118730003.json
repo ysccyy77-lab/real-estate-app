@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "월드",
+    "dealAmount": "21,500",
+    "date": "2026-06-12",
+    "floor": 2,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "19,000",
+    "date": "2026-06-05",
+    "floor": 1,
+    "area": 47.455
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "18,200",
+    "date": "2026-06-04",
+    "floor": 2,
+    "area": 47.455
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "26,800",
+    "date": "2026-05-29",
+    "floor": 3,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "18,300",
+    "date": "2026-05-25",
+    "floor": 3,
+    "area": 47.455
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "27,000",
+    "date": "2026-04-18",
+    "floor": 3,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "24,000",
+    "date": "2026-04-13",
+    "floor": 3,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "18,000",
+    "date": "2026-04-11",
+    "floor": 4,
+    "area": 47.455
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "25,300",
+    "date": "2026-04-11",
+    "floor": 9,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "16,800",
+    "date": "2026-03-30",
+    "floor": 4,
+    "area": 47.455
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "24,900",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "18,250",
+    "date": "2026-03-27",
+    "floor": 3,
+    "area": 47.455
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "22,500",
+    "date": "2026-03-10",
+    "floor": 3,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "27,500",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
+    "dealAmount": "23,000",
+    "date": "2026-02-13",
+    "floor": 5,
+    "area": 59.935
+  }
+]

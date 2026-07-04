@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "럭키",
+    "dealAmount": "17,200",
+    "date": "2026-06-22",
+    "floor": 8,
+    "area": 77.96
+  },
+  {
+    "aptNm": "이화한라동아",
+    "dealAmount": "7,350",
+    "date": "2026-06-02",
+    "floor": 16,
+    "area": 59.97
+  },
+  {
+    "aptNm": "부천극동",
+    "dealAmount": "29,000",
+    "date": "2026-05-28",
+    "floor": 10,
+    "area": 69.85
+  },
+  {
+    "aptNm": "부천극동",
+    "dealAmount": "33,500",
+    "date": "2026-05-28",
+    "floor": 10,
+    "area": 86.02
+  },
+  {
+    "aptNm": "부천극동",
+    "dealAmount": "29,500",
+    "date": "2026-05-13",
+    "floor": 9,
+    "area": 69.85
+  },
+  {
+    "aptNm": "부천극동",
+    "dealAmount": "33,500",
+    "date": "2026-04-27",
+    "floor": 10,
+    "area": 86.02
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "15,800",
+    "date": "2026-04-03",
+    "floor": 2,
+    "area": 77.96
+  },
+  {
+    "aptNm": "부천극동",
+    "dealAmount": "30,000",
+    "date": "2026-04-01",
+    "floor": 8,
+    "area": 69.85
+  },
+  {
+    "aptNm": "이화한라동아",
+    "dealAmount": "6,800",
+    "date": "2026-04-01",
+    "floor": 13,
+    "area": 59.97
+  },
+  {
+    "aptNm": "지안더클래식",
+    "dealAmount": "48,000",
+    "date": "2026-03-18",
+    "floor": 13,
+    "area": 59.93
+  },
+  {
+    "aptNm": "이화한라동아",
+    "dealAmount": "7,500",
+    "date": "2026-03-02",
+    "floor": 7,
+    "area": 59.97
+  },
+  {
+    "aptNm": "부천극동",
+    "dealAmount": "35,300",
+    "date": "2026-02-13",
+    "floor": 8,
+    "area": 86.02
+  },
+  {
+    "aptNm": "이화한라동아",
+    "dealAmount": "5,800",
+    "date": "2026-02-12",
+    "floor": 7,
+    "area": 59.76
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "20,000",
+    "date": "2026-02-10",
+    "floor": 8,
+    "area": 77.96
+  },
+  {
+    "aptNm": "부천극동",
+    "dealAmount": "36,000",
+    "date": "2026-02-05",
+    "floor": 2,
+    "area": 86.02
+  }
+]

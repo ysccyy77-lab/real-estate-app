@@ -1,6 +1,230 @@
 [
   {
     "aptNm": "철산리버빌주공",
+    "dealAmount": "72,000",
+    "date": "2026-06-16",
+    "floor": 14,
+    "area": 84.34
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "56,000",
+    "date": "2026-06-06",
+    "floor": 2,
+    "area": 49.71
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "50,900",
+    "date": "2026-05-30",
+    "floor": 9,
+    "area": 49.61
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "67,000",
+    "date": "2026-05-23",
+    "floor": 16,
+    "area": 59.42
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "67,000",
+    "date": "2026-05-18",
+    "floor": 16,
+    "area": 59.42
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "50,500",
+    "date": "2026-05-01",
+    "floor": 14,
+    "area": 49.61
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "51,000",
+    "date": "2026-04-28",
+    "floor": 11,
+    "area": 49.71
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "54,900",
+    "date": "2026-04-17",
+    "floor": 13,
+    "area": 49.61
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "60,000",
+    "date": "2026-04-15",
+    "floor": 18,
+    "area": 59.42
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "49,900",
+    "date": "2026-04-14",
+    "floor": 12,
+    "area": 49.61
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "49,500",
+    "date": "2026-04-11",
+    "floor": 7,
+    "area": 49.71
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "63,500",
+    "date": "2026-04-10",
+    "floor": 3,
+    "area": 84.34
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "60,000",
+    "date": "2026-04-06",
+    "floor": 14,
+    "area": 59.42
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "70,000",
+    "date": "2026-04-04",
+    "floor": 15,
+    "area": 84.34
+  },
+  {
+    "aptNm": "바우하우스",
+    "dealAmount": "49,500",
+    "date": "2026-03-31",
+    "floor": 6,
+    "area": 53.96
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "49,700",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 49.61
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "46,500",
+    "date": "2026-03-27",
+    "floor": 2,
+    "area": 49.71
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "55,000",
+    "date": "2026-03-26",
+    "floor": 18,
+    "area": 49.71
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "49,000",
+    "date": "2026-03-21",
+    "floor": 20,
+    "area": 49.83
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "46,000",
+    "date": "2026-03-14",
+    "floor": 2,
+    "area": 49.61
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "68,900",
+    "date": "2026-03-14",
+    "floor": 11,
+    "area": 84.34
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "47,200",
+    "date": "2026-03-13",
+    "floor": 13,
+    "area": 49.71
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "48,500",
+    "date": "2026-03-07",
+    "floor": 10,
+    "area": 49.61
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "47,000",
+    "date": "2026-03-05",
+    "floor": 8,
+    "area": 49.61
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "55,800",
+    "date": "2026-02-28",
+    "floor": 4,
+    "area": 59.42
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "60,000",
+    "date": "2026-02-28",
+    "floor": 23,
+    "area": 59.42
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "48,200",
+    "date": "2026-02-14",
+    "floor": 8,
+    "area": 49.71
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "48,500",
+    "date": "2026-02-10",
+    "floor": 18,
+    "area": 49.71
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "43,700",
+    "date": "2026-02-07",
+    "floor": 2,
+    "area": 49.83
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "58,000",
+    "date": "2026-02-06",
+    "floor": 16,
+    "area": 59.42
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "62,300",
+    "date": "2026-02-04",
+    "floor": 8,
+    "area": 84.34
+  },
+  {
+    "aptNm": "철산리버빌주공",
+    "dealAmount": "62,500",
+    "date": "2026-02-04",
+    "floor": 5,
+    "area": 84.34
+  },
+  {
+    "aptNm": "철산리버빌주공",
     "dealAmount": "45,000",
     "date": "2024-06-22",
     "floor": 17,

@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "현대",
+    "dealAmount": "16,900",
+    "date": "2026-06-23",
+    "floor": 7,
+    "area": 84.978
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "14,000",
+    "date": "2026-05-16",
+    "floor": 8,
+    "area": 59.97
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "15,200",
+    "date": "2026-05-15",
+    "floor": 18,
+    "area": 59.97
+  },
+  {
+    "aptNm": "해오름102동",
+    "dealAmount": "18,300",
+    "date": "2026-05-12",
+    "floor": 7,
+    "area": 71.3576
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "18,800",
+    "date": "2026-04-18",
+    "floor": 19,
+    "area": 84.978
+  },
+  {
+    "aptNm": "해오름102동",
+    "dealAmount": "13,000",
+    "date": "2026-04-13",
+    "floor": 1,
+    "area": 82.8723
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "18,000",
+    "date": "2026-04-04",
+    "floor": 17,
+    "area": 84.978
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "11,500",
+    "date": "2026-03-23",
+    "floor": 8,
+    "area": 59.97
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "14,000",
+    "date": "2026-03-20",
+    "floor": 6,
+    "area": 59.97
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "16,300",
+    "date": "2026-03-18",
+    "floor": 6,
+    "area": 84.978
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "10,500",
+    "date": "2026-03-04",
+    "floor": 1,
+    "area": 59.97
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "17,000",
+    "date": "2026-02-01",
+    "floor": 2,
+    "area": 84.978
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "삼호",
+    "dealAmount": "3,750",
+    "date": "2026-06-17",
+    "floor": 6,
+    "area": 44.67
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "5,800",
+    "date": "2026-06-09",
+    "floor": 4,
+    "area": 59.97
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "3,400",
+    "date": "2026-06-06",
+    "floor": 5,
+    "area": 44.67
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "3,200",
+    "date": "2026-05-19",
+    "floor": 4,
+    "area": 44.67
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "4,500",
+    "date": "2026-05-11",
+    "floor": 1,
+    "area": 44.67
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "3,500",
+    "date": "2026-04-27",
+    "floor": 2,
+    "area": 44.67
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "4,700",
+    "date": "2026-04-27",
+    "floor": 1,
+    "area": 44.67
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "3,500",
+    "date": "2026-04-10",
+    "floor": 1,
+    "area": 48.81
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "3,800",
+    "date": "2026-03-28",
+    "floor": 4,
+    "area": 44.67
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "4,600",
+    "date": "2026-03-26",
+    "floor": 1,
+    "area": 44.67
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "3,600",
+    "date": "2026-03-20",
+    "floor": 1,
+    "area": 52.77
+  }
+]

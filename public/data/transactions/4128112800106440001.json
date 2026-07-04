@@ -1,0 +1,135 @@
+[
+  {
+    "aptNm": "화성",
+    "dealAmount": "5,450",
+    "date": "2026-07-03",
+    "floor": 4,
+    "area": 47.28
+  },
+  {
+    "aptNm": "장미아파트(나동)",
+    "dealAmount": "22,200",
+    "date": "2026-06-10",
+    "floor": 11,
+    "area": 75.88
+  },
+  {
+    "aptNm": "화성",
+    "dealAmount": "4,800",
+    "date": "2026-05-04",
+    "floor": 5,
+    "area": 47.28
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "25,900",
+    "date": "2026-05-01",
+    "floor": 17,
+    "area": 59.78
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "24,800",
+    "date": "2026-04-27",
+    "floor": 7,
+    "area": 59.78
+  },
+  {
+    "aptNm": "샛별메르디앙",
+    "dealAmount": "15,000",
+    "date": "2026-04-23",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "화성",
+    "dealAmount": "8,400",
+    "date": "2026-04-20",
+    "floor": 2,
+    "area": 47.28
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "25,000",
+    "date": "2026-04-13",
+    "floor": 14,
+    "area": 59.78
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "34,800",
+    "date": "2026-04-04",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "샛별메르디앙",
+    "dealAmount": "13,700",
+    "date": "2026-03-28",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "장미아파트(나동)",
+    "dealAmount": "29,500",
+    "date": "2026-03-25",
+    "floor": 10,
+    "area": 79.06
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "25,000",
+    "date": "2026-03-23",
+    "floor": 8,
+    "area": 59.78
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "26,700",
+    "date": "2026-03-21",
+    "floor": 15,
+    "area": 59.78
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "26,700",
+    "date": "2026-03-21",
+    "floor": 14,
+    "area": 59.78
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "33,000",
+    "date": "2026-03-17",
+    "floor": 19,
+    "area": 84.98
+  },
+  {
+    "aptNm": "장미아파트(나동)",
+    "dealAmount": "20,000",
+    "date": "2026-03-04",
+    "floor": 10,
+    "area": 75.88
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "28,250",
+    "date": "2026-03-04",
+    "floor": 10,
+    "area": 59.78
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "29,500",
+    "date": "2026-02-06",
+    "floor": 17,
+    "area": 59.78
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "28,500",
+    "date": "2026-02-06",
+    "floor": 9,
+    "area": 59.78
+  }
+]

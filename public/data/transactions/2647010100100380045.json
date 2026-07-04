@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "경남",
+    "dealAmount": "33,300",
+    "date": "2026-06-30",
+    "floor": 4,
+    "area": 59.13
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "34,500",
+    "date": "2026-06-05",
+    "floor": 1,
+    "area": 59.13
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "47,000",
+    "date": "2026-05-16",
+    "floor": 4,
+    "area": 84.62
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "37,000",
+    "date": "2026-04-15",
+    "floor": 10,
+    "area": 59.13
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "68,250",
+    "date": "2026-03-10",
+    "floor": 9,
+    "area": 138.77
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "35,000",
+    "date": "2026-02-04",
+    "floor": 1,
+    "area": 59.13
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "41,400",
+    "date": "2026-05-28",
+    "floor": 13,
+    "area": 84.95
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "38,000",
+    "date": "2026-04-13",
+    "floor": 11,
+    "area": 84.95
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "38,000",
+    "date": "2026-04-09",
+    "floor": 8,
+    "area": 84.95
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "24,800",
+    "date": "2026-04-08",
+    "floor": 8,
+    "area": 84.95
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "38,500",
+    "date": "2026-03-29",
+    "floor": 9,
+    "area": 84.95
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "38,100",
+    "date": "2026-03-28",
+    "floor": 11,
+    "area": 84.95
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "36,000",
+    "date": "2026-03-26",
+    "floor": 6,
+    "area": 84.95
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "34,500",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "35,000",
+    "date": "2026-03-21",
+    "floor": 5,
+    "area": 84.95
+  },
+  {
+    "aptNm": "석보",
+    "dealAmount": "7,000",
+    "date": "2026-02-04",
+    "floor": 4,
+    "area": 43.06
+  }
+]

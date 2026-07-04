@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "대우",
+    "dealAmount": "44,000",
+    "date": "2026-06-27",
+    "floor": 18,
+    "area": 84.962
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "24,300",
+    "date": "2026-05-30",
+    "floor": 11,
+    "area": 40.95
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "45,500",
+    "date": "2026-05-15",
+    "floor": 18,
+    "area": 84.962
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "24,000",
+    "date": "2026-05-11",
+    "floor": 6,
+    "area": 40.95
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "44,000",
+    "date": "2026-03-11",
+    "floor": 18,
+    "area": 84.95
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "39,500",
+    "date": "2026-03-08",
+    "floor": 10,
+    "area": 59.93
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "38,000",
+    "date": "2026-03-03",
+    "floor": 2,
+    "area": 84.95
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "46,000",
+    "date": "2026-03-01",
+    "floor": 19,
+    "area": 84.962
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "23,300",
+    "date": "2026-02-05",
+    "floor": 17,
+    "area": 40.95
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "42,800",
+    "date": "2026-02-04",
+    "floor": 25,
+    "area": 84.962
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "56,800",
+    "date": "2026-02-01",
+    "floor": 23,
+    "area": 114.996
+  }
+]

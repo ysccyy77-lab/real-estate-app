@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "시영80년",
+    "dealAmount": "10,900",
+    "date": "2026-05-27",
+    "floor": 4,
+    "area": 43.9
+  },
+  {
+    "aptNm": "시영80년",
+    "dealAmount": "16,000",
+    "date": "2026-05-07",
+    "floor": 5,
+    "area": 43.9
+  },
+  {
+    "aptNm": "시영80년",
+    "dealAmount": "12,000",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 43.9
+  },
+  {
+    "aptNm": "시영80년",
+    "dealAmount": "10,900",
+    "date": "2026-03-15",
+    "floor": 2,
+    "area": 43.9
+  },
+  {
+    "aptNm": "시영80년",
+    "dealAmount": "11,000",
+    "date": "2026-03-14",
+    "floor": 1,
+    "area": 43.9
+  },
+  {
+    "aptNm": "시영80년",
+    "dealAmount": "10,300",
+    "date": "2026-02-05",
+    "floor": 1,
+    "area": 43.9
+  }
+]

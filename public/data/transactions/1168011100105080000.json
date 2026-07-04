@@ -1,0 +1,884 @@
+[
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "19,700",
+    "date": "2026-07-03",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "19,000",
+    "date": "2026-06-29",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "24,500",
+    "date": "2026-06-27",
+    "floor": 1,
+    "area": 123.41
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "91,300",
+    "date": "2026-06-26",
+    "floor": 22,
+    "area": 82.08
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "88,300",
+    "date": "2026-06-13",
+    "floor": 14,
+    "area": 122.92
+  },
+  {
+    "aptNm": "신비마을",
+    "dealAmount": "13,000",
+    "date": "2026-06-12",
+    "floor": 2,
+    "area": 49.35
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "52,500",
+    "date": "2026-06-11",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "83,000",
+    "date": "2026-06-08",
+    "floor": 17,
+    "area": 82.08
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,000",
+    "date": "2026-06-08",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "26,500",
+    "date": "2026-06-08",
+    "floor": 14,
+    "area": 123.41
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "32,000",
+    "date": "2026-06-07",
+    "floor": 15,
+    "area": 123.41
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "25,500",
+    "date": "2026-06-06",
+    "floor": 2,
+    "area": 123.41
+  },
+  {
+    "aptNm": "진천역대성스카이렉스",
+    "dealAmount": "34,000",
+    "date": "2026-06-03",
+    "floor": 7,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "160,000",
+    "date": "2026-06-03",
+    "floor": 4,
+    "area": 84.79
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "107,000",
+    "date": "2026-06-02",
+    "floor": 18,
+    "area": 122.92
+  },
+  {
+    "aptNm": "진천역대성스카이렉스",
+    "dealAmount": "33,400",
+    "date": "2026-06-02",
+    "floor": 14,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,900",
+    "date": "2026-05-31",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "갤러리빌9차",
+    "dealAmount": "4,000",
+    "date": "2026-05-29",
+    "floor": 6,
+    "area": 15.0402
+  },
+  {
+    "aptNm": "초읍대우",
+    "dealAmount": "22,300",
+    "date": "2026-05-29",
+    "floor": 5,
+    "area": 84.962
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "149,000",
+    "date": "2026-05-27",
+    "floor": 8,
+    "area": 59.26
+  },
+  {
+    "aptNm": "초읍대우",
+    "dealAmount": "25,000",
+    "date": "2026-05-26",
+    "floor": 9,
+    "area": 134.64
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "50,300",
+    "date": "2026-05-26",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "144,000",
+    "date": "2026-05-26",
+    "floor": 7,
+    "area": 59.26
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,000",
+    "date": "2026-05-25",
+    "floor": 13,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "19,800",
+    "date": "2026-05-24",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,500",
+    "date": "2026-05-23",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "24,000",
+    "date": "2026-05-23",
+    "floor": 2,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "74,000",
+    "date": "2026-05-21",
+    "floor": 1,
+    "area": 82.08
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "52,000",
+    "date": "2026-05-21",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "23,500",
+    "date": "2026-05-21",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "27,700",
+    "date": "2026-05-20",
+    "floor": 7,
+    "area": 123.41
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "52,500",
+    "date": "2026-05-19",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "26,000",
+    "date": "2026-05-19",
+    "floor": 13,
+    "area": 123.41
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "158,000",
+    "date": "2026-05-14",
+    "floor": 16,
+    "area": 84.79
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,400",
+    "date": "2026-05-14",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "초읍대우",
+    "dealAmount": "30,500",
+    "date": "2026-05-11",
+    "floor": 17,
+    "area": 134.64
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "52,000",
+    "date": "2026-05-11",
+    "floor": 6,
+    "area": 84.89
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,200",
+    "date": "2026-05-09",
+    "floor": 7,
+    "area": 84.89
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "157,500",
+    "date": "2026-05-08",
+    "floor": 3,
+    "area": 84.76
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "55,500",
+    "date": "2026-05-07",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "85,000",
+    "date": "2026-05-06",
+    "floor": 4,
+    "area": 82.08
+  },
+  {
+    "aptNm": "대방1차e-편한세상",
+    "dealAmount": "171,000",
+    "date": "2026-05-06",
+    "floor": 6,
+    "area": 84.32
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "170,000",
+    "date": "2026-05-06",
+    "floor": 2,
+    "area": 114.76
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "25,500",
+    "date": "2026-05-06",
+    "floor": 10,
+    "area": 123.41
+  },
+  {
+    "aptNm": "진천역대성스카이렉스",
+    "dealAmount": "36,000",
+    "date": "2026-05-05",
+    "floor": 24,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,000",
+    "date": "2026-05-05",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "초읍대우",
+    "dealAmount": "25,000",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 134.64
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "150,000",
+    "date": "2026-05-04",
+    "floor": 9,
+    "area": 59.26
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "161,500",
+    "date": "2026-05-04",
+    "floor": 10,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "155,000",
+    "date": "2026-05-01",
+    "floor": 6,
+    "area": 84.76
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,000",
+    "date": "2026-04-29",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,000",
+    "date": "2026-04-28",
+    "floor": 12,
+    "area": 84.89
+  },
+  {
+    "aptNm": "진천역대성스카이렉스",
+    "dealAmount": "33,700",
+    "date": "2026-04-27",
+    "floor": 10,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "56,500",
+    "date": "2026-04-27",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "50,000",
+    "date": "2026-04-24",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "52,000",
+    "date": "2026-04-24",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "41,000",
+    "date": "2026-04-24",
+    "floor": 5,
+    "area": 156.08
+  },
+  {
+    "aptNm": "대방1차e-편한세상",
+    "dealAmount": "155,000",
+    "date": "2026-04-23",
+    "floor": 16,
+    "area": 84.32
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "80,000",
+    "date": "2026-04-21",
+    "floor": 25,
+    "area": 82.08
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "141,000",
+    "date": "2026-04-18",
+    "floor": 7,
+    "area": 59.26
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,800",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 84.94
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "50,000",
+    "date": "2026-04-15",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "144,000",
+    "date": "2026-04-14",
+    "floor": 6,
+    "area": 59.26
+  },
+  {
+    "aptNm": "대방1차e-편한세상",
+    "dealAmount": "171,000",
+    "date": "2026-04-10",
+    "floor": 7,
+    "area": 84.32
+  },
+  {
+    "aptNm": "이편한세상마포리버파크",
+    "dealAmount": "203,000",
+    "date": "2026-04-10",
+    "floor": 12,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "50,000",
+    "date": "2026-04-09",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "대방1차e-편한세상",
+    "dealAmount": "105,150",
+    "date": "2026-04-08",
+    "floor": 13,
+    "area": 84.32
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "27,700",
+    "date": "2026-04-08",
+    "floor": 7,
+    "area": 123.41
+  },
+  {
+    "aptNm": "이편한세상마포리버파크",
+    "dealAmount": "220,000",
+    "date": "2026-04-07",
+    "floor": 9,
+    "area": 59.98
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "25,700",
+    "date": "2026-04-07",
+    "floor": 3,
+    "area": 123.41
+  },
+  {
+    "aptNm": "대방1차e-편한세상",
+    "dealAmount": "168,000",
+    "date": "2026-04-06",
+    "floor": 13,
+    "area": 84.32
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "160,000",
+    "date": "2026-04-04",
+    "floor": 16,
+    "area": 84.76
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "80,000",
+    "date": "2026-03-31",
+    "floor": 14,
+    "area": 82.08
+  },
+  {
+    "aptNm": "초읍대우",
+    "dealAmount": "22,200",
+    "date": "2026-03-31",
+    "floor": 1,
+    "area": 84.962
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "190,000",
+    "date": "2026-03-31",
+    "floor": 7,
+    "area": 114.76
+  },
+  {
+    "aptNm": "장보아이빌",
+    "dealAmount": "16,000",
+    "date": "2026-03-30",
+    "floor": 6,
+    "area": 84.8726
+  },
+  {
+    "aptNm": "진천역대성스카이렉스",
+    "dealAmount": "36,000",
+    "date": "2026-03-29",
+    "floor": 20,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "27,900",
+    "date": "2026-03-28",
+    "floor": 5,
+    "area": 123.41
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "24,000",
+    "date": "2026-03-28",
+    "floor": 9,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "78,000",
+    "date": "2026-03-27",
+    "floor": 1,
+    "area": 82.08
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "49,500",
+    "date": "2026-03-27",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "142,000",
+    "date": "2026-03-27",
+    "floor": 8,
+    "area": 59.26
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "26,000",
+    "date": "2026-03-27",
+    "floor": 12,
+    "area": 123.41
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,500",
+    "date": "2026-03-24",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "27,000",
+    "date": "2026-03-24",
+    "floor": 13,
+    "area": 123.41
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "109,000",
+    "date": "2026-03-23",
+    "floor": 9,
+    "area": 122.92
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "91,000",
+    "date": "2026-03-23",
+    "floor": 22,
+    "area": 122.92
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,000",
+    "date": "2026-03-22",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "신비마을",
+    "dealAmount": "11,000",
+    "date": "2026-03-19",
+    "floor": 4,
+    "area": 49.35
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "178,000",
+    "date": "2026-03-13",
+    "floor": 10,
+    "area": 114.87
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "155,000",
+    "date": "2026-03-07",
+    "floor": 13,
+    "area": 84.79
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "200,500",
+    "date": "2026-03-07",
+    "floor": 15,
+    "area": 114.76
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "36,900",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 156.08
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,500",
+    "date": "2026-03-07",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "150,000",
+    "date": "2026-03-06",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "155,000",
+    "date": "2026-03-05",
+    "floor": 14,
+    "area": 114.87
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,500",
+    "date": "2026-03-04",
+    "floor": 5,
+    "area": 84.89
+  },
+  {
+    "aptNm": "진천역대성스카이렉스",
+    "dealAmount": "35,000",
+    "date": "2026-03-03",
+    "floor": 6,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "52,000",
+    "date": "2026-03-03",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,000",
+    "date": "2026-03-03",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "144,500",
+    "date": "2026-03-02",
+    "floor": 4,
+    "area": 59.26
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "136,000",
+    "date": "2026-03-01",
+    "floor": 10,
+    "area": 59.26
+  },
+  {
+    "aptNm": "갤러리빌9차",
+    "dealAmount": "5,050",
+    "date": "2026-02-28",
+    "floor": 12,
+    "area": 17.4302
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "165,000",
+    "date": "2026-02-28",
+    "floor": 17,
+    "area": 157.24
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "160,000",
+    "date": "2026-02-28",
+    "floor": 12,
+    "area": 84.79
+  },
+  {
+    "aptNm": "초읍대우",
+    "dealAmount": "17,200",
+    "date": "2026-02-26",
+    "floor": 9,
+    "area": 59.946
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "84,500",
+    "date": "2026-02-25",
+    "floor": 6,
+    "area": 82.08
+  },
+  {
+    "aptNm": "우성아파트2",
+    "dealAmount": "52,500",
+    "date": "2026-02-25",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,000",
+    "date": "2026-02-23",
+    "floor": 6,
+    "area": 84.89
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "23,000",
+    "date": "2026-02-20",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,100",
+    "date": "2026-02-20",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,800",
+    "date": "2026-02-19",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "129,500",
+    "date": "2026-02-14",
+    "floor": 9,
+    "area": 59.69
+  },
+  {
+    "aptNm": "이편한세상마포리버파크",
+    "dealAmount": "283,000",
+    "date": "2026-02-14",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,800",
+    "date": "2026-02-14",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대방1차e-편한세상",
+    "dealAmount": "172,900",
+    "date": "2026-02-13",
+    "floor": 7,
+    "area": 84.32
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "136,000",
+    "date": "2026-02-13",
+    "floor": 3,
+    "area": 59.26
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "150,000",
+    "date": "2026-02-12",
+    "floor": 17,
+    "area": 114.87
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,100",
+    "date": "2026-02-12",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "20,500",
+    "date": "2026-02-11",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "93,000",
+    "date": "2026-02-10",
+    "floor": 15,
+    "area": 122.92
+  },
+  {
+    "aptNm": "현대홈타운",
+    "dealAmount": "81,500",
+    "date": "2026-02-09",
+    "floor": 18,
+    "area": 82.08
+  },
+  {
+    "aptNm": "한강극동",
+    "dealAmount": "167,000",
+    "date": "2026-02-06",
+    "floor": 5,
+    "area": 114.76
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "21,000",
+    "date": "2026-02-05",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "27,400",
+    "date": "2026-02-04",
+    "floor": 11,
+    "area": 123.41
+  },
+  {
+    "aptNm": "진천역대성스카이렉스",
+    "dealAmount": "37,000",
+    "date": "2026-02-02",
+    "floor": 20,
+    "area": 107.3136
+  }
+]

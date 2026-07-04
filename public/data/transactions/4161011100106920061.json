@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "현대",
+    "dealAmount": "36,000",
+    "date": "2026-06-05",
+    "floor": 2,
+    "area": 84.823
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "35,500",
+    "date": "2026-05-22",
+    "floor": 7,
+    "area": 84.823
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "33,200",
+    "date": "2026-05-06",
+    "floor": 2,
+    "area": 84.823
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "40,000",
+    "date": "2026-04-21",
+    "floor": 5,
+    "area": 116.757
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "36,800",
+    "date": "2026-03-26",
+    "floor": 9,
+    "area": 84.823
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "37,000",
+    "date": "2026-03-07",
+    "floor": 16,
+    "area": 84.823
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "41,700",
+    "date": "2026-03-02",
+    "floor": 13,
+    "area": 99.956
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "35,200",
+    "date": "2026-02-09",
+    "floor": 2,
+    "area": 84.823
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "37,000",
+    "date": "2026-02-06",
+    "floor": 11,
+    "area": 99.956
+  }
+]

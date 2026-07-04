@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "현대",
+    "dealAmount": "7,300",
+    "date": "2026-06-15",
+    "floor": 18,
+    "area": 59.76
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "9,400",
+    "date": "2026-04-30",
+    "floor": 9,
+    "area": 59.76
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "7,000",
+    "date": "2026-04-06",
+    "floor": 14,
+    "area": 59.76
+  },
+  {
+    "aptNm": "장안아파트",
+    "dealAmount": "5,900",
+    "date": "2026-03-06",
+    "floor": 4,
+    "area": 51.12
+  },
+  {
+    "aptNm": "신반포중앙하이츠",
+    "dealAmount": "240,000",
+    "date": "2026-03-04",
+    "floor": 11,
+    "area": 84.66
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "12,900",
+    "date": "2026-02-24",
+    "floor": 2,
+    "area": 84.902
+  }
+]

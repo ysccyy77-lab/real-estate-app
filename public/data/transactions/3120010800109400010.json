@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "12,935",
+    "date": "2026-06-03",
+    "floor": 13,
+    "area": 73.98
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "14,500",
+    "date": "2026-05-11",
+    "floor": 14,
+    "area": 84.98
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "7,100",
+    "date": "2026-05-06",
+    "floor": 14,
+    "area": 59.25
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "15,900",
+    "date": "2026-04-27",
+    "floor": 12,
+    "area": 73.98
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "7,200",
+    "date": "2026-04-26",
+    "floor": 4,
+    "area": 59.25
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "6,700",
+    "date": "2026-04-25",
+    "floor": 4,
+    "area": 59.25
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "6,800",
+    "date": "2026-04-24",
+    "floor": 3,
+    "area": 59.25
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "12,700",
+    "date": "2026-03-23",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "7,900",
+    "date": "2026-02-10",
+    "floor": 11,
+    "area": 59.25
+  }
+]

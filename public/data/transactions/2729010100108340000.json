@@ -1,0 +1,912 @@
+[
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "83,700",
+    "date": "2026-07-01",
+    "floor": 12,
+    "area": 84.926
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "33,500",
+    "date": "2026-06-30",
+    "floor": 4,
+    "area": 125.3359
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "30,400",
+    "date": "2026-06-30",
+    "floor": 6,
+    "area": 84.8886
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "33,500",
+    "date": "2026-06-27",
+    "floor": 7,
+    "area": 39.6
+  },
+  {
+    "aptNm": "삼성홈타운",
+    "dealAmount": "19,600",
+    "date": "2026-06-25",
+    "floor": 4,
+    "area": 18.06
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "68,500",
+    "date": "2026-06-24",
+    "floor": 22,
+    "area": 74.97
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "54,200",
+    "date": "2026-06-24",
+    "floor": 5,
+    "area": 74.935
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "50,000",
+    "date": "2026-06-24",
+    "floor": 14,
+    "area": 84.909
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "31,000",
+    "date": "2026-06-23",
+    "floor": 16,
+    "area": 84.9996
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "85,800",
+    "date": "2026-06-22",
+    "floor": 12,
+    "area": 84.986
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "71,500",
+    "date": "2026-06-20",
+    "floor": 4,
+    "area": 74.935
+  },
+  {
+    "aptNm": "삼정그린코아포레스트(2단지)",
+    "dealAmount": "33,200",
+    "date": "2026-06-20",
+    "floor": 16,
+    "area": 72.4893
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "84,500",
+    "date": "2026-06-20",
+    "floor": 15,
+    "area": 84.926
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "45,000",
+    "date": "2026-06-18",
+    "floor": 16,
+    "area": 84.909
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "26,900",
+    "date": "2026-06-18",
+    "floor": 10,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "87,700",
+    "date": "2026-06-18",
+    "floor": 13,
+    "area": 84.986
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "56,800",
+    "date": "2026-06-17",
+    "floor": 5,
+    "area": 98.9334
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "30,500",
+    "date": "2026-06-17",
+    "floor": 6,
+    "area": 84.9996
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "29,500",
+    "date": "2026-06-15",
+    "floor": 2,
+    "area": 84.8886
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "32,500",
+    "date": "2026-06-13",
+    "floor": 15,
+    "area": 84.8886
+  },
+  {
+    "aptNm": "인앤인",
+    "dealAmount": "52,600",
+    "date": "2026-06-13",
+    "floor": 5,
+    "area": 162.48
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "75,500",
+    "date": "2026-06-13",
+    "floor": 2,
+    "area": 84.893
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "46,000",
+    "date": "2026-06-12",
+    "floor": 18,
+    "area": 84.909
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "49,000",
+    "date": "2026-06-11",
+    "floor": 14,
+    "area": 84.909
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "31,000",
+    "date": "2026-06-10",
+    "floor": 1,
+    "area": 39.6
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "68,000",
+    "date": "2026-06-08",
+    "floor": 24,
+    "area": 74.97
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "72,000",
+    "date": "2026-06-08",
+    "floor": 16,
+    "area": 74.935
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "30,000",
+    "date": "2026-06-08",
+    "floor": 1,
+    "area": 39.6
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "68,000",
+    "date": "2026-06-06",
+    "floor": 19,
+    "area": 74.935
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "68,000",
+    "date": "2026-06-06",
+    "floor": 14,
+    "area": 74.97
+  },
+  {
+    "aptNm": "삼정그린코아포레스트(2단지)",
+    "dealAmount": "29,000",
+    "date": "2026-06-06",
+    "floor": 6,
+    "area": 59.8923
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "31,700",
+    "date": "2026-06-04",
+    "floor": 12,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "84,700",
+    "date": "2026-06-04",
+    "floor": 19,
+    "area": 84.986
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "41,000",
+    "date": "2026-06-03",
+    "floor": 1,
+    "area": 84.909
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "43,750",
+    "date": "2026-06-02",
+    "floor": 7,
+    "area": 52.29
+  },
+  {
+    "aptNm": "현대문수팰리스",
+    "dealAmount": "40,500",
+    "date": "2026-06-02",
+    "floor": 2,
+    "area": 84.9569
+  },
+  {
+    "aptNm": "덕진",
+    "dealAmount": "4,500",
+    "date": "2026-06-01",
+    "floor": 2,
+    "area": 40.86
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "63,800",
+    "date": "2026-06-01",
+    "floor": 5,
+    "area": 74.935
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "72,000",
+    "date": "2026-05-30",
+    "floor": 23,
+    "area": 74.935
+  },
+  {
+    "aptNm": "삼정그린코아포레스트(2단지)",
+    "dealAmount": "31,500",
+    "date": "2026-05-28",
+    "floor": 4,
+    "area": 69.1267
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "29,800",
+    "date": "2026-05-28",
+    "floor": 1,
+    "area": 39.6
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "84,800",
+    "date": "2026-05-26",
+    "floor": 7,
+    "area": 84.893
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "33,500",
+    "date": "2026-05-19",
+    "floor": 9,
+    "area": 84.966
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "82,700",
+    "date": "2026-05-19",
+    "floor": 16,
+    "area": 84.962
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "35,000",
+    "date": "2026-05-16",
+    "floor": 15,
+    "area": 39.6
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "28,300",
+    "date": "2026-05-15",
+    "floor": 5,
+    "area": 59.895
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "81,700",
+    "date": "2026-05-14",
+    "floor": 22,
+    "area": 84.926
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "27,500",
+    "date": "2026-05-13",
+    "floor": 3,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "31,000",
+    "date": "2026-05-13",
+    "floor": 9,
+    "area": 84.966
+  },
+  {
+    "aptNm": "인앤인",
+    "dealAmount": "48,000",
+    "date": "2026-05-13",
+    "floor": 6,
+    "area": 132.5
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "45,500",
+    "date": "2026-05-11",
+    "floor": 7,
+    "area": 84.909
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "44,500",
+    "date": "2026-05-09",
+    "floor": 19,
+    "area": 84.909
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "219,000",
+    "date": "2026-05-09",
+    "floor": 14,
+    "area": 104.56
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "46,000",
+    "date": "2026-05-07",
+    "floor": 16,
+    "area": 84.909
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "39,900",
+    "date": "2026-05-07",
+    "floor": 1,
+    "area": 52.29
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "165,000",
+    "date": "2026-05-07",
+    "floor": 3,
+    "area": 104.56
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "47,800",
+    "date": "2026-05-06",
+    "floor": 8,
+    "area": 84.909
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "205,000",
+    "date": "2026-05-06",
+    "floor": 10,
+    "area": 116.22
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "66,000",
+    "date": "2026-05-05",
+    "floor": 2,
+    "area": 74.935
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "42,200",
+    "date": "2026-05-05",
+    "floor": 5,
+    "area": 84.909
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "195,000",
+    "date": "2026-05-04",
+    "floor": 16,
+    "area": 104.56
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "44,400",
+    "date": "2026-05-02",
+    "floor": 24,
+    "area": 84.909
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "30,000",
+    "date": "2026-05-02",
+    "floor": 13,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "32,500",
+    "date": "2026-04-30",
+    "floor": 5,
+    "area": 39.6
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "218,000",
+    "date": "2026-04-30",
+    "floor": 11,
+    "area": 104.56
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "32,250",
+    "date": "2026-04-29",
+    "floor": 10,
+    "area": 39.6
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "49,500",
+    "date": "2026-04-28",
+    "floor": 6,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "62,000",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "32,000",
+    "date": "2026-04-27",
+    "floor": 2,
+    "area": 39.6
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "192,000",
+    "date": "2026-04-24",
+    "floor": 2,
+    "area": 104.56
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "45,500",
+    "date": "2026-04-23",
+    "floor": 15,
+    "area": 84.909
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "32,000",
+    "date": "2026-04-22",
+    "floor": 10,
+    "area": 39.6
+  },
+  {
+    "aptNm": "덕진",
+    "dealAmount": "5,250",
+    "date": "2026-04-21",
+    "floor": 4,
+    "area": 40.86
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "47,900",
+    "date": "2026-04-21",
+    "floor": 14,
+    "area": 84.909
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "59,800",
+    "date": "2026-04-16",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "28,500",
+    "date": "2026-04-14",
+    "floor": 14,
+    "area": 59.895
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "25,000",
+    "date": "2026-04-14",
+    "floor": 10,
+    "area": 39.6
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "186,000",
+    "date": "2026-04-09",
+    "floor": 4,
+    "area": 104.56
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "32,000",
+    "date": "2026-04-08",
+    "floor": 13,
+    "area": 39.6
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "85,500",
+    "date": "2026-04-07",
+    "floor": 9,
+    "area": 84.971
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "28,250",
+    "date": "2026-04-06",
+    "floor": 5,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "31,700",
+    "date": "2026-04-03",
+    "floor": 13,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "47,500",
+    "date": "2026-03-27",
+    "floor": 9,
+    "area": 59.76
+  },
+  {
+    "aptNm": "인앤인",
+    "dealAmount": "49,000",
+    "date": "2026-03-27",
+    "floor": 3,
+    "area": 132.5
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "65,200",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 59.865
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "33,000",
+    "date": "2026-03-24",
+    "floor": 15,
+    "area": 39.6
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "33,800",
+    "date": "2026-03-23",
+    "floor": 3,
+    "area": 125.3359
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "32,000",
+    "date": "2026-03-20",
+    "floor": 16,
+    "area": 84.8886
+  },
+  {
+    "aptNm": "삼정그린코아포레스트(2단지)",
+    "dealAmount": "28,500",
+    "date": "2026-03-20",
+    "floor": 6,
+    "area": 59.8923
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "32,700",
+    "date": "2026-03-19",
+    "floor": 5,
+    "area": 39.6
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "32,700",
+    "date": "2026-03-19",
+    "floor": 7,
+    "area": 39.6
+  },
+  {
+    "aptNm": "삼정그린코아포레스트(2단지)",
+    "dealAmount": "32,000",
+    "date": "2026-03-17",
+    "floor": 4,
+    "area": 69.1267
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "43,800",
+    "date": "2026-03-16",
+    "floor": 18,
+    "area": 84.909
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "29,000",
+    "date": "2026-03-16",
+    "floor": 14,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "48,750",
+    "date": "2026-03-16",
+    "floor": 7,
+    "area": 59.76
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "33,600",
+    "date": "2026-03-14",
+    "floor": 3,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "43,000",
+    "date": "2026-03-13",
+    "floor": 12,
+    "area": 84.909
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "26,300",
+    "date": "2026-03-13",
+    "floor": 4,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "27,700",
+    "date": "2026-03-12",
+    "floor": 7,
+    "area": 59.895
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "64,000",
+    "date": "2026-03-10",
+    "floor": 12,
+    "area": 74.935
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "66,500",
+    "date": "2026-03-10",
+    "floor": 8,
+    "area": 74.97
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "53,800",
+    "date": "2026-03-10",
+    "floor": 1,
+    "area": 84.76
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "32,500",
+    "date": "2026-03-09",
+    "floor": 14,
+    "area": 84.8886
+  },
+  {
+    "aptNm": "삼성홈타운",
+    "dealAmount": "19,000",
+    "date": "2026-03-09",
+    "floor": 6,
+    "area": 14.11
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "66,000",
+    "date": "2026-03-06",
+    "floor": 7,
+    "area": 74.97
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "44,300",
+    "date": "2026-03-06",
+    "floor": 3,
+    "area": 152.97
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "35,000",
+    "date": "2026-03-06",
+    "floor": 7,
+    "area": 39.6
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "51,000",
+    "date": "2026-03-05",
+    "floor": 18,
+    "area": 84.986
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "31,900",
+    "date": "2026-03-04",
+    "floor": 7,
+    "area": 39.6
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "40,000",
+    "date": "2026-03-04",
+    "floor": 5,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "31,700",
+    "date": "2026-03-04",
+    "floor": 10,
+    "area": 39.6
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "82,800",
+    "date": "2026-03-04",
+    "floor": 6,
+    "area": 84.893
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "49,500",
+    "date": "2026-03-02",
+    "floor": 15,
+    "area": 84.909
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "43,400",
+    "date": "2026-02-28",
+    "floor": 10,
+    "area": 84.909
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "32,800",
+    "date": "2026-02-28",
+    "floor": 6,
+    "area": 39.6
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "36,000",
+    "date": "2026-02-27",
+    "floor": 3,
+    "area": 125.3359
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "30,800",
+    "date": "2026-02-27",
+    "floor": 7,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "47,000",
+    "date": "2026-02-26",
+    "floor": 5,
+    "area": 59.76
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "87,000",
+    "date": "2026-02-25",
+    "floor": 24,
+    "area": 84.971
+  },
+  {
+    "aptNm": "삼정그린코아포레스트(2단지)",
+    "dealAmount": "31,800",
+    "date": "2026-02-21",
+    "floor": 4,
+    "area": 69.1267
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "38,000",
+    "date": "2026-02-19",
+    "floor": 12,
+    "area": 125.3359
+  },
+  {
+    "aptNm": "번영로센트리지5단지",
+    "dealAmount": "76,700",
+    "date": "2026-02-16",
+    "floor": 18,
+    "area": 75.916
+  },
+  {
+    "aptNm": "용인서천효성해링턴플레이스",
+    "dealAmount": "59,000",
+    "date": "2026-02-13",
+    "floor": 10,
+    "area": 74.97
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "31,500",
+    "date": "2026-02-13",
+    "floor": 14,
+    "area": 39.6
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "29,500",
+    "date": "2026-02-09",
+    "floor": 14,
+    "area": 84.9197
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "32,000",
+    "date": "2026-02-09",
+    "floor": 9,
+    "area": 84.8886
+  },
+  {
+    "aptNm": "성당동더샵",
+    "dealAmount": "34,000",
+    "date": "2026-02-08",
+    "floor": 18,
+    "area": 84.9996
+  },
+  {
+    "aptNm": "삼정그린코아포레스트(2단지)",
+    "dealAmount": "28,500",
+    "date": "2026-02-07",
+    "floor": 14,
+    "area": 59.8923
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "33,000",
+    "date": "2026-02-07",
+    "floor": 2,
+    "area": 39.6
+  },
+  {
+    "aptNm": "구미푸르지오센트럴파크",
+    "dealAmount": "46,700",
+    "date": "2026-02-03",
+    "floor": 17,
+    "area": 84.909
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "조양",
+    "dealAmount": "2,800",
+    "date": "2026-06-29",
+    "floor": 4,
+    "area": 43.71
+  },
+  {
+    "aptNm": "청주센트럴리슈빌DS",
+    "dealAmount": "15,000",
+    "date": "2026-06-25",
+    "floor": 14,
+    "area": 41.4279
+  },
+  {
+    "aptNm": "청주센트럴리슈빌DS",
+    "dealAmount": "15,500",
+    "date": "2026-05-27",
+    "floor": 25,
+    "area": 37.9303
+  },
+  {
+    "aptNm": "청주센트럴리슈빌DS",
+    "dealAmount": "11,100",
+    "date": "2026-05-16",
+    "floor": 29,
+    "area": 27.2093
+  },
+  {
+    "aptNm": "청주센트럴리슈빌DS",
+    "dealAmount": "15,000",
+    "date": "2026-04-22",
+    "floor": 24,
+    "area": 41.4279
+  },
+  {
+    "aptNm": "조양",
+    "dealAmount": "3,600",
+    "date": "2026-04-20",
+    "floor": 1,
+    "area": 43.71
+  },
+  {
+    "aptNm": "청주센트럴리슈빌DS",
+    "dealAmount": "14,300",
+    "date": "2026-03-05",
+    "floor": 30,
+    "area": 37.9303
+  },
+  {
+    "aptNm": "조양",
+    "dealAmount": "2,900",
+    "date": "2026-02-26",
+    "floor": 5,
+    "area": 43.71
+  },
+  {
+    "aptNm": "대명드림빌",
+    "dealAmount": "28,000",
+    "date": "2026-02-20",
+    "floor": 12,
+    "area": 84.3789
+  }
+]

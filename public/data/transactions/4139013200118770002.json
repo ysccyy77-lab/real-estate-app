@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "세종2",
+    "dealAmount": "37,800",
+    "date": "2026-05-18",
+    "floor": 5,
+    "area": 84.84
+  },
+  {
+    "aptNm": "세종2",
+    "dealAmount": "28,000",
+    "date": "2026-05-08",
+    "floor": 8,
+    "area": 59.88
+  },
+  {
+    "aptNm": "세종2",
+    "dealAmount": "27,000",
+    "date": "2026-05-07",
+    "floor": 9,
+    "area": 59.88
+  },
+  {
+    "aptNm": "세종2",
+    "dealAmount": "35,300",
+    "date": "2026-04-06",
+    "floor": 5,
+    "area": 84.84
+  },
+  {
+    "aptNm": "세종2",
+    "dealAmount": "21,500",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 59.88
+  },
+  {
+    "aptNm": "세종2",
+    "dealAmount": "36,800",
+    "date": "2026-03-24",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
+    "aptNm": "세종2",
+    "dealAmount": "26,300",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 59.88
+  }
+]

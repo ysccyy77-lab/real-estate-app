@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "영진",
+    "dealAmount": "15,700",
+    "date": "2026-06-11",
+    "floor": 13,
+    "area": 52.48
+  },
+  {
+    "aptNm": "진흥2차아파트",
+    "dealAmount": "4,800",
+    "date": "2026-05-27",
+    "floor": 4,
+    "area": 59.97
+  },
+  {
+    "aptNm": "진흥2차아파트",
+    "dealAmount": "5,600",
+    "date": "2026-04-01",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "진흥2차아파트",
+    "dealAmount": "7,500",
+    "date": "2026-03-23",
+    "floor": 6,
+    "area": 59.97
+  },
+  {
+    "aptNm": "뉴마인",
+    "dealAmount": "85,000",
+    "date": "2026-03-06",
+    "floor": 6,
+    "area": 69.03
+  },
+  {
+    "aptNm": "진흥2차아파트",
+    "dealAmount": "4,750",
+    "date": "2026-02-06",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
+    "aptNm": "진흥2차아파트",
+    "dealAmount": "6,400",
+    "date": "2026-02-05",
+    "floor": 3,
+    "area": 59.97
+  }
+]

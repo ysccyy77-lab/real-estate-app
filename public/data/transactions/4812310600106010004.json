@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "한양",
+    "dealAmount": "11,800",
+    "date": "2026-06-30",
+    "floor": 6,
+    "area": 63.72
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "11,700",
+    "date": "2026-05-18",
+    "floor": 8,
+    "area": 84.78
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "12,600",
+    "date": "2026-04-27",
+    "floor": 10,
+    "area": 84.78
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "13,000",
+    "date": "2026-03-29",
+    "floor": 6,
+    "area": 84.78
+  },
+  {
+    "aptNm": "계영그린빌1동",
+    "dealAmount": "9,500",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 84.255
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "13,000",
+    "date": "2026-02-11",
+    "floor": 8,
+    "area": 84.78
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "7,500",
+    "date": "2026-02-04",
+    "floor": 4,
+    "area": 43.56
+  }
+]

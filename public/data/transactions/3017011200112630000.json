@@ -1,0 +1,338 @@
+[
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "109,000",
+    "date": "2026-07-01",
+    "floor": 13,
+    "area": 59.68
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "8,800",
+    "date": "2026-06-20",
+    "floor": 4,
+    "area": 45.28
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "42,700",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "가양라끄빌",
+    "dealAmount": "27,000",
+    "date": "2026-06-11",
+    "floor": 16,
+    "area": 84.7339
+  },
+  {
+    "aptNm": "죽전누리에뜰",
+    "dealAmount": "79,500",
+    "date": "2026-06-09",
+    "floor": 13,
+    "area": 113.03
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "133,500",
+    "date": "2026-06-09",
+    "floor": 17,
+    "area": 170.3
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "8,300",
+    "date": "2026-06-09",
+    "floor": 1,
+    "area": 45.28
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "45,300",
+    "date": "2026-06-08",
+    "floor": 6,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "39,800",
+    "date": "2026-06-08",
+    "floor": 7,
+    "area": 74.61
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "38,700",
+    "date": "2026-06-04",
+    "floor": 2,
+    "area": 74.61
+  },
+  {
+    "aptNm": "죽전누리에뜰",
+    "dealAmount": "71,000",
+    "date": "2026-06-03",
+    "floor": 14,
+    "area": 84.8
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "9,200",
+    "date": "2026-05-30",
+    "floor": 8,
+    "area": 45.28
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "44,400",
+    "date": "2026-05-22",
+    "floor": 2,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "40,500",
+    "date": "2026-05-22",
+    "floor": 9,
+    "area": 74.61
+  },
+  {
+    "aptNm": "시티팰리스7차",
+    "dealAmount": "9,300",
+    "date": "2026-05-20",
+    "floor": 11,
+    "area": 18.9959
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "45,500",
+    "date": "2026-05-16",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "107,000",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "39,000",
+    "date": "2026-05-07",
+    "floor": 5,
+    "area": 74.61
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "100,000",
+    "date": "2026-05-07",
+    "floor": 6,
+    "area": 59.96
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "9,400",
+    "date": "2026-05-06",
+    "floor": 13,
+    "area": 45.28
+  },
+  {
+    "aptNm": "죽전누리에뜰",
+    "dealAmount": "57,700",
+    "date": "2026-05-05",
+    "floor": 14,
+    "area": 77.47
+  },
+  {
+    "aptNm": "시티팰리스7차",
+    "dealAmount": "8,400",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 18.9959
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "125,000",
+    "date": "2026-04-29",
+    "floor": 14,
+    "area": 84.93
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "10,200",
+    "date": "2026-04-24",
+    "floor": 4,
+    "area": 45.28
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "131,000",
+    "date": "2026-04-20",
+    "floor": 13,
+    "area": 170.3
+  },
+  {
+    "aptNm": "죽전누리에뜰",
+    "dealAmount": "79,000",
+    "date": "2026-04-11",
+    "floor": 14,
+    "area": 113.03
+  },
+  {
+    "aptNm": "죽전누리에뜰",
+    "dealAmount": "60,000",
+    "date": "2026-04-04",
+    "floor": 14,
+    "area": 77.47
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "39,400",
+    "date": "2026-03-31",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "41,500",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "죽전누리에뜰",
+    "dealAmount": "85,000",
+    "date": "2026-03-25",
+    "floor": 8,
+    "area": 123.18
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "102,000",
+    "date": "2026-03-23",
+    "floor": 7,
+    "area": 59.96
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "39,500",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "97,000",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 59.68
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "115,000",
+    "date": "2026-03-14",
+    "floor": 17,
+    "area": 131.3
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "97,000",
+    "date": "2026-03-09",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "시티팰리스7차",
+    "dealAmount": "9,300",
+    "date": "2026-03-04",
+    "floor": 5,
+    "area": 18.9959
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "42,400",
+    "date": "2026-03-03",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "97,000",
+    "date": "2026-03-02",
+    "floor": 6,
+    "area": 59.68
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "13,700",
+    "date": "2026-02-28",
+    "floor": 8,
+    "area": 59.86
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "38,900",
+    "date": "2026-02-27",
+    "floor": 1,
+    "area": 74.61
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "119,900",
+    "date": "2026-02-25",
+    "floor": 8,
+    "area": 170.3
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "104,500",
+    "date": "2026-02-14",
+    "floor": 6,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "95,000",
+    "date": "2026-02-14",
+    "floor": 17,
+    "area": 59.96
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "111,000",
+    "date": "2026-02-08",
+    "floor": 7,
+    "area": 131.3
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "97,800",
+    "date": "2026-02-07",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "13,150",
+    "date": "2026-02-07",
+    "floor": 3,
+    "area": 59.86
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "44,000",
+    "date": "2026-02-02",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "12,500",
+    "date": "2026-02-01",
+    "floor": 6,
+    "area": 59.86
+  }
+]

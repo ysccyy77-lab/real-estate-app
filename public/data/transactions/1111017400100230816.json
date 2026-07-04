@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "창신이수",
+    "dealAmount": "89,000",
+    "date": "2026-06-18",
+    "floor": 2,
+    "area": 84.5
+  },
+  {
+    "aptNm": "창신이수",
+    "dealAmount": "93,500",
+    "date": "2026-04-27",
+    "floor": 5,
+    "area": 84.5
+  },
+  {
+    "aptNm": "창신이수",
+    "dealAmount": "94,500",
+    "date": "2026-02-25",
+    "floor": 13,
+    "area": 84.5
+  },
+  {
+    "aptNm": "창신이수",
+    "dealAmount": "90,000",
+    "date": "2026-02-13",
+    "floor": 10,
+    "area": 84.5
+  }
+]

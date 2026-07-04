@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "럭키도마",
+    "dealAmount": "9,500",
+    "date": "2026-06-26",
+    "floor": 4,
+    "area": 75.21
+  },
+  {
+    "aptNm": "럭키도마",
+    "dealAmount": "7,000",
+    "date": "2026-06-01",
+    "floor": 2,
+    "area": 46.67
+  },
+  {
+    "aptNm": "럭키도마",
+    "dealAmount": "7,000",
+    "date": "2026-04-22",
+    "floor": 4,
+    "area": 53.22
+  },
+  {
+    "aptNm": "럭키도마",
+    "dealAmount": "7,700",
+    "date": "2026-04-13",
+    "floor": 2,
+    "area": 46.67
+  },
+  {
+    "aptNm": "럭키도마",
+    "dealAmount": "7,500",
+    "date": "2026-03-05",
+    "floor": 2,
+    "area": 53.22
+  },
+  {
+    "aptNm": "럭키도마",
+    "dealAmount": "7,400",
+    "date": "2026-03-03",
+    "floor": 3,
+    "area": 53.22
+  }
+]

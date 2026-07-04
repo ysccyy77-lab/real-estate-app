@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "누가",
+    "dealAmount": "1,800",
+    "date": "2026-06-01",
+    "floor": 6,
+    "area": 27.18
+  },
+  {
+    "aptNm": "타워맨션",
+    "dealAmount": "10,800",
+    "date": "2026-02-26",
+    "floor": 13,
+    "area": 80.99
+  },
+  {
+    "aptNm": "누가",
+    "dealAmount": "2,400",
+    "date": "2026-02-03",
+    "floor": 4,
+    "area": 27.18
+  }
+]

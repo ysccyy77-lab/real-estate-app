@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "풍림",
+    "dealAmount": "54,000",
+    "date": "2026-05-12",
+    "floor": 5,
+    "area": 164.83
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "43,000",
+    "date": "2026-05-05",
+    "floor": 2,
+    "area": 164.83
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "55,500",
+    "date": "2026-04-16",
+    "floor": 10,
+    "area": 164.83
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "49,500",
+    "date": "2026-03-23",
+    "floor": 10,
+    "area": 141.2
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "45,000",
+    "date": "2026-03-23",
+    "floor": 1,
+    "area": 141.2
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "62,500",
+    "date": "2026-02-21",
+    "floor": 15,
+    "area": 164.83
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "45,200",
+    "date": "2026-02-13",
+    "floor": 15,
+    "area": 96.72
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "104,500",
+    "date": "2026-06-19",
+    "floor": 7,
+    "area": 101.95
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "104,000",
+    "date": "2026-06-17",
+    "floor": 1,
+    "area": 133.93
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "103,200",
+    "date": "2026-06-16",
+    "floor": 12,
+    "area": 84.9
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "99,400",
+    "date": "2026-06-07",
+    "floor": 17,
+    "area": 84.9
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "119,500",
+    "date": "2026-06-06",
+    "floor": 9,
+    "area": 101.95
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "82,800",
+    "date": "2026-05-31",
+    "floor": 13,
+    "area": 60.56
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "99,000",
+    "date": "2026-05-29",
+    "floor": 2,
+    "area": 101.95
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "87,800",
+    "date": "2026-05-28",
+    "floor": 10,
+    "area": 60.44
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "85,000",
+    "date": "2026-05-22",
+    "floor": 7,
+    "area": 60.56
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "100,000",
+    "date": "2026-05-16",
+    "floor": 13,
+    "area": 84.9
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "95,000",
+    "date": "2026-05-13",
+    "floor": 7,
+    "area": 84.9
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "84,000",
+    "date": "2026-05-11",
+    "floor": 1,
+    "area": 84.9
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "84,500",
+    "date": "2026-05-04",
+    "floor": 7,
+    "area": 60.56
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "79,800",
+    "date": "2026-04-26",
+    "floor": 2,
+    "area": 60.56
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "80,000",
+    "date": "2026-04-18",
+    "floor": 9,
+    "area": 60.56
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "109,000",
+    "date": "2026-04-15",
+    "floor": 9,
+    "area": 101.37
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "106,500",
+    "date": "2026-04-13",
+    "floor": 7,
+    "area": 101.37
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "79,000",
+    "date": "2026-04-06",
+    "floor": 10,
+    "area": 60.56
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "81,000",
+    "date": "2026-04-04",
+    "floor": 9,
+    "area": 60.44
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "83,000",
+    "date": "2026-04-04",
+    "floor": 4,
+    "area": 60.44
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "79,200",
+    "date": "2026-04-02",
+    "floor": 5,
+    "area": 60.44
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "79,500",
+    "date": "2026-03-31",
+    "floor": 9,
+    "area": 60.44
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "94,000",
+    "date": "2026-03-28",
+    "floor": 18,
+    "area": 84.9
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "98,000",
+    "date": "2026-03-26",
+    "floor": 13,
+    "area": 84.9
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "85,000",
+    "date": "2026-03-08",
+    "floor": 1,
+    "area": 84.9
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "76,000",
+    "date": "2026-03-01",
+    "floor": 14,
+    "area": 60.44
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "73,000",
+    "date": "2026-02-14",
+    "floor": 14,
+    "area": 60.56
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "73,400",
+    "date": "2026-02-14",
+    "floor": 12,
+    "area": 60.44
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "69,500",
+    "date": "2026-02-09",
+    "floor": 9,
+    "area": 60.56
+  },
+  {
+    "aptNm": "구리(한양)",
+    "dealAmount": "74,700",
+    "date": "2026-02-07",
+    "floor": 9,
+    "area": 60.44
+  },
+  {
+    "aptNm": "구리(우성)",
+    "dealAmount": "110,000",
+    "date": "2026-02-05",
+    "floor": 13,
+    "area": 101.37
+  }
+]

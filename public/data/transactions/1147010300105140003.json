@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "해태",
+    "dealAmount": "45,000",
+    "date": "2026-06-02",
+    "floor": 12,
+    "area": 59.91
+  },
+  {
+    "aptNm": "감일역트루엘",
+    "dealAmount": "41,800",
+    "date": "2026-05-22",
+    "floor": 5,
+    "area": 30
+  },
+  {
+    "aptNm": "해태",
+    "dealAmount": "44,000",
+    "date": "2026-05-08",
+    "floor": 12,
+    "area": 59.91
+  },
+  {
+    "aptNm": "해태",
+    "dealAmount": "47,700",
+    "date": "2026-05-08",
+    "floor": 7,
+    "area": 84.05
+  },
+  {
+    "aptNm": "해태",
+    "dealAmount": "43,000",
+    "date": "2026-05-01",
+    "floor": 13,
+    "area": 59.91
+  },
+  {
+    "aptNm": "해태",
+    "dealAmount": "45,000",
+    "date": "2026-05-01",
+    "floor": 11,
+    "area": 59.91
+  },
+  {
+    "aptNm": "해태",
+    "dealAmount": "56,000",
+    "date": "2026-04-27",
+    "floor": 8,
+    "area": 84.05
+  },
+  {
+    "aptNm": "감일역트루엘",
+    "dealAmount": "41,000",
+    "date": "2026-04-11",
+    "floor": 9,
+    "area": 30
+  },
+  {
+    "aptNm": "해태",
+    "dealAmount": "57,800",
+    "date": "2026-04-11",
+    "floor": 16,
+    "area": 84.93
+  },
+  {
+    "aptNm": "해태",
+    "dealAmount": "59,800",
+    "date": "2026-03-07",
+    "floor": 16,
+    "area": 84.93
+  },
+  {
+    "aptNm": "해태",
+    "dealAmount": "59,500",
+    "date": "2026-02-07",
+    "floor": 11,
+    "area": 84.93
+  }
+]

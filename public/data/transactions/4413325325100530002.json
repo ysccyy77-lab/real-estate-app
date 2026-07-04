@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "10,500",
+    "date": "2026-06-21",
+    "floor": 3,
+    "area": 59.42
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "7,000",
+    "date": "2026-06-15",
+    "floor": 10,
+    "area": 37.925
+  },
+  {
+    "aptNm": "진흥아파트",
+    "dealAmount": "475,000",
+    "date": "2026-05-28",
+    "floor": 2,
+    "area": 207.82
+  },
+  {
+    "aptNm": "진흥아파트",
+    "dealAmount": "400,000",
+    "date": "2026-05-22",
+    "floor": 15,
+    "area": 170.01
+  },
+  {
+    "aptNm": "진흥아파트",
+    "dealAmount": "336,000",
+    "date": "2026-05-07",
+    "floor": 9,
+    "area": 207.82
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "6,700",
+    "date": "2026-05-02",
+    "floor": 4,
+    "area": 37.925
+  },
+  {
+    "aptNm": "쏠레뉴",
+    "dealAmount": "191,000",
+    "date": "2026-04-28",
+    "floor": 5,
+    "area": 115.92
+  },
+  {
+    "aptNm": "진흥아파트",
+    "dealAmount": "487,500",
+    "date": "2026-04-24",
+    "floor": 10,
+    "area": 207.82
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "6,700",
+    "date": "2026-04-13",
+    "floor": 3,
+    "area": 37.925
+  },
+  {
+    "aptNm": "진흥아파트",
+    "dealAmount": "470,000",
+    "date": "2026-03-27",
+    "floor": 14,
+    "area": 170.01
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "11,200",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 59.42
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "11,300",
+    "date": "2026-03-23",
+    "floor": 9,
+    "area": 59.42
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "6,800",
+    "date": "2026-03-21",
+    "floor": 2,
+    "area": 37.925
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "10,700",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 59.25
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "10,800",
+    "date": "2026-02-09",
+    "floor": 11,
+    "area": 59.42
+  }
+]

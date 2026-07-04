@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "현대",
+    "dealAmount": "11,600",
+    "date": "2026-06-15",
+    "floor": 9,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "13,000",
+    "date": "2026-04-25",
+    "floor": 4,
+    "area": 71.175
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "17,100",
+    "date": "2026-03-11",
+    "floor": 9,
+    "area": 84.945
+  },
+  {
+    "aptNm": "럭스타워",
+    "dealAmount": "17,900",
+    "date": "2026-03-07",
+    "floor": 15,
+    "area": 40
+  },
+  {
+    "aptNm": "월성블루힐",
+    "dealAmount": "15,000",
+    "date": "2026-03-03",
+    "floor": 8,
+    "area": 84.46
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "16,500",
+    "date": "2026-03-02",
+    "floor": 14,
+    "area": 84.945
+  },
+  {
+    "aptNm": "럭스타워",
+    "dealAmount": "13,600",
+    "date": "2026-02-20",
+    "floor": 6,
+    "area": 30.15
+  },
+  {
+    "aptNm": "럭스타워",
+    "dealAmount": "13,600",
+    "date": "2026-02-20",
+    "floor": 7,
+    "area": 30.15
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "12,800",
+    "date": "2026-02-11",
+    "floor": 2,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "12,350",
+    "date": "2026-02-09",
+    "floor": 5,
+    "area": 84.945
+  },
+  {
+    "aptNm": "럭스타워",
+    "dealAmount": "17,000",
+    "date": "2026-02-05",
+    "floor": 11,
+    "area": 40
+  }
+]

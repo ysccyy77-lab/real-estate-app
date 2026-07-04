@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "제니더클래식",
+    "dealAmount": "60,000",
+    "date": "2026-06-30",
+    "floor": 11,
+    "area": 52.28
+  },
+  {
+    "aptNm": "두레",
+    "dealAmount": "7,200",
+    "date": "2026-04-26",
+    "floor": 6,
+    "area": 35.8818
+  },
+  {
+    "aptNm": "두레",
+    "dealAmount": "6,100",
+    "date": "2026-03-30",
+    "floor": 1,
+    "area": 32.3658
+  },
+  {
+    "aptNm": "두레",
+    "dealAmount": "7,700",
+    "date": "2026-03-23",
+    "floor": 6,
+    "area": 35.8818
+  },
+  {
+    "aptNm": "두레",
+    "dealAmount": "6,400",
+    "date": "2026-02-24",
+    "floor": 5,
+    "area": 32.3658
+  }
+]

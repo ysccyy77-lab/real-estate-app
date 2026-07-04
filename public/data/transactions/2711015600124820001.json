@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "까치",
+    "dealAmount": "12,900",
+    "date": "2026-06-11",
+    "floor": 13,
+    "area": 53.6
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "11,900",
+    "date": "2026-06-07",
+    "floor": 1,
+    "area": 53.6
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "14,000",
+    "date": "2026-05-04",
+    "floor": 10,
+    "area": 53.6
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "15,000",
+    "date": "2026-04-21",
+    "floor": 14,
+    "area": 59.66
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "8,500",
+    "date": "2026-04-17",
+    "floor": 11,
+    "area": 33.06
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "8,150",
+    "date": "2026-04-13",
+    "floor": 10,
+    "area": 33.06
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "14,000",
+    "date": "2026-04-09",
+    "floor": 2,
+    "area": 53.6
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "13,000",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 53.6
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "13,300",
+    "date": "2026-03-28",
+    "floor": 14,
+    "area": 59.81
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "9,700",
+    "date": "2026-02-11",
+    "floor": 11,
+    "area": 33.06
+  },
+  {
+    "aptNm": "까치",
+    "dealAmount": "13,000",
+    "date": "2026-02-09",
+    "floor": 11,
+    "area": 53.6
+  }
+]

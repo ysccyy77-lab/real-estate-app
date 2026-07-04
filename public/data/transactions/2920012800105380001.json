@@ -1,0 +1,212 @@
+[
+  {
+    "aptNm": "영광",
+    "dealAmount": "14,400",
+    "date": "2026-06-22",
+    "floor": 3,
+    "area": 59.94
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "25,800",
+    "date": "2026-06-21",
+    "floor": 5,
+    "area": 59.88
+  },
+  {
+    "aptNm": "한라하이타운",
+    "dealAmount": "15,700",
+    "date": "2026-06-21",
+    "floor": 3,
+    "area": 59.4
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "20,700",
+    "date": "2026-06-13",
+    "floor": 5,
+    "area": 48.84
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "20,400",
+    "date": "2026-06-12",
+    "floor": 1,
+    "area": 48.84
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "20,400",
+    "date": "2026-06-03",
+    "floor": 20,
+    "area": 48.84
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "17,700",
+    "date": "2026-06-02",
+    "floor": 13,
+    "area": 58.234
+  },
+  {
+    "aptNm": "한라하이타운",
+    "dealAmount": "17,000",
+    "date": "2026-05-23",
+    "floor": 11,
+    "area": 59.4
+  },
+  {
+    "aptNm": "한라하이타운",
+    "dealAmount": "17,000",
+    "date": "2026-05-17",
+    "floor": 11,
+    "area": 59.4
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "17,500",
+    "date": "2026-05-13",
+    "floor": 10,
+    "area": 59.9283
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "20,500",
+    "date": "2026-05-08",
+    "floor": 12,
+    "area": 48.84
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "16,500",
+    "date": "2026-04-20",
+    "floor": 5,
+    "area": 59.9283
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "20,300",
+    "date": "2026-04-10",
+    "floor": 1,
+    "area": 48.84
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "22,400",
+    "date": "2026-04-06",
+    "floor": 19,
+    "area": 48.84
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "20,400",
+    "date": "2026-04-04",
+    "floor": 13,
+    "area": 48.84
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "19,400",
+    "date": "2026-04-02",
+    "floor": 2,
+    "area": 48.84
+  },
+  {
+    "aptNm": "한라하이타운",
+    "dealAmount": "18,800",
+    "date": "2026-03-28",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "17,700",
+    "date": "2026-03-27",
+    "floor": 15,
+    "area": 59.9283
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "16,000",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 59.9283
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "17,000",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 59.9283
+  },
+  {
+    "aptNm": "한라하이타운",
+    "dealAmount": "15,500",
+    "date": "2026-03-11",
+    "floor": 11,
+    "area": 59.4
+  },
+  {
+    "aptNm": "한라하이타운",
+    "dealAmount": "24,900",
+    "date": "2026-02-27",
+    "floor": 19,
+    "area": 83.91
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "20,000",
+    "date": "2026-02-23",
+    "floor": 8,
+    "area": 48.84
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "16,800",
+    "date": "2026-02-19",
+    "floor": 7,
+    "area": 58.234
+  },
+  {
+    "aptNm": "한라하이타운",
+    "dealAmount": "16,400",
+    "date": "2026-02-10",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "21,400",
+    "date": "2026-02-06",
+    "floor": 17,
+    "area": 48.84
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "17,000",
+    "date": "2026-02-06",
+    "floor": 8,
+    "area": 59.9283
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "20,900",
+    "date": "2026-02-03",
+    "floor": 19,
+    "area": 48.84
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "21,000",
+    "date": "2026-02-02",
+    "floor": 11,
+    "area": 48.84
+  },
+  {
+    "aptNm": "동화해오름타운",
+    "dealAmount": "17,500",
+    "date": "2026-02-01",
+    "floor": 10,
+    "area": 59.9283
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "유원",
+    "dealAmount": "26,800",
+    "date": "2026-06-18",
+    "floor": 16,
+    "area": 59.91
+  },
+  {
+    "aptNm": "명성강변",
+    "dealAmount": "10,700",
+    "date": "2026-04-23",
+    "floor": 9,
+    "area": 58.95
+  },
+  {
+    "aptNm": "명성강변",
+    "dealAmount": "9,800",
+    "date": "2026-04-22",
+    "floor": 11,
+    "area": 54.3
+  },
+  {
+    "aptNm": "유원",
+    "dealAmount": "42,000",
+    "date": "2026-04-20",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "명성강변",
+    "dealAmount": "10,000",
+    "date": "2026-04-17",
+    "floor": 14,
+    "area": 60
+  },
+  {
+    "aptNm": "명성강변",
+    "dealAmount": "10,500",
+    "date": "2026-04-01",
+    "floor": 8,
+    "area": 60
+  }
+]

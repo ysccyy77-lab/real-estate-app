@@ -1,0 +1,933 @@
+[
+  {
+    "aptNm": "이매촌(삼환)",
+    "dealAmount": "188,000",
+    "date": "2026-06-27",
+    "floor": 14,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "60,000",
+    "date": "2026-06-27",
+    "floor": 15,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "40,500",
+    "date": "2026-06-26",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "29,000",
+    "date": "2026-06-21",
+    "floor": 1,
+    "area": 71.95
+  },
+  {
+    "aptNm": "부여코아루더퍼스트",
+    "dealAmount": "38,000",
+    "date": "2026-06-20",
+    "floor": 9,
+    "area": 84.9342
+  },
+  {
+    "aptNm": "이매촌(삼환)",
+    "dealAmount": "169,000",
+    "date": "2026-06-19",
+    "floor": 14,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "32,000",
+    "date": "2026-06-19",
+    "floor": 10,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "37,000",
+    "date": "2026-06-16",
+    "floor": 11,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "56,000",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "34,900",
+    "date": "2026-06-15",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "아주",
+    "dealAmount": "42,000",
+    "date": "2026-06-13",
+    "floor": 3,
+    "area": 84.945
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,000",
+    "date": "2026-06-13",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "41,200",
+    "date": "2026-06-13",
+    "floor": 14,
+    "area": 84.93
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "89,000",
+    "date": "2026-06-10",
+    "floor": 1,
+    "area": 59.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "35,000",
+    "date": "2026-06-09",
+    "floor": 7,
+    "area": 71.95
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "64,500",
+    "date": "2026-06-09",
+    "floor": 13,
+    "area": 142.69
+  },
+  {
+    "aptNm": "아주",
+    "dealAmount": "34,400",
+    "date": "2026-06-07",
+    "floor": 2,
+    "area": 59.115
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "90,000",
+    "date": "2026-06-06",
+    "floor": 15,
+    "area": 59.955
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "96,000",
+    "date": "2026-06-05",
+    "floor": 18,
+    "area": 59.96
+  },
+  {
+    "aptNm": "이매촌(삼환)",
+    "dealAmount": "193,000",
+    "date": "2026-06-04",
+    "floor": 5,
+    "area": 132.37
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "58,000",
+    "date": "2026-06-04",
+    "floor": 9,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "52,000",
+    "date": "2026-06-03",
+    "floor": 1,
+    "area": 142.69
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "92,000",
+    "date": "2026-05-30",
+    "floor": 13,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "42,000",
+    "date": "2026-05-30",
+    "floor": 10,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "41,000",
+    "date": "2026-05-30",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "38,800",
+    "date": "2026-05-29",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "부여코아루더퍼스트",
+    "dealAmount": "36,500",
+    "date": "2026-05-29",
+    "floor": 15,
+    "area": 84.9521
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "89,500",
+    "date": "2026-05-28",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "43,000",
+    "date": "2026-05-28",
+    "floor": 10,
+    "area": 84.93
+  },
+  {
+    "aptNm": "태영2차",
+    "dealAmount": "11,000",
+    "date": "2026-05-27",
+    "floor": 7,
+    "area": 84.885
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "41,000",
+    "date": "2026-05-27",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "87,900",
+    "date": "2026-05-25",
+    "floor": 19,
+    "area": 59.96
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "104,000",
+    "date": "2026-05-25",
+    "floor": 16,
+    "area": 84.96
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "89,500",
+    "date": "2026-05-23",
+    "floor": 4,
+    "area": 127.47
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "37,200",
+    "date": "2026-05-23",
+    "floor": 13,
+    "area": 84.93
+  },
+  {
+    "aptNm": "부여코아루더퍼스트",
+    "dealAmount": "37,000",
+    "date": "2026-05-22",
+    "floor": 17,
+    "area": 84.9521
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "35,300",
+    "date": "2026-05-21",
+    "floor": 11,
+    "area": 71.95
+  },
+  {
+    "aptNm": "한솔",
+    "dealAmount": "88,000",
+    "date": "2026-05-21",
+    "floor": 17,
+    "area": 84.13
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "41,300",
+    "date": "2026-05-20",
+    "floor": 11,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "100,500",
+    "date": "2026-05-16",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "당산롯데캐슬프레스티지",
+    "dealAmount": "199,000",
+    "date": "2026-05-15",
+    "floor": 21,
+    "area": 84.98
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "90,500",
+    "date": "2026-05-14",
+    "floor": 9,
+    "area": 127.47
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "62,000",
+    "date": "2026-05-13",
+    "floor": 9,
+    "area": 117.295
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "94,000",
+    "date": "2026-05-10",
+    "floor": 8,
+    "area": 127.47
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "89,000",
+    "date": "2026-05-09",
+    "floor": 22,
+    "area": 59.96
+  },
+  {
+    "aptNm": "한솔",
+    "dealAmount": "75,500",
+    "date": "2026-05-09",
+    "floor": 1,
+    "area": 59.28
+  },
+  {
+    "aptNm": "이매촌(삼환)",
+    "dealAmount": "142,000",
+    "date": "2026-05-08",
+    "floor": 8,
+    "area": 59.87
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,000",
+    "date": "2026-05-07",
+    "floor": 3,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "37,500",
+    "date": "2026-05-04",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,500",
+    "date": "2026-05-03",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,200",
+    "date": "2026-04-29",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "당산롯데캐슬프레스티지",
+    "dealAmount": "187,000",
+    "date": "2026-04-29",
+    "floor": 22,
+    "area": 84.98
+  },
+  {
+    "aptNm": "부여코아루더퍼스트",
+    "dealAmount": "38,000",
+    "date": "2026-04-29",
+    "floor": 10,
+    "area": 84.9342
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "50,000",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 117.295
+  },
+  {
+    "aptNm": "이매촌(삼환)",
+    "dealAmount": "134,100",
+    "date": "2026-04-27",
+    "floor": 25,
+    "area": 132.37
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "97,000",
+    "date": "2026-04-25",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,500",
+    "date": "2026-04-25",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,500",
+    "date": "2026-04-25",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한솔",
+    "dealAmount": "93,000",
+    "date": "2026-04-25",
+    "floor": 4,
+    "area": 84.13
+  },
+  {
+    "aptNm": "아주",
+    "dealAmount": "34,000",
+    "date": "2026-04-24",
+    "floor": 5,
+    "area": 84.945
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "96,000",
+    "date": "2026-04-23",
+    "floor": 11,
+    "area": 84.96
+  },
+  {
+    "aptNm": "태영2차",
+    "dealAmount": "8,800",
+    "date": "2026-04-23",
+    "floor": 5,
+    "area": 84.885
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "44,000",
+    "date": "2026-04-23",
+    "floor": 4,
+    "area": 99.84
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "43,000",
+    "date": "2026-04-23",
+    "floor": 6,
+    "area": 99.84
+  },
+  {
+    "aptNm": "한솔",
+    "dealAmount": "115,000",
+    "date": "2026-04-23",
+    "floor": 10,
+    "area": 114.12
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "100,000",
+    "date": "2026-04-22",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "32,500",
+    "date": "2026-04-21",
+    "floor": 6,
+    "area": 71.95
+  },
+  {
+    "aptNm": "당산롯데캐슬프레스티지",
+    "dealAmount": "197,500",
+    "date": "2026-04-21",
+    "floor": 26,
+    "area": 84.99
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,000",
+    "date": "2026-04-18",
+    "floor": 13,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,200",
+    "date": "2026-04-16",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "34,800",
+    "date": "2026-04-15",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "43,000",
+    "date": "2026-04-15",
+    "floor": 3,
+    "area": 99.84
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "85,000",
+    "date": "2026-04-14",
+    "floor": 12,
+    "area": 127.47
+  },
+  {
+    "aptNm": "부여코아루더퍼스트",
+    "dealAmount": "36,000",
+    "date": "2026-04-13",
+    "floor": 3,
+    "area": 84.9342
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "82,000",
+    "date": "2026-04-11",
+    "floor": 3,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "50,000",
+    "date": "2026-04-11",
+    "floor": 1,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "46,000",
+    "date": "2026-04-11",
+    "floor": 2,
+    "area": 99.84
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "48,000",
+    "date": "2026-04-10",
+    "floor": 14,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한솔",
+    "dealAmount": "110,000",
+    "date": "2026-04-09",
+    "floor": 4,
+    "area": 114.12
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "40,500",
+    "date": "2026-04-08",
+    "floor": 13,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "53,000",
+    "date": "2026-04-07",
+    "floor": 10,
+    "area": 117.295
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "98,500",
+    "date": "2026-04-06",
+    "floor": 7,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한솔",
+    "dealAmount": "85,000",
+    "date": "2026-04-06",
+    "floor": 11,
+    "area": 59.28
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "83,500",
+    "date": "2026-04-04",
+    "floor": 4,
+    "area": 59.955
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "36,000",
+    "date": "2026-04-03",
+    "floor": 2,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "54,000",
+    "date": "2026-04-02",
+    "floor": 7,
+    "area": 59.955
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "38,900",
+    "date": "2026-04-02",
+    "floor": 3,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "38,000",
+    "date": "2026-04-01",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "54,000",
+    "date": "2026-04-01",
+    "floor": 3,
+    "area": 142.69
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "60,100",
+    "date": "2026-03-31",
+    "floor": 15,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "38,800",
+    "date": "2026-03-31",
+    "floor": 18,
+    "area": 84.93
+  },
+  {
+    "aptNm": "부여코아루더퍼스트",
+    "dealAmount": "34,500",
+    "date": "2026-03-29",
+    "floor": 7,
+    "area": 84.9342
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "35,000",
+    "date": "2026-03-28",
+    "floor": 11,
+    "area": 71.95
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "53,000",
+    "date": "2026-03-28",
+    "floor": 2,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "53,700",
+    "date": "2026-03-27",
+    "floor": 5,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "37,200",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "당산롯데캐슬프레스티지",
+    "dealAmount": "190,000",
+    "date": "2026-03-24",
+    "floor": 19,
+    "area": 84.99
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "38,500",
+    "date": "2026-03-23",
+    "floor": 11,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "37,800",
+    "date": "2026-03-23",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "29,500",
+    "date": "2026-03-21",
+    "floor": 3,
+    "area": 71.95
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "37,500",
+    "date": "2026-03-17",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "36,900",
+    "date": "2026-03-16",
+    "floor": 14,
+    "area": 71.95
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "87,400",
+    "date": "2026-03-13",
+    "floor": 11,
+    "area": 59.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "37,400",
+    "date": "2026-03-11",
+    "floor": 3,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "40,650",
+    "date": "2026-03-11",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "37,500",
+    "date": "2026-03-08",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "87,000",
+    "date": "2026-03-07",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "57,000",
+    "date": "2026-03-07",
+    "floor": 10,
+    "area": 117.295
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,000",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "아주",
+    "dealAmount": "38,300",
+    "date": "2026-03-04",
+    "floor": 3,
+    "area": 84.945
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "85,000",
+    "date": "2026-02-28",
+    "floor": 17,
+    "area": 127.47
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "34,500",
+    "date": "2026-02-28",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "84,000",
+    "date": "2026-02-27",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "35,000",
+    "date": "2026-02-25",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "41,000",
+    "date": "2026-02-25",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "40,000",
+    "date": "2026-02-25",
+    "floor": 10,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,500",
+    "date": "2026-02-14",
+    "floor": 14,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "72,500",
+    "date": "2026-02-13",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "58,500",
+    "date": "2026-02-13",
+    "floor": 3,
+    "area": 142.69
+  },
+  {
+    "aptNm": "부여코아루더퍼스트",
+    "dealAmount": "24,800",
+    "date": "2026-02-12",
+    "floor": 3,
+    "area": 59.9791
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "93,000",
+    "date": "2026-02-11",
+    "floor": 14,
+    "area": 127.47
+  },
+  {
+    "aptNm": "한솔",
+    "dealAmount": "80,000",
+    "date": "2026-02-11",
+    "floor": 13,
+    "area": 59.28
+  },
+  {
+    "aptNm": "부여코아루더퍼스트",
+    "dealAmount": "34,000",
+    "date": "2026-02-11",
+    "floor": 2,
+    "area": 84.9342
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "35,500",
+    "date": "2026-02-08",
+    "floor": 4,
+    "area": 71.95
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "35,500",
+    "date": "2026-02-08",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "92,000",
+    "date": "2026-02-05",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "93,000",
+    "date": "2026-02-05",
+    "floor": 6,
+    "area": 127.47
+  },
+  {
+    "aptNm": "당산롯데캐슬프레스티지",
+    "dealAmount": "165,000",
+    "date": "2026-02-05",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "일성파크",
+    "dealAmount": "81,500",
+    "date": "2026-02-04",
+    "floor": 3,
+    "area": 59.96
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,500",
+    "date": "2026-02-03",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "60,000",
+    "date": "2026-02-02",
+    "floor": 6,
+    "area": 142.69
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "40,000",
+    "date": "2026-02-02",
+    "floor": 2,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "38,800",
+    "date": "2026-02-02",
+    "floor": 18,
+    "area": 84.93
+  }
+]

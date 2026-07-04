@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "가온팰리스",
+    "dealAmount": "7,800",
+    "date": "2026-06-10",
+    "floor": 9,
+    "area": 18
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "44,000",
+    "date": "2026-05-23",
+    "floor": 4,
+    "area": 48.3
+  },
+  {
+    "aptNm": "더시티",
+    "dealAmount": "21,000",
+    "date": "2026-05-16",
+    "floor": 9,
+    "area": 42.66
+  },
+  {
+    "aptNm": "가온팰리스",
+    "dealAmount": "14,000",
+    "date": "2026-03-29",
+    "floor": 6,
+    "area": 27
+  },
+  {
+    "aptNm": "가온팰리스",
+    "dealAmount": "8,000",
+    "date": "2026-03-25",
+    "floor": 12,
+    "area": 18
+  },
+  {
+    "aptNm": "가온팰리스",
+    "dealAmount": "12,800",
+    "date": "2026-03-19",
+    "floor": 5,
+    "area": 27
+  },
+  {
+    "aptNm": "가온팰리스",
+    "dealAmount": "8,300",
+    "date": "2026-02-12",
+    "floor": 7,
+    "area": 18
+  },
+  {
+    "aptNm": "가온팰리스",
+    "dealAmount": "8,300",
+    "date": "2026-02-12",
+    "floor": 11,
+    "area": 18
+  }
+]

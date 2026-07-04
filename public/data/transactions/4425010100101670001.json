@@ -1,0 +1,184 @@
+[
+  {
+    "aptNm": "한영해시안아파트",
+    "dealAmount": "108,400",
+    "date": "2026-07-01",
+    "floor": 10,
+    "area": 62.63
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "22,500",
+    "date": "2026-06-24",
+    "floor": 6,
+    "area": 59.956
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "18,000",
+    "date": "2026-06-16",
+    "floor": 1,
+    "area": 84.9769
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "25,000",
+    "date": "2026-06-15",
+    "floor": 7,
+    "area": 134.4673
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "18,500",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 84.9769
+  },
+  {
+    "aptNm": "공주교동대우",
+    "dealAmount": "14,800",
+    "date": "2026-06-15",
+    "floor": 2,
+    "area": 59.995
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "20,000",
+    "date": "2026-06-09",
+    "floor": 15,
+    "area": 59.956
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "30,000",
+    "date": "2026-06-07",
+    "floor": 11,
+    "area": 134.4673
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "20,000",
+    "date": "2026-06-05",
+    "floor": 5,
+    "area": 84.9769
+  },
+  {
+    "aptNm": "레이크힐",
+    "dealAmount": "20,000",
+    "date": "2026-05-07",
+    "floor": 4,
+    "area": 70.3325
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "20,000",
+    "date": "2026-05-05",
+    "floor": 20,
+    "area": 59.956
+  },
+  {
+    "aptNm": "대림맨션",
+    "dealAmount": "7,500",
+    "date": "2026-04-29",
+    "floor": 2,
+    "area": 83.1
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "22,500",
+    "date": "2026-04-22",
+    "floor": 12,
+    "area": 84.9769
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "20,000",
+    "date": "2026-04-17",
+    "floor": 6,
+    "area": 84.9769
+  },
+  {
+    "aptNm": "공주교동대우",
+    "dealAmount": "12,800",
+    "date": "2026-04-17",
+    "floor": 12,
+    "area": 59.995
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "19,800",
+    "date": "2026-04-10",
+    "floor": 12,
+    "area": 84.9769
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "24,500",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 84.974
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "19,700",
+    "date": "2026-03-13",
+    "floor": 16,
+    "area": 59.956
+  },
+  {
+    "aptNm": "공주교동대우",
+    "dealAmount": "12,000",
+    "date": "2026-03-13",
+    "floor": 16,
+    "area": 59.995
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "20,100",
+    "date": "2026-03-01",
+    "floor": 10,
+    "area": 84.9769
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "28,500",
+    "date": "2026-02-24",
+    "floor": 12,
+    "area": 84.974
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "17,500",
+    "date": "2026-02-23",
+    "floor": 2,
+    "area": 84.9769
+  },
+  {
+    "aptNm": "한영해시안아파트",
+    "dealAmount": "89,000",
+    "date": "2026-02-20",
+    "floor": 4,
+    "area": 63.81
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "20,000",
+    "date": "2026-02-03",
+    "floor": 11,
+    "area": 59.956
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "25,000",
+    "date": "2026-02-02",
+    "floor": 9,
+    "area": 134.4673
+  },
+  {
+    "aptNm": "우림루미아트",
+    "dealAmount": "21,500",
+    "date": "2026-02-02",
+    "floor": 4,
+    "area": 84.9769
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "학장대림",
+    "dealAmount": "11,250",
+    "date": "2026-06-15",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "모아그랜드시티",
+    "dealAmount": "19,800",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 84.8931
+  },
+  {
+    "aptNm": "진주",
+    "dealAmount": "5,300",
+    "date": "2026-04-07",
+    "floor": 5,
+    "area": 56.43
+  },
+  {
+    "aptNm": "학장대림",
+    "dealAmount": "13,180",
+    "date": "2026-04-04",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "학장대림",
+    "dealAmount": "13,700",
+    "date": "2026-02-01",
+    "floor": 6,
+    "area": 75.61
+  }
+]

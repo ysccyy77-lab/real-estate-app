@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "진영거성",
+    "dealAmount": "5,028",
+    "date": "2026-05-13",
+    "floor": 18,
+    "area": 58.65
+  },
+  {
+    "aptNm": "진영거성",
+    "dealAmount": "6,550",
+    "date": "2026-03-20",
+    "floor": 4,
+    "area": 58.65
+  },
+  {
+    "aptNm": "진영거성",
+    "dealAmount": "6,000",
+    "date": "2026-03-02",
+    "floor": 2,
+    "area": 58.65
+  },
+  {
+    "aptNm": "진영거성",
+    "dealAmount": "6,500",
+    "date": "2026-02-27",
+    "floor": 13,
+    "area": 58.91
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "밀양삼문",
+    "dealAmount": "6,800",
+    "date": "2026-05-25",
+    "floor": 2,
+    "area": 39.69
+  },
+  {
+    "aptNm": "밀양삼문",
+    "dealAmount": "6,100",
+    "date": "2026-05-16",
+    "floor": 5,
+    "area": 46.68
+  },
+  {
+    "aptNm": "밀양삼문",
+    "dealAmount": "7,800",
+    "date": "2026-05-12",
+    "floor": 4,
+    "area": 47.01
+  },
+  {
+    "aptNm": "밀양삼문",
+    "dealAmount": "6,900",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 39.69
+  },
+  {
+    "aptNm": "밀양삼문",
+    "dealAmount": "7,000",
+    "date": "2026-03-31",
+    "floor": 1,
+    "area": 39.69
+  },
+  {
+    "aptNm": "밀양삼문",
+    "dealAmount": "7,450",
+    "date": "2026-02-24",
+    "floor": 2,
+    "area": 39.69
+  },
+  {
+    "aptNm": "밀양삼문",
+    "dealAmount": "8,200",
+    "date": "2026-02-23",
+    "floor": 1,
+    "area": 47.01
+  }
+]

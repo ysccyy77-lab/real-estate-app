@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "안행현대",
+    "dealAmount": "22,700",
+    "date": "2026-06-18",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "안행현대",
+    "dealAmount": "21,000",
+    "date": "2026-05-31",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "안행현대",
+    "dealAmount": "27,500",
+    "date": "2026-05-19",
+    "floor": 11,
+    "area": 134.59
+  },
+  {
+    "aptNm": "안행현대",
+    "dealAmount": "21,500",
+    "date": "2026-05-08",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "안행현대",
+    "dealAmount": "26,500",
+    "date": "2026-03-12",
+    "floor": 8,
+    "area": 134.59
+  },
+  {
+    "aptNm": "안행현대",
+    "dealAmount": "20,000",
+    "date": "2026-02-25",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "안행현대",
+    "dealAmount": "20,800",
+    "date": "2026-02-22",
+    "floor": 10,
+    "area": 84.96
+  }
+]

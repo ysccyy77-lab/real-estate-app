@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "해모로",
+    "dealAmount": "185,000",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 83.871
+  },
+  {
+    "aptNm": "해모로",
+    "dealAmount": "175,000",
+    "date": "2026-05-30",
+    "floor": 11,
+    "area": 59.713
+  },
+  {
+    "aptNm": "원진",
+    "dealAmount": "4,800",
+    "date": "2026-05-29",
+    "floor": 3,
+    "area": 76.85
+  },
+  {
+    "aptNm": "해모로",
+    "dealAmount": "185,000",
+    "date": "2026-05-22",
+    "floor": 11,
+    "area": 83.871
+  },
+  {
+    "aptNm": "성호(443-0)",
+    "dealAmount": "24,000",
+    "date": "2026-05-18",
+    "floor": 7,
+    "area": 59.986
+  },
+  {
+    "aptNm": "현대3차(61~64동)",
+    "dealAmount": "485,000",
+    "date": "2026-05-16",
+    "floor": 4,
+    "area": 82.5
+  },
+  {
+    "aptNm": "해모로",
+    "dealAmount": "181,000",
+    "date": "2026-05-13",
+    "floor": 4,
+    "area": 83.85
+  },
+  {
+    "aptNm": "현대3차(61~64동)",
+    "dealAmount": "462,500",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 82.5
+  },
+  {
+    "aptNm": "해모로",
+    "dealAmount": "181,000",
+    "date": "2026-04-16",
+    "floor": 8,
+    "area": 59.713
+  },
+  {
+    "aptNm": "현대3차(61~64동)",
+    "dealAmount": "460,000",
+    "date": "2026-04-14",
+    "floor": 1,
+    "area": 82.5
+  },
+  {
+    "aptNm": "해모로",
+    "dealAmount": "189,400",
+    "date": "2026-04-13",
+    "floor": 8,
+    "area": 83.85
+  },
+  {
+    "aptNm": "두진백로",
+    "dealAmount": "14,800",
+    "date": "2026-03-26",
+    "floor": 1,
+    "area": 82.11
+  },
+  {
+    "aptNm": "해모로",
+    "dealAmount": "189,000",
+    "date": "2026-02-13",
+    "floor": 7,
+    "area": 83.85
+  }
+]

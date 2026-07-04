@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "신동비사벌",
+    "dealAmount": "7,000",
+    "date": "2026-05-28",
+    "floor": 1,
+    "area": 39.96
+  },
+  {
+    "aptNm": "신동비사벌",
+    "dealAmount": "6,000",
+    "date": "2026-05-08",
+    "floor": 4,
+    "area": 49.32
+  },
+  {
+    "aptNm": "코아루1단지",
+    "dealAmount": "60,500",
+    "date": "2026-05-03",
+    "floor": 6,
+    "area": 84.95
+  },
+  {
+    "aptNm": "신동비사벌",
+    "dealAmount": "6,050",
+    "date": "2026-04-13",
+    "floor": 5,
+    "area": 39.96
+  },
+  {
+    "aptNm": "신동비사벌",
+    "dealAmount": "6,000",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 39.96
+  },
+  {
+    "aptNm": "신동비사벌",
+    "dealAmount": "7,900",
+    "date": "2026-03-14",
+    "floor": 3,
+    "area": 49.32
+  }
+]

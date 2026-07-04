@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "우강온누리",
+    "dealAmount": "4,500",
+    "date": "2026-06-27",
+    "floor": 1,
+    "area": 59.414
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "50,500",
+    "date": "2026-06-20",
+    "floor": 1,
+    "area": 100.548
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "39,500",
+    "date": "2026-06-03",
+    "floor": 7,
+    "area": 59.988
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "40,500",
+    "date": "2026-05-28",
+    "floor": 15,
+    "area": 59.988
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "39,000",
+    "date": "2026-05-07",
+    "floor": 1,
+    "area": 59.988
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "47,500",
+    "date": "2026-05-04",
+    "floor": 9,
+    "area": 84.876
+  },
+  {
+    "aptNm": "동원맨션",
+    "dealAmount": "8,500",
+    "date": "2026-04-27",
+    "floor": 15,
+    "area": 105.25
+  },
+  {
+    "aptNm": "동원맨션",
+    "dealAmount": "7,500",
+    "date": "2026-04-16",
+    "floor": 1,
+    "area": 84.85
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "40,200",
+    "date": "2026-03-25",
+    "floor": 6,
+    "area": 59.988
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "48,700",
+    "date": "2026-03-07",
+    "floor": 6,
+    "area": 84.903
+  },
+  {
+    "aptNm": "동원맨션",
+    "dealAmount": "9,150",
+    "date": "2026-02-28",
+    "floor": 8,
+    "area": 84.85
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "39,900",
+    "date": "2026-02-23",
+    "floor": 14,
+    "area": 59.988
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "50,800",
+    "date": "2026-02-23",
+    "floor": 2,
+    "area": 84.903
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "상아",
+    "dealAmount": "25,000",
+    "date": "2026-06-09",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "22,500",
+    "date": "2026-04-23",
+    "floor": 11,
+    "area": 73.34
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "18,000",
+    "date": "2026-03-11",
+    "floor": 1,
+    "area": 73.34
+  },
+  {
+    "aptNm": "상아",
+    "dealAmount": "27,000",
+    "date": "2026-02-12",
+    "floor": 7,
+    "area": 84.93
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "청호7차",
+    "dealAmount": "4,200",
+    "date": "2026-06-03",
+    "floor": 6,
+    "area": 55.84
+  },
+  {
+    "aptNm": "동진",
+    "dealAmount": "6,500",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 49.44
+  },
+  {
+    "aptNm": "동진",
+    "dealAmount": "7,200",
+    "date": "2026-03-03",
+    "floor": 1,
+    "area": 49.44
+  }
+]

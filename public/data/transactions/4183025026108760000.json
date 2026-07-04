@@ -1,0 +1,940 @@
+[
+  {
+    "aptNm": "율곡",
+    "dealAmount": "46,000",
+    "date": "2026-06-30",
+    "floor": 5,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "47,500",
+    "date": "2026-06-28",
+    "floor": 21,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "46,800",
+    "date": "2026-06-28",
+    "floor": 9,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "47,850",
+    "date": "2026-06-27",
+    "floor": 2,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "53,500",
+    "date": "2026-06-27",
+    "floor": 12,
+    "area": 58.46
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "74,000",
+    "date": "2026-06-27",
+    "floor": 3,
+    "area": 84.981
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "48,900",
+    "date": "2026-06-24",
+    "floor": 15,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,000",
+    "date": "2026-06-22",
+    "floor": 1,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "48,000",
+    "date": "2026-06-20",
+    "floor": 13,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "49,800",
+    "date": "2026-06-20",
+    "floor": 12,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "46,000",
+    "date": "2026-06-20",
+    "floor": 12,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "51,500",
+    "date": "2026-06-19",
+    "floor": 11,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "46,200",
+    "date": "2026-06-18",
+    "floor": 19,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "50,000",
+    "date": "2026-06-15",
+    "floor": 6,
+    "area": 58.65
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "79,500",
+    "date": "2026-06-13",
+    "floor": 10,
+    "area": 84.981
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "24,500",
+    "date": "2026-06-12",
+    "floor": 1,
+    "area": 90.81
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "44,900",
+    "date": "2026-06-11",
+    "floor": 11,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "50,000",
+    "date": "2026-06-10",
+    "floor": 10,
+    "area": 58.65
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "41,500",
+    "date": "2026-06-10",
+    "floor": 8,
+    "area": 84.9533
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "51,800",
+    "date": "2026-06-09",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "45,000",
+    "date": "2026-06-06",
+    "floor": 20,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,700",
+    "date": "2026-06-06",
+    "floor": 1,
+    "area": 51.66
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "44,500",
+    "date": "2026-06-04",
+    "floor": 20,
+    "area": 84.9613
+  },
+  {
+    "aptNm": "블루밍2단지",
+    "dealAmount": "30,500",
+    "date": "2026-06-03",
+    "floor": 1,
+    "area": 114.888
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,000",
+    "date": "2026-06-02",
+    "floor": 13,
+    "area": 58.65
+  },
+  {
+    "aptNm": "아야진라메르데시앙",
+    "dealAmount": "29,200",
+    "date": "2026-06-01",
+    "floor": 17,
+    "area": 59.9629
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "27,200",
+    "date": "2026-06-01",
+    "floor": 8,
+    "area": 90.81
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "51,000",
+    "date": "2026-05-31",
+    "floor": 13,
+    "area": 59.97
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "44,000",
+    "date": "2026-05-31",
+    "floor": 13,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "49,000",
+    "date": "2026-05-30",
+    "floor": 14,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "46,700",
+    "date": "2026-05-30",
+    "floor": 9,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,400",
+    "date": "2026-05-27",
+    "floor": 3,
+    "area": 51.66
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "30,500",
+    "date": "2026-05-25",
+    "floor": 5,
+    "area": 90.81
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "32,000",
+    "date": "2026-05-24",
+    "floor": 9,
+    "area": 64.9092
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "43,500",
+    "date": "2026-05-23",
+    "floor": 2,
+    "area": 59.97
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "72,000",
+    "date": "2026-05-23",
+    "floor": 8,
+    "area": 84.981
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "35,300",
+    "date": "2026-05-21",
+    "floor": 1,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "50,000",
+    "date": "2026-05-18",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,500",
+    "date": "2026-05-17",
+    "floor": 2,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "46,000",
+    "date": "2026-05-16",
+    "floor": 7,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "41,800",
+    "date": "2026-05-16",
+    "floor": 11,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "41,700",
+    "date": "2026-05-16",
+    "floor": 18,
+    "area": 51.66
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "39,900",
+    "date": "2026-05-14",
+    "floor": 4,
+    "area": 84.9574
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "30,200",
+    "date": "2026-05-12",
+    "floor": 4,
+    "area": 64.9092
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,500",
+    "date": "2026-05-09",
+    "floor": 7,
+    "area": 51.66
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "70,000",
+    "date": "2026-05-09",
+    "floor": 18,
+    "area": 84.981
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "44,500",
+    "date": "2026-05-08",
+    "floor": 11,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "43,700",
+    "date": "2026-05-07",
+    "floor": 21,
+    "area": 51.66
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "30,800",
+    "date": "2026-05-03",
+    "floor": 6,
+    "area": 64.9092
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,000",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "47,500",
+    "date": "2026-05-01",
+    "floor": 8,
+    "area": 58.46
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "40,150",
+    "date": "2026-05-01",
+    "floor": 2,
+    "area": 84.9613
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "39,500",
+    "date": "2026-04-28",
+    "floor": 12,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "41,700",
+    "date": "2026-04-28",
+    "floor": 15,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "45,000",
+    "date": "2026-04-27",
+    "floor": 5,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "29,400",
+    "date": "2026-04-27",
+    "floor": 3,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "45,300",
+    "date": "2026-04-25",
+    "floor": 3,
+    "area": 59.97
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,700",
+    "date": "2026-04-24",
+    "floor": 15,
+    "area": 58.46
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "30,000",
+    "date": "2026-04-23",
+    "floor": 10,
+    "area": 134.87
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "45,000",
+    "date": "2026-04-22",
+    "floor": 13,
+    "area": 58.46
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "43,000",
+    "date": "2026-04-22",
+    "floor": 3,
+    "area": 84.9613
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,000",
+    "date": "2026-04-19",
+    "floor": 20,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,600",
+    "date": "2026-04-18",
+    "floor": 7,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,400",
+    "date": "2026-04-18",
+    "floor": 3,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,000",
+    "date": "2026-04-13",
+    "floor": 7,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "43,000",
+    "date": "2026-04-12",
+    "floor": 6,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "43,900",
+    "date": "2026-04-08",
+    "floor": 17,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "44,000",
+    "date": "2026-04-07",
+    "floor": 17,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,000",
+    "date": "2026-04-06",
+    "floor": 1,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "36,600",
+    "date": "2026-04-04",
+    "floor": 3,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "41,900",
+    "date": "2026-04-02",
+    "floor": 17,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,000",
+    "date": "2026-03-28",
+    "floor": 4,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,300",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,400",
+    "date": "2026-03-28",
+    "floor": 4,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "44,800",
+    "date": "2026-03-28",
+    "floor": 10,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,000",
+    "date": "2026-03-28",
+    "floor": 18,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,100",
+    "date": "2026-03-27",
+    "floor": 21,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,000",
+    "date": "2026-03-27",
+    "floor": 13,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "41,000",
+    "date": "2026-03-27",
+    "floor": 5,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,500",
+    "date": "2026-03-26",
+    "floor": 18,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,850",
+    "date": "2026-03-26",
+    "floor": 20,
+    "area": 59.97
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "25,500",
+    "date": "2026-03-25",
+    "floor": 10,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,000",
+    "date": "2026-03-24",
+    "floor": 13,
+    "area": 51.66
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "41,900",
+    "date": "2026-03-23",
+    "floor": 4,
+    "area": 84.9574
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,500",
+    "date": "2026-03-21",
+    "floor": 10,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "41,200",
+    "date": "2026-03-21",
+    "floor": 18,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "35,500",
+    "date": "2026-03-21",
+    "floor": 1,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,950",
+    "date": "2026-03-21",
+    "floor": 15,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "43,500",
+    "date": "2026-03-21",
+    "floor": 14,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,500",
+    "date": "2026-03-20",
+    "floor": 21,
+    "area": 51.66
+  },
+  {
+    "aptNm": "블루밍2단지",
+    "dealAmount": "27,500",
+    "date": "2026-03-20",
+    "floor": 8,
+    "area": 101.8463
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "40,000",
+    "date": "2026-03-17",
+    "floor": 10,
+    "area": 84.9613
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "43,400",
+    "date": "2026-03-16",
+    "floor": 6,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,300",
+    "date": "2026-03-16",
+    "floor": 1,
+    "area": 58.65
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "42,000",
+    "date": "2026-03-16",
+    "floor": 21,
+    "area": 84.9574
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "41,500",
+    "date": "2026-03-16",
+    "floor": 19,
+    "area": 84.9574
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,700",
+    "date": "2026-03-14",
+    "floor": 20,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,300",
+    "date": "2026-03-12",
+    "floor": 3,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,000",
+    "date": "2026-03-11",
+    "floor": 8,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,500",
+    "date": "2026-03-11",
+    "floor": 13,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,100",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,000",
+    "date": "2026-03-07",
+    "floor": 15,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,700",
+    "date": "2026-03-07",
+    "floor": 8,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,500",
+    "date": "2026-03-07",
+    "floor": 11,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "36,000",
+    "date": "2026-03-06",
+    "floor": 3,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,900",
+    "date": "2026-03-06",
+    "floor": 11,
+    "area": 58.46
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "75,500",
+    "date": "2026-03-06",
+    "floor": 8,
+    "area": 84.981
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "35,000",
+    "date": "2026-02-28",
+    "floor": 14,
+    "area": 134.87
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,900",
+    "date": "2026-02-27",
+    "floor": 6,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,000",
+    "date": "2026-02-21",
+    "floor": 12,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "41,000",
+    "date": "2026-02-20",
+    "floor": 12,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "41,500",
+    "date": "2026-02-20",
+    "floor": 1,
+    "area": 59.97
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "39,300",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "36,800",
+    "date": "2026-02-20",
+    "floor": 5,
+    "area": 51.66
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "68,000",
+    "date": "2026-02-20",
+    "floor": 2,
+    "area": 84.981
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "37,000",
+    "date": "2026-02-13",
+    "floor": 3,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,000",
+    "date": "2026-02-13",
+    "floor": 2,
+    "area": 58.46
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "70,000",
+    "date": "2026-02-13",
+    "floor": 3,
+    "area": 84.988
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "40,000",
+    "date": "2026-02-12",
+    "floor": 9,
+    "area": 84.9417
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "34,800",
+    "date": "2026-02-10",
+    "floor": 2,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,000",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "39,600",
+    "date": "2026-02-09",
+    "floor": 8,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "36,500",
+    "date": "2026-02-09",
+    "floor": 18,
+    "area": 51.66
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "57,000",
+    "date": "2026-02-09",
+    "floor": 4,
+    "area": 106.9489
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "36,700",
+    "date": "2026-02-07",
+    "floor": 16,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "42,800",
+    "date": "2026-02-07",
+    "floor": 10,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "39,000",
+    "date": "2026-02-07",
+    "floor": 7,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,700",
+    "date": "2026-02-07",
+    "floor": 7,
+    "area": 58.46
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "42,750",
+    "date": "2026-02-07",
+    "floor": 16,
+    "area": 84.9574
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "44,000",
+    "date": "2026-02-06",
+    "floor": 13,
+    "area": 58.65
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "36,000",
+    "date": "2026-02-06",
+    "floor": 9,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "39,000",
+    "date": "2026-02-04",
+    "floor": 9,
+    "area": 51.66
+  },
+  {
+    "aptNm": "협성휴포레 죽곡",
+    "dealAmount": "31,500",
+    "date": "2026-02-04",
+    "floor": 12,
+    "area": 64.9787
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "38,000",
+    "date": "2026-02-01",
+    "floor": 19,
+    "area": 51.66
+  }
+]

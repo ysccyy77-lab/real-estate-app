@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "166,000",
+    "date": "2026-06-16",
+    "floor": 10,
+    "area": 84.87
+  },
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "162,500",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 84.87
+  },
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "149,900",
+    "date": "2026-05-25",
+    "floor": 6,
+    "area": 59.95
+  },
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "152,000",
+    "date": "2026-02-20",
+    "floor": 9,
+    "area": 59.95
+  },
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "149,000",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "118,000",
+    "date": "2026-02-15",
+    "floor": 12,
+    "area": 84.87
+  },
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "149,000",
+    "date": "2026-02-11",
+    "floor": 9,
+    "area": 59.95
+  },
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "145,000",
+    "date": "2026-02-04",
+    "floor": 8,
+    "area": 59.95
+  }
+]

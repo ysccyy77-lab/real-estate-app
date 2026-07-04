@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "32,000",
+    "date": "2026-06-20",
+    "floor": 2,
+    "area": 126.78
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "21,000",
+    "date": "2026-05-26",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "33,400",
+    "date": "2026-05-21",
+    "floor": 1,
+    "area": 126.78
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "23,000",
+    "date": "2026-04-17",
+    "floor": 6,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "23,000",
+    "date": "2026-04-07",
+    "floor": 5,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "27,000",
+    "date": "2026-03-23",
+    "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "23,000",
+    "date": "2026-02-20",
+    "floor": 11,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "23,000",
+    "date": "2026-02-14",
+    "floor": 11,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "26,500",
+    "date": "2026-02-09",
+    "floor": 3,
+    "area": 84.9
+  }
+]

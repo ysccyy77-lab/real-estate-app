@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "대림",
+    "dealAmount": "157,500",
+    "date": "2026-06-02",
+    "floor": 13,
+    "area": 69.74
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "176,500",
+    "date": "2026-05-23",
+    "floor": 10,
+    "area": 99.38
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "152,700",
+    "date": "2026-05-04",
+    "floor": 8,
+    "area": 69.74
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "144,000",
+    "date": "2026-04-29",
+    "floor": 13,
+    "area": 59.24
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "156,000",
+    "date": "2026-04-25",
+    "floor": 8,
+    "area": 76.49
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "149,000",
+    "date": "2026-04-18",
+    "floor": 6,
+    "area": 59.24
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "130,000",
+    "date": "2026-04-07",
+    "floor": 6,
+    "area": 84.11
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "100,000",
+    "date": "2026-04-06",
+    "floor": 12,
+    "area": 113.08
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "210,000",
+    "date": "2026-02-26",
+    "floor": 7,
+    "area": 120.96
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "189,000",
+    "date": "2026-02-25",
+    "floor": 6,
+    "area": 99.38
+  }
+]

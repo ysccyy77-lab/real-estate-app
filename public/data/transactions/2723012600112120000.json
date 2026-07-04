@@ -1,0 +1,289 @@
+[
+  {
+    "aptNm": "홍성자이",
+    "dealAmount": "35,000",
+    "date": "2026-07-01",
+    "floor": 22,
+    "area": 84.6218
+  },
+  {
+    "aptNm": "홍성자이",
+    "dealAmount": "33,800",
+    "date": "2026-06-28",
+    "floor": 18,
+    "area": 84.8796
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "119,000",
+    "date": "2026-06-27",
+    "floor": 11,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "117,000",
+    "date": "2026-06-20",
+    "floor": 15,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "110,000",
+    "date": "2026-06-20",
+    "floor": 3,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "105,000",
+    "date": "2026-06-19",
+    "floor": 5,
+    "area": 59.84
+  },
+  {
+    "aptNm": "홍성자이",
+    "dealAmount": "38,000",
+    "date": "2026-06-15",
+    "floor": 24,
+    "area": 84.6218
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "105,000",
+    "date": "2026-06-11",
+    "floor": 2,
+    "area": 114.885
+  },
+  {
+    "aptNm": "홍성자이",
+    "dealAmount": "35,600",
+    "date": "2026-06-05",
+    "floor": 9,
+    "area": 84.6218
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "117,000",
+    "date": "2026-06-02",
+    "floor": 18,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "114,000",
+    "date": "2026-05-30",
+    "floor": 5,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "97,000",
+    "date": "2026-05-25",
+    "floor": 17,
+    "area": 114.885
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "120,000",
+    "date": "2026-05-22",
+    "floor": 10,
+    "area": 114.885
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "117,000",
+    "date": "2026-05-09",
+    "floor": 6,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "99,000",
+    "date": "2026-05-09",
+    "floor": 17,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "104,000",
+    "date": "2026-05-08",
+    "floor": 13,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "103,000",
+    "date": "2026-05-07",
+    "floor": 16,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "115,000",
+    "date": "2026-05-04",
+    "floor": 8,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "99,000",
+    "date": "2026-05-01",
+    "floor": 13,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "109,000",
+    "date": "2026-05-01",
+    "floor": 19,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "99,800",
+    "date": "2026-04-30",
+    "floor": 22,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "111,000",
+    "date": "2026-04-29",
+    "floor": 3,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "110,000",
+    "date": "2026-04-27",
+    "floor": 3,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "103,000",
+    "date": "2026-04-13",
+    "floor": 14,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "111,000",
+    "date": "2026-04-11",
+    "floor": 6,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "105,000",
+    "date": "2026-04-06",
+    "floor": 12,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "118,000",
+    "date": "2026-04-02",
+    "floor": 20,
+    "area": 114.885
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "97,800",
+    "date": "2026-03-31",
+    "floor": 15,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "111,500",
+    "date": "2026-03-25",
+    "floor": 5,
+    "area": 114.885
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "116,000",
+    "date": "2026-03-21",
+    "floor": 18,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "124,000",
+    "date": "2026-03-13",
+    "floor": 24,
+    "area": 84.76
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "13,800",
+    "date": "2026-03-09",
+    "floor": 6,
+    "area": 59.1516
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "118,000",
+    "date": "2026-03-07",
+    "floor": 15,
+    "area": 84.76
+  },
+  {
+    "aptNm": "홍성자이",
+    "dealAmount": "34,000",
+    "date": "2026-03-07",
+    "floor": 11,
+    "area": 84.6218
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "101,000",
+    "date": "2026-02-25",
+    "floor": 21,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "100,000",
+    "date": "2026-02-24",
+    "floor": 8,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "94,500",
+    "date": "2026-02-09",
+    "floor": 24,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "100,000",
+    "date": "2026-02-09",
+    "floor": 1,
+    "area": 84.76
+  },
+  {
+    "aptNm": "한신아파트",
+    "dealAmount": "115,000",
+    "date": "2026-02-07",
+    "floor": 14,
+    "area": 114.885
+  },
+  {
+    "aptNm": "홍성자이",
+    "dealAmount": "34,000",
+    "date": "2026-02-05",
+    "floor": 9,
+    "area": 84.6218
+  },
+  {
+    "aptNm": "홍성자이",
+    "dealAmount": "36,800",
+    "date": "2026-02-02",
+    "floor": 5,
+    "area": 84.6218
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "3,400",
+    "date": "2026-05-15",
+    "floor": 5,
+    "area": 39.9
+  },
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "6,000",
+    "date": "2026-05-12",
+    "floor": 9,
+    "area": 59.72
+  },
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "3,500",
+    "date": "2026-05-01",
+    "floor": 8,
+    "area": 39.9
+  },
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "6,500",
+    "date": "2026-04-30",
+    "floor": 9,
+    "area": 59.72
+  },
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "3,400",
+    "date": "2026-04-22",
+    "floor": 12,
+    "area": 39.9
+  },
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "7,000",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 59.72
+  },
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "3,100",
+    "date": "2026-03-11",
+    "floor": 7,
+    "area": 39.9
+  },
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "3,200",
+    "date": "2026-03-11",
+    "floor": 8,
+    "area": 39.9
+  }
+]

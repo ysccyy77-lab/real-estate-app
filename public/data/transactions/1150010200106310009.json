@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "83,000",
+    "date": "2026-07-01",
+    "floor": 1,
+    "area": 59.78
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "92,000",
+    "date": "2026-06-13",
+    "floor": 11,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "88,000",
+    "date": "2026-04-09",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "89,000",
+    "date": "2026-02-13",
+    "floor": 14,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "84,900",
+    "date": "2026-02-08",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대동황토방",
+    "dealAmount": "85,500",
+    "date": "2026-02-05",
+    "floor": 8,
+    "area": 59.78
+  }
+]

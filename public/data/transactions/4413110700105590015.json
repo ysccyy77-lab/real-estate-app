@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "극동",
+    "dealAmount": "6,300",
+    "date": "2026-05-29",
+    "floor": 1,
+    "area": 33.93
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "12,000",
+    "date": "2026-05-22",
+    "floor": 19,
+    "area": 59.9
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "7,800",
+    "date": "2026-04-28",
+    "floor": 6,
+    "area": 33.93
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "6,500",
+    "date": "2026-04-02",
+    "floor": 2,
+    "area": 33.93
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "7,500",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 33.93
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "11,500",
+    "date": "2026-03-14",
+    "floor": 20,
+    "area": 59.9
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "11,000",
+    "date": "2026-03-11",
+    "floor": 4,
+    "area": 59.9
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "11,400",
+    "date": "2026-02-27",
+    "floor": 11,
+    "area": 59.9
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "8,000",
+    "date": "2026-02-11",
+    "floor": 8,
+    "area": 46.25
+  }
+]

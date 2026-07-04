@@ -1,0 +1,926 @@
+[
+  {
+    "aptNm": "거장",
+    "dealAmount": "2,600",
+    "date": "2026-06-26",
+    "floor": 1,
+    "area": 32.67
+  },
+  {
+    "aptNm": "한일유앤아이",
+    "dealAmount": "71,500",
+    "date": "2026-06-22",
+    "floor": 22,
+    "area": 84.726
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "59,000",
+    "date": "2026-06-20",
+    "floor": 6,
+    "area": 105.736
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "29,500",
+    "date": "2026-06-19",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "25,000",
+    "date": "2026-06-16",
+    "floor": 7,
+    "area": 84.92
+  },
+  {
+    "aptNm": "주공3",
+    "dealAmount": "9,750",
+    "date": "2026-06-15",
+    "floor": 9,
+    "area": 49.94
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "16,000",
+    "date": "2026-06-12",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "17,650",
+    "date": "2026-06-12",
+    "floor": 11,
+    "area": 59.85
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,000",
+    "date": "2026-06-10",
+    "floor": 9,
+    "area": 32.67
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "58,500",
+    "date": "2026-06-10",
+    "floor": 4,
+    "area": 105.736
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "15,000",
+    "date": "2026-06-08",
+    "floor": 2,
+    "area": 59.85
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "28,000",
+    "date": "2026-06-06",
+    "floor": 20,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "35,000",
+    "date": "2026-06-04",
+    "floor": 8,
+    "area": 134.76
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "23,500",
+    "date": "2026-06-03",
+    "floor": 3,
+    "area": 84.92
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "17,950",
+    "date": "2026-06-02",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "29,700",
+    "date": "2026-06-01",
+    "floor": 3,
+    "area": 134.98
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,000",
+    "date": "2026-05-27",
+    "floor": 5,
+    "area": 32.67
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "29,900",
+    "date": "2026-05-26",
+    "floor": 9,
+    "area": 134.98
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "17,750",
+    "date": "2026-05-25",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
+    "aptNm": "한일유앤아이",
+    "dealAmount": "68,500",
+    "date": "2026-05-23",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "127,000",
+    "date": "2026-05-23",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "주공3",
+    "dealAmount": "9,700",
+    "date": "2026-05-23",
+    "floor": 5,
+    "area": 49.94
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "130,000",
+    "date": "2026-05-22",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,000",
+    "date": "2026-05-21",
+    "floor": 6,
+    "area": 32.67
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "47,700",
+    "date": "2026-05-21",
+    "floor": 22,
+    "area": 84.443
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "23,800",
+    "date": "2026-05-20",
+    "floor": 14,
+    "area": 84.92
+  },
+  {
+    "aptNm": "흥화브라운빌",
+    "dealAmount": "58,000",
+    "date": "2026-05-19",
+    "floor": 7,
+    "area": 84.91
+  },
+  {
+    "aptNm": "귀영하이야트",
+    "dealAmount": "13,500",
+    "date": "2026-05-19",
+    "floor": 6,
+    "area": 84.28
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "136,000",
+    "date": "2026-05-16",
+    "floor": 18,
+    "area": 113.91
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "129,500",
+    "date": "2026-05-16",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "47,500",
+    "date": "2026-05-16",
+    "floor": 12,
+    "area": 84.443
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,000",
+    "date": "2026-05-15",
+    "floor": 8,
+    "area": 32.67
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,000",
+    "date": "2026-05-15",
+    "floor": 4,
+    "area": 32.67
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "23,000",
+    "date": "2026-05-15",
+    "floor": 3,
+    "area": 59.93
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,000",
+    "date": "2026-05-13",
+    "floor": 5,
+    "area": 32.67
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "16,250",
+    "date": "2026-05-13",
+    "floor": 13,
+    "area": 59.85
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "32,500",
+    "date": "2026-05-12",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "18,400",
+    "date": "2026-05-12",
+    "floor": 5,
+    "area": 84.5575
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "29,000",
+    "date": "2026-05-11",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한일유앤아이",
+    "dealAmount": "64,000",
+    "date": "2026-05-11",
+    "floor": 14,
+    "area": 84.98
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "135,000",
+    "date": "2026-05-09",
+    "floor": 15,
+    "area": 113.91
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "32,300",
+    "date": "2026-05-08",
+    "floor": 10,
+    "area": 134.98
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "124,800",
+    "date": "2026-05-08",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "25,500",
+    "date": "2026-05-06",
+    "floor": 13,
+    "area": 84.92
+  },
+  {
+    "aptNm": "한일유앤아이",
+    "dealAmount": "60,000",
+    "date": "2026-05-06",
+    "floor": 2,
+    "area": 59.647
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "22,300",
+    "date": "2026-05-03",
+    "floor": 2,
+    "area": 84.92
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,000",
+    "date": "2026-05-01",
+    "floor": 2,
+    "area": 32.67
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,000",
+    "date": "2026-05-01",
+    "floor": 8,
+    "area": 32.67
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "36,000",
+    "date": "2026-05-01",
+    "floor": 9,
+    "area": 134.76
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "60,500",
+    "date": "2026-04-30",
+    "floor": 14,
+    "area": 105.736
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "16,600",
+    "date": "2026-04-29",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "3,250",
+    "date": "2026-04-28",
+    "floor": 5,
+    "area": 32.67
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "61,000",
+    "date": "2026-04-28",
+    "floor": 20,
+    "area": 105.736
+  },
+  {
+    "aptNm": "주공3",
+    "dealAmount": "6,800",
+    "date": "2026-04-26",
+    "floor": 4,
+    "area": 41.3
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "46,300",
+    "date": "2026-04-26",
+    "floor": 13,
+    "area": 84.971
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "62,000",
+    "date": "2026-04-25",
+    "floor": 12,
+    "area": 105.736
+  },
+  {
+    "aptNm": "거장",
+    "dealAmount": "2,800",
+    "date": "2026-04-23",
+    "floor": 3,
+    "area": 32.67
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "31,500",
+    "date": "2026-04-23",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "21,000",
+    "date": "2026-04-23",
+    "floor": 1,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "47,500",
+    "date": "2026-04-23",
+    "floor": 15,
+    "area": 84.798
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "61,800",
+    "date": "2026-04-23",
+    "floor": 2,
+    "area": 105.736
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "20,800",
+    "date": "2026-04-22",
+    "floor": 7,
+    "area": 84.725
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "127,000",
+    "date": "2026-04-18",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "45,000",
+    "date": "2026-04-17",
+    "floor": 11,
+    "area": 105.736
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "30,500",
+    "date": "2026-04-16",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "종우원맨션",
+    "dealAmount": "13,900",
+    "date": "2026-04-16",
+    "floor": 11,
+    "area": 76.31
+  },
+  {
+    "aptNm": "왕산우방타운",
+    "dealAmount": "18,000",
+    "date": "2026-04-16",
+    "floor": 13,
+    "area": 84.93
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "125,000",
+    "date": "2026-04-14",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "20,000",
+    "date": "2026-04-13",
+    "floor": 1,
+    "area": 84.92
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "27,600",
+    "date": "2026-04-13",
+    "floor": 4,
+    "area": 84.92
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "142,500",
+    "date": "2026-04-13",
+    "floor": 14,
+    "area": 113.91
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "48,500",
+    "date": "2026-04-13",
+    "floor": 25,
+    "area": 84.443
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "25,500",
+    "date": "2026-04-12",
+    "floor": 9,
+    "area": 84.92
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "32,500",
+    "date": "2026-04-10",
+    "floor": 13,
+    "area": 134.98
+  },
+  {
+    "aptNm": "한일유앤아이",
+    "dealAmount": "60,000",
+    "date": "2026-04-10",
+    "floor": 9,
+    "area": 59.647
+  },
+  {
+    "aptNm": "흥화브라운빌",
+    "dealAmount": "56,000",
+    "date": "2026-04-04",
+    "floor": 7,
+    "area": 84.91
+  },
+  {
+    "aptNm": "흥화브라운빌",
+    "dealAmount": "54,000",
+    "date": "2026-04-04",
+    "floor": 14,
+    "area": 84.91
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "18,200",
+    "date": "2026-04-04",
+    "floor": 14,
+    "area": 59.85
+  },
+  {
+    "aptNm": "흥화브라운빌",
+    "dealAmount": "54,000",
+    "date": "2026-04-03",
+    "floor": 4,
+    "area": 84.91
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "20,000",
+    "date": "2026-04-03",
+    "floor": 11,
+    "area": 84.5575
+  },
+  {
+    "aptNm": "주공3",
+    "dealAmount": "8,513",
+    "date": "2026-04-03",
+    "floor": 4,
+    "area": 49.94
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "26,600",
+    "date": "2026-03-31",
+    "floor": 13,
+    "area": 84.92
+  },
+  {
+    "aptNm": "귀영하이야트",
+    "dealAmount": "8,800",
+    "date": "2026-03-30",
+    "floor": 4,
+    "area": 59.9
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "24,000",
+    "date": "2026-03-28",
+    "floor": 5,
+    "area": 84.92
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "17,500",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 59.85
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "130,000",
+    "date": "2026-03-26",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한일유앤아이",
+    "dealAmount": "59,700",
+    "date": "2026-03-25",
+    "floor": 2,
+    "area": 59.647
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "133,500",
+    "date": "2026-03-25",
+    "floor": 11,
+    "area": 84.96
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "16,900",
+    "date": "2026-03-19",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "15,000",
+    "date": "2026-03-19",
+    "floor": 2,
+    "area": 59.85
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "19,300",
+    "date": "2026-03-18",
+    "floor": 10,
+    "area": 84.5575
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "26,500",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 130.92
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "24,300",
+    "date": "2026-03-11",
+    "floor": 14,
+    "area": 84.92
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "136,000",
+    "date": "2026-03-11",
+    "floor": 7,
+    "area": 113.91
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "119,000",
+    "date": "2026-03-11",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한일유앤아이",
+    "dealAmount": "69,500",
+    "date": "2026-03-09",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "17,300",
+    "date": "2026-03-08",
+    "floor": 6,
+    "area": 59.85
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "30,500",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 134.98
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "28,800",
+    "date": "2026-03-07",
+    "floor": 9,
+    "area": 164.93
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "44,500",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 84.971
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "22,500",
+    "date": "2026-03-05",
+    "floor": 4,
+    "area": 84.92
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "16,900",
+    "date": "2026-03-05",
+    "floor": 14,
+    "area": 59.85
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "18,000",
+    "date": "2026-03-05",
+    "floor": 11,
+    "area": 59.85
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "24,000",
+    "date": "2026-03-05",
+    "floor": 6,
+    "area": 84.92
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "15,900",
+    "date": "2026-03-01",
+    "floor": 15,
+    "area": 59.85
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "15,400",
+    "date": "2026-03-01",
+    "floor": 14,
+    "area": 59.85
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "98,000",
+    "date": "2026-03-01",
+    "floor": 22,
+    "area": 131.941
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "24,200",
+    "date": "2026-02-27",
+    "floor": 2,
+    "area": 84.92
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "17,300",
+    "date": "2026-02-24",
+    "floor": 2,
+    "area": 84.725
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "130,900",
+    "date": "2026-02-23",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "25,000",
+    "date": "2026-02-23",
+    "floor": 3,
+    "area": 164.93
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "148,000",
+    "date": "2026-02-22",
+    "floor": 13,
+    "area": 113.91
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "127,000",
+    "date": "2026-02-21",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "125,500",
+    "date": "2026-02-21",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "130,000",
+    "date": "2026-02-20",
+    "floor": 9,
+    "area": 113.91
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "29,000",
+    "date": "2026-02-14",
+    "floor": 10,
+    "area": 134.98
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "133,000",
+    "date": "2026-02-14",
+    "floor": 6,
+    "area": 113.91
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "60,000",
+    "date": "2026-02-14",
+    "floor": 5,
+    "area": 105.736
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "15,700",
+    "date": "2026-02-13",
+    "floor": 15,
+    "area": 59.85
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "132,500",
+    "date": "2026-02-12",
+    "floor": 17,
+    "area": 113.91
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "119,000",
+    "date": "2026-02-11",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "128,000",
+    "date": "2026-02-11",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "119,500",
+    "date": "2026-02-08",
+    "floor": 13,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "60,000",
+    "date": "2026-02-08",
+    "floor": 9,
+    "area": 105.736
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "25,600",
+    "date": "2026-02-07",
+    "floor": 12,
+    "area": 84.92
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "120,000",
+    "date": "2026-02-07",
+    "floor": 4,
+    "area": 113.91
+  },
+  {
+    "aptNm": "목동우성2",
+    "dealAmount": "124,000",
+    "date": "2026-02-07",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "흥화브라운빌",
+    "dealAmount": "54,500",
+    "date": "2026-02-06",
+    "floor": 6,
+    "area": 84.91
+  },
+  {
+    "aptNm": "한일유앤아이",
+    "dealAmount": "60,000",
+    "date": "2026-02-06",
+    "floor": 1,
+    "area": 59.647
+  },
+  {
+    "aptNm": "대원칸타빌3차아파트",
+    "dealAmount": "45,800",
+    "date": "2026-02-06",
+    "floor": 2,
+    "area": 84.971
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "17,500",
+    "date": "2026-02-05",
+    "floor": 1,
+    "area": 84.5575
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "17,500",
+    "date": "2026-02-03",
+    "floor": 5,
+    "area": 59.85
+  }
+]

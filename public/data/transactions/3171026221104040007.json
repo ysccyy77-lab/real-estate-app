@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "미도아파트5차(3동,5동)",
+    "dealAmount": "24,000",
+    "date": "2026-06-25",
+    "floor": 1,
+    "area": 43.56
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "13,000",
+    "date": "2026-06-20",
+    "floor": 11,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "11,100",
+    "date": "2026-05-08",
+    "floor": 10,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "22,500",
+    "date": "2026-03-30",
+    "floor": 1,
+    "area": 102.09
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "11,800",
+    "date": "2026-03-22",
+    "floor": 22,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "10,200",
+    "date": "2026-03-18",
+    "floor": 1,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "14,000",
+    "date": "2026-03-12",
+    "floor": 5,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "11,500",
+    "date": "2026-03-03",
+    "floor": 16,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "19,000",
+    "date": "2026-02-26",
+    "floor": 5,
+    "area": 84.99
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "12,000",
+    "date": "2026-02-23",
+    "floor": 16,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "11,500",
+    "date": "2026-02-06",
+    "floor": 9,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
+    "dealAmount": "12,500",
+    "date": "2026-02-04",
+    "floor": 21,
+    "area": 59.84
+  }
+]

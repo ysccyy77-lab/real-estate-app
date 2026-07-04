@@ -1,0 +1,471 @@
+[
+  {
+    "aptNm": "창원무동STX칸2차",
+    "dealAmount": "17,000",
+    "date": "2026-06-30",
+    "floor": 5,
+    "area": 84.99
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "6,500",
+    "date": "2026-06-30",
+    "floor": 15,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한양(155-1)",
+    "dealAmount": "28,900",
+    "date": "2026-06-27",
+    "floor": 5,
+    "area": 84.665
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "50,000",
+    "date": "2026-06-23",
+    "floor": 11,
+    "area": 75.38
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "6,650",
+    "date": "2026-06-22",
+    "floor": 3,
+    "area": 59.95
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "6,500",
+    "date": "2026-06-22",
+    "floor": 8,
+    "area": 59.73
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "49,500",
+    "date": "2026-06-18",
+    "floor": 7,
+    "area": 61.32
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,400",
+    "date": "2026-06-18",
+    "floor": 6,
+    "area": 59.95
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "48,000",
+    "date": "2026-06-17",
+    "floor": 10,
+    "area": 61.32
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "52,500",
+    "date": "2026-06-16",
+    "floor": 19,
+    "area": 75.38
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "56,500",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 82.74
+  },
+  {
+    "aptNm": "한양(155-1)",
+    "dealAmount": "27,250",
+    "date": "2026-06-14",
+    "floor": 5,
+    "area": 84.665
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,300",
+    "date": "2026-06-08",
+    "floor": 10,
+    "area": 59.95
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "51,800",
+    "date": "2026-06-07",
+    "floor": 5,
+    "area": 84.92
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "5,300",
+    "date": "2026-06-05",
+    "floor": 1,
+    "area": 59.73
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "53,000",
+    "date": "2026-06-02",
+    "floor": 13,
+    "area": 84.92
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "50,000",
+    "date": "2026-05-30",
+    "floor": 8,
+    "area": 75.38
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "49,000",
+    "date": "2026-05-25",
+    "floor": 10,
+    "area": 75.38
+  },
+  {
+    "aptNm": "송도아메리칸타운더샵",
+    "dealAmount": "81,000",
+    "date": "2026-05-25",
+    "floor": 54,
+    "area": 84.868
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,000",
+    "date": "2026-05-18",
+    "floor": 9,
+    "area": 59.73
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "51,000",
+    "date": "2026-05-16",
+    "floor": 2,
+    "area": 84.92
+  },
+  {
+    "aptNm": "송도아메리칸타운더샵",
+    "dealAmount": "75,500",
+    "date": "2026-05-12",
+    "floor": 25,
+    "area": 84.868
+  },
+  {
+    "aptNm": "송도아메리칸타운더샵",
+    "dealAmount": "77,000",
+    "date": "2026-05-11",
+    "floor": 37,
+    "area": 84.868
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "54,000",
+    "date": "2026-05-08",
+    "floor": 2,
+    "area": 98.26
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "55,000",
+    "date": "2026-05-08",
+    "floor": 13,
+    "area": 84.92
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,200",
+    "date": "2026-05-07",
+    "floor": 5,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "8,550",
+    "date": "2026-05-07",
+    "floor": 3,
+    "area": 59.95
+  },
+  {
+    "aptNm": "송도아메리칸타운더샵",
+    "dealAmount": "87,000",
+    "date": "2026-04-30",
+    "floor": 10,
+    "area": 84.868
+  },
+  {
+    "aptNm": "송도아메리칸타운더샵",
+    "dealAmount": "50,000",
+    "date": "2026-04-29",
+    "floor": 12,
+    "area": 84.868
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "51,500",
+    "date": "2026-04-27",
+    "floor": 3,
+    "area": 84.92
+  },
+  {
+    "aptNm": "송도아메리칸타운더샵",
+    "dealAmount": "76,000",
+    "date": "2026-04-24",
+    "floor": 14,
+    "area": 84.868
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "8,000",
+    "date": "2026-04-23",
+    "floor": 13,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "8,000",
+    "date": "2026-04-21",
+    "floor": 4,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,500",
+    "date": "2026-04-18",
+    "floor": 14,
+    "area": 59.95
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "55,000",
+    "date": "2026-04-16",
+    "floor": 18,
+    "area": 84.92
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,100",
+    "date": "2026-04-13",
+    "floor": 4,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,400",
+    "date": "2026-04-07",
+    "floor": 10,
+    "area": 59.73
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "58,500",
+    "date": "2026-04-01",
+    "floor": 23,
+    "area": 84.92
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "47,900",
+    "date": "2026-03-26",
+    "floor": 20,
+    "area": 75.38
+  },
+  {
+    "aptNm": "한양(155-1)",
+    "dealAmount": "31,000",
+    "date": "2026-03-25",
+    "floor": 10,
+    "area": 84.665
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "54,000",
+    "date": "2026-03-24",
+    "floor": 19,
+    "area": 84.92
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "9,000",
+    "date": "2026-03-24",
+    "floor": 15,
+    "area": 59.95
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,000",
+    "date": "2026-03-23",
+    "floor": 9,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,000",
+    "date": "2026-03-19",
+    "floor": 8,
+    "area": 59.73
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "52,000",
+    "date": "2026-03-18",
+    "floor": 11,
+    "area": 84.92
+  },
+  {
+    "aptNm": "한양(155-1)",
+    "dealAmount": "27,000",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 84.665
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,800",
+    "date": "2026-03-12",
+    "floor": 12,
+    "area": 59.95
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,550",
+    "date": "2026-03-11",
+    "floor": 8,
+    "area": 59.73
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "44,000",
+    "date": "2026-03-07",
+    "floor": 12,
+    "area": 61.32
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,650",
+    "date": "2026-03-03",
+    "floor": 12,
+    "area": 59.95
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,500",
+    "date": "2026-02-26",
+    "floor": 8,
+    "area": 59.95
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "58,500",
+    "date": "2026-02-24",
+    "floor": 16,
+    "area": 98.26
+  },
+  {
+    "aptNm": "송도아메리칸타운더샵",
+    "dealAmount": "105,000",
+    "date": "2026-02-23",
+    "floor": 24,
+    "area": 108.6273
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "54,500",
+    "date": "2026-02-20",
+    "floor": 8,
+    "area": 82.74
+  },
+  {
+    "aptNm": "송도아메리칸타운더샵",
+    "dealAmount": "98,000",
+    "date": "2026-02-20",
+    "floor": 9,
+    "area": 108.6273
+  },
+  {
+    "aptNm": "이화",
+    "dealAmount": "6,850",
+    "date": "2026-02-20",
+    "floor": 2,
+    "area": 63.58
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "49,000",
+    "date": "2026-02-19",
+    "floor": 6,
+    "area": 75.38
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "48,800",
+    "date": "2026-02-14",
+    "floor": 8,
+    "area": 75.38
+  },
+  {
+    "aptNm": "부천범박힐스테이트3단지",
+    "dealAmount": "54,000",
+    "date": "2026-02-14",
+    "floor": 17,
+    "area": 84.92
+  },
+  {
+    "aptNm": "한양(155-1)",
+    "dealAmount": "27,800",
+    "date": "2026-02-13",
+    "floor": 19,
+    "area": 84.665
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "42,000",
+    "date": "2026-02-07",
+    "floor": 9,
+    "area": 61.32
+  },
+  {
+    "aptNm": "한양(155-1)",
+    "dealAmount": "27,350",
+    "date": "2026-02-06",
+    "floor": 20,
+    "area": 84.665
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,000",
+    "date": "2026-02-06",
+    "floor": 10,
+    "area": 59.95
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,700",
+    "date": "2026-02-05",
+    "floor": 11,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한울",
+    "dealAmount": "7,100",
+    "date": "2026-02-05",
+    "floor": 1,
+    "area": 59.95
+  },
+  {
+    "aptNm": "창원무동STX칸2차",
+    "dealAmount": "17,400",
+    "date": "2026-02-04",
+    "floor": 11,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "48,500",
+    "date": "2026-02-01",
+    "floor": 7,
+    "area": 82.74
+  }
+]

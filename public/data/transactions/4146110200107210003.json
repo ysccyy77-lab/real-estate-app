@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "수산오성",
+    "dealAmount": "70,500",
+    "date": "2026-06-27",
+    "floor": 3,
+    "area": 82.5
+  },
+  {
+    "aptNm": "수산오성",
+    "dealAmount": "72,500",
+    "date": "2026-06-25",
+    "floor": 5,
+    "area": 77.83
+  },
+  {
+    "aptNm": "보성",
+    "dealAmount": "40,000",
+    "date": "2026-06-09",
+    "floor": 15,
+    "area": 84.42
+  },
+  {
+    "aptNm": "보���",
+    "dealAmount": "40,000",
+    "date": "2026-06-05",
+    "floor": 6,
+    "area": 84.42
+  },
+  {
+    "aptNm": "수산오성",
+    "dealAmount": "76,000",
+    "date": "2026-04-17",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "수산오성",
+    "dealAmount": "79,000",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 84.94
+  }
+]

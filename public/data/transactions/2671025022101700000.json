@@ -1,0 +1,149 @@
+[
+  {
+    "aptNm": "모아엘가센텀뷰아파트",
+    "dealAmount": "35,800",
+    "date": "2026-06-18",
+    "floor": 6,
+    "area": 59.9379
+  },
+  {
+    "aptNm": "한주한보",
+    "dealAmount": "12,200",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한주한보",
+    "dealAmount": "20,900",
+    "date": "2026-06-14",
+    "floor": 15,
+    "area": 84.14
+  },
+  {
+    "aptNm": "금정",
+    "dealAmount": "5,000",
+    "date": "2026-06-11",
+    "floor": 4,
+    "area": 55.26
+  },
+  {
+    "aptNm": "한주한보",
+    "dealAmount": "14,000",
+    "date": "2026-06-09",
+    "floor": 10,
+    "area": 59.73
+  },
+  {
+    "aptNm": "모아엘가센텀뷰아파트",
+    "dealAmount": "37,000",
+    "date": "2026-06-05",
+    "floor": 16,
+    "area": 59.9379
+  },
+  {
+    "aptNm": "SK",
+    "dealAmount": "157,000",
+    "date": "2026-05-30",
+    "floor": 6,
+    "area": 83.8
+  },
+  {
+    "aptNm": "모아엘가센텀뷰아파트",
+    "dealAmount": "35,800",
+    "date": "2026-05-29",
+    "floor": 9,
+    "area": 59.9379
+  },
+  {
+    "aptNm": "한주한보",
+    "dealAmount": "18,000",
+    "date": "2026-05-22",
+    "floor": 1,
+    "area": 117.92
+  },
+  {
+    "aptNm": "금정",
+    "dealAmount": "3,500",
+    "date": "2026-05-11",
+    "floor": 4,
+    "area": 55.26
+  },
+  {
+    "aptNm": "모아엘가센텀뷰아파트",
+    "dealAmount": "43,700",
+    "date": "2026-04-24",
+    "floor": 17,
+    "area": 73.9701
+  },
+  {
+    "aptNm": "브라운스톤공덕아파트",
+    "dealAmount": "204,000",
+    "date": "2026-04-15",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "브라운스톤공덕아파트",
+    "dealAmount": "190,000",
+    "date": "2026-04-15",
+    "floor": 4,
+    "area": 59.89
+  },
+  {
+    "aptNm": "한주한보",
+    "dealAmount": "14,300",
+    "date": "2026-03-30",
+    "floor": 8,
+    "area": 59.73
+  },
+  {
+    "aptNm": "모아엘가센텀뷰아파트",
+    "dealAmount": "38,000",
+    "date": "2026-03-22",
+    "floor": 27,
+    "area": 59.9379
+  },
+  {
+    "aptNm": "모아엘가센텀뷰아파트",
+    "dealAmount": "46,200",
+    "date": "2026-03-17",
+    "floor": 18,
+    "area": 73.9701
+  },
+  {
+    "aptNm": "한주한보",
+    "dealAmount": "13,000",
+    "date": "2026-03-13",
+    "floor": 4,
+    "area": 59.73
+  },
+  {
+    "aptNm": "대우네오빌프리미엄",
+    "dealAmount": "18,700",
+    "date": "2026-03-04",
+    "floor": 8,
+    "area": 84.9609
+  },
+  {
+    "aptNm": "대우네오빌프리미엄",
+    "dealAmount": "17,500",
+    "date": "2026-02-12",
+    "floor": 15,
+    "area": 84.9609
+  },
+  {
+    "aptNm": "SK",
+    "dealAmount": "150,000",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 83.8
+  },
+  {
+    "aptNm": "한주한보",
+    "dealAmount": "14,400",
+    "date": "2026-02-02",
+    "floor": 15,
+    "area": 59.73
+  }
+]

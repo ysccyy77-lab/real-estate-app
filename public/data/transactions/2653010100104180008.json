@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "동양한신",
+    "dealAmount": "18,400",
+    "date": "2026-06-05",
+    "floor": 11,
+    "area": 59.99
+  },
+  {
+    "aptNm": "동양한신",
+    "dealAmount": "23,300",
+    "date": "2026-05-26",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "동양한신",
+    "dealAmount": "16,000",
+    "date": "2026-05-08",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "동양한신",
+    "dealAmount": "16,300",
+    "date": "2026-04-07",
+    "floor": 22,
+    "area": 59.99
+  },
+  {
+    "aptNm": "동양한신",
+    "dealAmount": "15,500",
+    "date": "2026-03-16",
+    "floor": 1,
+    "area": 59.99
+  },
+  {
+    "aptNm": "동양한신",
+    "dealAmount": "16,000",
+    "date": "2026-03-15",
+    "floor": 11,
+    "area": 59.99
+  }
+]

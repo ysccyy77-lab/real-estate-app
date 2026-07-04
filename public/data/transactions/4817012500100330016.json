@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "한주파크맨션",
+    "dealAmount": "10,400",
+    "date": "2026-06-17",
+    "floor": 10,
+    "area": 59.4
+  },
+  {
+    "aptNm": "하은A동B동",
+    "dealAmount": "2,500",
+    "date": "2026-04-21",
+    "floor": 2,
+    "area": 34.05
+  },
+  {
+    "aptNm": "한주파크맨션",
+    "dealAmount": "11,800",
+    "date": "2026-04-16",
+    "floor": 10,
+    "area": 59.4
+  },
+  {
+    "aptNm": "한주파크맨션",
+    "dealAmount": "10,500",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 83.79
+  },
+  {
+    "aptNm": "하은A동B동",
+    "dealAmount": "4,000",
+    "date": "2026-03-23",
+    "floor": 5,
+    "area": 32.38
+  },
+  {
+    "aptNm": "한주파크맨션",
+    "dealAmount": "14,500",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 83.79
+  },
+  {
+    "aptNm": "한주파크맨션",
+    "dealAmount": "13,800",
+    "date": "2026-02-27",
+    "floor": 6,
+    "area": 83.79
+  }
+]

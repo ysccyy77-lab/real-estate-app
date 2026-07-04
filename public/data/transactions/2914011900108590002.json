@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "시청역퀸즈W",
+    "dealAmount": "20,200",
+    "date": "2026-06-23",
+    "floor": 15,
+    "area": 48.3103
+  },
+  {
+    "aptNm": "시청역퀸즈W",
+    "dealAmount": "20,300",
+    "date": "2026-06-11",
+    "floor": 20,
+    "area": 40.8229
+  },
+  {
+    "aptNm": "백조(가,나동)",
+    "dealAmount": "13,000",
+    "date": "2026-06-03",
+    "floor": 5,
+    "area": 60.75
+  },
+  {
+    "aptNm": "시청역퀸즈W",
+    "dealAmount": "20,250",
+    "date": "2026-05-18",
+    "floor": 6,
+    "area": 49.0584
+  },
+  {
+    "aptNm": "이성",
+    "dealAmount": "14,500",
+    "date": "2026-04-20",
+    "floor": 2,
+    "area": 53.16
+  },
+  {
+    "aptNm": "백조(가,나동)",
+    "dealAmount": "15,000",
+    "date": "2026-04-07",
+    "floor": 2,
+    "area": 60.75
+  },
+  {
+    "aptNm": "시청역퀸즈W",
+    "dealAmount": "20,250",
+    "date": "2026-03-15",
+    "floor": 7,
+    "area": 48.4853
+  },
+  {
+    "aptNm": "시청역퀸즈W",
+    "dealAmount": "27,700",
+    "date": "2026-03-15",
+    "floor": 9,
+    "area": 59.6202
+  },
+  {
+    "aptNm": "시청역퀸즈W",
+    "dealAmount": "21,500",
+    "date": "2026-03-08",
+    "floor": 20,
+    "area": 49.3704
+  },
+  {
+    "aptNm": "시청역퀸즈W",
+    "dealAmount": "19,800",
+    "date": "2026-03-07",
+    "floor": 17,
+    "area": 48.5139
+  },
+  {
+    "aptNm": "미광전원1",
+    "dealAmount": "4,600",
+    "date": "2026-02-23",
+    "floor": 4,
+    "area": 56.68
+  },
+  {
+    "aptNm": "미광전원1",
+    "dealAmount": "1,800",
+    "date": "2026-02-02",
+    "floor": 6,
+    "area": 49.81
+  }
+]

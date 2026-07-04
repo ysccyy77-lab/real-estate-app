@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "11,300",
+    "date": "2026-05-18",
+    "floor": 2,
+    "area": 39.6
+  },
+  {
+    "aptNm": "세대넥스빌",
+    "dealAmount": "24,500",
+    "date": "2026-05-15",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "8,100",
+    "date": "2026-04-27",
+    "floor": 6,
+    "area": 39.6
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "13,000",
+    "date": "2026-04-25",
+    "floor": 5,
+    "area": 39.24
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "9,700",
+    "date": "2026-04-25",
+    "floor": 1,
+    "area": 39.6
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "9,450",
+    "date": "2026-04-20",
+    "floor": 1,
+    "area": 39.6
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "7,800",
+    "date": "2026-04-18",
+    "floor": 6,
+    "area": 39.6
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "12,700",
+    "date": "2026-04-09",
+    "floor": 11,
+    "area": 39.24
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "11,300",
+    "date": "2026-04-06",
+    "floor": 1,
+    "area": 39.24
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "10,700",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 39.6
+  },
+  {
+    "aptNm": "세대넥스빌",
+    "dealAmount": "30,000",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 84.87
+  },
+  {
+    "aptNm": "동민캐슬7차",
+    "dealAmount": "19,350",
+    "date": "2026-02-20",
+    "floor": 4,
+    "area": 69.67
+  },
+  {
+    "aptNm": "뉴서울1",
+    "dealAmount": "12,000",
+    "date": "2026-02-05",
+    "floor": 2,
+    "area": 39.24
+  }
+]

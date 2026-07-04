@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "부영E그린",
+    "dealAmount": "27,400",
+    "date": "2026-06-06",
+    "floor": 8,
+    "area": 84.8612
+  },
+  {
+    "aptNm": "부영E그린",
+    "dealAmount": "27,500",
+    "date": "2026-05-23",
+    "floor": 12,
+    "area": 84.8612
+  },
+  {
+    "aptNm": "부영E그린",
+    "dealAmount": "27,200",
+    "date": "2026-03-26",
+    "floor": 12,
+    "area": 84.8612
+  },
+  {
+    "aptNm": "부영E그린",
+    "dealAmount": "23,200",
+    "date": "2026-03-25",
+    "floor": 5,
+    "area": 84.8612
+  },
+  {
+    "aptNm": "부영E그린",
+    "dealAmount": "26,500",
+    "date": "2026-03-16",
+    "floor": 10,
+    "area": 84.8612
+  },
+  {
+    "aptNm": "부영E그린",
+    "dealAmount": "28,700",
+    "date": "2026-02-09",
+    "floor": 15,
+    "area": 84.8612
+  }
+]

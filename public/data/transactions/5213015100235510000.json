@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "시영2차",
+    "dealAmount": "3,100",
+    "date": "2026-07-02",
+    "floor": 10,
+    "area": 48.525
+  },
+  {
+    "aptNm": "시영2차",
+    "dealAmount": "3,000",
+    "date": "2026-03-10",
+    "floor": 7,
+    "area": 48.525
+  },
+  {
+    "aptNm": "시영2차",
+    "dealAmount": "2,600",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 35.4
+  },
+  {
+    "aptNm": "시영2차",
+    "dealAmount": "3,500",
+    "date": "2026-02-23",
+    "floor": 8,
+    "area": 48.525
+  },
+  {
+    "aptNm": "시영2차",
+    "dealAmount": "4,650",
+    "date": "2026-02-03",
+    "floor": 6,
+    "area": 48.525
+  },
+  {
+    "aptNm": "시영2차",
+    "dealAmount": "4,650",
+    "date": "2026-02-02",
+    "floor": 6,
+    "area": 48.525
+  }
+]

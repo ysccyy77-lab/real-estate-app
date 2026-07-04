@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "마석LIG아파트",
+    "dealAmount": "25,000",
+    "date": "2026-05-04",
+    "floor": 5,
+    "area": 59.9693
+  },
+  {
+    "aptNm": "마석LIG아파트",
+    "dealAmount": "22,000",
+    "date": "2026-04-25",
+    "floor": 2,
+    "area": 59.9693
+  },
+  {
+    "aptNm": "선화아파트",
+    "dealAmount": "42,000",
+    "date": "2026-04-07",
+    "floor": 1,
+    "area": 94.37
+  },
+  {
+    "aptNm": "마석LIG아파트",
+    "dealAmount": "26,800",
+    "date": "2026-03-16",
+    "floor": 1,
+    "area": 84.9847
+  },
+  {
+    "aptNm": "마석LIG아파트",
+    "dealAmount": "27,500",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 84.9847
+  },
+  {
+    "aptNm": "마석LIG아파트",
+    "dealAmount": "26,000",
+    "date": "2026-02-10",
+    "floor": 2,
+    "area": 84.9847
+  }
+]

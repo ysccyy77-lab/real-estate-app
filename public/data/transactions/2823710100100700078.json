@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "창보",
+    "dealAmount": "34,800",
+    "date": "2026-06-09",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "창보",
+    "dealAmount": "32,000",
+    "date": "2026-05-13",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "창보",
+    "dealAmount": "30,000",
+    "date": "2026-04-06",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "창보",
+    "dealAmount": "31,500",
+    "date": "2026-02-02",
+    "floor": 2,
+    "area": 84.98
+  }
+]

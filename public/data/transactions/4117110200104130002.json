@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "67,000",
+    "date": "2026-06-27",
+    "floor": 9,
+    "area": 79.97
+  },
+  {
+    "aptNm": "한일(A,B)",
+    "dealAmount": "5,500",
+    "date": "2026-06-20",
+    "floor": 6,
+    "area": 59.61
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "64,000",
+    "date": "2026-06-06",
+    "floor": 7,
+    "area": 79.97
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "61,000",
+    "date": "2026-05-02",
+    "floor": 2,
+    "area": 79.97
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "60,400",
+    "date": "2026-04-23",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "57,400",
+    "date": "2026-03-29",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대보드림채",
+    "dealAmount": "31,050",
+    "date": "2026-03-23",
+    "floor": 8,
+    "area": 70.5643
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "59,500",
+    "date": "2026-03-15",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "61,700",
+    "date": "2026-03-03",
+    "floor": 1,
+    "area": 79.97
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "60,000",
+    "date": "2026-02-25",
+    "floor": 14,
+    "area": 59.99
+  },
+  {
+    "aptNm": "한일(A,B)",
+    "dealAmount": "4,600",
+    "date": "2026-02-09",
+    "floor": 5,
+    "area": 59.61
+  }
+]

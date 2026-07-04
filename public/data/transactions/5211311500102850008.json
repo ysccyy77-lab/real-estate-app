@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "럭키우아",
+    "dealAmount": "10,700",
+    "date": "2026-05-07",
+    "floor": 9,
+    "area": 84.905
+  },
+  {
+    "aptNm": "럭키우아",
+    "dealAmount": "14,400",
+    "date": "2026-05-03",
+    "floor": 13,
+    "area": 84.905
+  },
+  {
+    "aptNm": "럭키우아",
+    "dealAmount": "14,800",
+    "date": "2026-04-25",
+    "floor": 15,
+    "area": 84.905
+  },
+  {
+    "aptNm": "럭키우아",
+    "dealAmount": "14,400",
+    "date": "2026-04-05",
+    "floor": 13,
+    "area": 84.905
+  },
+  {
+    "aptNm": "럭키우아",
+    "dealAmount": "17,300",
+    "date": "2026-04-05",
+    "floor": 15,
+    "area": 110.774
+  },
+  {
+    "aptNm": "럭키우아",
+    "dealAmount": "12,500",
+    "date": "2026-04-03",
+    "floor": 7,
+    "area": 84.905
+  },
+  {
+    "aptNm": "럭키우아",
+    "dealAmount": "11,900",
+    "date": "2026-03-24",
+    "floor": 2,
+    "area": 84.905
+  }
+]

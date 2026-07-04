@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "국민주택",
+    "dealAmount": "4,150",
+    "date": "2026-04-23",
+    "floor": 4,
+    "area": 33.39
+  },
+  {
+    "aptNm": "국민주택",
+    "dealAmount": "4,900",
+    "date": "2026-04-13",
+    "floor": 1,
+    "area": 33.39
+  },
+  {
+    "aptNm": "국민주택",
+    "dealAmount": "5,400",
+    "date": "2026-04-10",
+    "floor": 2,
+    "area": 33.39
+  },
+  {
+    "aptNm": "국민주택",
+    "dealAmount": "3,800",
+    "date": "2026-03-04",
+    "floor": 5,
+    "area": 33.39
+  },
+  {
+    "aptNm": "좌천시민(741-1)",
+    "dealAmount": "2,700",
+    "date": "2026-02-11",
+    "floor": 2,
+    "area": 36.4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "프리우스",
+    "dealAmount": "141,500",
+    "date": "2026-06-03",
+    "floor": 1,
+    "area": 75.32
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "25,000",
+    "date": "2026-05-28",
+    "floor": 1,
+    "area": 73.2
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "37,300",
+    "date": "2026-04-28",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "프리우스",
+    "dealAmount": "132,000",
+    "date": "2026-04-18",
+    "floor": 7,
+    "area": 73.25
+  },
+  {
+    "aptNm": "프리우스",
+    "dealAmount": "139,000",
+    "date": "2026-03-31",
+    "floor": 2,
+    "area": 75.32
+  },
+  {
+    "aptNm": "프리우스",
+    "dealAmount": "127,000",
+    "date": "2026-03-20",
+    "floor": 2,
+    "area": 73.25
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "33,700",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 73.2
+  }
+]

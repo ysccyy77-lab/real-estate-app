@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "낙원아파트",
+    "dealAmount": "5,600",
+    "date": "2026-05-01",
+    "floor": 1,
+    "area": 49.6526
+  },
+  {
+    "aptNm": "낙원아파트",
+    "dealAmount": "6,000",
+    "date": "2026-04-22",
+    "floor": 8,
+    "area": 49.6526
+  },
+  {
+    "aptNm": "낙원아파트",
+    "dealAmount": "8,000",
+    "date": "2026-04-14",
+    "floor": 8,
+    "area": 49.6526
+  },
+  {
+    "aptNm": "낙원아파트",
+    "dealAmount": "5,300",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 49.6526
+  },
+  {
+    "aptNm": "두성",
+    "dealAmount": "49,000",
+    "date": "2026-03-27",
+    "floor": 7,
+    "area": 81.86
+  },
+  {
+    "aptNm": "낙원아파트",
+    "dealAmount": "6,600",
+    "date": "2026-03-17",
+    "floor": 6,
+    "area": 49.6526
+  }
+]

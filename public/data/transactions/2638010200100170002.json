@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "혜성",
+    "dealAmount": "18,400",
+    "date": "2026-06-22",
+    "floor": 9,
+    "area": 84.36
+  },
+  {
+    "aptNm": "우신1,2,3동",
+    "dealAmount": "7,400",
+    "date": "2026-06-19",
+    "floor": 5,
+    "area": 51.84
+  },
+  {
+    "aptNm": "우신1,2,3동",
+    "dealAmount": "8,000",
+    "date": "2026-05-16",
+    "floor": 3,
+    "area": 51.84
+  },
+  {
+    "aptNm": "혜성",
+    "dealAmount": "11,900",
+    "date": "2026-04-28",
+    "floor": 17,
+    "area": 59.91
+  },
+  {
+    "aptNm": "우신1,2,3동",
+    "dealAmount": "7,400",
+    "date": "2026-04-23",
+    "floor": 5,
+    "area": 51.84
+  },
+  {
+    "aptNm": "혜성",
+    "dealAmount": "17,000",
+    "date": "2026-03-23",
+    "floor": 18,
+    "area": 84.36
+  },
+  {
+    "aptNm": "혜성",
+    "dealAmount": "18,300",
+    "date": "2026-03-17",
+    "floor": 3,
+    "area": 84.36
+  },
+  {
+    "aptNm": "우신1,2,3동",
+    "dealAmount": "9,000",
+    "date": "2026-02-14",
+    "floor": 1,
+    "area": 51.84
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "40,500",
+    "date": "2026-06-25",
+    "floor": 9,
+    "area": 72.4551
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "39,300",
+    "date": "2026-06-25",
+    "floor": 21,
+    "area": 72.6748
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "13,450",
+    "date": "2026-06-25",
+    "floor": 9,
+    "area": 29.7
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "43,000",
+    "date": "2026-06-20",
+    "floor": 17,
+    "area": 84.9833
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "47,000",
+    "date": "2026-06-14",
+    "floor": 4,
+    "area": 101.4164
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "6,200",
+    "date": "2026-06-11",
+    "floor": 6,
+    "area": 42.54
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "67,800",
+    "date": "2026-06-10",
+    "floor": 7,
+    "area": 84.95
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "39,000",
+    "date": "2026-06-09",
+    "floor": 2,
+    "area": 72.6932
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "4,200",
+    "date": "2026-06-09",
+    "floor": 4,
+    "area": 32.96
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "40,000",
+    "date": "2026-06-08",
+    "floor": 1,
+    "area": 84.9833
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "39,000",
+    "date": "2026-06-08",
+    "floor": 2,
+    "area": 72.6932
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "28,500",
+    "date": "2026-06-06",
+    "floor": 14,
+    "area": 84.81
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "29,000",
+    "date": "2026-06-05",
+    "floor": 12,
+    "area": 84.81
+  },
+  {
+    "aptNm": "신나리2차",
+    "dealAmount": "7,800",
+    "date": "2026-06-01",
+    "floor": 1,
+    "area": 49.2173
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "13,800",
+    "date": "2026-05-28",
+    "floor": 13,
+    "area": 29.7
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "47,200",
+    "date": "2026-05-26",
+    "floor": 9,
+    "area": 101.8828
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "6,000",
+    "date": "2026-05-16",
+    "floor": 5,
+    "area": 42.54
+  },
+  {
+    "aptNm": "해마루풍경102동",
+    "dealAmount": "26,000",
+    "date": "2026-05-11",
+    "floor": 3,
+    "area": 58.9336
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "58,800",
+    "date": "2026-05-09",
+    "floor": 22,
+    "area": 59.87
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "44,000",
+    "date": "2026-05-04",
+    "floor": 6,
+    "area": 84.9833
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "63,000",
+    "date": "2026-04-28",
+    "floor": 21,
+    "area": 84.95
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "43,000",
+    "date": "2026-04-28",
+    "floor": 7,
+    "area": 84.9997
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "63,800",
+    "date": "2026-04-27",
+    "floor": 19,
+    "area": 84.95
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "28,000",
+    "date": "2026-04-27",
+    "floor": 5,
+    "area": 84.81
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "52,700",
+    "date": "2026-04-24",
+    "floor": 14,
+    "area": 101.4164
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "59,800",
+    "date": "2026-04-22",
+    "floor": 11,
+    "area": 84.95
+  },
+  {
+    "aptNm": "신나리2차",
+    "dealAmount": "9,200",
+    "date": "2026-04-22",
+    "floor": 4,
+    "area": 48.4605
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "42,000",
+    "date": "2026-04-20",
+    "floor": 9,
+    "area": 84.9997
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "5,900",
+    "date": "2026-04-16",
+    "floor": 2,
+    "area": 42.54
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "4,450",
+    "date": "2026-04-15",
+    "floor": 3,
+    "area": 42.54
+  },
+  {
+    "aptNm": "신나리2차",
+    "dealAmount": "8,900",
+    "date": "2026-04-13",
+    "floor": 11,
+    "area": 49.2173
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "44,500",
+    "date": "2026-04-13",
+    "floor": 6,
+    "area": 84.9833
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "5,050",
+    "date": "2026-04-13",
+    "floor": 1,
+    "area": 42.54
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "59,900",
+    "date": "2026-04-06",
+    "floor": 17,
+    "area": 84.95
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "14,500",
+    "date": "2026-04-01",
+    "floor": 5,
+    "area": 29.7
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "6,000",
+    "date": "2026-04-01",
+    "floor": 6,
+    "area": 42.54
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "49,000",
+    "date": "2026-03-27",
+    "floor": 1,
+    "area": 59.87
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "56,000",
+    "date": "2026-03-23",
+    "floor": 16,
+    "area": 59.87
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "57,500",
+    "date": "2026-03-21",
+    "floor": 2,
+    "area": 84.95
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "11,000",
+    "date": "2026-03-18",
+    "floor": 10,
+    "area": 29.7
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "4,000",
+    "date": "2026-03-18",
+    "floor": 3,
+    "area": 42.54
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "39,000",
+    "date": "2026-03-14",
+    "floor": 2,
+    "area": 72.6932
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "7,600",
+    "date": "2026-03-13",
+    "floor": 1,
+    "area": 56.04
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "61,000",
+    "date": "2026-03-10",
+    "floor": 12,
+    "area": 84.95
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "54,800",
+    "date": "2026-03-09",
+    "floor": 8,
+    "area": 59.87
+  },
+  {
+    "aptNm": "신나리2차",
+    "dealAmount": "9,000",
+    "date": "2026-03-08",
+    "floor": 12,
+    "area": 49.2173
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "43,600",
+    "date": "2026-03-08",
+    "floor": 3,
+    "area": 84.9833
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "3,700",
+    "date": "2026-03-06",
+    "floor": 4,
+    "area": 42.54
+  },
+  {
+    "aptNm": "신나리2차",
+    "dealAmount": "9,000",
+    "date": "2026-03-04",
+    "floor": 14,
+    "area": 49.2173
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "8,400",
+    "date": "2026-03-04",
+    "floor": 8,
+    "area": 56.04
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "61,800",
+    "date": "2026-03-02",
+    "floor": 10,
+    "area": 84.95
+  },
+  {
+    "aptNm": "해마루풍경102동",
+    "dealAmount": "22,000",
+    "date": "2026-03-02",
+    "floor": 3,
+    "area": 54.4914
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "52,500",
+    "date": "2026-02-24",
+    "floor": 7,
+    "area": 59.87
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "59,000",
+    "date": "2026-02-24",
+    "floor": 9,
+    "area": 59.87
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "60,000",
+    "date": "2026-02-19",
+    "floor": 23,
+    "area": 84.95
+  },
+  {
+    "aptNm": "신나리2차",
+    "dealAmount": "14,000",
+    "date": "2026-02-19",
+    "floor": 3,
+    "area": 75.9481
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "41,800",
+    "date": "2026-02-19",
+    "floor": 11,
+    "area": 84.9997
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "51,000",
+    "date": "2026-02-14",
+    "floor": 4,
+    "area": 59.87
+  },
+  {
+    "aptNm": "청룡신한1차",
+    "dealAmount": "5,300",
+    "date": "2026-02-10",
+    "floor": 6,
+    "area": 42.54
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "28,000",
+    "date": "2026-02-07",
+    "floor": 10,
+    "area": 84.81
+  },
+  {
+    "aptNm": "아름마을엘지",
+    "dealAmount": "53,000",
+    "date": "2026-02-06",
+    "floor": 15,
+    "area": 59.87
+  },
+  {
+    "aptNm": "신나리2차",
+    "dealAmount": "9,500",
+    "date": "2026-02-04",
+    "floor": 5,
+    "area": 49.2173
+  },
+  {
+    "aptNm": "전하아이파크",
+    "dealAmount": "42,500",
+    "date": "2026-02-04",
+    "floor": 15,
+    "area": 84.9997
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "13,500",
+    "date": "2026-02-03",
+    "floor": 5,
+    "area": 29.7
+  },
+  {
+    "aptNm": "아주1",
+    "dealAmount": "13,800",
+    "date": "2026-02-02",
+    "floor": 9,
+    "area": 29.7
+  }
+]

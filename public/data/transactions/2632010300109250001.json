@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "동원",
+    "dealAmount": "15,500",
+    "date": "2026-06-24",
+    "floor": 10,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "16,750",
+    "date": "2026-06-23",
+    "floor": 7,
+    "area": 77.82
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "13,500",
+    "date": "2026-06-13",
+    "floor": 6,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "12,800",
+    "date": "2026-06-09",
+    "floor": 2,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "21,000",
+    "date": "2026-06-06",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "13,200",
+    "date": "2026-05-25",
+    "floor": 9,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "14,000",
+    "date": "2026-05-24",
+    "floor": 12,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "14,500",
+    "date": "2026-04-16",
+    "floor": 12,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "16,200",
+    "date": "2026-04-14",
+    "floor": 5,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한백아파트",
+    "dealAmount": "34,000",
+    "date": "2026-03-28",
+    "floor": 4,
+    "area": 60.42
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "14,800",
+    "date": "2026-03-24",
+    "floor": 6,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "16,000",
+    "date": "2026-03-23",
+    "floor": 11,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "20,300",
+    "date": "2026-03-10",
+    "floor": 7,
+    "area": 77.82
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "14,700",
+    "date": "2026-03-10",
+    "floor": 9,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "15,500",
+    "date": "2026-02-05",
+    "floor": 10,
+    "area": 59.84
+  }
+]

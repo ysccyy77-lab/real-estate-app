@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "한빛타운",
+    "dealAmount": "7,500",
+    "date": "2026-06-24",
+    "floor": 10,
+    "area": 59.96
+  },
+  {
+    "aptNm": "한빛타운",
+    "dealAmount": "8,000",
+    "date": "2026-05-26",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "한빛타운",
+    "dealAmount": "9,000",
+    "date": "2026-04-14",
+    "floor": 13,
+    "area": 59.96
+  },
+  {
+    "aptNm": "한빛타운",
+    "dealAmount": "7,900",
+    "date": "2026-03-27",
+    "floor": 7,
+    "area": 59.94
+  },
+  {
+    "aptNm": "한빛타운",
+    "dealAmount": "8,000",
+    "date": "2026-02-26",
+    "floor": 11,
+    "area": 59.94
+  }
+]

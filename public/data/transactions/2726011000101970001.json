@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "한솔맨션",
+    "dealAmount": "5,900",
+    "date": "2026-04-16",
+    "floor": 1,
+    "area": 57.9
+  },
+  {
+    "aptNm": "한솔맨션",
+    "dealAmount": "4,500",
+    "date": "2026-04-03",
+    "floor": 2,
+    "area": 57.9
+  },
+  {
+    "aptNm": "한솔맨션",
+    "dealAmount": "5,100",
+    "date": "2026-03-04",
+    "floor": 1,
+    "area": 57.9
+  },
+  {
+    "aptNm": "한솔맨션",
+    "dealAmount": "7,700",
+    "date": "2026-02-28",
+    "floor": 1,
+    "area": 78.54
+  },
+  {
+    "aptNm": "한솔맨션",
+    "dealAmount": "4,000",
+    "date": "2026-02-19",
+    "floor": 6,
+    "area": 57.9
+  }
+]

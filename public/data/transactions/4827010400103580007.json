@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "세광맨션",
+    "dealAmount": "11,000",
+    "date": "2026-06-16",
+    "floor": 9,
+    "area": 84.58
+  },
+  {
+    "aptNm": "세광맨션",
+    "dealAmount": "12,000",
+    "date": "2026-05-08",
+    "floor": 16,
+    "area": 84.58
+  },
+  {
+    "aptNm": "세광맨션",
+    "dealAmount": "13,050",
+    "date": "2026-04-18",
+    "floor": 4,
+    "area": 84.58
+  },
+  {
+    "aptNm": "세광맨션",
+    "dealAmount": "10,000",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 84.58
+  },
+  {
+    "aptNm": "세광맨션",
+    "dealAmount": "9,300",
+    "date": "2026-03-17",
+    "floor": 6,
+    "area": 59.88
+  }
+]

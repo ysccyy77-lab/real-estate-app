@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "우성크리스탈",
+    "dealAmount": "2,650",
+    "date": "2026-06-24",
+    "floor": 5,
+    "area": 52.08
+  },
+  {
+    "aptNm": "우성5차",
+    "dealAmount": "22,100",
+    "date": "2026-06-21",
+    "floor": 17,
+    "area": 59.94
+  },
+  {
+    "aptNm": "우성5차",
+    "dealAmount": "14,500",
+    "date": "2026-06-16",
+    "floor": 1,
+    "area": 41.13
+  },
+  {
+    "aptNm": "토성현대",
+    "dealAmount": "84,500",
+    "date": "2026-06-04",
+    "floor": 4,
+    "area": 57.24
+  },
+  {
+    "aptNm": "토성현대",
+    "dealAmount": "75,000",
+    "date": "2026-06-03",
+    "floor": 4,
+    "area": 49.14
+  },
+  {
+    "aptNm": "토성현대",
+    "dealAmount": "77,500",
+    "date": "2026-06-01",
+    "floor": 6,
+    "area": 49.14
+  },
+  {
+    "aptNm": "토성현대",
+    "dealAmount": "69,000",
+    "date": "2026-04-24",
+    "floor": 1,
+    "area": 49.14
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "15,700",
+    "date": "2026-04-24",
+    "floor": 3,
+    "area": 75.78
+  },
+  {
+    "aptNm": "우성5차",
+    "dealAmount": "14,500",
+    "date": "2026-04-22",
+    "floor": 10,
+    "area": 41.13
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "15,200",
+    "date": "2026-04-13",
+    "floor": 5,
+    "area": 56.73
+  },
+  {
+    "aptNm": "우성5차",
+    "dealAmount": "26,800",
+    "date": "2026-04-09",
+    "floor": 6,
+    "area": 83.63
+  },
+  {
+    "aptNm": "토성현대",
+    "dealAmount": "84,300",
+    "date": "2026-04-07",
+    "floor": 9,
+    "area": 57.24
+  },
+  {
+    "aptNm": "우성5차",
+    "dealAmount": "31,500",
+    "date": "2026-03-28",
+    "floor": 6,
+    "area": 83.63
+  },
+  {
+    "aptNm": "토성현대",
+    "dealAmount": "85,000",
+    "date": "2026-02-26",
+    "floor": 9,
+    "area": 57.24
+  }
+]

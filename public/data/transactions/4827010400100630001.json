@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "세경",
+    "dealAmount": "4,900",
+    "date": "2026-05-20",
+    "floor": 5,
+    "area": 56.88
+  },
+  {
+    "aptNm": "태성국화맨션",
+    "dealAmount": "3,900",
+    "date": "2026-05-19",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "태성국화맨션",
+    "dealAmount": "4,000",
+    "date": "2026-04-14",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "세경",
+    "dealAmount": "4,900",
+    "date": "2026-04-11",
+    "floor": 3,
+    "area": 56.88
+  },
+  {
+    "aptNm": "세경",
+    "dealAmount": "3,900",
+    "date": "2026-04-11",
+    "floor": 4,
+    "area": 56.88
+  },
+  {
+    "aptNm": "세경",
+    "dealAmount": "4,700",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 56.88
+  },
+  {
+    "aptNm": "세경",
+    "dealAmount": "4,600",
+    "date": "2026-03-05",
+    "floor": 4,
+    "area": 56.88
+  },
+  {
+    "aptNm": "세경",
+    "dealAmount": "3,400",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 38.88
+  },
+  {
+    "aptNm": "세경",
+    "dealAmount": "3,200",
+    "date": "2026-02-09",
+    "floor": 5,
+    "area": 56.88
+  }
+]

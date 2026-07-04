@@ -1,0 +1,170 @@
+[
+  {
+    "aptNm": "신정",
+    "dealAmount": "5,500",
+    "date": "2026-07-02",
+    "floor": 8,
+    "area": 31.439
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "43,200",
+    "date": "2026-06-29",
+    "floor": 11,
+    "area": 59.51
+  },
+  {
+    "aptNm": "신정",
+    "dealAmount": "4,500",
+    "date": "2026-06-22",
+    "floor": 9,
+    "area": 31.439
+  },
+  {
+    "aptNm": "푸르지오1차",
+    "dealAmount": "34,400",
+    "date": "2026-06-16",
+    "floor": 17,
+    "area": 108.8017
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "44,000",
+    "date": "2026-06-15",
+    "floor": 8,
+    "area": 59.51
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "44,000",
+    "date": "2026-06-12",
+    "floor": 12,
+    "area": 59.59
+  },
+  {
+    "aptNm": "푸르지오1차",
+    "dealAmount": "31,800",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 84.9636
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "43,000",
+    "date": "2026-05-30",
+    "floor": 24,
+    "area": 59.51
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "43,000",
+    "date": "2026-05-19",
+    "floor": 7,
+    "area": 59.51
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "41,500",
+    "date": "2026-05-18",
+    "floor": 3,
+    "area": 59.59
+  },
+  {
+    "aptNm": "푸르지오1차",
+    "dealAmount": "36,000",
+    "date": "2026-05-10",
+    "floor": 4,
+    "area": 124.3273
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "42,800",
+    "date": "2026-04-23",
+    "floor": 13,
+    "area": 59.51
+  },
+  {
+    "aptNm": "신정",
+    "dealAmount": "5,100",
+    "date": "2026-04-23",
+    "floor": 5,
+    "area": 31.439
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "45,000",
+    "date": "2026-04-08",
+    "floor": 4,
+    "area": 59.51
+  },
+  {
+    "aptNm": "푸르지오1차",
+    "dealAmount": "33,500",
+    "date": "2026-04-02",
+    "floor": 11,
+    "area": 108.8017
+  },
+  {
+    "aptNm": "푸르지오1차",
+    "dealAmount": "36,500",
+    "date": "2026-03-28",
+    "floor": 17,
+    "area": 108.8017
+  },
+  {
+    "aptNm": "푸르지오1차",
+    "dealAmount": "34,000",
+    "date": "2026-03-26",
+    "floor": 1,
+    "area": 108.8017
+  },
+  {
+    "aptNm": "범우",
+    "dealAmount": "44,800",
+    "date": "2026-03-25",
+    "floor": 1,
+    "area": 46.03
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "44,000",
+    "date": "2026-03-25",
+    "floor": 11,
+    "area": 59.51
+  },
+  {
+    "aptNm": "푸르지오1차",
+    "dealAmount": "36,900",
+    "date": "2026-03-23",
+    "floor": 10,
+    "area": 124.3273
+  },
+  {
+    "aptNm": "엘에이치송정마을",
+    "dealAmount": "41,000",
+    "date": "2026-03-13",
+    "floor": 23,
+    "area": 59.51
+  },
+  {
+    "aptNm": "푸르지오1차",
+    "dealAmount": "35,300",
+    "date": "2026-03-05",
+    "floor": 7,
+    "area": 108.8017
+  },
+  {
+    "aptNm": "범우",
+    "dealAmount": "44,500",
+    "date": "2026-02-15",
+    "floor": 3,
+    "area": 46.03
+  },
+  {
+    "aptNm": "범우",
+    "dealAmount": "40,500",
+    "date": "2026-02-06",
+    "floor": 5,
+    "area": 46.03
+  }
+]

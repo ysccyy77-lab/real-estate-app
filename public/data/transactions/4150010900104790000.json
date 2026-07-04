@@ -1,0 +1,520 @@
+[
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "67,000",
+    "date": "2026-06-30",
+    "floor": 15,
+    "area": 84.97
+  },
+  {
+    "aptNm": "한일써너스빌리젠시1단지(101동)",
+    "dealAmount": "88,700",
+    "date": "2026-06-29",
+    "floor": 20,
+    "area": 84.66
+  },
+  {
+    "aptNm": "숲속반디채",
+    "dealAmount": "37,900",
+    "date": "2026-06-25",
+    "floor": 23,
+    "area": 51.05
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "36,400",
+    "date": "2026-06-23",
+    "floor": 22,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "32,300",
+    "date": "2026-06-20",
+    "floor": 14,
+    "area": 59.9929
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "35,000",
+    "date": "2026-06-17",
+    "floor": 9,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "35,000",
+    "date": "2026-06-16",
+    "floor": 23,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "공덕SK리더스뷰",
+    "dealAmount": "207,500",
+    "date": "2026-06-11",
+    "floor": 20,
+    "area": 59.92
+  },
+  {
+    "aptNm": "숲속반디채",
+    "dealAmount": "45,500",
+    "date": "2026-06-09",
+    "floor": 24,
+    "area": 59.07
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "37,000",
+    "date": "2026-06-09",
+    "floor": 2,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "숲속반디채",
+    "dealAmount": "38,000",
+    "date": "2026-06-08",
+    "floor": 23,
+    "area": 51.05
+  },
+  {
+    "aptNm": "영산맨션",
+    "dealAmount": "10,700",
+    "date": "2026-06-08",
+    "floor": 1,
+    "area": 84.6
+  },
+  {
+    "aptNm": "장대푸르지오",
+    "dealAmount": "51,000",
+    "date": "2026-06-07",
+    "floor": 6,
+    "area": 84.9129
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "33,700",
+    "date": "2026-06-03",
+    "floor": 4,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "12,900",
+    "date": "2026-06-01",
+    "floor": 2,
+    "area": 38.64
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "68,000",
+    "date": "2026-06-01",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "37,000",
+    "date": "2026-05-30",
+    "floor": 24,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "29,900",
+    "date": "2026-05-30",
+    "floor": 1,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "67,800",
+    "date": "2026-05-30",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "숲속반디채",
+    "dealAmount": "43,000",
+    "date": "2026-05-29",
+    "floor": 5,
+    "area": 59.07
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "66,400",
+    "date": "2026-05-18",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "증포동한솔솔파크3",
+    "dealAmount": "29,000",
+    "date": "2026-05-16",
+    "floor": 1,
+    "area": 84.9202
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "52,000",
+    "date": "2026-05-16",
+    "floor": 10,
+    "area": 134.9711
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "10,000",
+    "date": "2026-05-13",
+    "floor": 5,
+    "area": 45.24
+  },
+  {
+    "aptNm": "한일써너스빌리젠시1단지(101동)",
+    "dealAmount": "99,500",
+    "date": "2026-05-13",
+    "floor": 6,
+    "area": 84.74
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "34,250",
+    "date": "2026-05-12",
+    "floor": 22,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "33,000",
+    "date": "2026-05-09",
+    "floor": 1,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "장대푸르지오",
+    "dealAmount": "51,500",
+    "date": "2026-05-06",
+    "floor": 7,
+    "area": 84.9129
+  },
+  {
+    "aptNm": "한일써너스빌리젠시1단지(101동)",
+    "dealAmount": "84,000",
+    "date": "2026-05-04",
+    "floor": 23,
+    "area": 84.74
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "13,000",
+    "date": "2026-05-01",
+    "floor": 2,
+    "area": 33.45
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "62,800",
+    "date": "2026-04-22",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "62,800",
+    "date": "2026-04-18",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "64,000",
+    "date": "2026-04-17",
+    "floor": 2,
+    "area": 84.97
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "31,000",
+    "date": "2026-04-14",
+    "floor": 3,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "27,800",
+    "date": "2026-04-11",
+    "floor": 3,
+    "area": 59.9929
+  },
+  {
+    "aptNm": "증포동한솔솔파크3",
+    "dealAmount": "33,000",
+    "date": "2026-04-07",
+    "floor": 5,
+    "area": 84.9202
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "24,500",
+    "date": "2026-04-07",
+    "floor": 1,
+    "area": 59.9929
+  },
+  {
+    "aptNm": "한일써너스빌리젠시1단지(101동)",
+    "dealAmount": "87,000",
+    "date": "2026-04-07",
+    "floor": 12,
+    "area": 84.66
+  },
+  {
+    "aptNm": "한일써너스빌리젠시1단지(101동)",
+    "dealAmount": "90,000",
+    "date": "2026-04-06",
+    "floor": 28,
+    "area": 84.66
+  },
+  {
+    "aptNm": "왜관3우방타운",
+    "dealAmount": "8,500",
+    "date": "2026-04-04",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "34,000",
+    "date": "2026-04-04",
+    "floor": 16,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "66,000",
+    "date": "2026-04-03",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "34,500",
+    "date": "2026-03-31",
+    "floor": 11,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "35,500",
+    "date": "2026-03-28",
+    "floor": 16,
+    "area": 84.9302
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "61,500",
+    "date": "2026-03-28",
+    "floor": 3,
+    "area": 84.97
+  },
+  {
+    "aptNm": "장대푸르지오",
+    "dealAmount": "47,000",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 84.9129
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "58,800",
+    "date": "2026-03-25",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "영산맨션",
+    "dealAmount": "8,000",
+    "date": "2026-03-25",
+    "floor": 1,
+    "area": 83.88
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "35,000",
+    "date": "2026-03-23",
+    "floor": 26,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "장대푸르지오",
+    "dealAmount": "46,000",
+    "date": "2026-03-23",
+    "floor": 12,
+    "area": 84.9129
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "30,500",
+    "date": "2026-03-21",
+    "floor": 24,
+    "area": 59.9929
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "68,000",
+    "date": "2026-03-21",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "공덕SK리더스뷰",
+    "dealAmount": "260,000",
+    "date": "2026-03-19",
+    "floor": 9,
+    "area": 97.8
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "27,000",
+    "date": "2026-03-18",
+    "floor": 1,
+    "area": 59.9929
+  },
+  {
+    "aptNm": "왜관3우방타운",
+    "dealAmount": "10,650",
+    "date": "2026-03-13",
+    "floor": 11,
+    "area": 77.67
+  },
+  {
+    "aptNm": "장대푸르지오",
+    "dealAmount": "50,000",
+    "date": "2026-03-12",
+    "floor": 4,
+    "area": 84.9129
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "27,600",
+    "date": "2026-03-10",
+    "floor": 5,
+    "area": 59.9929
+  },
+  {
+    "aptNm": "장대푸르지오",
+    "dealAmount": "51,500",
+    "date": "2026-03-09",
+    "floor": 7,
+    "area": 84.9129
+  },
+  {
+    "aptNm": "장대푸르지오",
+    "dealAmount": "77,000",
+    "date": "2026-03-09",
+    "floor": 13,
+    "area": 150.5898
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "34,700",
+    "date": "2026-03-08",
+    "floor": 9,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "34,700",
+    "date": "2026-03-06",
+    "floor": 9,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "35,000",
+    "date": "2026-03-06",
+    "floor": 14,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "삼성명가타운",
+    "dealAmount": "10,300",
+    "date": "2026-03-04",
+    "floor": 3,
+    "area": 78.035
+  },
+  {
+    "aptNm": "왜관3우방타운",
+    "dealAmount": "10,650",
+    "date": "2026-03-03",
+    "floor": 11,
+    "area": 77.67
+  },
+  {
+    "aptNm": "왜관3우방타운",
+    "dealAmount": "9,000",
+    "date": "2026-03-01",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "영산맨션",
+    "dealAmount": "8,250",
+    "date": "2026-02-24",
+    "floor": 1,
+    "area": 73.89
+  },
+  {
+    "aptNm": "증포동한솔솔파크3",
+    "dealAmount": "33,000",
+    "date": "2026-02-23",
+    "floor": 10,
+    "area": 84.9202
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "30,600",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 59.9929
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "32,900",
+    "date": "2026-02-11",
+    "floor": 4,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "37,000",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 84.9811
+  },
+  {
+    "aptNm": "공덕SK리더스뷰",
+    "dealAmount": "195,000",
+    "date": "2026-02-09",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "장대푸르지오",
+    "dealAmount": "51,800",
+    "date": "2026-02-07",
+    "floor": 8,
+    "area": 84.9129
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "63,500",
+    "date": "2026-02-07",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼성명가타운",
+    "dealAmount": "12,000",
+    "date": "2026-02-05",
+    "floor": 8,
+    "area": 78.035
+  }
+]

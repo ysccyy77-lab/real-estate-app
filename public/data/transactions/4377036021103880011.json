@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "홍은모드니",
+    "dealAmount": "3,600",
+    "date": "2026-05-19",
+    "floor": 7,
+    "area": 49.68
+  },
+  {
+    "aptNm": "홍은모드니",
+    "dealAmount": "4,800",
+    "date": "2026-04-19",
+    "floor": 4,
+    "area": 59.34
+  },
+  {
+    "aptNm": "홍은모드니",
+    "dealAmount": "3,200",
+    "date": "2026-04-17",
+    "floor": 7,
+    "area": 49.68
+  },
+  {
+    "aptNm": "홍은모드니",
+    "dealAmount": "2,900",
+    "date": "2026-03-10",
+    "floor": 8,
+    "area": 49.68
+  },
+  {
+    "aptNm": "홍은모드니",
+    "dealAmount": "3,300",
+    "date": "2026-02-25",
+    "floor": 9,
+    "area": 49.68
+  },
+  {
+    "aptNm": "홍은모드니",
+    "dealAmount": "4,500",
+    "date": "2026-02-24",
+    "floor": 9,
+    "area": 59.34
+  }
+]

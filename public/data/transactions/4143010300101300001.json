@@ -1,0 +1,163 @@
+[
+  {
+    "aptNm": "대동",
+    "dealAmount": "7,800",
+    "date": "2026-06-30",
+    "floor": 3,
+    "area": 59.82
+  },
+  {
+    "aptNm": "영풍",
+    "dealAmount": "62,000",
+    "date": "2026-06-13",
+    "floor": 15,
+    "area": 84.768
+  },
+  {
+    "aptNm": "수성3가화성파크드림1단지",
+    "dealAmount": "140,000",
+    "date": "2026-06-09",
+    "floor": 10,
+    "area": 159.5388
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "6,050",
+    "date": "2026-06-01",
+    "floor": 13,
+    "area": 72.36
+  },
+  {
+    "aptNm": "신원11",
+    "dealAmount": "5,200",
+    "date": "2026-05-20",
+    "floor": 4,
+    "area": 59.97
+  },
+  {
+    "aptNm": "신원11",
+    "dealAmount": "10,800",
+    "date": "2026-05-04",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "영풍",
+    "dealAmount": "67,000",
+    "date": "2026-04-25",
+    "floor": 18,
+    "area": 84.768
+  },
+  {
+    "aptNm": "효성청솔",
+    "dealAmount": "37,700",
+    "date": "2026-04-23",
+    "floor": 16,
+    "area": 59.77
+  },
+  {
+    "aptNm": "신원11",
+    "dealAmount": "7,400",
+    "date": "2026-04-22",
+    "floor": 1,
+    "area": 59.39
+  },
+  {
+    "aptNm": "영풍",
+    "dealAmount": "28,000",
+    "date": "2026-04-21",
+    "floor": 16,
+    "area": 36.85
+  },
+  {
+    "aptNm": "영풍",
+    "dealAmount": "65,000",
+    "date": "2026-04-13",
+    "floor": 19,
+    "area": 84.768
+  },
+  {
+    "aptNm": "영풍",
+    "dealAmount": "30,500",
+    "date": "2026-04-04",
+    "floor": 6,
+    "area": 36.85
+  },
+  {
+    "aptNm": "효성청솔",
+    "dealAmount": "37,500",
+    "date": "2026-03-28",
+    "floor": 15,
+    "area": 59.77
+  },
+  {
+    "aptNm": "신원11",
+    "dealAmount": "7,000",
+    "date": "2026-03-17",
+    "floor": 1,
+    "area": 59.39
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "9,100",
+    "date": "2026-03-13",
+    "floor": 11,
+    "area": 59.82
+  },
+  {
+    "aptNm": "영풍",
+    "dealAmount": "29,500",
+    "date": "2026-03-09",
+    "floor": 18,
+    "area": 36.85
+  },
+  {
+    "aptNm": "영풍",
+    "dealAmount": "59,500",
+    "date": "2026-02-24",
+    "floor": 1,
+    "area": 84.768
+  },
+  {
+    "aptNm": "신우한빛",
+    "dealAmount": "11,700",
+    "date": "2026-02-22",
+    "floor": 9,
+    "area": 84.75
+  },
+  {
+    "aptNm": "신원11",
+    "dealAmount": "5,400",
+    "date": "2026-02-22",
+    "floor": 5,
+    "area": 59.39
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "9,500",
+    "date": "2026-02-21",
+    "floor": 13,
+    "area": 72.36
+  },
+  {
+    "aptNm": "효성청솔",
+    "dealAmount": "34,000",
+    "date": "2026-02-14",
+    "floor": 1,
+    "area": 59.77
+  },
+  {
+    "aptNm": "효성청솔",
+    "dealAmount": "41,000",
+    "date": "2026-02-14",
+    "floor": 11,
+    "area": 59.77
+  },
+  {
+    "aptNm": "신우한빛",
+    "dealAmount": "11,500",
+    "date": "2026-02-07",
+    "floor": 6,
+    "area": 84.75
+  }
+]

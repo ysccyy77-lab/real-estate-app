@@ -1,0 +1,450 @@
+[
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,500",
+    "date": "2026-06-27",
+    "floor": 20,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,700",
+    "date": "2026-06-24",
+    "floor": 20,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "65,500",
+    "date": "2026-06-19",
+    "floor": 2,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "68,000",
+    "date": "2026-06-19",
+    "floor": 17,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "26,500",
+    "date": "2026-06-15",
+    "floor": 8,
+    "area": 84.991
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "65,000",
+    "date": "2026-06-15",
+    "floor": 30,
+    "area": 75.618
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "77,000",
+    "date": "2026-06-10",
+    "floor": 28,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "77,000",
+    "date": "2026-06-09",
+    "floor": 23,
+    "area": 84.8146
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "76,000",
+    "date": "2026-06-08",
+    "floor": 22,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,000",
+    "date": "2026-06-06",
+    "floor": 11,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "29,000",
+    "date": "2026-06-04",
+    "floor": 13,
+    "area": 84.991
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,300",
+    "date": "2026-06-03",
+    "floor": 38,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "73,000",
+    "date": "2026-06-03",
+    "floor": 17,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "74,500",
+    "date": "2026-05-31",
+    "floor": 24,
+    "area": 84.8146
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "74,000",
+    "date": "2026-05-30",
+    "floor": 17,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,000",
+    "date": "2026-05-24",
+    "floor": 36,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,000",
+    "date": "2026-05-23",
+    "floor": 9,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "65,500",
+    "date": "2026-05-20",
+    "floor": 13,
+    "area": 75.618
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "20,500",
+    "date": "2026-05-19",
+    "floor": 11,
+    "area": 84.991
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "70,500",
+    "date": "2026-05-16",
+    "floor": 24,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "51,000",
+    "date": "2026-05-14",
+    "floor": 24,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "24,000",
+    "date": "2026-05-13",
+    "floor": 12,
+    "area": 76.006
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "78,500",
+    "date": "2026-05-09",
+    "floor": 7,
+    "area": 99.9891
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "66,500",
+    "date": "2026-05-09",
+    "floor": 14,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "75,000",
+    "date": "2026-05-06",
+    "floor": 28,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "64,000",
+    "date": "2026-05-04",
+    "floor": 33,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,500",
+    "date": "2026-05-02",
+    "floor": 32,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "68,300",
+    "date": "2026-05-01",
+    "floor": 13,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "70,800",
+    "date": "2026-04-27",
+    "floor": 29,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "75,000",
+    "date": "2026-04-27",
+    "floor": 38,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,700",
+    "date": "2026-04-25",
+    "floor": 25,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "26,000",
+    "date": "2026-04-23",
+    "floor": 12,
+    "area": 84.991
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,700",
+    "date": "2026-04-23",
+    "floor": 39,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,000",
+    "date": "2026-04-20",
+    "floor": 40,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "70,800",
+    "date": "2026-04-18",
+    "floor": 27,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "76,000",
+    "date": "2026-04-14",
+    "floor": 28,
+    "area": 84.8146
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "68,685",
+    "date": "2026-04-13",
+    "floor": 33,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "61,700",
+    "date": "2026-04-09",
+    "floor": 1,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "73,000",
+    "date": "2026-04-06",
+    "floor": 18,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "수림맨션",
+    "dealAmount": "10,800",
+    "date": "2026-04-03",
+    "floor": 4,
+    "area": 76.45
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "13,150",
+    "date": "2026-04-02",
+    "floor": 11,
+    "area": 84.39
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "88,000",
+    "date": "2026-04-01",
+    "floor": 17,
+    "area": 99.9891
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "26,000",
+    "date": "2026-03-28",
+    "floor": 9,
+    "area": 84.991
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "73,250",
+    "date": "2026-03-26",
+    "floor": 28,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,000",
+    "date": "2026-03-25",
+    "floor": 9,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "74,000",
+    "date": "2026-03-25",
+    "floor": 15,
+    "area": 84.8146
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,000",
+    "date": "2026-03-23",
+    "floor": 11,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "68,900",
+    "date": "2026-03-21",
+    "floor": 10,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "51,700",
+    "date": "2026-03-21",
+    "floor": 28,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "66,800",
+    "date": "2026-03-20",
+    "floor": 9,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "13,500",
+    "date": "2026-03-18",
+    "floor": 11,
+    "area": 84.39
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,500",
+    "date": "2026-03-16",
+    "floor": 20,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,500",
+    "date": "2026-03-07",
+    "floor": 20,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "67,800",
+    "date": "2026-02-28",
+    "floor": 17,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "69,800",
+    "date": "2026-02-28",
+    "floor": 17,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "70,000",
+    "date": "2026-02-21",
+    "floor": 4,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "64,000",
+    "date": "2026-02-12",
+    "floor": 34,
+    "area": 75.618
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "67,500",
+    "date": "2026-02-11",
+    "floor": 4,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,400",
+    "date": "2026-02-11",
+    "floor": 17,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,000",
+    "date": "2026-02-10",
+    "floor": 11,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "75,500",
+    "date": "2026-02-09",
+    "floor": 29,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "76,000",
+    "date": "2026-02-07",
+    "floor": 31,
+    "area": 84.8146
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "26,000",
+    "date": "2026-02-06",
+    "floor": 14,
+    "area": 84.991
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "7,500",
+    "date": "2026-02-03",
+    "floor": 2,
+    "area": 84.39
+  }
+]

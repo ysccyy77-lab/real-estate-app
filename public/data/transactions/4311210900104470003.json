@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "재원",
+    "dealAmount": "5,450",
+    "date": "2026-06-13",
+    "floor": 7,
+    "area": 32.805
+  },
+  {
+    "aptNm": "재원",
+    "dealAmount": "5,000",
+    "date": "2026-06-12",
+    "floor": 1,
+    "area": 32.805
+  },
+  {
+    "aptNm": "삼익(10,11동)",
+    "dealAmount": "41,000",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 108.26
+  },
+  {
+    "aptNm": "재원",
+    "dealAmount": "4,550",
+    "date": "2026-05-02",
+    "floor": 10,
+    "area": 32.805
+  },
+  {
+    "aptNm": "재원",
+    "dealAmount": "4,600",
+    "date": "2026-04-18",
+    "floor": 1,
+    "area": 32.805
+  },
+  {
+    "aptNm": "재원",
+    "dealAmount": "5,300",
+    "date": "2026-04-14",
+    "floor": 4,
+    "area": 32.805
+  },
+  {
+    "aptNm": "삼익(10,11동)",
+    "dealAmount": "31,000",
+    "date": "2026-03-27",
+    "floor": 7,
+    "area": 79.95
+  },
+  {
+    "aptNm": "삼익(10,11동)",
+    "dealAmount": "30,500",
+    "date": "2026-03-23",
+    "floor": 1,
+    "area": 79.95
+  },
+  {
+    "aptNm": "상아아름",
+    "dealAmount": "46,300",
+    "date": "2026-03-10",
+    "floor": 9,
+    "area": 67.74
+  },
+  {
+    "aptNm": "재원",
+    "dealAmount": "4,900",
+    "date": "2026-03-03",
+    "floor": 4,
+    "area": 32.805
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "삼성",
+    "dealAmount": "17,750",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 59.886
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "19,000",
+    "date": "2026-04-28",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "19,450",
+    "date": "2026-04-20",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "21,200",
+    "date": "2026-03-15",
+    "floor": 15,
+    "area": 59.886
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "19,300",
+    "date": "2026-03-03",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "19,500",
+    "date": "2026-02-21",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "21,000",
+    "date": "2026-02-09",
+    "floor": 8,
+    "area": 84.93
+  }
+]

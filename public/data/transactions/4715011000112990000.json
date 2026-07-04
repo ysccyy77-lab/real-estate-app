@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "코아루2차",
+    "dealAmount": "13,500",
+    "date": "2026-06-17",
+    "floor": 3,
+    "area": 84.967
+  },
+  {
+    "aptNm": "양우",
+    "dealAmount": "75,000",
+    "date": "2026-06-15",
+    "floor": 9,
+    "area": 86.2286
+  },
+  {
+    "aptNm": "코아루2차",
+    "dealAmount": "19,000",
+    "date": "2026-06-10",
+    "floor": 9,
+    "area": 84.967
+  },
+  {
+    "aptNm": "양우",
+    "dealAmount": "65,200",
+    "date": "2026-05-29",
+    "floor": 3,
+    "area": 79.4198
+  },
+  {
+    "aptNm": "코아루2차",
+    "dealAmount": "19,000",
+    "date": "2026-04-24",
+    "floor": 5,
+    "area": 84.967
+  },
+  {
+    "aptNm": "양우",
+    "dealAmount": "66,700",
+    "date": "2026-04-09",
+    "floor": 7,
+    "area": 79.4198
+  },
+  {
+    "aptNm": "양우",
+    "dealAmount": "67,000",
+    "date": "2026-03-30",
+    "floor": 6,
+    "area": 79.4198
+  },
+  {
+    "aptNm": "코아루2차",
+    "dealAmount": "19,000",
+    "date": "2026-03-24",
+    "floor": 14,
+    "area": 84.967
+  },
+  {
+    "aptNm": "코아루2차",
+    "dealAmount": "18,800",
+    "date": "2026-03-18",
+    "floor": 13,
+    "area": 84.967
+  },
+  {
+    "aptNm": "코아루2차",
+    "dealAmount": "18,200",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 84.967
+  },
+  {
+    "aptNm": "코아루2차",
+    "dealAmount": "26,750",
+    "date": "2026-03-09",
+    "floor": 10,
+    "area": 126.431
+  },
+  {
+    "aptNm": "코아루2차",
+    "dealAmount": "26,750",
+    "date": "2026-02-28",
+    "floor": 10,
+    "area": 126.431
+  },
+  {
+    "aptNm": "양우",
+    "dealAmount": "70,000",
+    "date": "2026-02-09",
+    "floor": 7,
+    "area": 79.4198
+  }
+]

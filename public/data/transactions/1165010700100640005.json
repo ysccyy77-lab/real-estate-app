@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "라페온빌II",
+    "dealAmount": "7,300",
+    "date": "2026-06-20",
+    "floor": 12,
+    "area": 18.27
+  },
+  {
+    "aptNm": "라페온빌II",
+    "dealAmount": "5,500",
+    "date": "2026-06-03",
+    "floor": 10,
+    "area": 18.27
+  },
+  {
+    "aptNm": "현대동궁아파트",
+    "dealAmount": "280,000",
+    "date": "2026-04-30",
+    "floor": 10,
+    "area": 70.38
+  },
+  {
+    "aptNm": "라페온빌II",
+    "dealAmount": "5,500",
+    "date": "2026-04-09",
+    "floor": 10,
+    "area": 18.27
+  },
+  {
+    "aptNm": "라페온빌II",
+    "dealAmount": "4,500",
+    "date": "2026-03-01",
+    "floor": 5,
+    "area": 18.27
+  },
+  {
+    "aptNm": "라페온빌II",
+    "dealAmount": "6,700",
+    "date": "2026-02-27",
+    "floor": 13,
+    "area": 18.27
+  },
+  {
+    "aptNm": "라페온빌II",
+    "dealAmount": "6,300",
+    "date": "2026-02-26",
+    "floor": 11,
+    "area": 18.27
+  },
+  {
+    "aptNm": "라페온빌II",
+    "dealAmount": "7,000",
+    "date": "2026-02-25",
+    "floor": 6,
+    "area": 18.27
+  }
+]

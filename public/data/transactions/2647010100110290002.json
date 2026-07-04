@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "동원타워",
+    "dealAmount": "37,900",
+    "date": "2026-06-06",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동원타워",
+    "dealAmount": "30,900",
+    "date": "2026-05-30",
+    "floor": 23,
+    "area": 59.93
+  },
+  {
+    "aptNm": "동원타워",
+    "dealAmount": "37,000",
+    "date": "2026-05-19",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동원타워",
+    "dealAmount": "37,800",
+    "date": "2026-04-14",
+    "floor": 16,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동원타워",
+    "dealAmount": "29,500",
+    "date": "2026-04-11",
+    "floor": 15,
+    "area": 59.93
+  },
+  {
+    "aptNm": "동원타워",
+    "dealAmount": "32,000",
+    "date": "2026-03-02",
+    "floor": 10,
+    "area": 59.93
+  },
+  {
+    "aptNm": "동원타워",
+    "dealAmount": "27,300",
+    "date": "2026-02-25",
+    "floor": 2,
+    "area": 59.93
+  }
+]

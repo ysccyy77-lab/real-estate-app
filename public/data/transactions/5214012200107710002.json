@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "9,800",
+    "date": "2026-06-20",
+    "floor": 1,
+    "area": 59.89
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "15,500",
+    "date": "2026-06-17",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "8,900",
+    "date": "2026-05-19",
+    "floor": 9,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "14,300",
+    "date": "2026-05-18",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "9,900",
+    "date": "2026-05-15",
+    "floor": 12,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "10,000",
+    "date": "2026-05-04",
+    "floor": 10,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "9,800",
+    "date": "2026-04-21",
+    "floor": 4,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "11,100",
+    "date": "2026-04-20",
+    "floor": 5,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "9,300",
+    "date": "2026-03-22",
+    "floor": 10,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "12,000",
+    "date": "2026-03-22",
+    "floor": 13,
+    "area": 59.89
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "10,000",
+    "date": "2026-03-03",
+    "floor": 14,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "14,100",
+    "date": "2026-02-24",
+    "floor": 6,
+    "area": 59.92
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "9,500",
+    "date": "2026-02-09",
+    "floor": 11,
+    "area": 59.92
+  }
+]

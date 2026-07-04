@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "삼화",
+    "dealAmount": "4,000",
+    "date": "2026-07-02",
+    "floor": 4,
+    "area": 50.13
+  },
+  {
+    "aptNm": "삼화",
+    "dealAmount": "3,400",
+    "date": "2026-05-13",
+    "floor": 6,
+    "area": 59.223
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "26,400",
+    "date": "2026-04-17",
+    "floor": 13,
+    "area": 84.985
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "19,800",
+    "date": "2026-04-15",
+    "floor": 22,
+    "area": 59.85
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "18,600",
+    "date": "2026-04-13",
+    "floor": 13,
+    "area": 59.85
+  },
+  {
+    "aptNm": "삼화",
+    "dealAmount": "5,800",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 50.85
+  },
+  {
+    "aptNm": "삼화",
+    "dealAmount": "3,100",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 59.095
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "29,000",
+    "date": "2026-05-20",
+    "floor": 1,
+    "area": 114.94
+  },
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "36,850",
+    "date": "2026-05-12",
+    "floor": 14,
+    "area": 114.94
+  },
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "38,500",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 134.59
+  },
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "28,000",
+    "date": "2026-04-20",
+    "floor": 9,
+    "area": 99.935
+  },
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "38,500",
+    "date": "2026-04-17",
+    "floor": 5,
+    "area": 134.59
+  },
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "26,500",
+    "date": "2026-04-14",
+    "floor": 11,
+    "area": 84.96
+  },
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "26,000",
+    "date": "2026-02-28",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "26,500",
+    "date": "2026-02-11",
+    "floor": 6,
+    "area": 84.96
+  }
+]

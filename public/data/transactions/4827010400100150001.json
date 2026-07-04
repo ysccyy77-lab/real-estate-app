@@ -1,0 +1,555 @@
+[
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "99,500",
+    "date": "2026-06-27",
+    "floor": 7,
+    "area": 114.66
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "97,000",
+    "date": "2026-06-25",
+    "floor": 22,
+    "area": 84.59
+  },
+  {
+    "aptNm": "부국미산아파트(1동2동3동)",
+    "dealAmount": "8,500",
+    "date": "2026-06-24",
+    "floor": 3,
+    "area": 41.13
+  },
+  {
+    "aptNm": "현대오솔",
+    "dealAmount": "8,700",
+    "date": "2026-06-22",
+    "floor": 3,
+    "area": 59.98
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "49,000",
+    "date": "2026-06-20",
+    "floor": 14,
+    "area": 110.6771
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "46,000",
+    "date": "2026-06-20",
+    "floor": 7,
+    "area": 128.0799
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "87,800",
+    "date": "2026-06-19",
+    "floor": 16,
+    "area": 59.4
+  },
+  {
+    "aptNm": "삼익수청",
+    "dealAmount": "21,700",
+    "date": "2026-06-16",
+    "floor": 6,
+    "area": 84.73
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "98,000",
+    "date": "2026-06-11",
+    "floor": 10,
+    "area": 84.59
+  },
+  {
+    "aptNm": "밀양대우",
+    "dealAmount": "36,800",
+    "date": "2026-06-10",
+    "floor": 11,
+    "area": 138.47
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "15,500",
+    "date": "2026-06-07",
+    "floor": 10,
+    "area": 59.91
+  },
+  {
+    "aptNm": "현대오솔",
+    "dealAmount": "8,250",
+    "date": "2026-06-07",
+    "floor": 11,
+    "area": 59.98
+  },
+  {
+    "aptNm": "로얄스카이캐슬",
+    "dealAmount": "15,300",
+    "date": "2026-06-05",
+    "floor": 3,
+    "area": 45.399
+  },
+  {
+    "aptNm": "부국미산아파트(1동2동3동)",
+    "dealAmount": "7,000",
+    "date": "2026-06-03",
+    "floor": 3,
+    "area": 41.13
+  },
+  {
+    "aptNm": "밀양대우",
+    "dealAmount": "36,500",
+    "date": "2026-06-01",
+    "floor": 9,
+    "area": 126.14
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "88,000",
+    "date": "2026-05-30",
+    "floor": 17,
+    "area": 59.4
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "90,000",
+    "date": "2026-05-29",
+    "floor": 11,
+    "area": 114.66
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "37,000",
+    "date": "2026-05-23",
+    "floor": 17,
+    "area": 84.9624
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "12,500",
+    "date": "2026-05-20",
+    "floor": 7,
+    "area": 59.91
+  },
+  {
+    "aptNm": "팔도맨션",
+    "dealAmount": "11,000",
+    "date": "2026-05-18",
+    "floor": 8,
+    "area": 71.01
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "23,500",
+    "date": "2026-05-17",
+    "floor": 12,
+    "area": 84.88
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "84,800",
+    "date": "2026-05-15",
+    "floor": 8,
+    "area": 59.4
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "94,000",
+    "date": "2026-05-14",
+    "floor": 25,
+    "area": 84.59
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "85,250",
+    "date": "2026-05-14",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "12,300",
+    "date": "2026-05-12",
+    "floor": 11,
+    "area": 59.91
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "84,000",
+    "date": "2026-05-12",
+    "floor": 13,
+    "area": 59.4
+  },
+  {
+    "aptNm": "동남하이빌4차",
+    "dealAmount": "26,000",
+    "date": "2026-05-11",
+    "floor": 6,
+    "area": 81.847
+  },
+  {
+    "aptNm": "메이힐스",
+    "dealAmount": "29,500",
+    "date": "2026-05-09",
+    "floor": 4,
+    "area": 84.7604
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "83,000",
+    "date": "2026-05-09",
+    "floor": 8,
+    "area": 114.66
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "93,000",
+    "date": "2026-05-08",
+    "floor": 6,
+    "area": 114.66
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "75,000",
+    "date": "2026-05-07",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "유신",
+    "dealAmount": "6,400",
+    "date": "2026-05-06",
+    "floor": 1,
+    "area": 43.14
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "77,000",
+    "date": "2026-05-05",
+    "floor": 3,
+    "area": 59.4
+  },
+  {
+    "aptNm": "현대오솔",
+    "dealAmount": "8,100",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 59.98
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "20,800",
+    "date": "2026-05-02",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대오솔",
+    "dealAmount": "8,450",
+    "date": "2026-04-30",
+    "floor": 9,
+    "area": 59.98
+  },
+  {
+    "aptNm": "밀양대우",
+    "dealAmount": "23,500",
+    "date": "2026-04-28",
+    "floor": 11,
+    "area": 84.88
+  },
+  {
+    "aptNm": "부국미산아파트(1동2동3동)",
+    "dealAmount": "8,300",
+    "date": "2026-04-27",
+    "floor": 3,
+    "area": 41.13
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "21,900",
+    "date": "2026-04-27",
+    "floor": 6,
+    "area": 84.88
+  },
+  {
+    "aptNm": "밀양대우",
+    "dealAmount": "17,000",
+    "date": "2026-04-25",
+    "floor": 2,
+    "area": 60
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "83,000",
+    "date": "2026-04-25",
+    "floor": 12,
+    "area": 59.4
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "48,000",
+    "date": "2026-04-23",
+    "floor": 22,
+    "area": 110.6771
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "92,500",
+    "date": "2026-04-23",
+    "floor": 17,
+    "area": 84.59
+  },
+  {
+    "aptNm": "부국미산아파트(1동2동3동)",
+    "dealAmount": "8,000",
+    "date": "2026-04-22",
+    "floor": 4,
+    "area": 41.13
+  },
+  {
+    "aptNm": "팔도맨션",
+    "dealAmount": "11,000",
+    "date": "2026-04-21",
+    "floor": 18,
+    "area": 59.79
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "46,000",
+    "date": "2026-04-20",
+    "floor": 11,
+    "area": 110.6771
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "36,500",
+    "date": "2026-04-20",
+    "floor": 5,
+    "area": 84.9624
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "36,000",
+    "date": "2026-04-18",
+    "floor": 16,
+    "area": 84.9624
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "82,000",
+    "date": "2026-04-17",
+    "floor": 8,
+    "area": 59.4
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "19,500",
+    "date": "2026-04-16",
+    "floor": 8,
+    "area": 84.88
+  },
+  {
+    "aptNm": "부국미산아파트(1동2동3동)",
+    "dealAmount": "8,200",
+    "date": "2026-04-15",
+    "floor": 3,
+    "area": 41.13
+  },
+  {
+    "aptNm": "현대오솔",
+    "dealAmount": "9,150",
+    "date": "2026-04-14",
+    "floor": 15,
+    "area": 59.98
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "80,000",
+    "date": "2026-04-11",
+    "floor": 16,
+    "area": 59.4
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "96,000",
+    "date": "2026-04-11",
+    "floor": 24,
+    "area": 84.59
+  },
+  {
+    "aptNm": "삼익수청",
+    "dealAmount": "16,700",
+    "date": "2026-04-10",
+    "floor": 14,
+    "area": 54.25
+  },
+  {
+    "aptNm": "동남하이빌4차",
+    "dealAmount": "28,000",
+    "date": "2026-04-09",
+    "floor": 7,
+    "area": 80.0047
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "14,000",
+    "date": "2026-04-07",
+    "floor": 4,
+    "area": 59.91
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "73,500",
+    "date": "2026-04-04",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "84,000",
+    "date": "2026-04-04",
+    "floor": 14,
+    "area": 59.4
+  },
+  {
+    "aptNm": "유신",
+    "dealAmount": "5,200",
+    "date": "2026-04-02",
+    "floor": 5,
+    "area": 43.14
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "93,900",
+    "date": "2026-03-31",
+    "floor": 16,
+    "area": 84.59
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "86,700",
+    "date": "2026-03-25",
+    "floor": 9,
+    "area": 84.59
+  },
+  {
+    "aptNm": "밀양대우",
+    "dealAmount": "36,800",
+    "date": "2026-03-18",
+    "floor": 11,
+    "area": 138.47
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "40,000",
+    "date": "2026-03-18",
+    "floor": 14,
+    "area": 84.9838
+  },
+  {
+    "aptNm": "로얄스카이캐슬",
+    "dealAmount": "16,500",
+    "date": "2026-03-18",
+    "floor": 3,
+    "area": 45.9655
+  },
+  {
+    "aptNm": "유성빌라(3동)",
+    "dealAmount": "3,300",
+    "date": "2026-03-15",
+    "floor": 5,
+    "area": 45.75
+  },
+  {
+    "aptNm": "밀양대우",
+    "dealAmount": "20,400",
+    "date": "2026-03-13",
+    "floor": 7,
+    "area": 60
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "91,500",
+    "date": "2026-03-07",
+    "floor": 20,
+    "area": 84.59
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "15,500",
+    "date": "2026-03-06",
+    "floor": 6,
+    "area": 59.91
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "16,000",
+    "date": "2026-03-03",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "13,700",
+    "date": "2026-02-27",
+    "floor": 7,
+    "area": 59.91
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "19,200",
+    "date": "2026-02-23",
+    "floor": 13,
+    "area": 84.94
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "37,000",
+    "date": "2026-02-20",
+    "floor": 12,
+    "area": 184.29
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "90,000",
+    "date": "2026-02-13",
+    "floor": 16,
+    "area": 84.59
+  },
+  {
+    "aptNm": "돈암동삼성",
+    "dealAmount": "88,500",
+    "date": "2026-02-13",
+    "floor": 3,
+    "area": 114.66
+  },
+  {
+    "aptNm": "월배역포스코더샵",
+    "dealAmount": "35,800",
+    "date": "2026-02-12",
+    "floor": 4,
+    "area": 84.9624
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "16,800",
+    "date": "2026-02-05",
+    "floor": 14,
+    "area": 59.98
+  },
+  {
+    "aptNm": "부국미산아파트(1동2동3동)",
+    "dealAmount": "7,000",
+    "date": "2026-02-04",
+    "floor": 4,
+    "area": 41.13
+  },
+  {
+    "aptNm": "유성청구타운",
+    "dealAmount": "12,000",
+    "date": "2026-02-03",
+    "floor": 1,
+    "area": 59.91
+  }
+]

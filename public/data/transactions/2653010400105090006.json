@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "11,900",
+    "date": "2026-06-27",
+    "floor": 22,
+    "area": 42.525
+  },
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "11,700",
+    "date": "2026-06-08",
+    "floor": 8,
+    "area": 42.525
+  },
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "12,000",
+    "date": "2026-04-25",
+    "floor": 18,
+    "area": 45.8375
+  },
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "12,000",
+    "date": "2026-04-23",
+    "floor": 21,
+    "area": 45.8375
+  },
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "10,480",
+    "date": "2026-04-03",
+    "floor": 11,
+    "area": 42.525
+  },
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "13,600",
+    "date": "2026-03-16",
+    "floor": 23,
+    "area": 45.8375
+  },
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "11,000",
+    "date": "2026-03-13",
+    "floor": 16,
+    "area": 45.8375
+  },
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "12,900",
+    "date": "2026-03-10",
+    "floor": 11,
+    "area": 42.525
+  },
+  {
+    "aptNm": "사상샬레",
+    "dealAmount": "13,400",
+    "date": "2026-03-01",
+    "floor": 10,
+    "area": 45.8375
+  },
+  {
+    "aptNm": "미진",
+    "dealAmount": "8,000",
+    "date": "2026-02-10",
+    "floor": 5,
+    "area": 84.86
+  }
+]

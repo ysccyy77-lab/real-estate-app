@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "미방우림빌",
+    "dealAmount": "9,300",
+    "date": "2026-06-21",
+    "floor": 3,
+    "area": 84.9
+  },
+  {
+    "aptNm": "배산제일",
+    "dealAmount": "8,400",
+    "date": "2026-06-17",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "늘봄맨션",
+    "dealAmount": "9,400",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "늘봄맨션",
+    "dealAmount": "6,500",
+    "date": "2026-06-05",
+    "floor": 3,
+    "area": 73.83
+  },
+  {
+    "aptNm": "배산제일",
+    "dealAmount": "9,000",
+    "date": "2026-03-11",
+    "floor": 11,
+    "area": 59.99
+  },
+  {
+    "aptNm": "배산제일",
+    "dealAmount": "8,600",
+    "date": "2026-03-10",
+    "floor": 8,
+    "area": 59.99
+  }
+]

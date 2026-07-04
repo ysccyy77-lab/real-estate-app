@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "팔공",
+    "dealAmount": "11,000",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 51.03
+  },
+  {
+    "aptNm": "팔공",
+    "dealAmount": "9,900",
+    "date": "2026-06-02",
+    "floor": 4,
+    "area": 51.03
+  },
+  {
+    "aptNm": "화남(6차)",
+    "dealAmount": "32,000",
+    "date": "2026-05-30",
+    "floor": 2,
+    "area": 57
+  },
+  {
+    "aptNm": "화남(6차)",
+    "dealAmount": "30,500",
+    "date": "2026-04-08",
+    "floor": 2,
+    "area": 53.31
+  }
+]

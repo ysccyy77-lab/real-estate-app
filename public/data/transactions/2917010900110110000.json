@@ -1,0 +1,863 @@
+[
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "74,500",
+    "date": "2026-07-02",
+    "floor": 19,
+    "area": 84.68
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "29,500",
+    "date": "2026-06-24",
+    "floor": 24,
+    "area": 84.97
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "49,400",
+    "date": "2026-06-20",
+    "floor": 8,
+    "area": 59.91
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "72,000",
+    "date": "2026-06-15",
+    "floor": 8,
+    "area": 114.89
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "56,800",
+    "date": "2026-06-14",
+    "floor": 47,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "68,500",
+    "date": "2026-06-12",
+    "floor": 15,
+    "area": 114.89
+  },
+  {
+    "aptNm": "신촌푸르지오",
+    "dealAmount": "197,000",
+    "date": "2026-06-10",
+    "floor": 16,
+    "area": 84.9572
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,000",
+    "date": "2026-06-09",
+    "floor": 8,
+    "area": 84.86
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "64,500",
+    "date": "2026-06-08",
+    "floor": 18,
+    "area": 59.92
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "55,750",
+    "date": "2026-06-06",
+    "floor": 2,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "32,000",
+    "date": "2026-06-03",
+    "floor": 15,
+    "area": 84.86
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "54,700",
+    "date": "2026-05-30",
+    "floor": 37,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "55,600",
+    "date": "2026-05-30",
+    "floor": 15,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,000",
+    "date": "2026-05-29",
+    "floor": 11,
+    "area": 84.86
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "48,400",
+    "date": "2026-05-29",
+    "floor": 6,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "신촌푸르지오",
+    "dealAmount": "181,000",
+    "date": "2026-05-28",
+    "floor": 6,
+    "area": 59.8802
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "30,000",
+    "date": "2026-05-23",
+    "floor": 17,
+    "area": 74.98
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "68,500",
+    "date": "2026-05-20",
+    "floor": 15,
+    "area": 114.89
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "55,600",
+    "date": "2026-05-19",
+    "floor": 16,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단��",
+    "dealAmount": "57,800",
+    "date": "2026-05-19",
+    "floor": 32,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "55,500",
+    "date": "2026-05-17",
+    "floor": 20,
+    "area": 84.84
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "72,500",
+    "date": "2026-05-09",
+    "floor": 7,
+    "area": 84.68
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "61,500",
+    "date": "2026-05-07",
+    "floor": 13,
+    "area": 84.84
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "56,060",
+    "date": "2026-05-07",
+    "floor": 8,
+    "area": 84.84
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "29,000",
+    "date": "2026-05-06",
+    "floor": 3,
+    "area": 74.98
+  },
+  {
+    "aptNm": "대동다숲1단지",
+    "dealAmount": "29,000",
+    "date": "2026-05-05",
+    "floor": 6,
+    "area": 128.3555
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "58,200",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 59.74
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "30,500",
+    "date": "2026-05-04",
+    "floor": 20,
+    "area": 84.97
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "42,000",
+    "date": "2026-05-04",
+    "floor": 12,
+    "area": 59.91
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "49,500",
+    "date": "2026-05-01",
+    "floor": 9,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "54,600",
+    "date": "2026-05-01",
+    "floor": 32,
+    "area": 84.9823
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "75,000",
+    "date": "2026-04-30",
+    "floor": 18,
+    "area": 84.98
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "49,700",
+    "date": "2026-04-30",
+    "floor": 7,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "29,800",
+    "date": "2026-04-29",
+    "floor": 5,
+    "area": 74.98
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "56,000",
+    "date": "2026-04-29",
+    "floor": 22,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "53,000",
+    "date": "2026-04-29",
+    "floor": 16,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "45,500",
+    "date": "2026-04-26",
+    "floor": 13,
+    "area": 59.91
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,000",
+    "date": "2026-04-25",
+    "floor": 24,
+    "area": 74.98
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "46,800",
+    "date": "2026-04-25",
+    "floor": 21,
+    "area": 59.91
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "43,100",
+    "date": "2026-04-25",
+    "floor": 2,
+    "area": 59.91
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "39,800",
+    "date": "2026-04-25",
+    "floor": 1,
+    "area": 59.91
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "50,500",
+    "date": "2026-04-25",
+    "floor": 18,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "신촌푸르지오",
+    "dealAmount": "192,000",
+    "date": "2026-04-24",
+    "floor": 14,
+    "area": 84.9892
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "56,300",
+    "date": "2026-04-24",
+    "floor": 27,
+    "area": 84.9823
+  },
+  {
+    "aptNm": "신촌푸르지오",
+    "dealAmount": "208,000",
+    "date": "2026-04-23",
+    "floor": 7,
+    "area": 109.0901
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "50,000",
+    "date": "2026-04-23",
+    "floor": 26,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "61,600",
+    "date": "2026-04-22",
+    "floor": 6,
+    "area": 59.92
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,800",
+    "date": "2026-04-22",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "49,800",
+    "date": "2026-04-21",
+    "floor": 12,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "58,000",
+    "date": "2026-04-20",
+    "floor": 8,
+    "area": 59.98
+  },
+  {
+    "aptNm": "삼성만평",
+    "dealAmount": "12,500",
+    "date": "2026-04-18",
+    "floor": 4,
+    "area": 67.7575
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "51,500",
+    "date": "2026-04-18",
+    "floor": 19,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "48,700",
+    "date": "2026-04-17",
+    "floor": 3,
+    "area": 74.9803
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "61,900",
+    "date": "2026-04-16",
+    "floor": 11,
+    "area": 59.74
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "59,000",
+    "date": "2026-04-16",
+    "floor": 35,
+    "area": 84.9823
+  },
+  {
+    "aptNm": "신촌푸르지오",
+    "dealAmount": "189,000",
+    "date": "2026-04-14",
+    "floor": 9,
+    "area": 84.9953
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "55,000",
+    "date": "2026-04-14",
+    "floor": 32,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "59,000",
+    "date": "2026-04-13",
+    "floor": 7,
+    "area": 84.84
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "52,500",
+    "date": "2026-04-13",
+    "floor": 41,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "28,000",
+    "date": "2026-04-11",
+    "floor": 3,
+    "area": 84.86
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "47,400",
+    "date": "2026-04-11",
+    "floor": 11,
+    "area": 59.91
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "30,000",
+    "date": "2026-04-06",
+    "floor": 13,
+    "area": 74.98
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "32,500",
+    "date": "2026-04-05",
+    "floor": 20,
+    "area": 84.97
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "53,700",
+    "date": "2026-04-05",
+    "floor": 34,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "신촌푸르지오",
+    "dealAmount": "170,000",
+    "date": "2026-04-04",
+    "floor": 11,
+    "area": 59.993
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "52,000",
+    "date": "2026-04-04",
+    "floor": 5,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "48,100",
+    "date": "2026-04-04",
+    "floor": 27,
+    "area": 74.9803
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "30,500",
+    "date": "2026-04-03",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "신촌푸르지오",
+    "dealAmount": "205,000",
+    "date": "2026-04-03",
+    "floor": 10,
+    "area": 109.0901
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "53,500",
+    "date": "2026-04-01",
+    "floor": 1,
+    "area": 59.74
+  },
+  {
+    "aptNm": "대동다숲1단지",
+    "dealAmount": "17,300",
+    "date": "2026-04-01",
+    "floor": 7,
+    "area": 84.9084
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,800",
+    "date": "2026-03-31",
+    "floor": 18,
+    "area": 84.97
+  },
+  {
+    "aptNm": "대동다숲1단지",
+    "dealAmount": "15,950",
+    "date": "2026-03-31",
+    "floor": 7,
+    "area": 84.9084
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "59,000",
+    "date": "2026-03-30",
+    "floor": 6,
+    "area": 59.78
+  },
+  {
+    "aptNm": "삼성만평",
+    "dealAmount": "10,400",
+    "date": "2026-03-30",
+    "floor": 2,
+    "area": 52.1275
+  },
+  {
+    "aptNm": "대동다숲1단지",
+    "dealAmount": "27,000",
+    "date": "2026-03-29",
+    "floor": 12,
+    "area": 128.3555
+  },
+  {
+    "aptNm": "대동다숲1단지",
+    "dealAmount": "20,800",
+    "date": "2026-03-29",
+    "floor": 11,
+    "area": 84.9084
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "52,500",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "69,500",
+    "date": "2026-03-25",
+    "floor": 8,
+    "area": 114.89
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "55,000",
+    "date": "2026-03-25",
+    "floor": 29,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "46,900",
+    "date": "2026-03-25",
+    "floor": 3,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "56,500",
+    "date": "2026-03-24",
+    "floor": 43,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "59,300",
+    "date": "2026-03-22",
+    "floor": 14,
+    "area": 59.92
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "47,700",
+    "date": "2026-03-22",
+    "floor": 12,
+    "area": 59.91
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "53,900",
+    "date": "2026-03-22",
+    "floor": 19,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "59,800",
+    "date": "2026-03-20",
+    "floor": 16,
+    "area": 59.92
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "63,500",
+    "date": "2026-03-20",
+    "floor": 21,
+    "area": 114.89
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "75,000",
+    "date": "2026-03-16",
+    "floor": 8,
+    "area": 84.88
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "29,700",
+    "date": "2026-03-16",
+    "floor": 5,
+    "area": 84.86
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "49,400",
+    "date": "2026-03-16",
+    "floor": 14,
+    "area": 59.91
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "55,500",
+    "date": "2026-03-14",
+    "floor": 33,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "58,000",
+    "date": "2026-03-11",
+    "floor": 3,
+    "area": 59.98
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,500",
+    "date": "2026-03-11",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "29,500",
+    "date": "2026-03-09",
+    "floor": 2,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼성만평",
+    "dealAmount": "9,000",
+    "date": "2026-03-09",
+    "floor": 1,
+    "area": 52.1275
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,000",
+    "date": "2026-03-08",
+    "floor": 5,
+    "area": 84.97
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,400",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 84.97
+  },
+  {
+    "aptNm": "대동다숲1단지",
+    "dealAmount": "16,700",
+    "date": "2026-03-06",
+    "floor": 10,
+    "area": 84.9084
+  },
+  {
+    "aptNm": "신촌푸르지오",
+    "dealAmount": "196,000",
+    "date": "2026-03-05",
+    "floor": 3,
+    "area": 84.9572
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "39,000",
+    "date": "2026-03-04",
+    "floor": 1,
+    "area": 59.91
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "28,300",
+    "date": "2026-03-03",
+    "floor": 1,
+    "area": 84.86
+  },
+  {
+    "aptNm": "대동다숲1단지",
+    "dealAmount": "16,600",
+    "date": "2026-02-28",
+    "floor": 13,
+    "area": 84.9084
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "68,500",
+    "date": "2026-02-24",
+    "floor": 7,
+    "area": 84.88
+  },
+  {
+    "aptNm": "영풍마드레빌2차",
+    "dealAmount": "60,500",
+    "date": "2026-02-24",
+    "floor": 9,
+    "area": 84.899
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "29,500",
+    "date": "2026-02-24",
+    "floor": 5,
+    "area": 84.86
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "55,000",
+    "date": "2026-02-24",
+    "floor": 47,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "30,000",
+    "date": "2026-02-23",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "58,000",
+    "date": "2026-02-22",
+    "floor": 14,
+    "area": 84.84
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "58,600",
+    "date": "2026-02-21",
+    "floor": 7,
+    "area": 59.98
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "60,000",
+    "date": "2026-02-21",
+    "floor": 25,
+    "area": 59.78
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,000",
+    "date": "2026-02-21",
+    "floor": 12,
+    "area": 84.97
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "59,500",
+    "date": "2026-02-20",
+    "floor": 9,
+    "area": 59.74
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "49,900",
+    "date": "2026-02-19",
+    "floor": 32,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "52,000",
+    "date": "2026-02-13",
+    "floor": 32,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "62,500",
+    "date": "2026-02-12",
+    "floor": 17,
+    "area": 84.84
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "55,000",
+    "date": "2026-02-12",
+    "floor": 5,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "대동다숲1단지",
+    "dealAmount": "17,000",
+    "date": "2026-02-09",
+    "floor": 14,
+    "area": 84.9084
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "30,700",
+    "date": "2026-02-08",
+    "floor": 11,
+    "area": 84.86
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "28,500",
+    "date": "2026-02-07",
+    "floor": 1,
+    "area": 84.86
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "54,150",
+    "date": "2026-02-07",
+    "floor": 46,
+    "area": 84.9353
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "46,000",
+    "date": "2026-02-06",
+    "floor": 3,
+    "area": 59.91
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,500",
+    "date": "2026-02-03",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "53,500",
+    "date": "2026-02-03",
+    "floor": 49,
+    "area": 84.9353
+  }
+]

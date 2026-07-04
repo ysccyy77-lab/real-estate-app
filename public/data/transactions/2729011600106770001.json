@@ -1,0 +1,191 @@
+[
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "27,000",
+    "date": "2026-06-27",
+    "floor": 19,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "25,500",
+    "date": "2026-06-19",
+    "floor": 15,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,500",
+    "date": "2026-06-18",
+    "floor": 19,
+    "area": 59.99
+  },
+  {
+    "aptNm": "진양",
+    "dealAmount": "4,500",
+    "date": "2026-06-12",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,800",
+    "date": "2026-06-05",
+    "floor": 16,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "25,200",
+    "date": "2026-06-02",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "진양",
+    "dealAmount": "8,400",
+    "date": "2026-06-01",
+    "floor": 4,
+    "area": 55.8
+  },
+  {
+    "aptNm": "진양",
+    "dealAmount": "6,500",
+    "date": "2026-05-27",
+    "floor": 5,
+    "area": 55.8
+  },
+  {
+    "aptNm": "롯데캐슬레이크",
+    "dealAmount": "53,000",
+    "date": "2026-05-12",
+    "floor": 1,
+    "area": 128.13
+  },
+  {
+    "aptNm": "롯데캐슬레이크",
+    "dealAmount": "29,400",
+    "date": "2026-05-09",
+    "floor": 11,
+    "area": 84.91
+  },
+  {
+    "aptNm": "롯데캐슬레이크",
+    "dealAmount": "25,800",
+    "date": "2026-05-09",
+    "floor": 5,
+    "area": 84.91
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "26,500",
+    "date": "2026-05-01",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,800",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,800",
+    "date": "2026-04-29",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "진양",
+    "dealAmount": "7,500",
+    "date": "2026-04-22",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "롯데캐슬레이크",
+    "dealAmount": "27,000",
+    "date": "2026-04-16",
+    "floor": 9,
+    "area": 84.91
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "25,000",
+    "date": "2026-04-13",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "롯데캐슬레이크",
+    "dealAmount": "45,500",
+    "date": "2026-04-06",
+    "floor": 11,
+    "area": 128.13
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,800",
+    "date": "2026-03-31",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,700",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "25,300",
+    "date": "2026-03-27",
+    "floor": 18,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,300",
+    "date": "2026-03-21",
+    "floor": 17,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,900",
+    "date": "2026-03-14",
+    "floor": 15,
+    "area": 59.99
+  },
+  {
+    "aptNm": "원정자우림",
+    "dealAmount": "24,500",
+    "date": "2026-03-07",
+    "floor": 2,
+    "area": 115.78
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "25,000",
+    "date": "2026-03-05",
+    "floor": 16,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장현주공",
+    "dealAmount": "24,500",
+    "date": "2026-02-20",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "롯데캐슬레이크",
+    "dealAmount": "28,500",
+    "date": "2026-02-07",
+    "floor": 11,
+    "area": 84.91
+  }
+]

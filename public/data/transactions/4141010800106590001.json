@@ -1,0 +1,121 @@
+[
+  {
+    "aptNm": "건양2",
+    "dealAmount": "28,700",
+    "date": "2026-05-30",
+    "floor": 1,
+    "area": 59.97
+  },
+  {
+    "aptNm": "건양2",
+    "dealAmount": "30,000",
+    "date": "2026-05-29",
+    "floor": 16,
+    "area": 84.965
+  },
+  {
+    "aptNm": "부영3차원앙마을",
+    "dealAmount": "16,250",
+    "date": "2026-05-27",
+    "floor": 14,
+    "area": 84.9751
+  },
+  {
+    "aptNm": "건양2",
+    "dealAmount": "28,500",
+    "date": "2026-05-26",
+    "floor": 14,
+    "area": 59.97
+  },
+  {
+    "aptNm": "부영3차원앙마을",
+    "dealAmount": "12,100",
+    "date": "2026-05-26",
+    "floor": 2,
+    "area": 59.987
+  },
+  {
+    "aptNm": "부영3차원앙마을",
+    "dealAmount": "12,400",
+    "date": "2026-05-12",
+    "floor": 5,
+    "area": 59.987
+  },
+  {
+    "aptNm": "화승",
+    "dealAmount": "8,000",
+    "date": "2026-04-10",
+    "floor": 4,
+    "area": 54.21
+  },
+  {
+    "aptNm": "부영3차원앙마을",
+    "dealAmount": "13,800",
+    "date": "2026-04-01",
+    "floor": 10,
+    "area": 59.987
+  },
+  {
+    "aptNm": "화승",
+    "dealAmount": "5,450",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 54.21
+  },
+  {
+    "aptNm": "건양2",
+    "dealAmount": "39,600",
+    "date": "2026-03-20",
+    "floor": 16,
+    "area": 84.965
+  },
+  {
+    "aptNm": "강서월드메르디앙",
+    "dealAmount": "99,500",
+    "date": "2026-03-02",
+    "floor": 4,
+    "area": 84.8945
+  },
+  {
+    "aptNm": "태우선파크",
+    "dealAmount": "18,084",
+    "date": "2026-02-27",
+    "floor": 11,
+    "area": 84.5
+  },
+  {
+    "aptNm": "부영3차원앙마을",
+    "dealAmount": "13,900",
+    "date": "2026-02-22",
+    "floor": 12,
+    "area": 59.987
+  },
+  {
+    "aptNm": "부영3차원앙마을",
+    "dealAmount": "13,000",
+    "date": "2026-02-20",
+    "floor": 6,
+    "area": 59.987
+  },
+  {
+    "aptNm": "화승",
+    "dealAmount": "7,500",
+    "date": "2026-02-18",
+    "floor": 4,
+    "area": 47.02
+  },
+  {
+    "aptNm": "부영3차원앙마을",
+    "dealAmount": "16,500",
+    "date": "2026-02-09",
+    "floor": 11,
+    "area": 84.9751
+  },
+  {
+    "aptNm": "강서월드메르디앙",
+    "dealAmount": "94,000",
+    "date": "2026-02-06",
+    "floor": 5,
+    "area": 84.8945
+  }
+]

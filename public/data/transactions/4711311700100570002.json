@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "현대1",
+    "dealAmount": "11,100",
+    "date": "2026-06-16",
+    "floor": 8,
+    "area": 84.51
+  },
+  {
+    "aptNm": "인정프린스",
+    "dealAmount": "27,800",
+    "date": "2026-06-09",
+    "floor": 14,
+    "area": 84.83
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "12,000",
+    "date": "2026-05-27",
+    "floor": 9,
+    "area": 84.51
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "11,950",
+    "date": "2026-05-14",
+    "floor": 8,
+    "area": 84.51
+  },
+  {
+    "aptNm": "인정프린스",
+    "dealAmount": "20,000",
+    "date": "2026-04-28",
+    "floor": 11,
+    "area": 65.75
+  },
+  {
+    "aptNm": "인정프린스",
+    "dealAmount": "28,000",
+    "date": "2026-04-16",
+    "floor": 14,
+    "area": 84.83
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "10,000",
+    "date": "2026-04-14",
+    "floor": 9,
+    "area": 84.51
+  },
+  {
+    "aptNm": "인정프린스",
+    "dealAmount": "35,000",
+    "date": "2026-04-03",
+    "floor": 10,
+    "area": 104.55
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "10,000",
+    "date": "2026-03-09",
+    "floor": 5,
+    "area": 84.51
+  },
+  {
+    "aptNm": "지산19차위더스빌",
+    "dealAmount": "37,000",
+    "date": "2026-02-19",
+    "floor": 8,
+    "area": 84.96
+  }
+]

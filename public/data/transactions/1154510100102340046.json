@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "삼익",
+    "dealAmount": "59,000",
+    "date": "2026-05-28",
+    "floor": 18,
+    "area": 84.69
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "47,000",
+    "date": "2026-05-20",
+    "floor": 18,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "55,000",
+    "date": "2026-05-11",
+    "floor": 13,
+    "area": 84.69
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "44,820",
+    "date": "2026-05-09",
+    "floor": 6,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "48,000",
+    "date": "2026-04-24",
+    "floor": 19,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "59,000",
+    "date": "2026-04-04",
+    "floor": 18,
+    "area": 84.69
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "53,500",
+    "date": "2026-03-30",
+    "floor": 1,
+    "area": 84.69
+  }
+]

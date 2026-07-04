@@ -1,0 +1,541 @@
+[
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "44,900",
+    "date": "2026-07-02",
+    "floor": 15,
+    "area": 134.9
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "39,800",
+    "date": "2026-07-01",
+    "floor": 12,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "41,700",
+    "date": "2026-06-20",
+    "floor": 16,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "52,200",
+    "date": "2026-06-16",
+    "floor": 16,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "50,500",
+    "date": "2026-06-15",
+    "floor": 20,
+    "area": 84.9163
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "48,000",
+    "date": "2026-06-12",
+    "floor": 10,
+    "area": 75.4984
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "43,500",
+    "date": "2026-06-08",
+    "floor": 4,
+    "area": 134.9
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "39,800",
+    "date": "2026-06-04",
+    "floor": 4,
+    "area": 119.72
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "42,000",
+    "date": "2026-06-02",
+    "floor": 3,
+    "area": 65.6733
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "42,500",
+    "date": "2026-05-31",
+    "floor": 5,
+    "area": 66.3912
+  },
+  {
+    "aptNm": "내외대우",
+    "dealAmount": "12,500",
+    "date": "2026-05-28",
+    "floor": 14,
+    "area": 59.2643
+  },
+  {
+    "aptNm": "내외대우",
+    "dealAmount": "17,500",
+    "date": "2026-05-23",
+    "floor": 3,
+    "area": 84.416
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "41,000",
+    "date": "2026-05-23",
+    "floor": 7,
+    "area": 134.9
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "46,000",
+    "date": "2026-05-17",
+    "floor": 4,
+    "area": 75.4984
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "40,600",
+    "date": "2026-05-16",
+    "floor": 23,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "43,200",
+    "date": "2026-05-16",
+    "floor": 11,
+    "area": 119.72
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "40,400",
+    "date": "2026-05-15",
+    "floor": 21,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "40,000",
+    "date": "2026-05-15",
+    "floor": 22,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "40,300",
+    "date": "2026-05-13",
+    "floor": 9,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "55,000",
+    "date": "2026-05-12",
+    "floor": 27,
+    "area": 84.9163
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "39,000",
+    "date": "2026-05-12",
+    "floor": 8,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "내외대우",
+    "dealAmount": "18,000",
+    "date": "2026-05-11",
+    "floor": 2,
+    "area": 84.95
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "42,900",
+    "date": "2026-05-09",
+    "floor": 9,
+    "area": 65.6733
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "43,900",
+    "date": "2026-05-09",
+    "floor": 16,
+    "area": 119.72
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "36,000",
+    "date": "2026-05-08",
+    "floor": 12,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "46,800",
+    "date": "2026-05-06",
+    "floor": 29,
+    "area": 75.4984
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "37,000",
+    "date": "2026-04-29",
+    "floor": 14,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "38,500",
+    "date": "2026-04-27",
+    "floor": 18,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "43,500",
+    "date": "2026-04-27",
+    "floor": 22,
+    "area": 66.3912
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "50,300",
+    "date": "2026-04-25",
+    "floor": 13,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "52,500",
+    "date": "2026-04-24",
+    "floor": 32,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "52,300",
+    "date": "2026-04-20",
+    "floor": 17,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "50,900",
+    "date": "2026-04-20",
+    "floor": 12,
+    "area": 84.9163
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "38,250",
+    "date": "2026-04-18",
+    "floor": 2,
+    "area": 119.72
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "37,500",
+    "date": "2026-04-16",
+    "floor": 11,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "36,500",
+    "date": "2026-04-14",
+    "floor": 2,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "47,000",
+    "date": "2026-04-11",
+    "floor": 12,
+    "area": 134.9
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "38,000",
+    "date": "2026-04-09",
+    "floor": 3,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "48,600",
+    "date": "2026-04-09",
+    "floor": 15,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "39,300",
+    "date": "2026-04-08",
+    "floor": 16,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "39,500",
+    "date": "2026-04-08",
+    "floor": 19,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "39,750",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 119.72
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "42,500",
+    "date": "2026-04-07",
+    "floor": 23,
+    "area": 65.6733
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "40,500",
+    "date": "2026-04-07",
+    "floor": 12,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "45,900",
+    "date": "2026-04-04",
+    "floor": 7,
+    "area": 65.6733
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "39,300",
+    "date": "2026-04-03",
+    "floor": 3,
+    "area": 66.3912
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "37,800",
+    "date": "2026-04-03",
+    "floor": 15,
+    "area": 99.97
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "37,500",
+    "date": "2026-04-02",
+    "floor": 16,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "48,650",
+    "date": "2026-04-01",
+    "floor": 20,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "38,300",
+    "date": "2026-03-25",
+    "floor": 14,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "36,900",
+    "date": "2026-03-23",
+    "floor": 5,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "40,500",
+    "date": "2026-03-21",
+    "floor": 17,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "50,400",
+    "date": "2026-03-20",
+    "floor": 5,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "내외대우",
+    "dealAmount": "17,500",
+    "date": "2026-03-19",
+    "floor": 14,
+    "area": 84.95
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "46,700",
+    "date": "2026-03-17",
+    "floor": 5,
+    "area": 75.6705
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "38,000",
+    "date": "2026-03-17",
+    "floor": 19,
+    "area": 134.9
+  },
+  {
+    "aptNm": "내외대우",
+    "dealAmount": "18,300",
+    "date": "2026-03-14",
+    "floor": 6,
+    "area": 84.95
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "39,000",
+    "date": "2026-03-07",
+    "floor": 14,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "37,000",
+    "date": "2026-03-06",
+    "floor": 33,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "41,000",
+    "date": "2026-02-28",
+    "floor": 26,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "42,500",
+    "date": "2026-02-27",
+    "floor": 14,
+    "area": 65.6733
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "34,500",
+    "date": "2026-02-27",
+    "floor": 33,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "37,500",
+    "date": "2026-02-27",
+    "floor": 11,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "37,000",
+    "date": "2026-02-26",
+    "floor": 29,
+    "area": 58.4018
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "32,000",
+    "date": "2026-02-26",
+    "floor": 1,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "38,000",
+    "date": "2026-02-25",
+    "floor": 9,
+    "area": 134.9
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "40,000",
+    "date": "2026-02-25",
+    "floor": 10,
+    "area": 99.97
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "32,000",
+    "date": "2026-02-21",
+    "floor": 1,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "48,600",
+    "date": "2026-02-20",
+    "floor": 27,
+    "area": 75.4984
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "46,000",
+    "date": "2026-02-19",
+    "floor": 11,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "내외대우",
+    "dealAmount": "18,000",
+    "date": "2026-02-10",
+    "floor": 5,
+    "area": 84.416
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "38,000",
+    "date": "2026-02-07",
+    "floor": 4,
+    "area": 134.9
+  },
+  {
+    "aptNm": "내외대우",
+    "dealAmount": "18,500",
+    "date": "2026-02-06",
+    "floor": 14,
+    "area": 84.95
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "51,400",
+    "date": "2026-02-06",
+    "floor": 22,
+    "area": 84.7157
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "49,500",
+    "date": "2026-02-04",
+    "floor": 8,
+    "area": 84.9163
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "49,700",
+    "date": "2026-02-04",
+    "floor": 22,
+    "area": 84.9163
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "38,300",
+    "date": "2026-02-03",
+    "floor": 23,
+    "area": 58.4018
+  }
+]

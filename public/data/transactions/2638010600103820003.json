@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "자유",
+    "dealAmount": "22,000",
+    "date": "2026-07-01",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "자유",
+    "dealAmount": "24,500",
+    "date": "2026-06-13",
+    "floor": 19,
+    "area": 84.97
+  },
+  {
+    "aptNm": "자유",
+    "dealAmount": "20,800",
+    "date": "2026-05-16",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "자유",
+    "dealAmount": "17,100",
+    "date": "2026-05-06",
+    "floor": 16,
+    "area": 57.06
+  },
+  {
+    "aptNm": "자유",
+    "dealAmount": "28,000",
+    "date": "2026-04-30",
+    "floor": 12,
+    "area": 144.61
+  },
+  {
+    "aptNm": "자유",
+    "dealAmount": "24,500",
+    "date": "2026-03-21",
+    "floor": 12,
+    "area": 84.97
+  },
+  {
+    "aptNm": "자유",
+    "dealAmount": "25,500",
+    "date": "2026-03-16",
+    "floor": 10,
+    "area": 84.97
+  }
+]

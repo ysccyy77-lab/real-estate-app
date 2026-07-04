@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "배원청실",
+    "dealAmount": "11,000",
+    "date": "2026-06-22",
+    "floor": 1,
+    "area": 59.26
+  },
+  {
+    "aptNm": "배원청실",
+    "dealAmount": "11,500",
+    "date": "2026-06-22",
+    "floor": 5,
+    "area": 59.26
+  },
+  {
+    "aptNm": "배원청실",
+    "dealAmount": "11,000",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 59.26
+  },
+  {
+    "aptNm": "배원청실",
+    "dealAmount": "12,000",
+    "date": "2026-05-20",
+    "floor": 3,
+    "area": 59.26
+  },
+  {
+    "aptNm": "배원청실",
+    "dealAmount": "10,300",
+    "date": "2026-02-13",
+    "floor": 8,
+    "area": 59.26
+  }
+]

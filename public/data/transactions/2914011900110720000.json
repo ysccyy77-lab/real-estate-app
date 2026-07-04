@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "75,500",
+    "date": "2026-06-01",
+    "floor": 9,
+    "area": 116.9037
+  },
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "78,500",
+    "date": "2026-05-29",
+    "floor": 16,
+    "area": 116.9037
+  },
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "77,750",
+    "date": "2026-05-26",
+    "floor": 19,
+    "area": 116.9037
+  },
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "71,500",
+    "date": "2026-05-12",
+    "floor": 4,
+    "area": 100.376
+  },
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "56,000",
+    "date": "2026-04-28",
+    "floor": 17,
+    "area": 129.7677
+  },
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "72,000",
+    "date": "2026-04-08",
+    "floor": 14,
+    "area": 100.376
+  },
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "72,000",
+    "date": "2026-03-14",
+    "floor": 9,
+    "area": 100.376
+  }
+]

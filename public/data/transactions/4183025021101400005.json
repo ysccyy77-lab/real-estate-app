@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "양평현대",
+    "dealAmount": "23,900",
+    "date": "2026-05-28",
+    "floor": 6,
+    "area": 59.7
+  },
+  {
+    "aptNm": "양평현대",
+    "dealAmount": "23,500",
+    "date": "2026-05-23",
+    "floor": 2,
+    "area": 59.7
+  },
+  {
+    "aptNm": "양평현대",
+    "dealAmount": "19,500",
+    "date": "2026-05-04",
+    "floor": 5,
+    "area": 59.7
+  },
+  {
+    "aptNm": "양평현대",
+    "dealAmount": "28,800",
+    "date": "2026-04-15",
+    "floor": 9,
+    "area": 84.87
+  },
+  {
+    "aptNm": "양평현대",
+    "dealAmount": "24,800",
+    "date": "2026-04-09",
+    "floor": 14,
+    "area": 59.7
+  },
+  {
+    "aptNm": "양평현대",
+    "dealAmount": "26,000",
+    "date": "2026-03-29",
+    "floor": 9,
+    "area": 59.7
+  },
+  {
+    "aptNm": "양평현대",
+    "dealAmount": "24,100",
+    "date": "2026-02-04",
+    "floor": 15,
+    "area": 59.7
+  }
+]

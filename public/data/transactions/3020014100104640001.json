@@ -1,0 +1,450 @@
+[
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "52,800",
+    "date": "2026-07-01",
+    "floor": 17,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "66,000",
+    "date": "2026-06-24",
+    "floor": 10,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "47,000",
+    "date": "2026-06-24",
+    "floor": 9,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "40,000",
+    "date": "2026-06-23",
+    "floor": 2,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "45,000",
+    "date": "2026-06-22",
+    "floor": 2,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "41,500",
+    "date": "2026-06-20",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "52,200",
+    "date": "2026-06-20",
+    "floor": 15,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "52,800",
+    "date": "2026-06-18",
+    "floor": 17,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "42,000",
+    "date": "2026-06-17",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "50,000",
+    "date": "2026-06-17",
+    "floor": 9,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "58,000",
+    "date": "2026-06-10",
+    "floor": 10,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "48,500",
+    "date": "2026-06-07",
+    "floor": 10,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "41,500",
+    "date": "2026-06-06",
+    "floor": 2,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "55,500",
+    "date": "2026-06-06",
+    "floor": 3,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "46,000",
+    "date": "2026-06-04",
+    "floor": 11,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "78,000",
+    "date": "2026-06-02",
+    "floor": 13,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "50,000",
+    "date": "2026-05-29",
+    "floor": 14,
+    "area": 116.37
+  },
+  {
+    "aptNm": "한남",
+    "dealAmount": "12,500",
+    "date": "2026-05-28",
+    "floor": 9,
+    "area": 59.67
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "41,800",
+    "date": "2026-05-27",
+    "floor": 6,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "42,000",
+    "date": "2026-05-23",
+    "floor": 17,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "53,500",
+    "date": "2026-05-22",
+    "floor": 4,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "64,300",
+    "date": "2026-05-11",
+    "floor": 2,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "40,000",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "68,000",
+    "date": "2026-05-08",
+    "floor": 17,
+    "area": 157.14
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "44,700",
+    "date": "2026-05-06",
+    "floor": 14,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "53,000",
+    "date": "2026-05-02",
+    "floor": 2,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "50,000",
+    "date": "2026-04-29",
+    "floor": 5,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "45,500",
+    "date": "2026-04-26",
+    "floor": 14,
+    "area": 84.173
+  },
+  {
+    "aptNm": "신답극동",
+    "dealAmount": "69,753",
+    "date": "2026-04-21",
+    "floor": 13,
+    "area": 46.53
+  },
+  {
+    "aptNm": "한남",
+    "dealAmount": "13,000",
+    "date": "2026-04-06",
+    "floor": 2,
+    "area": 59.67
+  },
+  {
+    "aptNm": "한남",
+    "dealAmount": "19,000",
+    "date": "2026-04-06",
+    "floor": 4,
+    "area": 84.97
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "43,500",
+    "date": "2026-04-04",
+    "floor": 3,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "55,000",
+    "date": "2026-04-04",
+    "floor": 8,
+    "area": 116.37
+  },
+  {
+    "aptNm": "한국프라자",
+    "dealAmount": "6,800",
+    "date": "2026-03-30",
+    "floor": 3,
+    "area": 73.32
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "48,500",
+    "date": "2026-03-27",
+    "floor": 2,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "48,100",
+    "date": "2026-03-20",
+    "floor": 15,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "58,500",
+    "date": "2026-03-16",
+    "floor": 16,
+    "area": 116.37
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "74,000",
+    "date": "2026-03-14",
+    "floor": 6,
+    "area": 133.11
+  },
+  {
+    "aptNm": "신답극동",
+    "dealAmount": "76,594",
+    "date": "2026-03-14",
+    "floor": 12,
+    "area": 53.1
+  },
+  {
+    "aptNm": "신답극동",
+    "dealAmount": "103,500",
+    "date": "2026-03-14",
+    "floor": 12,
+    "area": 71.28
+  },
+  {
+    "aptNm": "신답극동",
+    "dealAmount": "99,103",
+    "date": "2026-03-12",
+    "floor": 14,
+    "area": 105.59
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "45,500",
+    "date": "2026-03-08",
+    "floor": 3,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "47,000",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "49,000",
+    "date": "2026-03-07",
+    "floor": 16,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "40,000",
+    "date": "2026-03-06",
+    "floor": 3,
+    "area": 84.96
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "43,500",
+    "date": "2026-03-05",
+    "floor": 14,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "59,800",
+    "date": "2026-03-02",
+    "floor": 12,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "45,000",
+    "date": "2026-02-28",
+    "floor": 2,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "42,800",
+    "date": "2026-02-28",
+    "floor": 3,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "26,100",
+    "date": "2026-02-26",
+    "floor": 15,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "55,000",
+    "date": "2026-02-26",
+    "floor": 3,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "47,000",
+    "date": "2026-02-26",
+    "floor": 8,
+    "area": 84.173
+  },
+  {
+    "aptNm": "신답극동",
+    "dealAmount": "73,797",
+    "date": "2026-02-25",
+    "floor": 7,
+    "area": 46.53
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "63,000",
+    "date": "2026-02-21",
+    "floor": 11,
+    "area": 157.14
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "54,600",
+    "date": "2026-02-19",
+    "floor": 17,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "57,800",
+    "date": "2026-02-14",
+    "floor": 10,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "65,000",
+    "date": "2026-02-09",
+    "floor": 4,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "57,200",
+    "date": "2026-02-07",
+    "floor": 11,
+    "area": 116.37
+  },
+  {
+    "aptNm": "신답극동",
+    "dealAmount": "89,189",
+    "date": "2026-02-07",
+    "floor": 10,
+    "area": 105.59
+  },
+  {
+    "aptNm": "신답극동",
+    "dealAmount": "84,171",
+    "date": "2026-02-07",
+    "floor": 2,
+    "area": 71.28
+  },
+  {
+    "aptNm": "한국프라자",
+    "dealAmount": "8,000",
+    "date": "2026-02-07",
+    "floor": 2,
+    "area": 73.32
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "39,800",
+    "date": "2026-02-06",
+    "floor": 2,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "55,700",
+    "date": "2026-02-04",
+    "floor": 14,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "57,000",
+    "date": "2026-02-02",
+    "floor": 1,
+    "area": 133.11
+  }
+]

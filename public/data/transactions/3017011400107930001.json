@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "한신맨션(7,8동)",
+    "dealAmount": "5,000",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 81.75
+  },
+  {
+    "aptNm": "한신맨션(7,8동)",
+    "dealAmount": "3,000",
+    "date": "2026-05-04",
+    "floor": 5,
+    "area": 75.66
+  },
+  {
+    "aptNm": "은아2단지",
+    "dealAmount": "10,200",
+    "date": "2026-04-21",
+    "floor": 12,
+    "area": 52.2
+  },
+  {
+    "aptNm": "은아2단지",
+    "dealAmount": "9,000",
+    "date": "2026-04-14",
+    "floor": 13,
+    "area": 52.2
+  },
+  {
+    "aptNm": "아크로골든빌2차",
+    "dealAmount": "18,500",
+    "date": "2026-04-08",
+    "floor": 2,
+    "area": 84.2956
+  },
+  {
+    "aptNm": "은아2단지",
+    "dealAmount": "10,300",
+    "date": "2026-04-07",
+    "floor": 8,
+    "area": 52.2
+  },
+  {
+    "aptNm": "은아2단지",
+    "dealAmount": "16,000",
+    "date": "2026-03-03",
+    "floor": 10,
+    "area": 60
+  },
+  {
+    "aptNm": "은아2단지",
+    "dealAmount": "10,500",
+    "date": "2026-02-07",
+    "floor": 12,
+    "area": 52.2
+  }
+]

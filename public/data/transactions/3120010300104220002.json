@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "18,500",
+    "date": "2026-06-29",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "15,900",
+    "date": "2026-06-27",
+    "floor": 10,
+    "area": 71.13
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "15,000",
+    "date": "2026-06-20",
+    "floor": 9,
+    "area": 59.61
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "17,500",
+    "date": "2026-06-14",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "18,500",
+    "date": "2026-05-30",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "13,300",
+    "date": "2026-04-12",
+    "floor": 10,
+    "area": 59.61
+  },
+  {
+    "aptNm": "아너스뷰102동",
+    "dealAmount": "13,750",
+    "date": "2026-03-31",
+    "floor": 5,
+    "area": 84.82
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "16,500",
+    "date": "2026-03-27",
+    "floor": 2,
+    "area": 71.13
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "18,000",
+    "date": "2026-03-14",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "17,300",
+    "date": "2026-03-13",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "13,200",
+    "date": "2026-03-12",
+    "floor": 2,
+    "area": 59.61
+  },
+  {
+    "aptNm": "현대파크맨션",
+    "dealAmount": "14,400",
+    "date": "2026-02-10",
+    "floor": 8,
+    "area": 59.61
+  }
+]

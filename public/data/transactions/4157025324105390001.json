@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "복현화성",
+    "dealAmount": "26,800",
+    "date": "2026-06-22",
+    "floor": 14,
+    "area": 85
+  },
+  {
+    "aptNm": "길훈1차",
+    "dealAmount": "38,500",
+    "date": "2026-05-07",
+    "floor": 7,
+    "area": 84.64
+  },
+  {
+    "aptNm": "길훈1차",
+    "dealAmount": "38,400",
+    "date": "2026-04-25",
+    "floor": 10,
+    "area": 84.64
+  },
+  {
+    "aptNm": "길훈1차",
+    "dealAmount": "38,000",
+    "date": "2026-02-12",
+    "floor": 12,
+    "area": 80.65
+  },
+  {
+    "aptNm": "복현화성",
+    "dealAmount": "21,500",
+    "date": "2026-02-12",
+    "floor": 11,
+    "area": 75.38
+  },
+  {
+    "aptNm": "광명(539-1)",
+    "dealAmount": "41,500",
+    "date": "2026-02-11",
+    "floor": 5,
+    "area": 81.72
+  },
+  {
+    "aptNm": "신산스카이빌",
+    "dealAmount": "28,500",
+    "date": "2026-02-03",
+    "floor": 7,
+    "area": 84.18
+  }
+]

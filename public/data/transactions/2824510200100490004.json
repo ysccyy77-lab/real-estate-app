@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "천호동1차예전이룸아파트",
+    "dealAmount": "66,000",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 84.3
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "14,000",
+    "date": "2026-05-05",
+    "floor": 2,
+    "area": 44.81
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "14,000",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 44.81
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "14,800",
+    "date": "2026-03-28",
+    "floor": 1,
+    "area": 44.81
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "12,100",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 44.81
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "12,800",
+    "date": "2026-03-09",
+    "floor": 2,
+    "area": 44.81
+  },
+  {
+    "aptNm": "천호동1차예전이룸아파트",
+    "dealAmount": "70,000",
+    "date": "2026-03-06",
+    "floor": 2,
+    "area": 83.59
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "17,500",
+    "date": "2026-02-27",
+    "floor": 1,
+    "area": 57.03
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "18,500",
+    "date": "2026-02-26",
+    "floor": 3,
+    "area": 44.81
+  }
+]

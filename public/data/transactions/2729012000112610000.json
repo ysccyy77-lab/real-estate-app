@@ -1,0 +1,569 @@
+[
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "40,800",
+    "date": "2026-06-26",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "10,500",
+    "date": "2026-06-26",
+    "floor": 5,
+    "area": 49.76
+  },
+  {
+    "aptNm": "월성자이",
+    "dealAmount": "33,500",
+    "date": "2026-06-25",
+    "floor": 7,
+    "area": 84.725
+  },
+  {
+    "aptNm": "센텀파크디오션(1단지)",
+    "dealAmount": "18,000",
+    "date": "2026-06-23",
+    "floor": 6,
+    "area": 84.8819
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "15,700",
+    "date": "2026-06-23",
+    "floor": 18,
+    "area": 59.99
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "15,300",
+    "date": "2026-06-20",
+    "floor": 16,
+    "area": 59.99
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "11,600",
+    "date": "2026-06-19",
+    "floor": 1,
+    "area": 59.99
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "13,900",
+    "date": "2026-06-10",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "15,000",
+    "date": "2026-06-10",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "70,000",
+    "date": "2026-06-09",
+    "floor": 15,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "72,000",
+    "date": "2026-06-09",
+    "floor": 21,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "15,650",
+    "date": "2026-06-06",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "41,000",
+    "date": "2026-06-05",
+    "floor": 8,
+    "area": 84.78
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "12,500",
+    "date": "2026-06-05",
+    "floor": 4,
+    "area": 41.85
+  },
+  {
+    "aptNm": "월성자이",
+    "dealAmount": "30,300",
+    "date": "2026-06-03",
+    "floor": 2,
+    "area": 84.725
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "70,000",
+    "date": "2026-05-29",
+    "floor": 10,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "39,400",
+    "date": "2026-05-28",
+    "floor": 12,
+    "area": 75.97
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "9,500",
+    "date": "2026-05-25",
+    "floor": 3,
+    "area": 49.76
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "11,800",
+    "date": "2026-05-25",
+    "floor": 7,
+    "area": 49.77
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "40,200",
+    "date": "2026-05-18",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "14,000",
+    "date": "2026-05-17",
+    "floor": 8,
+    "area": 49.935
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "9,000",
+    "date": "2026-05-16",
+    "floor": 13,
+    "area": 41.85
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "65,500",
+    "date": "2026-05-15",
+    "floor": 4,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "일신건영",
+    "dealAmount": "68,000",
+    "date": "2026-05-12",
+    "floor": 8,
+    "area": 59.97
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "7,900",
+    "date": "2026-05-12",
+    "floor": 15,
+    "area": 39.69
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "68,500",
+    "date": "2026-05-11",
+    "floor": 16,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "70,000",
+    "date": "2026-05-05",
+    "floor": 6,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "69,800",
+    "date": "2026-05-02",
+    "floor": 17,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "66,000",
+    "date": "2026-05-01",
+    "floor": 9,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "일신건영",
+    "dealAmount": "68,000",
+    "date": "2026-04-30",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "40,000",
+    "date": "2026-04-28",
+    "floor": 8,
+    "area": 84.78
+  },
+  {
+    "aptNm": "일신건영",
+    "dealAmount": "67,500",
+    "date": "2026-04-28",
+    "floor": 9,
+    "area": 59.97
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "15,600",
+    "date": "2026-04-25",
+    "floor": 14,
+    "area": 49.935
+  },
+  {
+    "aptNm": "일신건영",
+    "dealAmount": "63,000",
+    "date": "2026-04-22",
+    "floor": 8,
+    "area": 59.97
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "10,000",
+    "date": "2026-04-20",
+    "floor": 13,
+    "area": 49.935
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "14,700",
+    "date": "2026-04-20",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "9,400",
+    "date": "2026-04-18",
+    "floor": 4,
+    "area": 39.69
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "37,000",
+    "date": "2026-04-17",
+    "floor": 10,
+    "area": 75.97
+  },
+  {
+    "aptNm": "월성자이",
+    "dealAmount": "32,800",
+    "date": "2026-04-11",
+    "floor": 20,
+    "area": 84.725
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "14,000",
+    "date": "2026-04-11",
+    "floor": 12,
+    "area": 49.935
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "10,000",
+    "date": "2026-04-11",
+    "floor": 11,
+    "area": 49.77
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "40,900",
+    "date": "2026-04-05",
+    "floor": 17,
+    "area": 84.83
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "40,700",
+    "date": "2026-04-01",
+    "floor": 8,
+    "area": 84.78
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "70,000",
+    "date": "2026-03-31",
+    "floor": 17,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "8,800",
+    "date": "2026-03-30",
+    "floor": 4,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "11,900",
+    "date": "2026-03-30",
+    "floor": 9,
+    "area": 49.77
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "11,800",
+    "date": "2026-03-28",
+    "floor": 14,
+    "area": 49.77
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "40,500",
+    "date": "2026-03-21",
+    "floor": 13,
+    "area": 84.78
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "10,300",
+    "date": "2026-03-21",
+    "floor": 7,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "9,500",
+    "date": "2026-03-20",
+    "floor": 1,
+    "area": 49.77
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "41,000",
+    "date": "2026-03-19",
+    "floor": 16,
+    "area": 84.78
+  },
+  {
+    "aptNm": "일신건영",
+    "dealAmount": "78,000",
+    "date": "2026-03-19",
+    "floor": 2,
+    "area": 84.66
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "10,000",
+    "date": "2026-03-19",
+    "floor": 4,
+    "area": 49.77
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "37,000",
+    "date": "2026-03-18",
+    "floor": 7,
+    "area": 75.98
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "37,000",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 84.78
+  },
+  {
+    "aptNm": "범물하이츠",
+    "dealAmount": "11,950",
+    "date": "2026-03-14",
+    "floor": 12,
+    "area": 34.44
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "11,200",
+    "date": "2026-03-14",
+    "floor": 11,
+    "area": 49.77
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "67,000",
+    "date": "2026-03-10",
+    "floor": 24,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "15,800",
+    "date": "2026-03-10",
+    "floor": 18,
+    "area": 59.99
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "41,300",
+    "date": "2026-03-09",
+    "floor": 13,
+    "area": 84.78
+  },
+  {
+    "aptNm": "일신건영",
+    "dealAmount": "76,000",
+    "date": "2026-03-09",
+    "floor": 5,
+    "area": 84.66
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "11,000",
+    "date": "2026-03-09",
+    "floor": 10,
+    "area": 49.77
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "15,850",
+    "date": "2026-03-09",
+    "floor": 14,
+    "area": 59.99
+  },
+  {
+    "aptNm": "월성자이",
+    "dealAmount": "33,400",
+    "date": "2026-03-03",
+    "floor": 19,
+    "area": 84.725
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "8,900",
+    "date": "2026-03-02",
+    "floor": 1,
+    "area": 49.77
+  },
+  {
+    "aptNm": "월성자이",
+    "dealAmount": "34,500",
+    "date": "2026-03-01",
+    "floor": 9,
+    "area": 84.725
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "15,000",
+    "date": "2026-02-27",
+    "floor": 14,
+    "area": 59.99
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "11,200",
+    "date": "2026-02-26",
+    "floor": 4,
+    "area": 49.77
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "13,000",
+    "date": "2026-02-26",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "9,000",
+    "date": "2026-02-25",
+    "floor": 1,
+    "area": 49.77
+  },
+  {
+    "aptNm": "숲속마을(7단지)",
+    "dealAmount": "40,600",
+    "date": "2026-02-23",
+    "floor": 16,
+    "area": 84.78
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "17,300",
+    "date": "2026-02-22",
+    "floor": 17,
+    "area": 59.99
+  },
+  {
+    "aptNm": "일신건영",
+    "dealAmount": "77,200",
+    "date": "2026-02-14",
+    "floor": 9,
+    "area": 84.66
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "15,150",
+    "date": "2026-02-14",
+    "floor": 16,
+    "area": 59.99
+  },
+  {
+    "aptNm": "도담마을우미린",
+    "dealAmount": "65,000",
+    "date": "2026-02-10",
+    "floor": 5,
+    "area": 59.9864
+  },
+  {
+    "aptNm": "일신건영",
+    "dealAmount": "68,000",
+    "date": "2026-02-10",
+    "floor": 16,
+    "area": 59.97
+  },
+  {
+    "aptNm": "분평주공4",
+    "dealAmount": "14,150",
+    "date": "2026-02-09",
+    "floor": 20,
+    "area": 59.99
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "8,400",
+    "date": "2026-02-08",
+    "floor": 15,
+    "area": 39.69
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "12,000",
+    "date": "2026-02-07",
+    "floor": 14,
+    "area": 49.77
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "12,100",
+    "date": "2026-02-05",
+    "floor": 11,
+    "area": 49.77
+  },
+  {
+    "aptNm": "주공4단지2차",
+    "dealAmount": "10,800",
+    "date": "2026-02-01",
+    "floor": 14,
+    "area": 49.77
+  }
+]

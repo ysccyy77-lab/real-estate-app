@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "신호새피앙",
+    "dealAmount": "49,500",
+    "date": "2026-06-20",
+    "floor": 6,
+    "area": 134.91
+  },
+  {
+    "aptNm": "신호새피앙",
+    "dealAmount": "27,000",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "신호새피앙",
+    "dealAmount": "27,000",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "신호새피앙",
+    "dealAmount": "38,250",
+    "date": "2026-06-03",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "신호새피앙",
+    "dealAmount": "40,000",
+    "date": "2026-05-08",
+    "floor": 10,
+    "area": 101.955
+  },
+  {
+    "aptNm": "신호새피앙",
+    "dealAmount": "35,000",
+    "date": "2026-03-19",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "신호새피앙",
+    "dealAmount": "27,000",
+    "date": "2026-02-07",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "신호새피앙",
+    "dealAmount": "30,000",
+    "date": "2026-02-02",
+    "floor": 1,
+    "area": 84.98
+  }
+]

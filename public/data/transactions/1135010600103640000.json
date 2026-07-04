@@ -1,0 +1,422 @@
+[
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "20,450",
+    "date": "2026-07-02",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "105,500",
+    "date": "2026-06-23",
+    "floor": 8,
+    "area": 60.27
+  },
+  {
+    "aptNm": "현대맨션2차",
+    "dealAmount": "8,500",
+    "date": "2026-06-22",
+    "floor": 2,
+    "area": 59.78
+  },
+  {
+    "aptNm": "세인",
+    "dealAmount": "3,000",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 53.82
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "14,400",
+    "date": "2026-06-10",
+    "floor": 15,
+    "area": 58.11
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "87,500",
+    "date": "2026-05-30",
+    "floor": 8,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "7,500",
+    "date": "2026-05-28",
+    "floor": 1,
+    "area": 58.11
+  },
+  {
+    "aptNm": "동원(364)",
+    "dealAmount": "18,200",
+    "date": "2026-05-22",
+    "floor": 3,
+    "area": 54.54
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "124,700",
+    "date": "2026-05-21",
+    "floor": 13,
+    "area": 95.64
+  },
+  {
+    "aptNm": "동진신안",
+    "dealAmount": "156,000",
+    "date": "2026-05-20",
+    "floor": 11,
+    "area": 134.74
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "73,000",
+    "date": "2026-05-19",
+    "floor": 4,
+    "area": 74.7643
+  },
+  {
+    "aptNm": "뉴그린스카이",
+    "dealAmount": "20,500",
+    "date": "2026-05-14",
+    "floor": 3,
+    "area": 82.545
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "115,000",
+    "date": "2026-05-08",
+    "floor": 7,
+    "area": 95.64
+  },
+  {
+    "aptNm": "세인",
+    "dealAmount": "4,300",
+    "date": "2026-05-04",
+    "floor": 1,
+    "area": 49.95
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "86,000",
+    "date": "2026-04-30",
+    "floor": 22,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "85,000",
+    "date": "2026-04-28",
+    "floor": 6,
+    "area": 84.5432
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "76,000",
+    "date": "2026-04-27",
+    "floor": 22,
+    "area": 74.7643
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "86,000",
+    "date": "2026-04-27",
+    "floor": 20,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "85,000",
+    "date": "2026-04-26",
+    "floor": 6,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "86,000",
+    "date": "2026-04-25",
+    "floor": 22,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "83,000",
+    "date": "2026-04-23",
+    "floor": 7,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "20,000",
+    "date": "2026-04-20",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "68,000",
+    "date": "2026-04-19",
+    "floor": 1,
+    "area": 74.7643
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "17,000",
+    "date": "2026-04-18",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "83,500",
+    "date": "2026-04-17",
+    "floor": 4,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "현대맨션2차",
+    "dealAmount": "10,300",
+    "date": "2026-04-15",
+    "floor": 7,
+    "area": 59.78
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "80,000",
+    "date": "2026-04-11",
+    "floor": 10,
+    "area": 84.5432
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "80,000",
+    "date": "2026-04-11",
+    "floor": 29,
+    "area": 84.5212
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "85,000",
+    "date": "2026-04-11",
+    "floor": 10,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "20,100",
+    "date": "2026-04-11",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "동원(364)",
+    "dealAmount": "14,800",
+    "date": "2026-04-09",
+    "floor": 2,
+    "area": 42.34
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "81,700",
+    "date": "2026-04-07",
+    "floor": 10,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "72,000",
+    "date": "2026-04-07",
+    "floor": 6,
+    "area": 74.7643
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "20,000",
+    "date": "2026-04-07",
+    "floor": 13,
+    "area": 84.99
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "81,500",
+    "date": "2026-04-06",
+    "floor": 16,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "동진신안",
+    "dealAmount": "152,500",
+    "date": "2026-04-06",
+    "floor": 6,
+    "area": 134.74
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "14,700",
+    "date": "2026-04-04",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "67,300",
+    "date": "2026-03-30",
+    "floor": 1,
+    "area": 74.7643
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "75,500",
+    "date": "2026-03-30",
+    "floor": 8,
+    "area": 74.7643
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "97,000",
+    "date": "2026-03-30",
+    "floor": 6,
+    "area": 60.27
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "81,500",
+    "date": "2026-03-28",
+    "floor": 23,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "111,500",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 75.93
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "120,000",
+    "date": "2026-03-28",
+    "floor": 13,
+    "area": 95.64
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "84,000",
+    "date": "2026-03-21",
+    "floor": 14,
+    "area": 84.5212
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "116,000",
+    "date": "2026-03-21",
+    "floor": 2,
+    "area": 89.16
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "115,000",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 89.16
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "109,000",
+    "date": "2026-03-17",
+    "floor": 5,
+    "area": 75.93
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "84,000",
+    "date": "2026-03-16",
+    "floor": 26,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "84,000",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "82,000",
+    "date": "2026-03-11",
+    "floor": 16,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "동진신안",
+    "dealAmount": "152,000",
+    "date": "2026-02-26",
+    "floor": 7,
+    "area": 134.74
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "118,000",
+    "date": "2026-02-26",
+    "floor": 5,
+    "area": 89.16
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "76,000",
+    "date": "2026-02-13",
+    "floor": 24,
+    "area": 74.7643
+  },
+  {
+    "aptNm": "동진신안",
+    "dealAmount": "145,000",
+    "date": "2026-02-13",
+    "floor": 3,
+    "area": 134.74
+  },
+  {
+    "aptNm": "동진신안",
+    "dealAmount": "133,000",
+    "date": "2026-02-11",
+    "floor": 13,
+    "area": 101.99
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "82,500",
+    "date": "2026-02-10",
+    "floor": 20,
+    "area": 84.5516
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "116,500",
+    "date": "2026-02-10",
+    "floor": 9,
+    "area": 89.16
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "15,700",
+    "date": "2026-02-09",
+    "floor": 3,
+    "area": 68.54
+  },
+  {
+    "aptNm": "월성보성1",
+    "dealAmount": "21,500",
+    "date": "2026-02-06",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "광주역자연앤자이",
+    "dealAmount": "86,000",
+    "date": "2026-02-02",
+    "floor": 24,
+    "area": 84.5516
+  }
+]

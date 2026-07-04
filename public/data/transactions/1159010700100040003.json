@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "북면사원",
+    "dealAmount": "3,000",
+    "date": "2026-05-26",
+    "floor": 5,
+    "area": 43.78
+  },
+  {
+    "aptNm": "북면사원",
+    "dealAmount": "3,300",
+    "date": "2026-04-20",
+    "floor": 1,
+    "area": 43.78
+  },
+  {
+    "aptNm": "북면사원",
+    "dealAmount": "2,100",
+    "date": "2026-03-30",
+    "floor": 6,
+    "area": 43.78
+  },
+  {
+    "aptNm": "북면사원",
+    "dealAmount": "3,600",
+    "date": "2026-03-26",
+    "floor": 2,
+    "area": 43.78
+  },
+  {
+    "aptNm": "북면사원",
+    "dealAmount": "2,400",
+    "date": "2026-02-25",
+    "floor": 6,
+    "area": 43.78
+  },
+  {
+    "aptNm": "부백자연애",
+    "dealAmount": "21,000",
+    "date": "2026-02-07",
+    "floor": 15,
+    "area": 64.58
+  }
+]

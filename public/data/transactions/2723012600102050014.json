@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "한일",
+    "dealAmount": "12,800",
+    "date": "2026-03-19",
+    "floor": 9,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "14,800",
+    "date": "2026-03-18",
+    "floor": 16,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "11,700",
+    "date": "2026-03-09",
+    "floor": 10,
+    "area": 59.835
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "17,800",
+    "date": "2026-03-03",
+    "floor": 11,
+    "area": 121.74
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "11,800",
+    "date": "2026-02-27",
+    "floor": 5,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "12,700",
+    "date": "2026-02-19",
+    "floor": 19,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "12,600",
+    "date": "2026-02-07",
+    "floor": 20,
+    "area": 59.76
+  }
+]

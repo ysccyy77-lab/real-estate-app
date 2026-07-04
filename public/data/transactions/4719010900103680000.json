@@ -1,0 +1,555 @@
+[
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "63,400",
+    "date": "2026-06-30",
+    "floor": 16,
+    "area": 123.72
+  },
+  {
+    "aptNm": "대주파크빌",
+    "dealAmount": "55,000",
+    "date": "2026-06-29",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "8,500",
+    "date": "2026-06-27",
+    "floor": 16,
+    "area": 59.71
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "21,000",
+    "date": "2026-06-24",
+    "floor": 11,
+    "area": 60
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "45,900",
+    "date": "2026-06-20",
+    "floor": 10,
+    "area": 59.97
+  },
+  {
+    "aptNm": "죽전그린빌",
+    "dealAmount": "21,500",
+    "date": "2026-06-17",
+    "floor": 12,
+    "area": 75.01
+  },
+  {
+    "aptNm": "초원맨션",
+    "dealAmount": "2,900",
+    "date": "2026-06-15",
+    "floor": 3,
+    "area": 59.88
+  },
+  {
+    "aptNm": "초원맨션",
+    "dealAmount": "3,900",
+    "date": "2026-06-13",
+    "floor": 1,
+    "area": 79.92
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "24,000",
+    "date": "2026-06-12",
+    "floor": 11,
+    "area": 59.88
+  },
+  {
+    "aptNm": "브라운스톤휘경",
+    "dealAmount": "98,000",
+    "date": "2026-06-09",
+    "floor": 3,
+    "area": 59.78
+  },
+  {
+    "aptNm": "안성센트럴파밀리에",
+    "dealAmount": "34,000",
+    "date": "2026-06-05",
+    "floor": 16,
+    "area": 74.97
+  },
+  {
+    "aptNm": "대주파크빌",
+    "dealAmount": "56,000",
+    "date": "2026-06-03",
+    "floor": 11,
+    "area": 59.99
+  },
+  {
+    "aptNm": "형곡시영",
+    "dealAmount": "5,350",
+    "date": "2026-05-30",
+    "floor": 7,
+    "area": 50.04
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "47,000",
+    "date": "2026-05-27",
+    "floor": 11,
+    "area": 59.97
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "23,750",
+    "date": "2026-05-27",
+    "floor": 18,
+    "area": 59.88
+  },
+  {
+    "aptNm": "형곡시영",
+    "dealAmount": "5,200",
+    "date": "2026-05-25",
+    "floor": 8,
+    "area": 50.04
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "22,600",
+    "date": "2026-05-21",
+    "floor": 13,
+    "area": 60
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "21,000",
+    "date": "2026-05-21",
+    "floor": 9,
+    "area": 59.88
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "23,800",
+    "date": "2026-05-18",
+    "floor": 20,
+    "area": 59.88
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "45,500",
+    "date": "2026-05-17",
+    "floor": 9,
+    "area": 59.97
+  },
+  {
+    "aptNm": "안성센트럴파밀리에",
+    "dealAmount": "35,000",
+    "date": "2026-05-15",
+    "floor": 6,
+    "area": 74.97
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "40,000",
+    "date": "2026-05-11",
+    "floor": 14,
+    "area": 134.34
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "41,200",
+    "date": "2026-05-09",
+    "floor": 18,
+    "area": 59.97
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "23,500",
+    "date": "2026-05-09",
+    "floor": 9,
+    "area": 59.88
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "25,500",
+    "date": "2026-05-09",
+    "floor": 15,
+    "area": 59.88
+  },
+  {
+    "aptNm": "형곡시영",
+    "dealAmount": "5,350",
+    "date": "2026-05-07",
+    "floor": 8,
+    "area": 50.04
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "21,000",
+    "date": "2026-05-06",
+    "floor": 3,
+    "area": 59.88
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "10,500",
+    "date": "2026-05-03",
+    "floor": 13,
+    "area": 84.91
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "46,500",
+    "date": "2026-05-03",
+    "floor": 1,
+    "area": 134.37
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "44,700",
+    "date": "2026-05-01",
+    "floor": 14,
+    "area": 59.97
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "44,700",
+    "date": "2026-05-01",
+    "floor": 3,
+    "area": 59.97
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "6,000",
+    "date": "2026-04-28",
+    "floor": 9,
+    "area": 59.71
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "21,800",
+    "date": "2026-04-27",
+    "floor": 19,
+    "area": 59.88
+  },
+  {
+    "aptNm": "죽전그린빌",
+    "dealAmount": "24,000",
+    "date": "2026-04-25",
+    "floor": 7,
+    "area": 84.86
+  },
+  {
+    "aptNm": "브라운스톤휘경",
+    "dealAmount": "88,000",
+    "date": "2026-04-25",
+    "floor": 9,
+    "area": 59.78
+  },
+  {
+    "aptNm": "초원맨션",
+    "dealAmount": "4,200",
+    "date": "2026-04-21",
+    "floor": 2,
+    "area": 79.92
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "20,600",
+    "date": "2026-04-18",
+    "floor": 10,
+    "area": 59.88
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "19,500",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 59.88
+  },
+  {
+    "aptNm": "형곡시영",
+    "dealAmount": "5,040",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 50.04
+  },
+  {
+    "aptNm": "형곡시영",
+    "dealAmount": "3,500",
+    "date": "2026-04-16",
+    "floor": 1,
+    "area": 50.04
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "44,800",
+    "date": "2026-04-15",
+    "floor": 9,
+    "area": 59.97
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "23,000",
+    "date": "2026-04-14",
+    "floor": 15,
+    "area": 59.88
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "33,000",
+    "date": "2026-04-14",
+    "floor": 5,
+    "area": 101.89
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "20,200",
+    "date": "2026-04-13",
+    "floor": 1,
+    "area": 59.88
+  },
+  {
+    "aptNm": "형곡시영",
+    "dealAmount": "5,400",
+    "date": "2026-04-13",
+    "floor": 3,
+    "area": 50.04
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "22,000",
+    "date": "2026-04-11",
+    "floor": 20,
+    "area": 59.88
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "20,000",
+    "date": "2026-04-11",
+    "floor": 7,
+    "area": 59.88
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "59,800",
+    "date": "2026-04-10",
+    "floor": 20,
+    "area": 123.72
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "22,500",
+    "date": "2026-04-09",
+    "floor": 11,
+    "area": 59.88
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "48,800",
+    "date": "2026-04-09",
+    "floor": 5,
+    "area": 101.82
+  },
+  {
+    "aptNm": "브라운스톤휘경",
+    "dealAmount": "84,000",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 59.96
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "42,000",
+    "date": "2026-04-05",
+    "floor": 18,
+    "area": 134.34
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "9,000",
+    "date": "2026-04-04",
+    "floor": 12,
+    "area": 76.54
+  },
+  {
+    "aptNm": "죽전그린빌",
+    "dealAmount": "20,900",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 84.86
+  },
+  {
+    "aptNm": "브라운스톤휘경",
+    "dealAmount": "93,000",
+    "date": "2026-04-02",
+    "floor": 1,
+    "area": 84.74
+  },
+  {
+    "aptNm": "안성센트럴파밀리에",
+    "dealAmount": "42,000",
+    "date": "2026-03-29",
+    "floor": 19,
+    "area": 84.99
+  },
+  {
+    "aptNm": "안성센트럴파밀리에",
+    "dealAmount": "38,500",
+    "date": "2026-03-28",
+    "floor": 5,
+    "area": 84.99
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "46,250",
+    "date": "2026-03-27",
+    "floor": 9,
+    "area": 101.82
+  },
+  {
+    "aptNm": "대주파크빌",
+    "dealAmount": "68,000",
+    "date": "2026-03-23",
+    "floor": 6,
+    "area": 84.8
+  },
+  {
+    "aptNm": "대주파크빌",
+    "dealAmount": "64,000",
+    "date": "2026-03-19",
+    "floor": 5,
+    "area": 84.8
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "50,000",
+    "date": "2026-03-18",
+    "floor": 1,
+    "area": 84.95
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "23,000",
+    "date": "2026-03-18",
+    "floor": 13,
+    "area": 59.88
+  },
+  {
+    "aptNm": "초원맨션",
+    "dealAmount": "3,200",
+    "date": "2026-03-18",
+    "floor": 8,
+    "area": 59.88
+  },
+  {
+    "aptNm": "브라운스톤휘경",
+    "dealAmount": "108,500",
+    "date": "2026-03-18",
+    "floor": 6,
+    "area": 84.91
+  },
+  {
+    "aptNm": "초원맨션",
+    "dealAmount": "3,300",
+    "date": "2026-03-16",
+    "floor": 3,
+    "area": 59.88
+  },
+  {
+    "aptNm": "안성센트럴파밀리에",
+    "dealAmount": "40,900",
+    "date": "2026-03-08",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "죽전그린빌",
+    "dealAmount": "25,500",
+    "date": "2026-03-04",
+    "floor": 9,
+    "area": 84.86
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "45,000",
+    "date": "2026-03-04",
+    "floor": 2,
+    "area": 101.82
+  },
+  {
+    "aptNm": "형곡시영",
+    "dealAmount": "3,800",
+    "date": "2026-02-24",
+    "floor": 7,
+    "area": 50.04
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "56,800",
+    "date": "2026-02-21",
+    "floor": 5,
+    "area": 84.95
+  },
+  {
+    "aptNm": "죽전그린빌",
+    "dealAmount": "23,800",
+    "date": "2026-02-21",
+    "floor": 13,
+    "area": 84.86
+  },
+  {
+    "aptNm": "브라운스톤휘경",
+    "dealAmount": "94,500",
+    "date": "2026-02-21",
+    "floor": 11,
+    "area": 59.78
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "47,900",
+    "date": "2026-02-20",
+    "floor": 15,
+    "area": 101.82
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "21,800",
+    "date": "2026-02-14",
+    "floor": 16,
+    "area": 59.88
+  },
+  {
+    "aptNm": "형곡시영",
+    "dealAmount": "4,300",
+    "date": "2026-02-09",
+    "floor": 4,
+    "area": 50.04
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "59,000",
+    "date": "2026-02-05",
+    "floor": 6,
+    "area": 84.95
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "45,000",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
+    "aptNm": "연꽃마을대우삼호아파트",
+    "dealAmount": "19,500",
+    "date": "2026-02-05",
+    "floor": 2,
+    "area": 60
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "49,000",
+    "date": "2026-02-03",
+    "floor": 5,
+    "area": 101.82
+  }
+]

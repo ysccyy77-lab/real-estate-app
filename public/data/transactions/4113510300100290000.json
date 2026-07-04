@@ -1,0 +1,471 @@
+[
+  {
+    "aptNm": "한진",
+    "dealAmount": "51,000",
+    "date": "2026-06-30",
+    "floor": 16,
+    "area": 59.937
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "55,000",
+    "date": "2026-06-30",
+    "floor": 18,
+    "area": 84.973
+  },
+  {
+    "aptNm": "양지마을(6단지)(한양603동)",
+    "dealAmount": "146,000",
+    "date": "2026-06-25",
+    "floor": 12,
+    "area": 59.4
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "54,000",
+    "date": "2026-06-19",
+    "floor": 10,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "57,500",
+    "date": "2026-06-18",
+    "floor": 23,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "50,500",
+    "date": "2026-06-18",
+    "floor": 12,
+    "area": 59.937
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "50,000",
+    "date": "2026-06-17",
+    "floor": 5,
+    "area": 59.937
+  },
+  {
+    "aptNm": "문촌마을4단지삼익",
+    "dealAmount": "64,800",
+    "date": "2026-06-12",
+    "floor": 6,
+    "area": 100.84
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "33,000",
+    "date": "2026-06-12",
+    "floor": 9,
+    "area": 75.24
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "53,000",
+    "date": "2026-06-06",
+    "floor": 1,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "59,000",
+    "date": "2026-06-03",
+    "floor": 10,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "56,500",
+    "date": "2026-06-01",
+    "floor": 20,
+    "area": 84.973
+  },
+  {
+    "aptNm": "문촌마을4단지삼익",
+    "dealAmount": "62,000",
+    "date": "2026-05-28",
+    "floor": 4,
+    "area": 100.84
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "58,500",
+    "date": "2026-05-28",
+    "floor": 12,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "50,500",
+    "date": "2026-05-24",
+    "floor": 6,
+    "area": 59.937
+  },
+  {
+    "aptNm": "문촌마을4단지삼익",
+    "dealAmount": "86,000",
+    "date": "2026-05-21",
+    "floor": 24,
+    "area": 189.66
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "31,500",
+    "date": "2026-05-15",
+    "floor": 2,
+    "area": 75.24
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "26,900",
+    "date": "2026-05-13",
+    "floor": 11,
+    "area": 54.9
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "55,600",
+    "date": "2026-05-12",
+    "floor": 25,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "49,000",
+    "date": "2026-05-09",
+    "floor": 14,
+    "area": 59.937
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "53,000",
+    "date": "2026-05-08",
+    "floor": 2,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "53,500",
+    "date": "2026-05-06",
+    "floor": 15,
+    "area": 84.973
+  },
+  {
+    "aptNm": "양지마을(6단지)(한양603동)",
+    "dealAmount": "146,000",
+    "date": "2026-05-06",
+    "floor": 8,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "44,000",
+    "date": "2026-05-02",
+    "floor": 1,
+    "area": 59.937
+  },
+  {
+    "aptNm": "양지마을(6단지)(한양603동)",
+    "dealAmount": "149,500",
+    "date": "2026-04-30",
+    "floor": 18,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한강아파트",
+    "dealAmount": "117,000",
+    "date": "2026-04-22",
+    "floor": 17,
+    "area": 59.4
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "32,800",
+    "date": "2026-04-22",
+    "floor": 4,
+    "area": 75.51
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "54,500",
+    "date": "2026-04-21",
+    "floor": 12,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "52,000",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "52,000",
+    "date": "2026-04-17",
+    "floor": 17,
+    "area": 59.937
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "57,700",
+    "date": "2026-04-16",
+    "floor": 21,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "51,300",
+    "date": "2026-04-15",
+    "floor": 9,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "54,000",
+    "date": "2026-04-13",
+    "floor": 15,
+    "area": 84.973
+  },
+  {
+    "aptNm": "문촌마을4단지삼익",
+    "dealAmount": "69,500",
+    "date": "2026-04-09",
+    "floor": 13,
+    "area": 100.84
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "54,700",
+    "date": "2026-04-06",
+    "floor": 23,
+    "area": 84.973
+  },
+  {
+    "aptNm": "양지마을(6단지)(한양603동)",
+    "dealAmount": "147,500",
+    "date": "2026-04-04",
+    "floor": 19,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한강아파트",
+    "dealAmount": "142,500",
+    "date": "2026-04-04",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "문촌마을4단지삼익",
+    "dealAmount": "61,000",
+    "date": "2026-04-02",
+    "floor": 4,
+    "area": 100.84
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "25,500",
+    "date": "2026-04-01",
+    "floor": 6,
+    "area": 61.52
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "53,800",
+    "date": "2026-03-31",
+    "floor": 2,
+    "area": 84.973
+  },
+  {
+    "aptNm": "양지마을(6단지)(한양603동)",
+    "dealAmount": "142,000",
+    "date": "2026-03-31",
+    "floor": 22,
+    "area": 59.76
+  },
+  {
+    "aptNm": "한강아파트",
+    "dealAmount": "139,500",
+    "date": "2026-03-30",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "30,400",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 66.56
+  },
+  {
+    "aptNm": "한강아파트",
+    "dealAmount": "139,500",
+    "date": "2026-03-26",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "50,700",
+    "date": "2026-03-24",
+    "floor": 14,
+    "area": 59.937
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "43,500",
+    "date": "2026-03-23",
+    "floor": 1,
+    "area": 59.937
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "28,500",
+    "date": "2026-03-21",
+    "floor": 12,
+    "area": 61.52
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "33,000",
+    "date": "2026-03-21",
+    "floor": 10,
+    "area": 75.51
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "26,800",
+    "date": "2026-03-20",
+    "floor": 6,
+    "area": 61.52
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "52,000",
+    "date": "2026-03-17",
+    "floor": 6,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "50,000",
+    "date": "2026-03-16",
+    "floor": 7,
+    "area": 59.937
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "50,000",
+    "date": "2026-03-14",
+    "floor": 23,
+    "area": 84.973
+  },
+  {
+    "aptNm": "현대복지",
+    "dealAmount": "14,500",
+    "date": "2026-03-14",
+    "floor": 1,
+    "area": 55.8
+  },
+  {
+    "aptNm": "한강아파트",
+    "dealAmount": "127,500",
+    "date": "2026-03-12",
+    "floor": 20,
+    "area": 59.4
+  },
+  {
+    "aptNm": "한강아파트",
+    "dealAmount": "119,000",
+    "date": "2026-03-10",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "여의도의아침",
+    "dealAmount": "13,200",
+    "date": "2026-03-06",
+    "floor": 9,
+    "area": 12.04
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "51,000",
+    "date": "2026-03-02",
+    "floor": 4,
+    "area": 84.973
+  },
+  {
+    "aptNm": "양지마을(6단지)(한양603동)",
+    "dealAmount": "144,700",
+    "date": "2026-02-26",
+    "floor": 19,
+    "area": 59.76
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "32,200",
+    "date": "2026-02-25",
+    "floor": 5,
+    "area": 75.51
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "58,000",
+    "date": "2026-02-24",
+    "floor": 18,
+    "area": 84.973
+  },
+  {
+    "aptNm": "한강아파트",
+    "dealAmount": "149,000",
+    "date": "2026-02-19",
+    "floor": 20,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "53,000",
+    "date": "2026-02-12",
+    "floor": 12,
+    "area": 84.973
+  },
+  {
+    "aptNm": "양지마을(6단지)(한양603동)",
+    "dealAmount": "140,000",
+    "date": "2026-02-12",
+    "floor": 18,
+    "area": 59.76
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "28,500",
+    "date": "2026-02-12",
+    "floor": 9,
+    "area": 64.62
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "25,700",
+    "date": "2026-02-10",
+    "floor": 7,
+    "area": 54.9
+  },
+  {
+    "aptNm": "문촌마을4단지삼익",
+    "dealAmount": "70,000",
+    "date": "2026-02-09",
+    "floor": 16,
+    "area": 100.84
+  },
+  {
+    "aptNm": "한강아파트",
+    "dealAmount": "120,000",
+    "date": "2026-02-07",
+    "floor": 13,
+    "area": 59.4
+  }
+]

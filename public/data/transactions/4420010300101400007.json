@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "동아2",
+    "dealAmount": "9,000",
+    "date": "2026-06-27",
+    "floor": 19,
+    "area": 59.806
+  },
+  {
+    "aptNm": "동아2",
+    "dealAmount": "9,000",
+    "date": "2026-05-03",
+    "floor": 12,
+    "area": 59.806
+  },
+  {
+    "aptNm": "동아2",
+    "dealAmount": "9,000",
+    "date": "2026-03-30",
+    "floor": 5,
+    "area": 59.806
+  },
+  {
+    "aptNm": "동아2",
+    "dealAmount": "11,000",
+    "date": "2026-03-18",
+    "floor": 18,
+    "area": 59.806
+  },
+  {
+    "aptNm": "동아2",
+    "dealAmount": "11,800",
+    "date": "2026-03-11",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "동아2",
+    "dealAmount": "9,000",
+    "date": "2026-02-22",
+    "floor": 5,
+    "area": 59.806
+  },
+  {
+    "aptNm": "동아2",
+    "dealAmount": "8,000",
+    "date": "2026-02-21",
+    "floor": 9,
+    "area": 59.806
+  }
+]

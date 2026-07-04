@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "신동아",
+    "dealAmount": "460,000",
+    "date": "2026-05-21",
+    "floor": 12,
+    "area": 166.98
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "420,000",
+    "date": "2026-05-16",
+    "floor": 2,
+    "area": 166.98
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "503,000",
+    "date": "2026-04-16",
+    "floor": 7,
+    "area": 166.98
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "488,000",
+    "date": "2026-04-03",
+    "floor": 11,
+    "area": 140.81
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "450,000",
+    "date": "2026-03-21",
+    "floor": 6,
+    "area": 140.81
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "387,000",
+    "date": "2026-03-16",
+    "floor": 9,
+    "area": 140.81
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "370,000",
+    "date": "2026-02-28",
+    "floor": 11,
+    "area": 95.66
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "680,000",
+    "date": "2026-02-25",
+    "floor": 7,
+    "area": 210.25
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "370,000",
+    "date": "2026-02-23",
+    "floor": 13,
+    "area": 95.66
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "360,000",
+    "date": "2026-02-08",
+    "floor": 11,
+    "area": 95.66
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "475,000",
+    "date": "2026-02-07",
+    "floor": 6,
+    "area": 140.81
+  }
+]

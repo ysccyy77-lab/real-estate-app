@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "우주그린가든",
+    "dealAmount": "15,500",
+    "date": "2026-05-21",
+    "floor": 6,
+    "area": 84.855
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "23,000",
+    "date": "2026-05-16",
+    "floor": 16,
+    "area": 84.85
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "15,500",
+    "date": "2026-05-16",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "14,400",
+    "date": "2026-05-11",
+    "floor": 12,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "26,000",
+    "date": "2026-05-10",
+    "floor": 16,
+    "area": 105.42
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "13,500",
+    "date": "2026-05-08",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "24,000",
+    "date": "2026-04-28",
+    "floor": 12,
+    "area": 84.85
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "15,800",
+    "date": "2026-04-21",
+    "floor": 17,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "13,600",
+    "date": "2026-04-02",
+    "floor": 23,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "13,300",
+    "date": "2026-03-27",
+    "floor": 9,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "15,000",
+    "date": "2026-03-20",
+    "floor": 22,
+    "area": 59.9
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "15,300",
+    "date": "2026-02-22",
+    "floor": 20,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "14,200",
+    "date": "2026-02-20",
+    "floor": 14,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "26,500",
+    "date": "2026-02-05",
+    "floor": 4,
+    "area": 84.85
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "삼호우주",
+    "dealAmount": "33,000",
+    "date": "2026-05-15",
+    "floor": 14,
+    "area": 59.96
+  },
+  {
+    "aptNm": "삼호우주",
+    "dealAmount": "31,000",
+    "date": "2026-04-28",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "삼호우주",
+    "dealAmount": "40,500",
+    "date": "2026-04-24",
+    "floor": 10,
+    "area": 84.82
+  },
+  {
+    "aptNm": "삼호우주",
+    "dealAmount": "32,800",
+    "date": "2026-04-17",
+    "floor": 10,
+    "area": 59.96
+  },
+  {
+    "aptNm": "삼호우주",
+    "dealAmount": "35,500",
+    "date": "2026-04-13",
+    "floor": 10,
+    "area": 59.96
+  }
+]

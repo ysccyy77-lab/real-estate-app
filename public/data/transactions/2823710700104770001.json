@@ -1,0 +1,212 @@
+[
+  {
+    "aptNm": "대동",
+    "dealAmount": "26,000",
+    "date": "2026-06-28",
+    "floor": 4,
+    "area": 43.295
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "28,700",
+    "date": "2026-06-13",
+    "floor": 4,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "29,300",
+    "date": "2026-06-11",
+    "floor": 19,
+    "area": 59.89
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "28,600",
+    "date": "2026-06-07",
+    "floor": 5,
+    "area": 48.48
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "27,000",
+    "date": "2026-06-02",
+    "floor": 6,
+    "area": 46.145
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "29,500",
+    "date": "2026-05-31",
+    "floor": 12,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "31,400",
+    "date": "2026-05-30",
+    "floor": 16,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "28,800",
+    "date": "2026-05-25",
+    "floor": 5,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "26,300",
+    "date": "2026-05-23",
+    "floor": 1,
+    "area": 59.89
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "32,000",
+    "date": "2026-05-16",
+    "floor": 2,
+    "area": 48.48
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "27,900",
+    "date": "2026-05-12",
+    "floor": 5,
+    "area": 46.145
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "31,000",
+    "date": "2026-05-08",
+    "floor": 6,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "31,500",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "31,000",
+    "date": "2026-05-02",
+    "floor": 8,
+    "area": 59.89
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "22,500",
+    "date": "2026-04-18",
+    "floor": 3,
+    "area": 40.445
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "23,500",
+    "date": "2026-04-11",
+    "floor": 4,
+    "area": 40.445
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "27,200",
+    "date": "2026-04-09",
+    "floor": 1,
+    "area": 43.295
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "23,800",
+    "date": "2026-04-07",
+    "floor": 1,
+    "area": 40.445
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "27,000",
+    "date": "2026-04-04",
+    "floor": 3,
+    "area": 43.295
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "22,000",
+    "date": "2026-04-03",
+    "floor": 6,
+    "area": 43.295
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "28,500",
+    "date": "2026-03-28",
+    "floor": 5,
+    "area": 48.48
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "32,000",
+    "date": "2026-03-22",
+    "floor": 14,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "22,400",
+    "date": "2026-03-22",
+    "floor": 4,
+    "area": 49.36
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "31,200",
+    "date": "2026-03-20",
+    "floor": 9,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "23,000",
+    "date": "2026-03-12",
+    "floor": 11,
+    "area": 49.36
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "23,000",
+    "date": "2026-03-12",
+    "floor": 12,
+    "area": 49.36
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "23,800",
+    "date": "2026-03-12",
+    "floor": 1,
+    "area": 40.445
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "29,800",
+    "date": "2026-03-10",
+    "floor": 12,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "32,000",
+    "date": "2026-03-04",
+    "floor": 11,
+    "area": 59.89
+  },
+  {
+    "aptNm": "울산옥현1주공",
+    "dealAmount": "32,600",
+    "date": "2026-02-28",
+    "floor": 18,
+    "area": 59.89
+  }
+]

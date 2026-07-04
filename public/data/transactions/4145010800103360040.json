@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "라인",
+    "dealAmount": "70,400",
+    "date": "2026-06-20",
+    "floor": 16,
+    "area": 84.69
+  },
+  {
+    "aptNm": "라인",
+    "dealAmount": "45,000",
+    "date": "2026-04-20",
+    "floor": 10,
+    "area": 59.4
+  },
+  {
+    "aptNm": "라인",
+    "dealAmount": "56,000",
+    "date": "2026-04-02",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "라인",
+    "dealAmount": "48,500",
+    "date": "2026-02-19",
+    "floor": 2,
+    "area": 59.4
+  }
+]

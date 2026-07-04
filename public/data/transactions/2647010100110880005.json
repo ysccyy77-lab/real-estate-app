@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "다뉴브",
+    "dealAmount": "30,300",
+    "date": "2026-06-16",
+    "floor": 22,
+    "area": 84.9
+  },
+  {
+    "aptNm": "다뉴브",
+    "dealAmount": "28,000",
+    "date": "2026-04-23",
+    "floor": 5,
+    "area": 83.16
+  },
+  {
+    "aptNm": "다뉴브",
+    "dealAmount": "29,000",
+    "date": "2026-03-21",
+    "floor": 24,
+    "area": 84.9
+  },
+  {
+    "aptNm": "다뉴브",
+    "dealAmount": "31,000",
+    "date": "2026-03-12",
+    "floor": 6,
+    "area": 83.16
+  }
+]

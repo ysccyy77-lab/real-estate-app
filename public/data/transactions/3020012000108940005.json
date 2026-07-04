@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "SK허브",
+    "dealAmount": "29,500",
+    "date": "2026-06-30",
+    "floor": 6,
+    "area": 84.65
+  },
+  {
+    "aptNm": "SK허브",
+    "dealAmount": "31,500",
+    "date": "2026-06-17",
+    "floor": 15,
+    "area": 84.65
+  },
+  {
+    "aptNm": "SK허브",
+    "dealAmount": "31,500",
+    "date": "2026-06-06",
+    "floor": 9,
+    "area": 84.65
+  },
+  {
+    "aptNm": "SK허브",
+    "dealAmount": "30,100",
+    "date": "2026-05-19",
+    "floor": 3,
+    "area": 84.65
+  }
+]

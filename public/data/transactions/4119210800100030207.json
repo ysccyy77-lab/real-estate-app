@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "중동대림",
+    "dealAmount": "57,900",
+    "date": "2026-06-03",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "중동대림",
+    "dealAmount": "46,200",
+    "date": "2026-05-23",
+    "floor": 2,
+    "area": 59.79
+  },
+  {
+    "aptNm": "중동대림",
+    "dealAmount": "56,000",
+    "date": "2026-05-20",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "중동대림",
+    "dealAmount": "54,850",
+    "date": "2026-05-14",
+    "floor": 11,
+    "area": 84.93
+  },
+  {
+    "aptNm": "중동대림",
+    "dealAmount": "39,000",
+    "date": "2026-03-18",
+    "floor": 2,
+    "area": 59.79
+  }
+]

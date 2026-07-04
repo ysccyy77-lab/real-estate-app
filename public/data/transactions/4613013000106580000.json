@@ -1,0 +1,604 @@
+[
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "93,000",
+    "date": "2026-06-28",
+    "floor": 17,
+    "area": 84.92
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "95,000",
+    "date": "2026-06-27",
+    "floor": 7,
+    "area": 84.92
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "30,000",
+    "date": "2026-06-27",
+    "floor": 15,
+    "area": 84.8882
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "95,000",
+    "date": "2026-06-25",
+    "floor": 25,
+    "area": 84.92
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "92,800",
+    "date": "2026-06-21",
+    "floor": 7,
+    "area": 84.92
+  },
+  {
+    "aptNm": "세양",
+    "dealAmount": "172,000",
+    "date": "2026-06-18",
+    "floor": 11,
+    "area": 84.32
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "109,000",
+    "date": "2026-06-15",
+    "floor": 3,
+    "area": 84.9561
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "94,800",
+    "date": "2026-06-13",
+    "floor": 34,
+    "area": 84.97
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "29,000",
+    "date": "2026-06-09",
+    "floor": 10,
+    "area": 84.9427
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "29,000",
+    "date": "2026-06-08",
+    "floor": 23,
+    "area": 84.9864
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "109,500",
+    "date": "2026-06-06",
+    "floor": 3,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "해동마을유승한내들",
+    "dealAmount": "31,500",
+    "date": "2026-06-06",
+    "floor": 12,
+    "area": 84.9536
+  },
+  {
+    "aptNm": "세양",
+    "dealAmount": "187,000",
+    "date": "2026-06-06",
+    "floor": 22,
+    "area": 84.32
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "30,000",
+    "date": "2026-06-04",
+    "floor": 21,
+    "area": 84.9427
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "58,200",
+    "date": "2026-06-02",
+    "floor": 4,
+    "area": 84.9465
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "31,000",
+    "date": "2026-06-02",
+    "floor": 8,
+    "area": 84.8882
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "104,000",
+    "date": "2026-05-31",
+    "floor": 2,
+    "area": 84.9561
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "56,500",
+    "date": "2026-05-30",
+    "floor": 1,
+    "area": 84.9831
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "97,500",
+    "date": "2026-05-30",
+    "floor": 14,
+    "area": 74.8799
+  },
+  {
+    "aptNm": "로데오현대",
+    "dealAmount": "136,000",
+    "date": "2026-05-30",
+    "floor": 8,
+    "area": 55.08
+  },
+  {
+    "aptNm": "세양",
+    "dealAmount": "180,000",
+    "date": "2026-05-30",
+    "floor": 15,
+    "area": 84.32
+  },
+  {
+    "aptNm": "로데오현대",
+    "dealAmount": "123,000",
+    "date": "2026-05-29",
+    "floor": 12,
+    "area": 55.08
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "78,000",
+    "date": "2026-05-28",
+    "floor": 10,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "44,500",
+    "date": "2026-05-26",
+    "floor": 14,
+    "area": 58.65
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "93,000",
+    "date": "2026-05-25",
+    "floor": 25,
+    "area": 84.92
+  },
+  {
+    "aptNm": "세양",
+    "dealAmount": "177,000",
+    "date": "2026-05-25",
+    "floor": 10,
+    "area": 84.32
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "110,000",
+    "date": "2026-05-24",
+    "floor": 9,
+    "area": 84.9586
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "113,500",
+    "date": "2026-05-22",
+    "floor": 19,
+    "area": 84.9586
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "109,000",
+    "date": "2026-05-22",
+    "floor": 5,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "113,000",
+    "date": "2026-05-18",
+    "floor": 18,
+    "area": 84.9586
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "70,000",
+    "date": "2026-05-15",
+    "floor": 16,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "46,000",
+    "date": "2026-05-14",
+    "floor": 10,
+    "area": 59.91
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "92,500",
+    "date": "2026-05-13",
+    "floor": 22,
+    "area": 84.92
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "60,500",
+    "date": "2026-05-09",
+    "floor": 16,
+    "area": 84.9831
+  },
+  {
+    "aptNm": "그린힐스아파트",
+    "dealAmount": "39,600",
+    "date": "2026-05-09",
+    "floor": 8,
+    "area": 59.26
+  },
+  {
+    "aptNm": "로데오현대",
+    "dealAmount": "198,000",
+    "date": "2026-05-06",
+    "floor": 8,
+    "area": 90.94
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "91,000",
+    "date": "2026-05-05",
+    "floor": 29,
+    "area": 84.97
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "30,500",
+    "date": "2026-05-02",
+    "floor": 19,
+    "area": 84.9864
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "41,000",
+    "date": "2026-05-01",
+    "floor": 8,
+    "area": 59.91
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "31,750",
+    "date": "2026-04-30",
+    "floor": 10,
+    "area": 84.9864
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "88,200",
+    "date": "2026-04-29",
+    "floor": 3,
+    "area": 84.92
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "27,000",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 84.8882
+  },
+  {
+    "aptNm": "동일",
+    "dealAmount": "17,000",
+    "date": "2026-04-28",
+    "floor": 7,
+    "area": 75.105
+  },
+  {
+    "aptNm": "로데오현대",
+    "dealAmount": "192,000",
+    "date": "2026-04-21",
+    "floor": 12,
+    "area": 90.94
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "29,000",
+    "date": "2026-04-20",
+    "floor": 24,
+    "area": 84.9427
+  },
+  {
+    "aptNm": "동일",
+    "dealAmount": "15,300",
+    "date": "2026-04-20",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "56,000",
+    "date": "2026-04-17",
+    "floor": 4,
+    "area": 84.9831
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "87,000",
+    "date": "2026-04-16",
+    "floor": 5,
+    "area": 84.97
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "93,000",
+    "date": "2026-04-14",
+    "floor": 29,
+    "area": 84.92
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "34,200",
+    "date": "2026-04-06",
+    "floor": 20,
+    "area": 84.8882
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "105,700",
+    "date": "2026-04-03",
+    "floor": 13,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "66,000",
+    "date": "2026-04-03",
+    "floor": 22,
+    "area": 108.9996
+  },
+  {
+    "aptNm": "해동마을유승한내들",
+    "dealAmount": "31,600",
+    "date": "2026-03-31",
+    "floor": 6,
+    "area": 84.9887
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "59,000",
+    "date": "2026-03-28",
+    "floor": 10,
+    "area": 84.9831
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "89,000",
+    "date": "2026-03-28",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "로데오현대",
+    "dealAmount": "132,000",
+    "date": "2026-03-28",
+    "floor": 10,
+    "area": 55.08
+  },
+  {
+    "aptNm": "동일",
+    "dealAmount": "15,000",
+    "date": "2026-03-25",
+    "floor": 1,
+    "area": 59.895
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "88,000",
+    "date": "2026-03-23",
+    "floor": 18,
+    "area": 84.92
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "31,700",
+    "date": "2026-03-22",
+    "floor": 5,
+    "area": 84.8882
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "28,000",
+    "date": "2026-03-22",
+    "floor": 1,
+    "area": 84.9864
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "64,500",
+    "date": "2026-03-20",
+    "floor": 3,
+    "area": 109.7231
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "58,000",
+    "date": "2026-03-18",
+    "floor": 1,
+    "area": 106.3747
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "112,000",
+    "date": "2026-03-17",
+    "floor": 18,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "31,750",
+    "date": "2026-03-11",
+    "floor": 10,
+    "area": 84.9864
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "48,000",
+    "date": "2026-03-09",
+    "floor": 19,
+    "area": 58.65
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "107,000",
+    "date": "2026-03-07",
+    "floor": 6,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "29,000",
+    "date": "2026-03-07",
+    "floor": 3,
+    "area": 84.8882
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "48,000",
+    "date": "2026-03-07",
+    "floor": 9,
+    "area": 59.91
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "109,000",
+    "date": "2026-03-05",
+    "floor": 13,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "56,500",
+    "date": "2026-03-01",
+    "floor": 13,
+    "area": 84.9465
+  },
+  {
+    "aptNm": "동일",
+    "dealAmount": "22,700",
+    "date": "2026-03-01",
+    "floor": 12,
+    "area": 84.89
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "103,500",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 84.9561
+  },
+  {
+    "aptNm": "동일",
+    "dealAmount": "14,000",
+    "date": "2026-02-27",
+    "floor": 3,
+    "area": 59.895
+  },
+  {
+    "aptNm": "세양",
+    "dealAmount": "128,000",
+    "date": "2026-02-26",
+    "floor": 22,
+    "area": 84.32
+  },
+  {
+    "aptNm": "해동마을유승한내들",
+    "dealAmount": "30,000",
+    "date": "2026-02-25",
+    "floor": 8,
+    "area": 84.9887
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "34,000",
+    "date": "2026-02-21",
+    "floor": 27,
+    "area": 84.9864
+  },
+  {
+    "aptNm": "동일",
+    "dealAmount": "14,750",
+    "date": "2026-02-21",
+    "floor": 2,
+    "area": 59.895
+  },
+  {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "60,000",
+    "date": "2026-02-14",
+    "floor": 10,
+    "area": 84.9831
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "32,000",
+    "date": "2026-02-12",
+    "floor": 14,
+    "area": 84.9427
+  },
+  {
+    "aptNm": "해동마을유승한내들",
+    "dealAmount": "31,500",
+    "date": "2026-02-11",
+    "floor": 6,
+    "area": 84.9536
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "109,000",
+    "date": "2026-02-10",
+    "floor": 6,
+    "area": 84.9586
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "110,000",
+    "date": "2026-02-05",
+    "floor": 17,
+    "area": 84.9586
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "105,000",
+    "date": "2026-02-05",
+    "floor": 16,
+    "area": 84.9561
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "108,500",
+    "date": "2026-02-05",
+    "floor": 15,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "85,000",
+    "date": "2026-02-05",
+    "floor": 6,
+    "area": 84.92
+  },
+  {
+    "aptNm": "은어송마을1단지(풍림아이원)",
+    "dealAmount": "31,000",
+    "date": "2026-02-03",
+    "floor": 9,
+    "area": 84.8882
+  }
+]

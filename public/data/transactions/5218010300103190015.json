@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "엘지",
+    "dealAmount": "13,800",
+    "date": "2026-06-30",
+    "floor": 1,
+    "area": 59.73
+  },
+  {
+    "aptNm": "엘지",
+    "dealAmount": "22,700",
+    "date": "2026-04-30",
+    "floor": 4,
+    "area": 84.808
+  },
+  {
+    "aptNm": "엘지",
+    "dealAmount": "16,500",
+    "date": "2026-04-17",
+    "floor": 10,
+    "area": 59.73
+  },
+  {
+    "aptNm": "엘지",
+    "dealAmount": "14,300",
+    "date": "2026-03-07",
+    "floor": 12,
+    "area": 59.73
+  },
+  {
+    "aptNm": "엘지",
+    "dealAmount": "15,000",
+    "date": "2026-02-20",
+    "floor": 14,
+    "area": 59.73
+  }
+]

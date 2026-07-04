@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "신반포16",
+    "dealAmount": "260,000",
+    "date": "2026-05-15",
+    "floor": 8,
+    "area": 52.32
+  },
+  {
+    "aptNm": "신반포16",
+    "dealAmount": "187,055",
+    "date": "2026-04-24",
+    "floor": 2,
+    "area": 52.58
+  },
+  {
+    "aptNm": "신반포16",
+    "dealAmount": "207,119",
+    "date": "2026-04-03",
+    "floor": 7,
+    "area": 52.32
+  },
+  {
+    "aptNm": "영흥",
+    "dealAmount": "7,900",
+    "date": "2026-03-08",
+    "floor": 7,
+    "area": 58.5
+  },
+  {
+    "aptNm": "신반포16",
+    "dealAmount": "203,846",
+    "date": "2026-02-23",
+    "floor": 1,
+    "area": 53.43
+  },
+  {
+    "aptNm": "신반포16",
+    "dealAmount": "206,619",
+    "date": "2026-02-04",
+    "floor": 5,
+    "area": 52.26
+  },
+  {
+    "aptNm": "영흥",
+    "dealAmount": "7,100",
+    "date": "2026-02-03",
+    "floor": 5,
+    "area": 58.5
+  }
+]

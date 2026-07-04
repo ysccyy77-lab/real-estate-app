@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "소라",
+    "dealAmount": "18,500",
+    "date": "2026-06-17",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "15,500",
+    "date": "2026-05-21",
+    "floor": 12,
+    "area": 84.84
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "16,850",
+    "date": "2026-05-18",
+    "floor": 5,
+    "area": 84.84
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "12,100",
+    "date": "2026-05-11",
+    "floor": 9,
+    "area": 59.94
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "11,800",
+    "date": "2026-04-20",
+    "floor": 10,
+    "area": 59.94
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "12,400",
+    "date": "2026-03-11",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "17,500",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 84.84
+  },
+  {
+    "aptNm": "소라",
+    "dealAmount": "7,500",
+    "date": "2026-02-14",
+    "floor": 1,
+    "area": 59.94
+  }
+]

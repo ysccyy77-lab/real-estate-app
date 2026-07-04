@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "영남",
+    "dealAmount": "11,100",
+    "date": "2026-05-02",
+    "floor": 2,
+    "area": 43.59
+  },
+  {
+    "aptNm": "영남",
+    "dealAmount": "9,000",
+    "date": "2026-04-13",
+    "floor": 6,
+    "area": 53.97
+  },
+  {
+    "aptNm": "영남",
+    "dealAmount": "11,800",
+    "date": "2026-03-10",
+    "floor": 2,
+    "area": 43.59
+  },
+  {
+    "aptNm": "영남",
+    "dealAmount": "9,000",
+    "date": "2026-03-05",
+    "floor": 4,
+    "area": 43.59
+  },
+  {
+    "aptNm": "영남",
+    "dealAmount": "15,000",
+    "date": "2026-02-03",
+    "floor": 1,
+    "area": 53.97
+  }
+]

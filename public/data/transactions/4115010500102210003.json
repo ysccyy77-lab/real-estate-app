@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "청우대림1",
+    "dealAmount": "8,500",
+    "date": "2026-06-15",
+    "floor": 2,
+    "area": 84.89
+  },
+  {
+    "aptNm": "청우대림1",
+    "dealAmount": "13,200",
+    "date": "2026-05-26",
+    "floor": 2,
+    "area": 84.89
+  },
+  {
+    "aptNm": "용현현대2차",
+    "dealAmount": "26,000",
+    "date": "2026-04-28",
+    "floor": 7,
+    "area": 59.445
+  },
+  {
+    "aptNm": "용현현대2차",
+    "dealAmount": "38,500",
+    "date": "2026-04-20",
+    "floor": 5,
+    "area": 84.36
+  },
+  {
+    "aptNm": "동우",
+    "dealAmount": "4,700",
+    "date": "2026-03-03",
+    "floor": 1,
+    "area": 50.79
+  }
+]

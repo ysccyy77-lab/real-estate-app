@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "일동지에닌",
+    "dealAmount": "33,500",
+    "date": "2026-06-07",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "일동지에닌",
+    "dealAmount": "37,500",
+    "date": "2026-06-04",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "일동지에닌",
+    "dealAmount": "36,900",
+    "date": "2026-05-04",
+    "floor": 24,
+    "area": 84.96
+  },
+  {
+    "aptNm": "일동지에닌",
+    "dealAmount": "35,500",
+    "date": "2026-05-02",
+    "floor": 18,
+    "area": 84.96
+  },
+  {
+    "aptNm": "일동지에닌",
+    "dealAmount": "34,800",
+    "date": "2026-03-14",
+    "floor": 6,
+    "area": 84.89
+  },
+  {
+    "aptNm": "일동지에닌",
+    "dealAmount": "36,800",
+    "date": "2026-03-07",
+    "floor": 17,
+    "area": 84.97
+  },
+  {
+    "aptNm": "일동지에닌",
+    "dealAmount": "32,900",
+    "date": "2026-02-24",
+    "floor": 5,
+    "area": 84.99
+  }
+]

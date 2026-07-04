@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "남산주공1",
+    "dealAmount": "6,200",
+    "date": "2026-06-16",
+    "floor": 2,
+    "area": 38.52
+  },
+  {
+    "aptNm": "남산주공1",
+    "dealAmount": "6,900",
+    "date": "2026-05-03",
+    "floor": 2,
+    "area": 47.25
+  },
+  {
+    "aptNm": "더프라임시티",
+    "dealAmount": "7,300",
+    "date": "2026-03-31",
+    "floor": 11,
+    "area": 18.0295
+  },
+  {
+    "aptNm": "남산주공1",
+    "dealAmount": "5,500",
+    "date": "2026-03-27",
+    "floor": 5,
+    "area": 38.52
+  },
+  {
+    "aptNm": "남산주공1",
+    "dealAmount": "6,500",
+    "date": "2026-03-20",
+    "floor": 2,
+    "area": 38.52
+  },
+  {
+    "aptNm": "신현대",
+    "dealAmount": "3,000",
+    "date": "2026-03-18",
+    "floor": 4,
+    "area": 19.5028
+  },
+  {
+    "aptNm": "청와",
+    "dealAmount": "15,800",
+    "date": "2026-03-07",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "청와",
+    "dealAmount": "14,800",
+    "date": "2026-03-04",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "신현대",
+    "dealAmount": "3,800",
+    "date": "2026-02-28",
+    "floor": 2,
+    "area": 19.5028
+  },
+  {
+    "aptNm": "더프라임시티",
+    "dealAmount": "13,500",
+    "date": "2026-02-26",
+    "floor": 9,
+    "area": 31.2747
+  },
+  {
+    "aptNm": "더프라임시티",
+    "dealAmount": "7,300",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 18.0295
+  },
+  {
+    "aptNm": "남산주공1",
+    "dealAmount": "7,000",
+    "date": "2026-02-03",
+    "floor": 4,
+    "area": 38.52
+  }
+]

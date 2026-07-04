@@ -1,0 +1,996 @@
+[
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,300",
+    "date": "2026-07-01",
+    "floor": 5,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "50,000",
+    "date": "2026-06-30",
+    "floor": 8,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,200",
+    "date": "2026-06-30",
+    "floor": 9,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "38,500",
+    "date": "2026-06-29",
+    "floor": 12,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "45,250",
+    "date": "2026-06-28",
+    "floor": 4,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "47,900",
+    "date": "2026-06-27",
+    "floor": 20,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "40,000",
+    "date": "2026-06-27",
+    "floor": 16,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "49,700",
+    "date": "2026-06-20",
+    "floor": 8,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "47,900",
+    "date": "2026-06-20",
+    "floor": 18,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "중흥에스클래스프라디움",
+    "dealAmount": "42,500",
+    "date": "2026-06-20",
+    "floor": 20,
+    "area": 91.2473
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "47,000",
+    "date": "2026-06-18",
+    "floor": 10,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "태화(416)",
+    "dealAmount": "20,000",
+    "date": "2026-06-17",
+    "floor": 8,
+    "area": 59.93
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "36,500",
+    "date": "2026-06-14",
+    "floor": 14,
+    "area": 59.435
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "22,000",
+    "date": "2026-06-13",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "12,300",
+    "date": "2026-06-13",
+    "floor": 9,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,600",
+    "date": "2026-06-13",
+    "floor": 14,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,000",
+    "date": "2026-06-10",
+    "floor": 10,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "52,300",
+    "date": "2026-06-06",
+    "floor": 22,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,500",
+    "date": "2026-06-06",
+    "floor": 16,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "10,400",
+    "date": "2026-06-06",
+    "floor": 15,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "38,000",
+    "date": "2026-06-05",
+    "floor": 15,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "태화(416)",
+    "dealAmount": "20,000",
+    "date": "2026-06-05",
+    "floor": 12,
+    "area": 59.93
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "9,500",
+    "date": "2026-06-05",
+    "floor": 3,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "17,000",
+    "date": "2026-06-04",
+    "floor": 16,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "50,000",
+    "date": "2026-06-03",
+    "floor": 16,
+    "area": 84.8086
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "38,000",
+    "date": "2026-06-03",
+    "floor": 8,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "39,500",
+    "date": "2026-06-01",
+    "floor": 8,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "47,800",
+    "date": "2026-05-30",
+    "floor": 10,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "52,500",
+    "date": "2026-05-28",
+    "floor": 24,
+    "area": 84.8086
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "51,700",
+    "date": "2026-05-24",
+    "floor": 11,
+    "area": 84.8086
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "48,000",
+    "date": "2026-05-23",
+    "floor": 3,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "10,750",
+    "date": "2026-05-21",
+    "floor": 10,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "35,800",
+    "date": "2026-05-20",
+    "floor": 13,
+    "area": 59.435
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,000",
+    "date": "2026-05-16",
+    "floor": 19,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "12,000",
+    "date": "2026-05-15",
+    "floor": 13,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "36,000",
+    "date": "2026-05-14",
+    "floor": 17,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "22,000",
+    "date": "2026-05-13",
+    "floor": 5,
+    "area": 134.34
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,900",
+    "date": "2026-05-13",
+    "floor": 9,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "43,500",
+    "date": "2026-05-12",
+    "floor": 5,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "47,000",
+    "date": "2026-05-10",
+    "floor": 25,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "이천마장리젠시빌란트",
+    "dealAmount": "28,460",
+    "date": "2026-05-08",
+    "floor": 10,
+    "area": 57.1356
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "51,000",
+    "date": "2026-05-08",
+    "floor": 6,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "21,800",
+    "date": "2026-05-08",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "51,300",
+    "date": "2026-05-07",
+    "floor": 14,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "45,500",
+    "date": "2026-05-07",
+    "floor": 6,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "12,500",
+    "date": "2026-05-04",
+    "floor": 10,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,500",
+    "date": "2026-05-04",
+    "floor": 17,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "19,000",
+    "date": "2026-05-04",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "35,000",
+    "date": "2026-04-30",
+    "floor": 25,
+    "area": 59.435
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,000",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 59.78
+  },
+  {
+    "aptNm": "노블레스",
+    "dealAmount": "59,000",
+    "date": "2026-04-27",
+    "floor": 2,
+    "area": 78.12
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "23,500",
+    "date": "2026-04-27",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "46,500",
+    "date": "2026-04-25",
+    "floor": 9,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "46,200",
+    "date": "2026-04-25",
+    "floor": 12,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "20,800",
+    "date": "2026-04-25",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "14,800",
+    "date": "2026-04-25",
+    "floor": 18,
+    "area": 59.78
+  },
+  {
+    "aptNm": "이천마장리젠시빌란트",
+    "dealAmount": "28,240",
+    "date": "2026-04-24",
+    "floor": 10,
+    "area": 57.1356
+  },
+  {
+    "aptNm": "아이파크",
+    "dealAmount": "155,500",
+    "date": "2026-04-24",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,400",
+    "date": "2026-04-24",
+    "floor": 9,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "25,300",
+    "date": "2026-04-24",
+    "floor": 17,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "20,000",
+    "date": "2026-04-20",
+    "floor": 13,
+    "area": 165.51
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "12,600",
+    "date": "2026-04-20",
+    "floor": 17,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "45,300",
+    "date": "2026-04-18",
+    "floor": 16,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "39,000",
+    "date": "2026-04-18",
+    "floor": 9,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "이천마장리젠시빌란트",
+    "dealAmount": "25,820",
+    "date": "2026-04-17",
+    "floor": 1,
+    "area": 57.1356
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "12,100",
+    "date": "2026-04-17",
+    "floor": 2,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "21,100",
+    "date": "2026-04-17",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "46,800",
+    "date": "2026-04-16",
+    "floor": 18,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "23,000",
+    "date": "2026-04-14",
+    "floor": 14,
+    "area": 101.86
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "50,200",
+    "date": "2026-04-13",
+    "floor": 12,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,000",
+    "date": "2026-04-13",
+    "floor": 5,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,400",
+    "date": "2026-04-12",
+    "floor": 3,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "37,000",
+    "date": "2026-04-11",
+    "floor": 21,
+    "area": 59.435
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "52,300",
+    "date": "2026-04-10",
+    "floor": 19,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "51,000",
+    "date": "2026-04-09",
+    "floor": 18,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,500",
+    "date": "2026-04-08",
+    "floor": 14,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "18,300",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "중흥에스클래스프라디움",
+    "dealAmount": "42,500",
+    "date": "2026-04-05",
+    "floor": 8,
+    "area": 91.2473
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "36,500",
+    "date": "2026-04-01",
+    "floor": 4,
+    "area": 59.435
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "37,000",
+    "date": "2026-03-31",
+    "floor": 26,
+    "area": 59.435
+  },
+  {
+    "aptNm": "아이파크",
+    "dealAmount": "166,000",
+    "date": "2026-03-31",
+    "floor": 11,
+    "area": 84.96
+  },
+  {
+    "aptNm": "이천마장리젠시빌란트",
+    "dealAmount": "28,200",
+    "date": "2026-03-30",
+    "floor": 17,
+    "area": 57.1356
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "38,000",
+    "date": "2026-03-30",
+    "floor": 5,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "54,800",
+    "date": "2026-03-28",
+    "floor": 21,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "46,000",
+    "date": "2026-03-28",
+    "floor": 11,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,800",
+    "date": "2026-03-28",
+    "floor": 16,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "46,000",
+    "date": "2026-03-26",
+    "floor": 23,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "45,500",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "24,000",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 101.86
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "23,800",
+    "date": "2026-03-25",
+    "floor": 12,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "38,000",
+    "date": "2026-03-24",
+    "floor": 5,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "아이파크",
+    "dealAmount": "161,800",
+    "date": "2026-03-21",
+    "floor": 18,
+    "area": 84.96
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "12,250",
+    "date": "2026-03-21",
+    "floor": 15,
+    "area": 59.78
+  },
+  {
+    "aptNm": "이천마장리젠시빌란트",
+    "dealAmount": "28,100",
+    "date": "2026-03-20",
+    "floor": 6,
+    "area": 57.1356
+  },
+  {
+    "aptNm": "효자2차롯데",
+    "dealAmount": "25,200",
+    "date": "2026-03-18",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "중흥에스클래스프라디움",
+    "dealAmount": "56,500",
+    "date": "2026-03-17",
+    "floor": 13,
+    "area": 105.5501
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "45,700",
+    "date": "2026-03-16",
+    "floor": 14,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "중흥에스클래스프라디움",
+    "dealAmount": "42,500",
+    "date": "2026-03-16",
+    "floor": 3,
+    "area": 91.2473
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "22,500",
+    "date": "2026-03-16",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,900",
+    "date": "2026-03-16",
+    "floor": 17,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "51,000",
+    "date": "2026-03-15",
+    "floor": 19,
+    "area": 84.8086
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "43,800",
+    "date": "2026-03-14",
+    "floor": 5,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "38,000",
+    "date": "2026-03-09",
+    "floor": 27,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "24,000",
+    "date": "2026-03-09",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "50,000",
+    "date": "2026-03-07",
+    "floor": 8,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,500",
+    "date": "2026-03-07",
+    "floor": 14,
+    "area": 59.78
+  },
+  {
+    "aptNm": "효자2차롯데",
+    "dealAmount": "17,500",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "49,800",
+    "date": "2026-03-06",
+    "floor": 6,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "34,400",
+    "date": "2026-03-06",
+    "floor": 19,
+    "area": 59.435
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "12,120",
+    "date": "2026-03-06",
+    "floor": 6,
+    "area": 59.78
+  },
+  {
+    "aptNm": "태화(416)",
+    "dealAmount": "20,900",
+    "date": "2026-03-05",
+    "floor": 14,
+    "area": 59.93
+  },
+  {
+    "aptNm": "태화(416)",
+    "dealAmount": "18,800",
+    "date": "2026-03-03",
+    "floor": 3,
+    "area": 59.93
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "10,000",
+    "date": "2026-03-03",
+    "floor": 20,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "45,800",
+    "date": "2026-02-28",
+    "floor": 23,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "47,000",
+    "date": "2026-02-28",
+    "floor": 14,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "11,000",
+    "date": "2026-02-28",
+    "floor": 19,
+    "area": 59.78
+  },
+  {
+    "aptNm": "이천마장리젠시빌란트",
+    "dealAmount": "25,820",
+    "date": "2026-02-27",
+    "floor": 1,
+    "area": 57.1356
+  },
+  {
+    "aptNm": "중흥에스클래스프라디움",
+    "dealAmount": "43,000",
+    "date": "2026-02-26",
+    "floor": 18,
+    "area": 91.2473
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "53,500",
+    "date": "2026-02-25",
+    "floor": 22,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "30,000",
+    "date": "2026-02-22",
+    "floor": 13,
+    "area": 134.34
+  },
+  {
+    "aptNm": "아이파크",
+    "dealAmount": "154,700",
+    "date": "2026-02-19",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "10,500",
+    "date": "2026-02-19",
+    "floor": 13,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "52,500",
+    "date": "2026-02-14",
+    "floor": 12,
+    "area": 84.8086
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "40,000",
+    "date": "2026-02-13",
+    "floor": 22,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "12,200",
+    "date": "2026-02-13",
+    "floor": 17,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "43,000",
+    "date": "2026-02-12",
+    "floor": 22,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "38,700",
+    "date": "2026-02-12",
+    "floor": 19,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "21,700",
+    "date": "2026-02-12",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "52,800",
+    "date": "2026-02-09",
+    "floor": 26,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "24,000",
+    "date": "2026-02-09",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "10,300",
+    "date": "2026-02-09",
+    "floor": 3,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "14,500",
+    "date": "2026-02-09",
+    "floor": 11,
+    "area": 59.78
+  },
+  {
+    "aptNm": "태화(416)",
+    "dealAmount": "21,000",
+    "date": "2026-02-08",
+    "floor": 16,
+    "area": 59.93
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "40,000",
+    "date": "2026-02-06",
+    "floor": 25,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "38,900",
+    "date": "2026-02-06",
+    "floor": 1,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,300",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "23,500",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 134.34
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "49,700",
+    "date": "2026-02-03",
+    "floor": 12,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "46,000",
+    "date": "2026-02-03",
+    "floor": 24,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "10,900",
+    "date": "2026-02-02",
+    "floor": 11,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "46,100",
+    "date": "2026-02-01",
+    "floor": 10,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "37,800",
+    "date": "2026-02-01",
+    "floor": 24,
+    "area": 59.5302
+  }
+]

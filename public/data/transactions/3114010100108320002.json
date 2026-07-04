@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "동진1",
+    "dealAmount": "15,000",
+    "date": "2026-06-20",
+    "floor": 1,
+    "area": 54.84
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "23,300",
+    "date": "2026-06-10",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "11,000",
+    "date": "2026-05-14",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "동진1",
+    "dealAmount": "16,000",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 57.12
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "13,800",
+    "date": "2026-03-30",
+    "floor": 3,
+    "area": 59.94
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "12,350",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 58.05
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "22,400",
+    "date": "2026-03-17",
+    "floor": 19,
+    "area": 84.96
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "15,000",
+    "date": "2026-03-16",
+    "floor": 16,
+    "area": 58.05
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "12,000",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 58.05
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "26,500",
+    "date": "2026-02-08",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "22,600",
+    "date": "2026-02-07",
+    "floor": 15,
+    "area": 84.96
+  }
+]

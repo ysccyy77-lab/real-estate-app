@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "기산상가",
+    "dealAmount": "14,800",
+    "date": "2026-06-10",
+    "floor": 7,
+    "area": 84.48
+  },
+  {
+    "aptNm": "기산상가",
+    "dealAmount": "7,700",
+    "date": "2026-05-21",
+    "floor": 7,
+    "area": 43.98
+  },
+  {
+    "aptNm": "기산상가",
+    "dealAmount": "16,500",
+    "date": "2026-05-12",
+    "floor": 17,
+    "area": 166.76
+  },
+  {
+    "aptNm": "기산상가",
+    "dealAmount": "6,800",
+    "date": "2026-03-12",
+    "floor": 8,
+    "area": 43.98
+  },
+  {
+    "aptNm": "기산상가",
+    "dealAmount": "15,000",
+    "date": "2026-03-07",
+    "floor": 13,
+    "area": 84.48
+  },
+  {
+    "aptNm": "기산상가",
+    "dealAmount": "13,000",
+    "date": "2026-02-23",
+    "floor": 5,
+    "area": 84.48
+  }
+]

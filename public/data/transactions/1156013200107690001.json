@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "한성",
+    "dealAmount": "128,000",
+    "date": "2026-06-29",
+    "floor": 21,
+    "area": 59.87
+  },
+  {
+    "aptNm": "영화(6차)",
+    "dealAmount": "27,000",
+    "date": "2026-06-25",
+    "floor": 1,
+    "area": 51.845
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "140,000",
+    "date": "2026-05-12",
+    "floor": 10,
+    "area": 134.33
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "148,000",
+    "date": "2026-05-07",
+    "floor": 12,
+    "area": 134.33
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "119,500",
+    "date": "2026-05-05",
+    "floor": 6,
+    "area": 59.87
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "119,000",
+    "date": "2026-04-02",
+    "floor": 5,
+    "area": 59.87
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "119,500",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 59.87
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "114,500",
+    "date": "2026-02-09",
+    "floor": 17,
+    "area": 59.87
+  }
+]

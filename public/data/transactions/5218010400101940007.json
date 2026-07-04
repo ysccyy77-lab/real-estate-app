@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "삼화그린",
+    "dealAmount": "28,400",
+    "date": "2026-06-09",
+    "floor": 9,
+    "area": 118.215
+  },
+  {
+    "aptNm": "동양팰리스",
+    "dealAmount": "19,000",
+    "date": "2026-06-02",
+    "floor": 25,
+    "area": 44.84
+  },
+  {
+    "aptNm": "삼화그린",
+    "dealAmount": "25,000",
+    "date": "2026-03-31",
+    "floor": 6,
+    "area": 84.6
+  },
+  {
+    "aptNm": "동양팰리스",
+    "dealAmount": "27,200",
+    "date": "2026-03-17",
+    "floor": 11,
+    "area": 59.45
+  },
+  {
+    "aptNm": "삼화그린",
+    "dealAmount": "26,700",
+    "date": "2026-03-10",
+    "floor": 15,
+    "area": 84.6
+  },
+  {
+    "aptNm": "삼화그린",
+    "dealAmount": "12,000",
+    "date": "2026-03-03",
+    "floor": 17,
+    "area": 59.85
+  }
+]

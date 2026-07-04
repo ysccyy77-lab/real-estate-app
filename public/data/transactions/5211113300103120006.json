@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "우미",
+    "dealAmount": "9,700",
+    "date": "2026-06-21",
+    "floor": 1,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "10,000",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 59.96
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "11,900",
+    "date": "2026-06-12",
+    "floor": 19,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "10,000",
+    "date": "2026-06-08",
+    "floor": 10,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "12,300",
+    "date": "2026-05-09",
+    "floor": 18,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "13,500",
+    "date": "2026-04-28",
+    "floor": 16,
+    "area": 59.96
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "13,100",
+    "date": "2026-04-07",
+    "floor": 10,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "12,100",
+    "date": "2026-03-14",
+    "floor": 12,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "12,800",
+    "date": "2026-03-14",
+    "floor": 18,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "11,500",
+    "date": "2026-02-10",
+    "floor": 5,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
+    "dealAmount": "12,500",
+    "date": "2026-02-02",
+    "floor": 5,
+    "area": 60
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "삼진동산",
+    "dealAmount": "3,100",
+    "date": "2026-05-30",
+    "floor": 1,
+    "area": 29.25
+  },
+  {
+    "aptNm": "삼진동산",
+    "dealAmount": "4,250",
+    "date": "2026-04-16",
+    "floor": 12,
+    "area": 39.84
+  },
+  {
+    "aptNm": "삼진동산",
+    "dealAmount": "4,100",
+    "date": "2026-03-31",
+    "floor": 5,
+    "area": 39.84
+  },
+  {
+    "aptNm": "삼진동산",
+    "dealAmount": "6,500",
+    "date": "2026-03-16",
+    "floor": 11,
+    "area": 59.94
+  }
+]

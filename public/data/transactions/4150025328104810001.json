@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "19,500",
+    "date": "2026-06-01",
+    "floor": 19,
+    "area": 84.99
+  },
+  {
+    "aptNm": "초원라이프",
+    "dealAmount": "15,500",
+    "date": "2026-05-27",
+    "floor": 8,
+    "area": 84.69
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "22,500",
+    "date": "2026-05-08",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "20,000",
+    "date": "2026-05-07",
+    "floor": 18,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "20,000",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "14,500",
+    "date": "2026-04-10",
+    "floor": 11,
+    "area": 59.86
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "16,000",
+    "date": "2026-04-03",
+    "floor": 2,
+    "area": 59.86
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "21,100",
+    "date": "2026-03-30",
+    "floor": 3,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "14,900",
+    "date": "2026-03-14",
+    "floor": 9,
+    "area": 59.86
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "15,300",
+    "date": "2026-03-01",
+    "floor": 17,
+    "area": 59.86
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "15,600",
+    "date": "2026-02-28",
+    "floor": 7,
+    "area": 59.86
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "21,200",
+    "date": "2026-02-03",
+    "floor": 9,
+    "area": 84.99
+  }
+]

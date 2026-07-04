@@ -1,0 +1,716 @@
+[
+  {
+    "aptNm": "삼윤",
+    "dealAmount": "28,000",
+    "date": "2026-07-03",
+    "floor": 5,
+    "area": 68.83
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "59,000",
+    "date": "2026-06-27",
+    "floor": 2,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "48,200",
+    "date": "2026-06-27",
+    "floor": 4,
+    "area": 84.913
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "46,000",
+    "date": "2026-06-20",
+    "floor": 3,
+    "area": 84.913
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "46,700",
+    "date": "2026-06-15",
+    "floor": 9,
+    "area": 84.913
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "63,000",
+    "date": "2026-06-12",
+    "floor": 7,
+    "area": 84.82
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "46,700",
+    "date": "2026-06-11",
+    "floor": 9,
+    "area": 84.913
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "48,400",
+    "date": "2026-06-06",
+    "floor": 7,
+    "area": 84.913
+  },
+  {
+    "aptNm": "본오주공",
+    "dealAmount": "36,300",
+    "date": "2026-06-05",
+    "floor": 13,
+    "area": 59.51
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "49,500",
+    "date": "2026-06-04",
+    "floor": 5,
+    "area": 84.912
+  },
+  {
+    "aptNm": "본오주공",
+    "dealAmount": "36,000",
+    "date": "2026-06-02",
+    "floor": 1,
+    "area": 59.15
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "62,000",
+    "date": "2026-06-01",
+    "floor": 7,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "153,500",
+    "date": "2026-05-28",
+    "floor": 10,
+    "area": 51.77
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "179,000",
+    "date": "2026-05-25",
+    "floor": 12,
+    "area": 59.85
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "47,300",
+    "date": "2026-05-23",
+    "floor": 2,
+    "area": 84.913
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "67,000",
+    "date": "2026-05-22",
+    "floor": 5,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "177,000",
+    "date": "2026-05-22",
+    "floor": 11,
+    "area": 59.85
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "149,000",
+    "date": "2026-05-19",
+    "floor": 13,
+    "area": 51.77
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "67,500",
+    "date": "2026-05-18",
+    "floor": 5,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "49,000",
+    "date": "2026-05-18",
+    "floor": 7,
+    "area": 84.913
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "145,000",
+    "date": "2026-05-16",
+    "floor": 1,
+    "area": 51.77
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "79,500",
+    "date": "2026-05-15",
+    "floor": 9,
+    "area": 84.82
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "176,000",
+    "date": "2026-05-15",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "46,500",
+    "date": "2026-05-15",
+    "floor": 4,
+    "area": 84.913
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "49,500",
+    "date": "2026-05-13",
+    "floor": 5,
+    "area": 84.912
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "48,100",
+    "date": "2026-05-13",
+    "floor": 2,
+    "area": 84.907
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "59,500",
+    "date": "2026-05-11",
+    "floor": 9,
+    "area": 59.92
+  },
+  {
+    "aptNm": "삼윤",
+    "dealAmount": "33,500",
+    "date": "2026-05-10",
+    "floor": 8,
+    "area": 84.85
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "175,000",
+    "date": "2026-05-04",
+    "floor": 14,
+    "area": 59.96
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "79,800",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 83.42
+  },
+  {
+    "aptNm": "본오주공",
+    "dealAmount": "36,000",
+    "date": "2026-04-30",
+    "floor": 7,
+    "area": 59.51
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "153,500",
+    "date": "2026-04-30",
+    "floor": 3,
+    "area": 51.96
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "47,000",
+    "date": "2026-04-27",
+    "floor": 1,
+    "area": 46.2
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "151,000",
+    "date": "2026-04-26",
+    "floor": 7,
+    "area": 51.77
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "60,900",
+    "date": "2026-04-25",
+    "floor": 1,
+    "area": 59.92
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "72,400",
+    "date": "2026-04-20",
+    "floor": 2,
+    "area": 83.42
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "152,500",
+    "date": "2026-04-20",
+    "floor": 6,
+    "area": 51.82
+  },
+  {
+    "aptNm": "본오주공",
+    "dealAmount": "35,150",
+    "date": "2026-04-18",
+    "floor": 7,
+    "area": 59.51
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "48,500",
+    "date": "2026-04-18",
+    "floor": 10,
+    "area": 84.913
+  },
+  {
+    "aptNm": "삼윤",
+    "dealAmount": "27,000",
+    "date": "2026-04-17",
+    "floor": 13,
+    "area": 68.83
+  },
+  {
+    "aptNm": "삼윤",
+    "dealAmount": "34,400",
+    "date": "2026-04-17",
+    "floor": 5,
+    "area": 84.85
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "64,800",
+    "date": "2026-04-11",
+    "floor": 15,
+    "area": 59.92
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "62,000",
+    "date": "2026-04-09",
+    "floor": 4,
+    "area": 59.92
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "72,800",
+    "date": "2026-04-07",
+    "floor": 10,
+    "area": 83.42
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "47,000",
+    "date": "2026-04-07",
+    "floor": 5,
+    "area": 84.913
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "74,500",
+    "date": "2026-04-04",
+    "floor": 6,
+    "area": 83.42
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "64,000",
+    "date": "2026-03-30",
+    "floor": 17,
+    "area": 59.92
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "65,500",
+    "date": "2026-03-29",
+    "floor": 14,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "174,000",
+    "date": "2026-03-28",
+    "floor": 21,
+    "area": 59.85
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "47,200",
+    "date": "2026-03-28",
+    "floor": 1,
+    "area": 84.912
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "49,100",
+    "date": "2026-03-27",
+    "floor": 6,
+    "area": 84.913
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "62,300",
+    "date": "2026-03-26",
+    "floor": 16,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "176,000",
+    "date": "2026-03-26",
+    "floor": 18,
+    "area": 59.96
+  },
+  {
+    "aptNm": "삼윤",
+    "dealAmount": "22,000",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 68.83
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "60,000",
+    "date": "2026-03-25",
+    "floor": 3,
+    "area": 59.92
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "59,500",
+    "date": "2026-03-23",
+    "floor": 9,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "172,000",
+    "date": "2026-03-21",
+    "floor": 24,
+    "area": 59.96
+  },
+  {
+    "aptNm": "본오주공",
+    "dealAmount": "37,000",
+    "date": "2026-03-18",
+    "floor": 14,
+    "area": 59.51
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "170,500",
+    "date": "2026-03-16",
+    "floor": 11,
+    "area": 59.96
+  },
+  {
+    "aptNm": "본오주공",
+    "dealAmount": "33,500",
+    "date": "2026-03-14",
+    "floor": 2,
+    "area": 59.15
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "76,500",
+    "date": "2026-03-14",
+    "floor": 10,
+    "area": 84.82
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "174,000",
+    "date": "2026-03-14",
+    "floor": 17,
+    "area": 59.85
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "9,500",
+    "date": "2026-03-12",
+    "floor": 8,
+    "area": 14.45
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "9,500",
+    "date": "2026-03-12",
+    "floor": 3,
+    "area": 14.45
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "19,500",
+    "date": "2026-03-12",
+    "floor": 4,
+    "area": 30.19
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "9,500",
+    "date": "2026-03-12",
+    "floor": 8,
+    "area": 13.72
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "9,500",
+    "date": "2026-03-12",
+    "floor": 6,
+    "area": 14.45
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "19,500",
+    "date": "2026-03-12",
+    "floor": 9,
+    "area": 30.19
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "19,500",
+    "date": "2026-03-12",
+    "floor": 4,
+    "area": 30.53
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "19,500",
+    "date": "2026-03-12",
+    "floor": 10,
+    "area": 30.53
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "9,500",
+    "date": "2026-03-12",
+    "floor": 10,
+    "area": 14.23
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "9,500",
+    "date": "2026-03-12",
+    "floor": 10,
+    "area": 13.83
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "19,500",
+    "date": "2026-03-12",
+    "floor": 6,
+    "area": 30.53
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "19,500",
+    "date": "2026-03-12",
+    "floor": 5,
+    "area": 30.19
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "44,000",
+    "date": "2026-03-11",
+    "floor": 2,
+    "area": 46.2
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "149,000",
+    "date": "2026-03-10",
+    "floor": 11,
+    "area": 51.96
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "45,500",
+    "date": "2026-03-08",
+    "floor": 4,
+    "area": 84.913
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "48,000",
+    "date": "2026-03-07",
+    "floor": 11,
+    "area": 46.2
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "64,000",
+    "date": "2026-03-07",
+    "floor": 13,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "47,000",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 84.913
+  },
+  {
+    "aptNm": "삼윤",
+    "dealAmount": "22,500",
+    "date": "2026-03-05",
+    "floor": 11,
+    "area": 68.83
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "50,000",
+    "date": "2026-02-28",
+    "floor": 11,
+    "area": 84.912
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "44,500",
+    "date": "2026-02-26",
+    "floor": 15,
+    "area": 46.2
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "176,500",
+    "date": "2026-02-26",
+    "floor": 25,
+    "area": 59.73
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "52,000",
+    "date": "2026-02-25",
+    "floor": 2,
+    "area": 59.92
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "40,600",
+    "date": "2026-02-25",
+    "floor": 1,
+    "area": 46.2
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "47,100",
+    "date": "2026-02-25",
+    "floor": 2,
+    "area": 84.912
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "69,000",
+    "date": "2026-02-24",
+    "floor": 7,
+    "area": 66.76
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "47,700",
+    "date": "2026-02-24",
+    "floor": 6,
+    "area": 84.913
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "44,000",
+    "date": "2026-02-23",
+    "floor": 12,
+    "area": 46.2
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "179,700",
+    "date": "2026-02-21",
+    "floor": 7,
+    "area": 59.85
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "150,000",
+    "date": "2026-02-21",
+    "floor": 13,
+    "area": 51.82
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "100,000",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 51.77
+  },
+  {
+    "aptNm": "월드메르디앙201동,202동",
+    "dealAmount": "76,800",
+    "date": "2026-02-13",
+    "floor": 13,
+    "area": 83.42
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "54,500",
+    "date": "2026-02-12",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "57,000",
+    "date": "2026-02-10",
+    "floor": 7,
+    "area": 59.92
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "59,500",
+    "date": "2026-02-08",
+    "floor": 9,
+    "area": 59.92
+  },
+  {
+    "aptNm": "본오주공",
+    "dealAmount": "31,000",
+    "date": "2026-02-08",
+    "floor": 5,
+    "area": 59.15
+  },
+  {
+    "aptNm": "송파더센트레",
+    "dealAmount": "150,000",
+    "date": "2026-02-06",
+    "floor": 16,
+    "area": 51.77
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "58,500",
+    "date": "2026-02-03",
+    "floor": 16,
+    "area": 59.92
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "48,000",
+    "date": "2026-02-03",
+    "floor": 9,
+    "area": 84.913
+  },
+  {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "50,200",
+    "date": "2026-02-01",
+    "floor": 13,
+    "area": 84.912
+  }
+]

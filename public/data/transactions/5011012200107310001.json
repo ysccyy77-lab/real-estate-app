@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "현대아이파크",
+    "dealAmount": "70,000",
+    "date": "2026-06-25",
+    "floor": 9,
+    "area": 84.953
+  },
+  {
+    "aptNm": "광릉",
+    "dealAmount": "9,600",
+    "date": "2026-06-12",
+    "floor": 3,
+    "area": 55.17
+  },
+  {
+    "aptNm": "광릉",
+    "dealAmount": "7,600",
+    "date": "2026-06-11",
+    "floor": 3,
+    "area": 55.17
+  },
+  {
+    "aptNm": "광릉",
+    "dealAmount": "9,500",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 55.17
+  },
+  {
+    "aptNm": "경동윈츠빌",
+    "dealAmount": "21,000",
+    "date": "2026-04-27",
+    "floor": 8,
+    "area": 84.3928
+  },
+  {
+    "aptNm": "현대아이파크",
+    "dealAmount": "67,500",
+    "date": "2026-04-10",
+    "floor": 15,
+    "area": 75.05
+  },
+  {
+    "aptNm": "광릉",
+    "dealAmount": "9,500",
+    "date": "2026-03-09",
+    "floor": 3,
+    "area": 55.17
+  }
+]

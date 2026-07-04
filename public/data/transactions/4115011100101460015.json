@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "청구",
+    "dealAmount": "23,750",
+    "date": "2026-04-29",
+    "floor": 6,
+    "area": 82.588
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "20,500",
+    "date": "2026-04-18",
+    "floor": 11,
+    "area": 82.588
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "17,000",
+    "date": "2026-03-31",
+    "floor": 16,
+    "area": 82.588
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "17,600",
+    "date": "2026-03-27",
+    "floor": 11,
+    "area": 59.9
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "16,500",
+    "date": "2026-03-14",
+    "floor": 4,
+    "area": 59.9
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "21,000",
+    "date": "2026-03-05",
+    "floor": 12,
+    "area": 82.588
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "17,500",
+    "date": "2026-02-24",
+    "floor": 13,
+    "area": 59.9
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "17,500",
+    "date": "2026-02-13",
+    "floor": 14,
+    "area": 59.9
+  }
+]

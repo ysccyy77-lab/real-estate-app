@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "서광2",
+    "dealAmount": "10,300",
+    "date": "2026-05-18",
+    "floor": 20,
+    "area": 59.84
+  },
+  {
+    "aptNm": "정다운가",
+    "dealAmount": "6,000",
+    "date": "2026-04-29",
+    "floor": 7,
+    "area": 14.88
+  },
+  {
+    "aptNm": "정다운가",
+    "dealAmount": "6,000",
+    "date": "2026-04-29",
+    "floor": 9,
+    "area": 14.88
+  },
+  {
+    "aptNm": "동원부성",
+    "dealAmount": "3,700",
+    "date": "2026-03-05",
+    "floor": 4,
+    "area": 47.97
+  }
+]

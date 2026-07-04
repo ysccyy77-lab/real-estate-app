@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "부영",
+    "dealAmount": "18,500",
+    "date": "2026-06-20",
+    "floor": 14,
+    "area": 84.9643
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "14,300",
+    "date": "2026-06-14",
+    "floor": 3,
+    "area": 59.987
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "16,800",
+    "date": "2026-06-13",
+    "floor": 13,
+    "area": 84.9643
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "18,500",
+    "date": "2026-04-23",
+    "floor": 15,
+    "area": 84.9643
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "16,000",
+    "date": "2026-04-15",
+    "floor": 2,
+    "area": 84.9643
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "13,000",
+    "date": "2026-02-27",
+    "floor": 15,
+    "area": 59.987
+  }
+]

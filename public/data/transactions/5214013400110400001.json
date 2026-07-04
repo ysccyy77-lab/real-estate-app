@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "3,500",
+    "date": "2026-05-29",
+    "floor": 3,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "5,200",
+    "date": "2026-05-16",
+    "floor": 12,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "5,200",
+    "date": "2026-05-10",
+    "floor": 4,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "4,850",
+    "date": "2026-04-16",
+    "floor": 7,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "4,950",
+    "date": "2026-04-07",
+    "floor": 12,
+    "area": 49.77
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "4,000",
+    "date": "2026-04-06",
+    "floor": 1,
+    "area": 35.64
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "4,450",
+    "date": "2026-04-01",
+    "floor": 12,
+    "area": 49.77
+  },
+  {
+    "aptNm": "해링턴플레이스만촌",
+    "dealAmount": "109,000",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 84.0312
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "4,900",
+    "date": "2026-03-08",
+    "floor": 1,
+    "area": 49.77
+  },
+  {
+    "aptNm": "해링턴플레이스만촌",
+    "dealAmount": "103,500",
+    "date": "2026-03-07",
+    "floor": 6,
+    "area": 84.0964
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "5,200",
+    "date": "2026-03-07",
+    "floor": 6,
+    "area": 49.77
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "4,500",
+    "date": "2026-03-03",
+    "floor": 2,
+    "area": 35.706
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "5,400",
+    "date": "2026-02-24",
+    "floor": 6,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "6,000",
+    "date": "2026-02-09",
+    "floor": 4,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "5,700",
+    "date": "2026-02-03",
+    "floor": 4,
+    "area": 49.77
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "대림비치",
+    "dealAmount": "20,000",
+    "date": "2026-06-15",
+    "floor": 24,
+    "area": 59.89
+  },
+  {
+    "aptNm": "대림비치",
+    "dealAmount": "16,000",
+    "date": "2026-06-08",
+    "floor": 5,
+    "area": 59.89
+  },
+  {
+    "aptNm": "대림비치",
+    "dealAmount": "18,500",
+    "date": "2026-05-30",
+    "floor": 2,
+    "area": 59.89
+  },
+  {
+    "aptNm": "대림비치",
+    "dealAmount": "27,000",
+    "date": "2026-05-10",
+    "floor": 27,
+    "area": 84.77
+  },
+  {
+    "aptNm": "대림비치",
+    "dealAmount": "27,000",
+    "date": "2026-04-07",
+    "floor": 15,
+    "area": 84.77
+  },
+  {
+    "aptNm": "대림비치",
+    "dealAmount": "26,000",
+    "date": "2026-02-27",
+    "floor": 25,
+    "area": 84.77
+  },
+  {
+    "aptNm": "강진융프라우2차",
+    "dealAmount": "8,000",
+    "date": "2026-02-10",
+    "floor": 10,
+    "area": 27.716
+  }
+]

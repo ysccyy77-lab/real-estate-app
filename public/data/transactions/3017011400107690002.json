@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "17,000",
+    "date": "2026-06-23",
+    "floor": 13,
+    "area": 84.9
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "17,000",
+    "date": "2026-06-19",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "18,000",
+    "date": "2026-06-16",
+    "floor": 9,
+    "area": 84.91
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "21,000",
+    "date": "2026-04-27",
+    "floor": 5,
+    "area": 84.9
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "18,000",
+    "date": "2026-03-20",
+    "floor": 1,
+    "area": 84.9
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "22,500",
+    "date": "2026-03-19",
+    "floor": 12,
+    "area": 84.9
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "18,000",
+    "date": "2026-03-14",
+    "floor": 11,
+    "area": 84.9
+  },
+  {
+    "aptNm": "문화",
+    "dealAmount": "3,800",
+    "date": "2026-03-13",
+    "floor": 2,
+    "area": 73.5
+  },
+  {
+    "aptNm": "문화",
+    "dealAmount": "3,400",
+    "date": "2026-02-27",
+    "floor": 1,
+    "area": 73.5
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "18,900",
+    "date": "2026-02-24",
+    "floor": 13,
+    "area": 84.9
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "22,500",
+    "date": "2026-02-09",
+    "floor": 8,
+    "area": 84.9
+  }
+]

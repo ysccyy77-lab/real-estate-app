@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "초롱마을",
+    "dealAmount": "19,500",
+    "date": "2026-06-16",
+    "floor": 12,
+    "area": 59.34
+  },
+  {
+    "aptNm": "시영(1~5동)",
+    "dealAmount": "4,700",
+    "date": "2026-06-06",
+    "floor": 5,
+    "area": 39.67
+  },
+  {
+    "aptNm": "시영(1~5동)",
+    "dealAmount": "8,000",
+    "date": "2026-05-13",
+    "floor": 2,
+    "area": 39.67
+  },
+  {
+    "aptNm": "초롱마을",
+    "dealAmount": "19,800",
+    "date": "2026-04-23",
+    "floor": 8,
+    "area": 59.34
+  },
+  {
+    "aptNm": "시영(1~5동)",
+    "dealAmount": "5,500",
+    "date": "2026-03-18",
+    "floor": 2,
+    "area": 39.67
+  },
+  {
+    "aptNm": "초롱마을",
+    "dealAmount": "19,900",
+    "date": "2026-03-10",
+    "floor": 6,
+    "area": 59.34
+  },
+  {
+    "aptNm": "초롱마을",
+    "dealAmount": "24,200",
+    "date": "2026-02-14",
+    "floor": 12,
+    "area": 84.97
+  }
+]

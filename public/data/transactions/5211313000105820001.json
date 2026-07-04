@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "동국",
+    "dealAmount": "12,500",
+    "date": "2026-05-26",
+    "floor": 11,
+    "area": 59.74
+  },
+  {
+    "aptNm": "동국",
+    "dealAmount": "13,200",
+    "date": "2026-05-06",
+    "floor": 13,
+    "area": 59.74
+  },
+  {
+    "aptNm": "동국",
+    "dealAmount": "13,900",
+    "date": "2026-04-18",
+    "floor": 14,
+    "area": 59.74
+  },
+  {
+    "aptNm": "동국",
+    "dealAmount": "18,500",
+    "date": "2026-04-13",
+    "floor": 13,
+    "area": 84.87
+  },
+  {
+    "aptNm": "동국",
+    "dealAmount": "17,000",
+    "date": "2026-03-17",
+    "floor": 10,
+    "area": 84.87
+  },
+  {
+    "aptNm": "동국",
+    "dealAmount": "28,000",
+    "date": "2026-02-15",
+    "floor": 10,
+    "area": 128.16
+  },
+  {
+    "aptNm": "동국",
+    "dealAmount": "24,000",
+    "date": "2026-02-06",
+    "floor": 8,
+    "area": 107.64
+  }
+]

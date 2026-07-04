@@ -1,0 +1,744 @@
+[
+  {
+    "aptNm": "현대",
+    "dealAmount": "87,000",
+    "date": "2026-06-26",
+    "floor": 2,
+    "area": 59.95
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "28,500",
+    "date": "2026-06-23",
+    "floor": 2,
+    "area": 45.36
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "32,000",
+    "date": "2026-06-22",
+    "floor": 5,
+    "area": 45.36
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "49,500",
+    "date": "2026-06-20",
+    "floor": 8,
+    "area": 84.22
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "28,800",
+    "date": "2026-06-19",
+    "floor": 1,
+    "area": 45.36
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "102,000",
+    "date": "2026-06-15",
+    "floor": 14,
+    "area": 84.98
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "29,900",
+    "date": "2026-06-10",
+    "floor": 9,
+    "area": 76.4423
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "228,000",
+    "date": "2026-06-10",
+    "floor": 8,
+    "area": 84.76
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "220,000",
+    "date": "2026-06-09",
+    "floor": 4,
+    "area": 84.77
+  },
+  {
+    "aptNm": "삼도드림파크",
+    "dealAmount": "17,000",
+    "date": "2026-06-08",
+    "floor": 13,
+    "area": 84.88
+  },
+  {
+    "aptNm": "포미재",
+    "dealAmount": "9,500",
+    "date": "2026-06-06",
+    "floor": 3,
+    "area": 66.3141
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "120,000",
+    "date": "2026-06-06",
+    "floor": 19,
+    "area": 114.99
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "41,300",
+    "date": "2026-06-06",
+    "floor": 1,
+    "area": 84.22
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,000",
+    "date": "2026-06-06",
+    "floor": 7,
+    "area": 45.36
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "44,000",
+    "date": "2026-06-04",
+    "floor": 3,
+    "area": 125.3322
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "105,000",
+    "date": "2026-06-03",
+    "floor": 19,
+    "area": 114.99
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "30,000",
+    "date": "2026-05-29",
+    "floor": 5,
+    "area": 45.36
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "32,000",
+    "date": "2026-05-28",
+    "floor": 15,
+    "area": 76.6756
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "100,000",
+    "date": "2026-05-28",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "100,000",
+    "date": "2026-05-28",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "110,000",
+    "date": "2026-05-28",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,850",
+    "date": "2026-05-28",
+    "floor": 2,
+    "area": 45.36
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "95,000",
+    "date": "2026-05-27",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "87,400",
+    "date": "2026-05-23",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "29,000",
+    "date": "2026-05-22",
+    "floor": 9,
+    "area": 45.36
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "195,500",
+    "date": "2026-05-21",
+    "floor": 13,
+    "area": 84.76
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "28,200",
+    "date": "2026-05-20",
+    "floor": 5,
+    "area": 76.4423
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "206,000",
+    "date": "2026-05-19",
+    "floor": 15,
+    "area": 84.76
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "207,500",
+    "date": "2026-05-16",
+    "floor": 7,
+    "area": 84.77
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "203,500",
+    "date": "2026-05-16",
+    "floor": 10,
+    "area": 84.76
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "203,000",
+    "date": "2026-05-15",
+    "floor": 13,
+    "area": 84.76
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "46,000",
+    "date": "2026-05-14",
+    "floor": 11,
+    "area": 125.3322
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "29,100",
+    "date": "2026-05-11",
+    "floor": 7,
+    "area": 76.3532
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "102,000",
+    "date": "2026-05-09",
+    "floor": 9,
+    "area": 114.99
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "30,000",
+    "date": "2026-05-09",
+    "floor": 8,
+    "area": 45.36
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "83,500",
+    "date": "2026-05-08",
+    "floor": 16,
+    "area": 59.95
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "30,500",
+    "date": "2026-05-08",
+    "floor": 1,
+    "area": 84.22
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "45,000",
+    "date": "2026-05-07",
+    "floor": 3,
+    "area": 84.22
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "217,500",
+    "date": "2026-05-04",
+    "floor": 7,
+    "area": 84.77
+  },
+  {
+    "aptNm": "포미재",
+    "dealAmount": "14,300",
+    "date": "2026-04-30",
+    "floor": 10,
+    "area": 84.4862
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "28,000",
+    "date": "2026-04-29",
+    "floor": 4,
+    "area": 45.36
+  },
+  {
+    "aptNm": "포미재",
+    "dealAmount": "9,700",
+    "date": "2026-04-27",
+    "floor": 9,
+    "area": 66.3141
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "203,000",
+    "date": "2026-04-27",
+    "floor": 10,
+    "area": 84.76
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "83,300",
+    "date": "2026-04-25",
+    "floor": 27,
+    "area": 59.95
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "56,500",
+    "date": "2026-04-24",
+    "floor": 24,
+    "area": 84.98
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "21,200",
+    "date": "2026-04-23",
+    "floor": 8,
+    "area": 59.98
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "82,000",
+    "date": "2026-04-22",
+    "floor": 4,
+    "area": 59.95
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,500",
+    "date": "2026-04-21",
+    "floor": 4,
+    "area": 45.36
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "190,000",
+    "date": "2026-04-20",
+    "floor": 1,
+    "area": 84.77
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "100,000",
+    "date": "2026-04-19",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "101,500",
+    "date": "2026-04-19",
+    "floor": 7,
+    "area": 114.99
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,000",
+    "date": "2026-04-18",
+    "floor": 8,
+    "area": 45.36
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "99,000",
+    "date": "2026-04-17",
+    "floor": 21,
+    "area": 84.98
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "199,000",
+    "date": "2026-04-17",
+    "floor": 3,
+    "area": 84.77
+  },
+  {
+    "aptNm": "용산청구타운",
+    "dealAmount": "20,500",
+    "date": "2026-04-15",
+    "floor": 4,
+    "area": 84.32
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "32,100",
+    "date": "2026-04-12",
+    "floor": 15,
+    "area": 76.3532
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,300",
+    "date": "2026-04-10",
+    "floor": 8,
+    "area": 45.36
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,650",
+    "date": "2026-04-09",
+    "floor": 4,
+    "area": 45.36
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "30,300",
+    "date": "2026-04-08",
+    "floor": 13,
+    "area": 76.4423
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "25,000",
+    "date": "2026-04-08",
+    "floor": 7,
+    "area": 45.36
+  },
+  {
+    "aptNm": "삼도드림파크",
+    "dealAmount": "9,900",
+    "date": "2026-04-07",
+    "floor": 7,
+    "area": 59.73
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "220,000",
+    "date": "2026-04-07",
+    "floor": 7,
+    "area": 84.77
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "98,000",
+    "date": "2026-04-04",
+    "floor": 22,
+    "area": 84.98
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "29,700",
+    "date": "2026-04-01",
+    "floor": 8,
+    "area": 76.3532
+  },
+  {
+    "aptNm": "삼도드림파크",
+    "dealAmount": "8,400",
+    "date": "2026-03-31",
+    "floor": 19,
+    "area": 50.3
+  },
+  {
+    "aptNm": "삼도드림파크",
+    "dealAmount": "9,600",
+    "date": "2026-03-31",
+    "floor": 12,
+    "area": 59.73
+  },
+  {
+    "aptNm": "삼도드림파크",
+    "dealAmount": "7,800",
+    "date": "2026-03-28",
+    "floor": 17,
+    "area": 50.3
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "93,000",
+    "date": "2026-03-27",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "93,700",
+    "date": "2026-03-26",
+    "floor": 17,
+    "area": 84.98
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "30,200",
+    "date": "2026-03-25",
+    "floor": 1,
+    "area": 84.22
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "83,700",
+    "date": "2026-03-24",
+    "floor": 11,
+    "area": 59.95
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "184,000",
+    "date": "2026-03-23",
+    "floor": 12,
+    "area": 84.76
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "210,000",
+    "date": "2026-03-23",
+    "floor": 4,
+    "area": 84.77
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "41,000",
+    "date": "2026-03-21",
+    "floor": 1,
+    "area": 84.22
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "44,000",
+    "date": "2026-03-18",
+    "floor": 2,
+    "area": 84.22
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "209,300",
+    "date": "2026-03-13",
+    "floor": 15,
+    "area": 84.76
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "33,600",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 84.9899
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "97,000",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "205,000",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 84.77
+  },
+  {
+    "aptNm": "삼도드림파크",
+    "dealAmount": "14,400",
+    "date": "2026-03-03",
+    "floor": 4,
+    "area": 84.88
+  },
+  {
+    "aptNm": "용산청구타운",
+    "dealAmount": "20,800",
+    "date": "2026-03-03",
+    "floor": 7,
+    "area": 84.32
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "31,500",
+    "date": "2026-02-28",
+    "floor": 2,
+    "area": 84.9875
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "35,900",
+    "date": "2026-02-28",
+    "floor": 12,
+    "area": 84.9875
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "28,200",
+    "date": "2026-02-28",
+    "floor": 7,
+    "area": 45.36
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "33,900",
+    "date": "2026-02-26",
+    "floor": 10,
+    "area": 84.9899
+  },
+  {
+    "aptNm": "삼도드림파크",
+    "dealAmount": "9,500",
+    "date": "2026-02-25",
+    "floor": 12,
+    "area": 59.73
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "85,000",
+    "date": "2026-02-25",
+    "floor": 15,
+    "area": 59.95
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "207,800",
+    "date": "2026-02-20",
+    "floor": 11,
+    "area": 84.76
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "87,500",
+    "date": "2026-02-19",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "80,000",
+    "date": "2026-02-16",
+    "floor": 12,
+    "area": 59.95
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "41,700",
+    "date": "2026-02-13",
+    "floor": 2,
+    "area": 84.22
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "28,150",
+    "date": "2026-02-12",
+    "floor": 14,
+    "area": 76.3532
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "79,300",
+    "date": "2026-02-12",
+    "floor": 5,
+    "area": 59.95
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "35,200",
+    "date": "2026-02-09",
+    "floor": 14,
+    "area": 84.9875
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,700",
+    "date": "2026-02-09",
+    "floor": 5,
+    "area": 45.36
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "34,400",
+    "date": "2026-02-07",
+    "floor": 9,
+    "area": 84.9899
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "212,000",
+    "date": "2026-02-07",
+    "floor": 12,
+    "area": 84.76
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "44,800",
+    "date": "2026-02-07",
+    "floor": 3,
+    "area": 84.22
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,000",
+    "date": "2026-02-07",
+    "floor": 2,
+    "area": 45.36
+  },
+  {
+    "aptNm": "목동청구한신아파트",
+    "dealAmount": "207,500",
+    "date": "2026-02-06",
+    "floor": 1,
+    "area": 84.77
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "22,250",
+    "date": "2026-02-05",
+    "floor": 14,
+    "area": 59.9672
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "89,500",
+    "date": "2026-02-04",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "45,500",
+    "date": "2026-02-04",
+    "floor": 6,
+    "area": 84.22
+  },
+  {
+    "aptNm": "사천삼정그린코아포레스트",
+    "dealAmount": "45,000",
+    "date": "2026-02-02",
+    "floor": 5,
+    "area": 125.3322
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "44,400",
+    "date": "2026-02-02",
+    "floor": 9,
+    "area": 84.22
+  },
+  {
+    "aptNm": "풍림2",
+    "dealAmount": "27,000",
+    "date": "2026-02-01",
+    "floor": 2,
+    "area": 45.36
+  }
+]

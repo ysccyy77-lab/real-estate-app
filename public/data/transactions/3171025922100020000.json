@@ -1,0 +1,737 @@
+[
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "35,500",
+    "date": "2026-07-02",
+    "floor": 7,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "35,000",
+    "date": "2026-07-01",
+    "floor": 11,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "영림로즈빌",
+    "dealAmount": "15,600",
+    "date": "2026-07-01",
+    "floor": 12,
+    "area": 49.1398
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "33,000",
+    "date": "2026-06-30",
+    "floor": 20,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "24,000",
+    "date": "2026-06-29",
+    "floor": 9,
+    "area": 84.9106
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "38,000",
+    "date": "2026-06-29",
+    "floor": 25,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "30,500",
+    "date": "2026-06-29",
+    "floor": 13,
+    "area": 67.9693
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "35,500",
+    "date": "2026-06-28",
+    "floor": 3,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "경동메르빌아파트",
+    "dealAmount": "10,900",
+    "date": "2026-06-28",
+    "floor": 15,
+    "area": 59.959
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,000",
+    "date": "2026-06-24",
+    "floor": 15,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "34,500",
+    "date": "2026-06-23",
+    "floor": 18,
+    "area": 84.9005
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "22,000",
+    "date": "2026-06-18",
+    "floor": 10,
+    "area": 59.9259
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "43,000",
+    "date": "2026-06-18",
+    "floor": 15,
+    "area": 117.6918
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "28,500",
+    "date": "2026-06-18",
+    "floor": 13,
+    "area": 71.722
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "40,000",
+    "date": "2026-06-17",
+    "floor": 8,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "35,000",
+    "date": "2026-06-15",
+    "floor": 2,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "39,500",
+    "date": "2026-06-12",
+    "floor": 11,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "31,000",
+    "date": "2026-06-11",
+    "floor": 16,
+    "area": 67.9693
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "37,000",
+    "date": "2026-06-09",
+    "floor": 8,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "118,500",
+    "date": "2026-06-07",
+    "floor": 6,
+    "area": 84.3
+  },
+  {
+    "aptNm": "초원",
+    "dealAmount": "9,500",
+    "date": "2026-06-04",
+    "floor": 2,
+    "area": 49.59
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,400",
+    "date": "2026-05-30",
+    "floor": 21,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "110,000",
+    "date": "2026-05-28",
+    "floor": 11,
+    "area": 84.57
+  },
+  {
+    "aptNm": "서광아파트",
+    "dealAmount": "228,000",
+    "date": "2026-05-27",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "34,800",
+    "date": "2026-05-26",
+    "floor": 14,
+    "area": 84.9005
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "28,400",
+    "date": "2026-05-22",
+    "floor": 1,
+    "area": 67.9693
+  },
+  {
+    "aptNm": "서광아파트",
+    "dealAmount": "265,500",
+    "date": "2026-05-22",
+    "floor": 13,
+    "area": 84.93
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "28,500",
+    "date": "2026-05-21",
+    "floor": 6,
+    "area": 67.9693
+  },
+  {
+    "aptNm": "서광아파트",
+    "dealAmount": "236,000",
+    "date": "2026-05-20",
+    "floor": 5,
+    "area": 59.67
+  },
+  {
+    "aptNm": "상림마을6단지푸르지오(606~614동)BL1-7",
+    "dealAmount": "76,500",
+    "date": "2026-05-18",
+    "floor": 3,
+    "area": 84.79
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "32,300",
+    "date": "2026-05-17",
+    "floor": 3,
+    "area": 84.922
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "19,000",
+    "date": "2026-05-14",
+    "floor": 12,
+    "area": 84.9106
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "27,700",
+    "date": "2026-05-13",
+    "floor": 10,
+    "area": 71.722
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "253,000",
+    "date": "2026-05-12",
+    "floor": 13,
+    "area": 125.79
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "34,900",
+    "date": "2026-05-09",
+    "floor": 21,
+    "area": 84.9005
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "24,500",
+    "date": "2026-05-08",
+    "floor": 16,
+    "area": 84.9106
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "39,900",
+    "date": "2026-05-08",
+    "floor": 20,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "115,000",
+    "date": "2026-05-08",
+    "floor": 13,
+    "area": 114.55
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "23,000",
+    "date": "2026-05-06",
+    "floor": 18,
+    "area": 84.9106
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "30,300",
+    "date": "2026-05-04",
+    "floor": 15,
+    "area": 67.9693
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "232,000",
+    "date": "2026-05-02",
+    "floor": 12,
+    "area": 84.91
+  },
+  {
+    "aptNm": "서광아파트",
+    "dealAmount": "240,000",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 59.67
+  },
+  {
+    "aptNm": "초원",
+    "dealAmount": "7,000",
+    "date": "2026-04-30",
+    "floor": 4,
+    "area": 49.59
+  },
+  {
+    "aptNm": "현대I-PARK",
+    "dealAmount": "120,000",
+    "date": "2026-04-30",
+    "floor": 14,
+    "area": 114.55
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "30,900",
+    "date": "2026-04-29",
+    "floor": 6,
+    "area": 84.922
+  },
+  {
+    "aptNm": "서광아파트",
+    "dealAmount": "250,000",
+    "date": "2026-04-29",
+    "floor": 18,
+    "area": 59.67
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "40,000",
+    "date": "2026-04-28",
+    "floor": 22,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "중앙학잠타운",
+    "dealAmount": "5,000",
+    "date": "2026-04-27",
+    "floor": 3,
+    "area": 77.86
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,800",
+    "date": "2026-04-26",
+    "floor": 7,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "32,000",
+    "date": "2026-04-23",
+    "floor": 9,
+    "area": 67.9693
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "47,000",
+    "date": "2026-04-22",
+    "floor": 3,
+    "area": 117.6918
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "38,500",
+    "date": "2026-04-22",
+    "floor": 24,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "경동메르빌아파트",
+    "dealAmount": "9,000",
+    "date": "2026-04-22",
+    "floor": 13,
+    "area": 59.959
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "28,500",
+    "date": "2026-04-18",
+    "floor": 9,
+    "area": 71.722
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "34,700",
+    "date": "2026-04-18",
+    "floor": 23,
+    "area": 84.9436
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "39,900",
+    "date": "2026-04-17",
+    "floor": 20,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "35,000",
+    "date": "2026-04-17",
+    "floor": 15,
+    "area": 84.9005
+  },
+  {
+    "aptNm": "상림마을6단지푸르지오(606~614동)BL1-7",
+    "dealAmount": "77,000",
+    "date": "2026-04-14",
+    "floor": 7,
+    "area": 84.79
+  },
+  {
+    "aptNm": "경동메르빌아파트",
+    "dealAmount": "9,200",
+    "date": "2026-04-12",
+    "floor": 1,
+    "area": 59.959
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,000",
+    "date": "2026-04-10",
+    "floor": 17,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "영림로즈빌",
+    "dealAmount": "16,500",
+    "date": "2026-04-07",
+    "floor": 11,
+    "area": 51.5776
+  },
+  {
+    "aptNm": "서광아파트",
+    "dealAmount": "220,000",
+    "date": "2026-04-03",
+    "floor": 17,
+    "area": 59.67
+  },
+  {
+    "aptNm": "중앙학잠타운",
+    "dealAmount": "5,500",
+    "date": "2026-03-31",
+    "floor": 1,
+    "area": 61.44
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,400",
+    "date": "2026-03-31",
+    "floor": 12,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "37,500",
+    "date": "2026-03-30",
+    "floor": 15,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,900",
+    "date": "2026-03-30",
+    "floor": 12,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "29,000",
+    "date": "2026-03-28",
+    "floor": 12,
+    "area": 71.722
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "37,000",
+    "date": "2026-03-27",
+    "floor": 18,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "23,000",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 84.9106
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "26,000",
+    "date": "2026-03-26",
+    "floor": 10,
+    "area": 84.9106
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "26,000",
+    "date": "2026-03-24",
+    "floor": 8,
+    "area": 84.9106
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "30,000",
+    "date": "2026-03-23",
+    "floor": 23,
+    "area": 84.922
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "35,500",
+    "date": "2026-03-21",
+    "floor": 22,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "경동메르빌아파트",
+    "dealAmount": "9,800",
+    "date": "2026-03-18",
+    "floor": 5,
+    "area": 59.959
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "32,800",
+    "date": "2026-03-14",
+    "floor": 10,
+    "area": 67.9693
+  },
+  {
+    "aptNm": "이진캐스빌블루1차",
+    "dealAmount": "32,300",
+    "date": "2026-03-13",
+    "floor": 24,
+    "area": 84.9436
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "24,800",
+    "date": "2026-03-11",
+    "floor": 6,
+    "area": 84.9106
+  },
+  {
+    "aptNm": "경동메르빌아파트",
+    "dealAmount": "10,000",
+    "date": "2026-03-07",
+    "floor": 11,
+    "area": 59.959
+  },
+  {
+    "aptNm": "서광아파트",
+    "dealAmount": "263,000",
+    "date": "2026-03-07",
+    "floor": 9,
+    "area": 59.67
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "38,000",
+    "date": "2026-03-05",
+    "floor": 10,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "우석",
+    "dealAmount": "3,200",
+    "date": "2026-03-04",
+    "floor": 4,
+    "area": 47.265
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "37,500",
+    "date": "2026-02-27",
+    "floor": 4,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,500",
+    "date": "2026-02-26",
+    "floor": 22,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "상림마을6단지푸르지오(606~614동)BL1-7",
+    "dealAmount": "74,700",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 84.79
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "16,000",
+    "date": "2026-02-25",
+    "floor": 9,
+    "area": 84.586
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "45,000",
+    "date": "2026-02-25",
+    "floor": 16,
+    "area": 98.7079
+  },
+  {
+    "aptNm": "우석",
+    "dealAmount": "3,100",
+    "date": "2026-02-24",
+    "floor": 1,
+    "area": 47.265
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,000",
+    "date": "2026-02-24",
+    "floor": 4,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "우석",
+    "dealAmount": "3,200",
+    "date": "2026-02-23",
+    "floor": 2,
+    "area": 47.265
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "250,000",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 125.79
+  },
+  {
+    "aptNm": "우석",
+    "dealAmount": "3,300",
+    "date": "2026-02-14",
+    "floor": 1,
+    "area": 47.265
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "38,000",
+    "date": "2026-02-12",
+    "floor": 19,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "249,000",
+    "date": "2026-02-12",
+    "floor": 1,
+    "area": 125.79
+  },
+  {
+    "aptNm": "우석",
+    "dealAmount": "3,200",
+    "date": "2026-02-11",
+    "floor": 3,
+    "area": 47.265
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "39,500",
+    "date": "2026-02-11",
+    "floor": 20,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "우석",
+    "dealAmount": "2,800",
+    "date": "2026-02-09",
+    "floor": 1,
+    "area": 47.265
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "36,000",
+    "date": "2026-02-09",
+    "floor": 6,
+    "area": 84.8879
+  },
+  {
+    "aptNm": "서광아파트",
+    "dealAmount": "255,000",
+    "date": "2026-02-07",
+    "floor": 6,
+    "area": 59.67
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "250,000",
+    "date": "2026-02-07",
+    "floor": 6,
+    "area": 125.79
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "234,000",
+    "date": "2026-02-07",
+    "floor": 3,
+    "area": 84.91
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "34,500",
+    "date": "2026-02-06",
+    "floor": 16,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "27,000",
+    "date": "2026-02-06",
+    "floor": 1,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "푸르지오 캐슬C단지",
+    "dealAmount": "18,900",
+    "date": "2026-02-03",
+    "floor": 2,
+    "area": 59.9259
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "33,900",
+    "date": "2026-02-03",
+    "floor": 24,
+    "area": 77.6069
+  },
+  {
+    "aptNm": "맑은아침",
+    "dealAmount": "39,000",
+    "date": "2026-02-02",
+    "floor": 8,
+    "area": 84.8879
+  }
+]

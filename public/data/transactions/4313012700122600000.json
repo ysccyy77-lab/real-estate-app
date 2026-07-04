@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "럭키",
+    "dealAmount": "24,000",
+    "date": "2026-06-29",
+    "floor": 3,
+    "area": 125.48
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "25,000",
+    "date": "2026-06-05",
+    "floor": 14,
+    "area": 125.48
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "18,500",
+    "date": "2026-05-15",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "24,000",
+    "date": "2026-04-22",
+    "floor": 2,
+    "area": 125.48
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "14,900",
+    "date": "2026-04-13",
+    "floor": 2,
+    "area": 84.93
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "18,300",
+    "date": "2026-04-13",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "17,300",
+    "date": "2026-04-04",
+    "floor": 3,
+    "area": 84.93
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "18,400",
+    "date": "2026-03-29",
+    "floor": 6,
+    "area": 84.93
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "19,050",
+    "date": "2026-03-09",
+    "floor": 6,
+    "area": 84.93
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "23,000",
+    "date": "2026-06-29",
+    "floor": 17,
+    "area": 44.6031
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "59,200",
+    "date": "2026-06-27",
+    "floor": 14,
+    "area": 74.49
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "28,800",
+    "date": "2026-06-22",
+    "floor": 19,
+    "area": 56.2088
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "59,000",
+    "date": "2026-06-21",
+    "floor": 14,
+    "area": 74.49
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "55,000",
+    "date": "2026-06-20",
+    "floor": 10,
+    "area": 59.97
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "29,500",
+    "date": "2026-06-19",
+    "floor": 24,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "62,700",
+    "date": "2026-06-17",
+    "floor": 14,
+    "area": 74.49
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "58,000",
+    "date": "2026-06-17",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "69,000",
+    "date": "2026-06-07",
+    "floor": 8,
+    "area": 84.8
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "29,500",
+    "date": "2026-06-06",
+    "floor": 25,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "에이원파란채",
+    "dealAmount": "16,300",
+    "date": "2026-06-01",
+    "floor": 9,
+    "area": 84.842
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "67,000",
+    "date": "2026-05-28",
+    "floor": 6,
+    "area": 84.8
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "56,700",
+    "date": "2026-05-23",
+    "floor": 7,
+    "area": 59.97
+  },
+  {
+    "aptNm": "에이원파란채",
+    "dealAmount": "17,300",
+    "date": "2026-05-22",
+    "floor": 8,
+    "area": 84.987
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "57,500",
+    "date": "2026-05-22",
+    "floor": 13,
+    "area": 59.97
+  },
+  {
+    "aptNm": "에이원파란채",
+    "dealAmount": "17,300",
+    "date": "2026-05-20",
+    "floor": 8,
+    "area": 84.987
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "57,000",
+    "date": "2026-05-16",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "56,500",
+    "date": "2026-05-15",
+    "floor": 6,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "69,500",
+    "date": "2026-05-15",
+    "floor": 17,
+    "area": 84.8
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "59,900",
+    "date": "2026-05-12",
+    "floor": 18,
+    "area": 74.49
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "66,000",
+    "date": "2026-05-09",
+    "floor": 5,
+    "area": 84.8
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "22,000",
+    "date": "2026-05-07",
+    "floor": 9,
+    "area": 44.6031
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "59,800",
+    "date": "2026-05-02",
+    "floor": 17,
+    "area": 74.49
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "29,100",
+    "date": "2026-05-02",
+    "floor": 27,
+    "area": 56.2088
+  },
+  {
+    "aptNm": "에이원파란채",
+    "dealAmount": "25,300",
+    "date": "2026-04-30",
+    "floor": 7,
+    "area": 115.803
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "67,000",
+    "date": "2026-04-25",
+    "floor": 14,
+    "area": 84.88
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "30,000",
+    "date": "2026-04-24",
+    "floor": 24,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "59,700",
+    "date": "2026-04-23",
+    "floor": 17,
+    "area": 74.49
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "63,000",
+    "date": "2026-04-17",
+    "floor": 4,
+    "area": 84.8
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "30,500",
+    "date": "2026-04-16",
+    "floor": 22,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "57,500",
+    "date": "2026-04-12",
+    "floor": 14,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "57,800",
+    "date": "2026-04-12",
+    "floor": 17,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "54,500",
+    "date": "2026-04-09",
+    "floor": 6,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "57,000",
+    "date": "2026-04-05",
+    "floor": 11,
+    "area": 74.49
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "62,000",
+    "date": "2026-03-22",
+    "floor": 1,
+    "area": 84.88
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "58,000",
+    "date": "2026-03-21",
+    "floor": 14,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "62,000",
+    "date": "2026-03-21",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "55,000",
+    "date": "2026-03-18",
+    "floor": 10,
+    "area": 59.97
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "31,000",
+    "date": "2026-03-16",
+    "floor": 18,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "59,900",
+    "date": "2026-03-14",
+    "floor": 11,
+    "area": 74.49
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "29,400",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "65,000",
+    "date": "2026-03-13",
+    "floor": 6,
+    "area": 84.93
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "66,800",
+    "date": "2026-03-10",
+    "floor": 8,
+    "area": 84.8
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "60,000",
+    "date": "2026-03-07",
+    "floor": 19,
+    "area": 74.49
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "59,000",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 74.49
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "28,000",
+    "date": "2026-03-05",
+    "floor": 22,
+    "area": 56.2088
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "29,000",
+    "date": "2026-03-03",
+    "floor": 15,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "28,500",
+    "date": "2026-02-27",
+    "floor": 15,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "68,000",
+    "date": "2026-02-26",
+    "floor": 24,
+    "area": 84.8
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "59,000",
+    "date": "2026-02-15",
+    "floor": 4,
+    "area": 74.49
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "61,700",
+    "date": "2026-02-12",
+    "floor": 9,
+    "area": 74.49
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "57,000",
+    "date": "2026-02-09",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "29,000",
+    "date": "2026-02-08",
+    "floor": 7,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "67,800",
+    "date": "2026-02-03",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "오산역영무파라드",
+    "dealAmount": "29,500",
+    "date": "2026-02-03",
+    "floor": 29,
+    "area": 56.3731
+  },
+  {
+    "aptNm": "옥길센트리뷰",
+    "dealAmount": "61,700",
+    "date": "2026-02-01",
+    "floor": 9,
+    "area": 74.49
+  }
+]

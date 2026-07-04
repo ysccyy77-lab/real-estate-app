@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "신우",
+    "dealAmount": "13,500",
+    "date": "2026-06-29",
+    "floor": 5,
+    "area": 59.91
+  },
+  {
+    "aptNm": "드림파크301동",
+    "dealAmount": "16,000",
+    "date": "2026-06-16",
+    "floor": 4,
+    "area": 81.7688
+  },
+  {
+    "aptNm": "한양수자인",
+    "dealAmount": "79,000",
+    "date": "2026-05-13",
+    "floor": 3,
+    "area": 84.579
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "15,000",
+    "date": "2026-04-15",
+    "floor": 11,
+    "area": 70.14
+  },
+  {
+    "aptNm": "한양수자인",
+    "dealAmount": "64,500",
+    "date": "2026-03-23",
+    "floor": 13,
+    "area": 64.915
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "18,000",
+    "date": "2026-02-21",
+    "floor": 6,
+    "area": 70.14
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "18,400",
+    "date": "2026-02-07",
+    "floor": 4,
+    "area": 82.08
+  }
+]

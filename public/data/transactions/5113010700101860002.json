@@ -1,0 +1,121 @@
+[
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "8,000",
+    "date": "2026-06-23",
+    "floor": 3,
+    "area": 66.57
+  },
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "10,800",
+    "date": "2026-06-22",
+    "floor": 9,
+    "area": 59.82
+  },
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "13,500",
+    "date": "2026-06-18",
+    "floor": 6,
+    "area": 75.84
+  },
+  {
+    "aptNm": "남운럭키",
+    "dealAmount": "20,300",
+    "date": "2026-03-29",
+    "floor": 1,
+    "area": 84.545
+  },
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "11,500",
+    "date": "2026-03-28",
+    "floor": 2,
+    "area": 75.84
+  },
+  {
+    "aptNm": "남운럭키",
+    "dealAmount": "20,200",
+    "date": "2026-03-28",
+    "floor": 3,
+    "area": 84.545
+  },
+  {
+    "aptNm": "남운럭키",
+    "dealAmount": "19,000",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 84.85
+  },
+  {
+    "aptNm": "남운럭키",
+    "dealAmount": "20,300",
+    "date": "2026-03-22",
+    "floor": 1,
+    "area": 84.545
+  },
+  {
+    "aptNm": "남운럭키",
+    "dealAmount": "15,000",
+    "date": "2026-03-17",
+    "floor": 8,
+    "area": 66.47
+  },
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "10,900",
+    "date": "2026-03-16",
+    "floor": 10,
+    "area": 66.57
+  },
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "8,000",
+    "date": "2026-03-14",
+    "floor": 11,
+    "area": 59.82
+  },
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "9,000",
+    "date": "2026-03-09",
+    "floor": 7,
+    "area": 59.82
+  },
+  {
+    "aptNm": "남운럭키",
+    "dealAmount": "20,300",
+    "date": "2026-03-04",
+    "floor": 9,
+    "area": 84.545
+  },
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "11,600",
+    "date": "2026-02-21",
+    "floor": 15,
+    "area": 75.84
+  },
+  {
+    "aptNm": "남운럭키",
+    "dealAmount": "19,200",
+    "date": "2026-02-13",
+    "floor": 7,
+    "area": 84.545
+  },
+  {
+    "aptNm": "남운럭키",
+    "dealAmount": "13,000",
+    "date": "2026-02-13",
+    "floor": 13,
+    "area": 66.47
+  },
+  {
+    "aptNm": "원흥4",
+    "dealAmount": "9,500",
+    "date": "2026-02-05",
+    "floor": 8,
+    "area": 59.82
+  }
+]

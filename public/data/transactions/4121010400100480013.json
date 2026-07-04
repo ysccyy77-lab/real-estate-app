@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "광명삼익",
+    "dealAmount": "46,000",
+    "date": "2026-06-04",
+    "floor": 21,
+    "area": 59.925
+  },
+  {
+    "aptNm": "광명삼익",
+    "dealAmount": "52,000",
+    "date": "2026-05-28",
+    "floor": 9,
+    "area": 59.925
+  },
+  {
+    "aptNm": "광명삼익",
+    "dealAmount": "54,000",
+    "date": "2026-05-23",
+    "floor": 19,
+    "area": 59.925
+  },
+  {
+    "aptNm": "광명삼익",
+    "dealAmount": "47,800",
+    "date": "2026-04-09",
+    "floor": 9,
+    "area": 59.925
+  },
+  {
+    "aptNm": "광명삼익",
+    "dealAmount": "57,000",
+    "date": "2026-02-28",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "광명삼익",
+    "dealAmount": "60,000",
+    "date": "2026-02-21",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "광명삼익",
     "dealAmount": "55,500",
     "date": "2024-05-25",
     "floor": 9,

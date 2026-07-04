@@ -1,0 +1,954 @@
+[
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "46,500",
+    "date": "2026-07-02",
+    "floor": 2,
+    "area": 49.94
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "4,850",
+    "date": "2026-07-01",
+    "floor": 2,
+    "area": 39.97
+  },
+  {
+    "aptNm": "삼성명가타운",
+    "dealAmount": "22,000",
+    "date": "2026-06-21",
+    "floor": 12,
+    "area": 84.911
+  },
+  {
+    "aptNm": "우만주공1단지",
+    "dealAmount": "35,500",
+    "date": "2026-06-20",
+    "floor": 5,
+    "area": 38.52
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "40,000",
+    "date": "2026-06-20",
+    "floor": 4,
+    "area": 45.77
+  },
+  {
+    "aptNm": "성신아트빌라",
+    "dealAmount": "7,500",
+    "date": "2026-06-15",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "삼성명가타운",
+    "dealAmount": "20,000",
+    "date": "2026-06-11",
+    "floor": 5,
+    "area": 84.911
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "18,800",
+    "date": "2026-06-08",
+    "floor": 4,
+    "area": 81.43
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "38,750",
+    "date": "2026-06-04",
+    "floor": 8,
+    "area": 45.77
+  },
+  {
+    "aptNm": "시지태왕아너스",
+    "dealAmount": "40,500",
+    "date": "2026-06-03",
+    "floor": 25,
+    "area": 84.8819
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "83,500",
+    "date": "2026-06-03",
+    "floor": 1,
+    "area": 49.69
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "54,000",
+    "date": "2026-06-01",
+    "floor": 3,
+    "area": 58.01
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "57,000",
+    "date": "2026-05-30",
+    "floor": 19,
+    "area": 84.818
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "95,000",
+    "date": "2026-05-30",
+    "floor": 8,
+    "area": 49.69
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "46,500",
+    "date": "2026-05-29",
+    "floor": 15,
+    "area": 49.94
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "7,000",
+    "date": "2026-05-29",
+    "floor": 16,
+    "area": 59.87
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "19,000",
+    "date": "2026-05-28",
+    "floor": 1,
+    "area": 81.43
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "55,000",
+    "date": "2026-05-27",
+    "floor": 4,
+    "area": 58.01
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "55,300",
+    "date": "2026-05-27",
+    "floor": 2,
+    "area": 61.52
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "89,500",
+    "date": "2026-05-26",
+    "floor": 11,
+    "area": 49.69
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "55,000",
+    "date": "2026-05-25",
+    "floor": 17,
+    "area": 84.818
+  },
+  {
+    "aptNm": "우만주공1단지",
+    "dealAmount": "34,000",
+    "date": "2026-05-22",
+    "floor": 3,
+    "area": 38.52
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "56,000",
+    "date": "2026-05-21",
+    "floor": 15,
+    "area": 58.01
+  },
+  {
+    "aptNm": "한강현대",
+    "dealAmount": "215,000",
+    "date": "2026-05-21",
+    "floor": 6,
+    "area": 66.225
+  },
+  {
+    "aptNm": "쌍용스윗닷홈거여역1차",
+    "dealAmount": "144,500",
+    "date": "2026-05-21",
+    "floor": 10,
+    "area": 105.2
+  },
+  {
+    "aptNm": "루비츠",
+    "dealAmount": "19,900",
+    "date": "2026-05-21",
+    "floor": 8,
+    "area": 84.8942
+  },
+  {
+    "aptNm": "우만주공1단지",
+    "dealAmount": "44,000",
+    "date": "2026-05-20",
+    "floor": 3,
+    "area": 47.25
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "57,000",
+    "date": "2026-05-20",
+    "floor": 17,
+    "area": 84.818
+  },
+  {
+    "aptNm": "쌍용스윗닷홈거여역1차",
+    "dealAmount": "110,000",
+    "date": "2026-05-20",
+    "floor": 3,
+    "area": 84.95
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "6,700",
+    "date": "2026-05-18",
+    "floor": 1,
+    "area": 59.87
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "95,000",
+    "date": "2026-05-18",
+    "floor": 7,
+    "area": 49.69
+  },
+  {
+    "aptNm": "쌍용스윗닷홈거여역1차",
+    "dealAmount": "121,000",
+    "date": "2026-05-16",
+    "floor": 3,
+    "area": 84.95
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "18,300",
+    "date": "2026-05-14",
+    "floor": 1,
+    "area": 81.43
+  },
+  {
+    "aptNm": "한강현대",
+    "dealAmount": "316,000",
+    "date": "2026-05-13",
+    "floor": 7,
+    "area": 131.06
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "90,000",
+    "date": "2026-05-12",
+    "floor": 10,
+    "area": 49.69
+  },
+  {
+    "aptNm": "가현에이스빌",
+    "dealAmount": "8,500",
+    "date": "2026-05-11",
+    "floor": 2,
+    "area": 83.605
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "6,950",
+    "date": "2026-05-11",
+    "floor": 2,
+    "area": 55.45
+  },
+  {
+    "aptNm": "쌍용스윗닷홈거여역1차",
+    "dealAmount": "105,000",
+    "date": "2026-05-09",
+    "floor": 8,
+    "area": 84.95
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "58,000",
+    "date": "2026-05-08",
+    "floor": 12,
+    "area": 84.818
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "58,800",
+    "date": "2026-05-08",
+    "floor": 19,
+    "area": 84.818
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "88,000",
+    "date": "2026-05-08",
+    "floor": 8,
+    "area": 49.69
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "56,500",
+    "date": "2026-05-07",
+    "floor": 12,
+    "area": 58.01
+  },
+  {
+    "aptNm": "가든하이츠(가,나동)",
+    "dealAmount": "4,500",
+    "date": "2026-05-07",
+    "floor": 4,
+    "area": 64.65
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "86,500",
+    "date": "2026-05-07",
+    "floor": 3,
+    "area": 49.69
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "57,500",
+    "date": "2026-05-05",
+    "floor": 13,
+    "area": 84.818
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "88,000",
+    "date": "2026-05-05",
+    "floor": 3,
+    "area": 49.69
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "89,800",
+    "date": "2026-05-05",
+    "floor": 9,
+    "area": 49.69
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "17,000",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 81.43
+  },
+  {
+    "aptNm": "한강현대",
+    "dealAmount": "272,000",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 131.4
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "88,800",
+    "date": "2026-05-02",
+    "floor": 10,
+    "area": 49.69
+  },
+  {
+    "aptNm": "한강현대",
+    "dealAmount": "218,000",
+    "date": "2026-05-02",
+    "floor": 9,
+    "area": 66.225
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "46,500",
+    "date": "2026-05-01",
+    "floor": 12,
+    "area": 49.94
+  },
+  {
+    "aptNm": "우만주공1단지",
+    "dealAmount": "35,500",
+    "date": "2026-04-30",
+    "floor": 5,
+    "area": 38.52
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "87,000",
+    "date": "2026-04-30",
+    "floor": 5,
+    "area": 49.69
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "55,500",
+    "date": "2026-04-29",
+    "floor": 13,
+    "area": 59.39
+  },
+  {
+    "aptNm": "광장",
+    "dealAmount": "354,000",
+    "date": "2026-04-28",
+    "floor": 10,
+    "area": 136.63
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "72,000",
+    "date": "2026-04-27",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "87,000",
+    "date": "2026-04-27",
+    "floor": 4,
+    "area": 49.69
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "29,400",
+    "date": "2026-04-25",
+    "floor": 2,
+    "area": 49.94
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "45,000",
+    "date": "2026-04-25",
+    "floor": 4,
+    "area": 49.94
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "44,500",
+    "date": "2026-04-24",
+    "floor": 9,
+    "area": 49.94
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "53,000",
+    "date": "2026-04-22",
+    "floor": 7,
+    "area": 58.01
+  },
+  {
+    "aptNm": "우만주공1단지",
+    "dealAmount": "36,000",
+    "date": "2026-04-22",
+    "floor": 4,
+    "area": 38.52
+  },
+  {
+    "aptNm": "우만주공1단지",
+    "dealAmount": "43,500",
+    "date": "2026-04-22",
+    "floor": 4,
+    "area": 47.25
+  },
+  {
+    "aptNm": "광장",
+    "dealAmount": "315,000",
+    "date": "2026-04-22",
+    "floor": 9,
+    "area": 116.53
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "13,500",
+    "date": "2026-04-20",
+    "floor": 7,
+    "area": 84.87
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "44,000",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 49.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "85,500",
+    "date": "2026-04-17",
+    "floor": 2,
+    "area": 49.69
+  },
+  {
+    "aptNm": "루비츠",
+    "dealAmount": "23,000",
+    "date": "2026-04-17",
+    "floor": 10,
+    "area": 84.8942
+  },
+  {
+    "aptNm": "한성",
+    "dealAmount": "7,600",
+    "date": "2026-04-14",
+    "floor": 5,
+    "area": 59.76
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "89,000",
+    "date": "2026-04-13",
+    "floor": 14,
+    "area": 49.69
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "40,000",
+    "date": "2026-04-12",
+    "floor": 5,
+    "area": 45.9
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "88,000",
+    "date": "2026-04-11",
+    "floor": 9,
+    "area": 49.69
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "86,700",
+    "date": "2026-04-11",
+    "floor": 14,
+    "area": 49.69
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "105,000",
+    "date": "2026-04-10",
+    "floor": 9,
+    "area": 59.94
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "55,000",
+    "date": "2026-04-08",
+    "floor": 12,
+    "area": 58.01
+  },
+  {
+    "aptNm": "광장",
+    "dealAmount": "320,000",
+    "date": "2026-04-08",
+    "floor": 4,
+    "area": 102.25
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "45,300",
+    "date": "2026-04-07",
+    "floor": 14,
+    "area": 49.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "88,500",
+    "date": "2026-04-07",
+    "floor": 7,
+    "area": 49.69
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "40,000",
+    "date": "2026-04-06",
+    "floor": 4,
+    "area": 41.3
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "49,500",
+    "date": "2026-04-06",
+    "floor": 2,
+    "area": 84.818
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "10,500",
+    "date": "2026-04-05",
+    "floor": 14,
+    "area": 84.87
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "100,000",
+    "date": "2026-04-04",
+    "floor": 11,
+    "area": 59.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "94,800",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "84,000",
+    "date": "2026-04-04",
+    "floor": 3,
+    "area": 49.69
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "65,000",
+    "date": "2026-03-30",
+    "floor": 6,
+    "area": 66.56
+  },
+  {
+    "aptNm": "시지태왕아너스",
+    "dealAmount": "45,000",
+    "date": "2026-03-30",
+    "floor": 16,
+    "area": 84.8819
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "48,300",
+    "date": "2026-03-29",
+    "floor": 15,
+    "area": 49.94
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "11,300",
+    "date": "2026-03-29",
+    "floor": 14,
+    "area": 84.87
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "57,800",
+    "date": "2026-03-28",
+    "floor": 9,
+    "area": 58.01
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "39,000",
+    "date": "2026-03-28",
+    "floor": 6,
+    "area": 41.3
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "5,000",
+    "date": "2026-03-27",
+    "floor": 16,
+    "area": 43.89
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "48,000",
+    "date": "2026-03-19",
+    "floor": 15,
+    "area": 49.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "110,000",
+    "date": "2026-03-18",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "88,000",
+    "date": "2026-03-18",
+    "floor": 11,
+    "area": 49.69
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "52,000",
+    "date": "2026-03-17",
+    "floor": 4,
+    "area": 84.818
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "52,000",
+    "date": "2026-03-16",
+    "floor": 14,
+    "area": 84.818
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "40,000",
+    "date": "2026-03-14",
+    "floor": 11,
+    "area": 41.3
+  },
+  {
+    "aptNm": "효성동대림아파트",
+    "dealAmount": "22,700",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 59.209
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "59,700",
+    "date": "2026-03-13",
+    "floor": 9,
+    "area": 84.818
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "85,000",
+    "date": "2026-03-13",
+    "floor": 6,
+    "area": 49.69
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "85,000",
+    "date": "2026-03-13",
+    "floor": 3,
+    "area": 49.69
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "109,000",
+    "date": "2026-03-13",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "100,000",
+    "date": "2026-03-11",
+    "floor": 9,
+    "area": 59.94
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "85,000",
+    "date": "2026-03-11",
+    "floor": 10,
+    "area": 49.69
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "52,700",
+    "date": "2026-03-10",
+    "floor": 4,
+    "area": 84.818
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "51,700",
+    "date": "2026-03-10",
+    "floor": 8,
+    "area": 84.818
+  },
+  {
+    "aptNm": "삼성명가타운",
+    "dealAmount": "19,000",
+    "date": "2026-03-09",
+    "floor": 1,
+    "area": 84.911
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "100,000",
+    "date": "2026-03-09",
+    "floor": 11,
+    "area": 59.94
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "20,500",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 81.43
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "42,000",
+    "date": "2026-03-06",
+    "floor": 15,
+    "area": 45.9
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "5,800",
+    "date": "2026-03-04",
+    "floor": 13,
+    "area": 43.89
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "55,000",
+    "date": "2026-03-03",
+    "floor": 4,
+    "area": 59.39
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "8,000",
+    "date": "2026-03-03",
+    "floor": 5,
+    "area": 84.87
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "57,500",
+    "date": "2026-02-27",
+    "floor": 12,
+    "area": 58.01
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "19,500",
+    "date": "2026-02-27",
+    "floor": 6,
+    "area": 81.43
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "47,000",
+    "date": "2026-02-23",
+    "floor": 11,
+    "area": 49.94
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "21,000",
+    "date": "2026-02-23",
+    "floor": 4,
+    "area": 81.43
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "21,300",
+    "date": "2026-02-23",
+    "floor": 3,
+    "area": 81.43
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "47,500",
+    "date": "2026-02-21",
+    "floor": 14,
+    "area": 49.94
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "10,400",
+    "date": "2026-02-21",
+    "floor": 16,
+    "area": 84.87
+  },
+  {
+    "aptNm": "삼성명가타운",
+    "dealAmount": "20,000",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 84.911
+  },
+  {
+    "aptNm": "가현에이스빌",
+    "dealAmount": "9,000",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 83.605
+  },
+  {
+    "aptNm": "강동리엔파크14단지",
+    "dealAmount": "97,000",
+    "date": "2026-02-13",
+    "floor": 7,
+    "area": 59.94
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "48,000",
+    "date": "2026-02-12",
+    "floor": 8,
+    "area": 49.94
+  },
+  {
+    "aptNm": "광장",
+    "dealAmount": "280,000",
+    "date": "2026-02-12",
+    "floor": 2,
+    "area": 101.39
+  },
+  {
+    "aptNm": "우만주공1단지",
+    "dealAmount": "44,000",
+    "date": "2026-02-11",
+    "floor": 4,
+    "area": 47.25
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "47,500",
+    "date": "2026-02-11",
+    "floor": 14,
+    "area": 49.94
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "55,000",
+    "date": "2026-02-10",
+    "floor": 7,
+    "area": 58.01
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "47,000",
+    "date": "2026-02-10",
+    "floor": 8,
+    "area": 49.94
+  },
+  {
+    "aptNm": "대명구름채",
+    "dealAmount": "52,000",
+    "date": "2026-02-09",
+    "floor": 16,
+    "area": 84.818
+  },
+  {
+    "aptNm": "용명브릿지아파트",
+    "dealAmount": "65,000",
+    "date": "2026-02-03",
+    "floor": 4,
+    "area": 76.31
+  },
+  {
+    "aptNm": "우만주공2단지",
+    "dealAmount": "55,000",
+    "date": "2026-02-02",
+    "floor": 4,
+    "area": 59.39
+  },
+  {
+    "aptNm": "세창선단마을",
+    "dealAmount": "18,200",
+    "date": "2026-02-02",
+    "floor": 6,
+    "area": 81.43
+  },
+  {
+    "aptNm": "강변보성타운",
+    "dealAmount": "10,400",
+    "date": "2026-02-02",
+    "floor": 3,
+    "area": 84.87
+  },
+  {
+    "aptNm": "루비츠",
+    "dealAmount": "21,000",
+    "date": "2026-02-02",
+    "floor": 5,
+    "area": 84.8942
+  }
+]

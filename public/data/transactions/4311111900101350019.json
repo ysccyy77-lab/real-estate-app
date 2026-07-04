@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "두산하이츠",
+    "dealAmount": "3,000",
+    "date": "2026-06-11",
+    "floor": 8,
+    "area": 22.93
+  },
+  {
+    "aptNm": "두산하이츠",
+    "dealAmount": "2,000",
+    "date": "2026-06-03",
+    "floor": 5,
+    "area": 22.93
+  },
+  {
+    "aptNm": "두산하이츠",
+    "dealAmount": "2,450",
+    "date": "2026-03-17",
+    "floor": 14,
+    "area": 22.93
+  },
+  {
+    "aptNm": "두산하이츠",
+    "dealAmount": "2,450",
+    "date": "2026-03-16",
+    "floor": 9,
+    "area": 22.93
+  },
+  {
+    "aptNm": "두산하이츠",
+    "dealAmount": "2,200",
+    "date": "2026-03-11",
+    "floor": 14,
+    "area": 22.93
+  },
+  {
+    "aptNm": "두산하이츠",
+    "dealAmount": "2,270",
+    "date": "2026-02-12",
+    "floor": 1,
+    "area": 22.93
+  },
+  {
+    "aptNm": "두산하이츠",
+    "dealAmount": "2,350",
+    "date": "2026-02-10",
+    "floor": 1,
+    "area": 22.93
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "성산현대",
+    "dealAmount": "17,000",
+    "date": "2026-06-09",
+    "floor": 8,
+    "area": 77.16
+  },
+  {
+    "aptNm": "성산현대",
+    "dealAmount": "15,000",
+    "date": "2026-05-26",
+    "floor": 16,
+    "area": 59.7
+  },
+  {
+    "aptNm": "성산현대",
+    "dealAmount": "19,500",
+    "date": "2026-05-17",
+    "floor": 12,
+    "area": 77.16
+  },
+  {
+    "aptNm": "성산현대",
+    "dealAmount": "12,000",
+    "date": "2026-04-08",
+    "floor": 2,
+    "area": 59.7
+  }
+]

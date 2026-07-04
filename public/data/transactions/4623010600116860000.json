@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "산들마을",
+    "dealAmount": "39,000",
+    "date": "2026-06-17",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "산들마을",
+    "dealAmount": "38,700",
+    "date": "2026-06-12",
+    "floor": 20,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신림동쌍용아파트",
+    "dealAmount": "50,000",
+    "date": "2026-05-22",
+    "floor": 7,
+    "area": 59.26
+  },
+  {
+    "aptNm": "산들마을",
+    "dealAmount": "38,000",
+    "date": "2026-05-20",
+    "floor": 19,
+    "area": 84.93
+  },
+  {
+    "aptNm": "산들마을",
+    "dealAmount": "39,500",
+    "date": "2026-04-17",
+    "floor": 14,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신림동쌍용아파트",
+    "dealAmount": "52,000",
+    "date": "2026-04-07",
+    "floor": 8,
+    "area": 59.26
+  },
+  {
+    "aptNm": "신림동쌍용아파트",
+    "dealAmount": "50,000",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 59.26
+  },
+  {
+    "aptNm": "신림동쌍용아파트",
+    "dealAmount": "52,000",
+    "date": "2026-03-24",
+    "floor": 7,
+    "area": 59.26
+  },
+  {
+    "aptNm": "산들마을",
+    "dealAmount": "37,500",
+    "date": "2026-03-07",
+    "floor": 17,
+    "area": 84.93
+  },
+  {
+    "aptNm": "산들마을",
+    "dealAmount": "42,000",
+    "date": "2026-02-06",
+    "floor": 14,
+    "area": 84.93
+  }
+]

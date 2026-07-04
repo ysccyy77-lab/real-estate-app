@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "효성",
+    "dealAmount": "19,000",
+    "date": "2026-06-12",
+    "floor": 10,
+    "area": 69.57
+  },
+  {
+    "aptNm": "효성",
+    "dealAmount": "19,100",
+    "date": "2026-04-13",
+    "floor": 1,
+    "area": 65.01
+  },
+  {
+    "aptNm": "효성",
+    "dealAmount": "13,500",
+    "date": "2026-03-24",
+    "floor": 6,
+    "area": 43.2
+  },
+  {
+    "aptNm": "효성",
+    "dealAmount": "19,400",
+    "date": "2026-03-21",
+    "floor": 4,
+    "area": 69.57
+  },
+  {
+    "aptNm": "효성",
+    "dealAmount": "22,000",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 69.57
+  },
+  {
+    "aptNm": "효성",
+    "dealAmount": "19,800",
+    "date": "2026-02-05",
+    "floor": 7,
+    "area": 69.57
+  }
+]

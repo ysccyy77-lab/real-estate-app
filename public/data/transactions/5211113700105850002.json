@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "도동대림",
+    "dealAmount": "14,900",
+    "date": "2026-06-14",
+    "floor": 6,
+    "area": 73.375
+  },
+  {
+    "aptNm": "쌍용2단지",
+    "dealAmount": "6,500",
+    "date": "2026-06-05",
+    "floor": 2,
+    "area": 49.31
+  },
+  {
+    "aptNm": "쌍용2단지",
+    "dealAmount": "9,000",
+    "date": "2026-06-01",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "쌍용2단지",
+    "dealAmount": "5,000",
+    "date": "2026-05-21",
+    "floor": 2,
+    "area": 30.21
+  },
+  {
+    "aptNm": "쌍용2단지",
+    "dealAmount": "4,200",
+    "date": "2026-05-20",
+    "floor": 1,
+    "area": 30.21
+  },
+  {
+    "aptNm": "쌍용2단지",
+    "dealAmount": "8,000",
+    "date": "2026-04-22",
+    "floor": 1,
+    "area": 49.31
+  },
+  {
+    "aptNm": "도동대림",
+    "dealAmount": "20,000",
+    "date": "2026-04-18",
+    "floor": 11,
+    "area": 84.23
+  },
+  {
+    "aptNm": "도동대림",
+    "dealAmount": "15,800",
+    "date": "2026-02-04",
+    "floor": 8,
+    "area": 73.375
+  }
+]

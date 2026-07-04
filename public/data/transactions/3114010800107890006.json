@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "동부3",
+    "dealAmount": "52,000",
+    "date": "2026-06-17",
+    "floor": 17,
+    "area": 134.98
+  },
+  {
+    "aptNm": "동부3",
+    "dealAmount": "41,500",
+    "date": "2026-06-03",
+    "floor": 19,
+    "area": 104.23
+  },
+  {
+    "aptNm": "동부3",
+    "dealAmount": "45,000",
+    "date": "2026-05-12",
+    "floor": 17,
+    "area": 104.23
+  },
+  {
+    "aptNm": "동부3",
+    "dealAmount": "42,500",
+    "date": "2026-04-21",
+    "floor": 8,
+    "area": 104.23
+  },
+  {
+    "aptNm": "동부3",
+    "dealAmount": "46,500",
+    "date": "2026-03-18",
+    "floor": 1,
+    "area": 134.98
+  },
+  {
+    "aptNm": "동부3",
+    "dealAmount": "50,000",
+    "date": "2026-02-12",
+    "floor": 7,
+    "area": 134.98
+  }
+]

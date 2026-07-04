@@ -1,0 +1,716 @@
+[
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "16,000",
+    "date": "2026-06-29",
+    "floor": 5,
+    "area": 47.325
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "18,300",
+    "date": "2026-06-20",
+    "floor": 2,
+    "area": 53.925
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "17,000",
+    "date": "2026-06-19",
+    "floor": 3,
+    "area": 53.925
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "20,700",
+    "date": "2026-06-18",
+    "floor": 6,
+    "area": 73.12
+  },
+  {
+    "aptNm": "계양한양수자인",
+    "dealAmount": "58,200",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 84.996
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "109,800",
+    "date": "2026-06-12",
+    "floor": 3,
+    "area": 59.35
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "14,500",
+    "date": "2026-06-10",
+    "floor": 16,
+    "area": 47.325
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "17,000",
+    "date": "2026-06-09",
+    "floor": 9,
+    "area": 53.925
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "85,500",
+    "date": "2026-06-04",
+    "floor": 2,
+    "area": 140.007
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "84,000",
+    "date": "2026-06-01",
+    "floor": 9,
+    "area": 140.007
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "17,300",
+    "date": "2026-05-30",
+    "floor": 14,
+    "area": 53.925
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "20,400",
+    "date": "2026-05-29",
+    "floor": 6,
+    "area": 53.925
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "106,000",
+    "date": "2026-05-27",
+    "floor": 2,
+    "area": 59.35
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "87,500",
+    "date": "2026-05-27",
+    "floor": 9,
+    "area": 138.121
+  },
+  {
+    "aptNm": "금호어울림",
+    "dealAmount": "100,000",
+    "date": "2026-05-26",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "82,000",
+    "date": "2026-05-23",
+    "floor": 7,
+    "area": 138.121
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "82,000",
+    "date": "2026-05-23",
+    "floor": 2,
+    "area": 140.007
+  },
+  {
+    "aptNm": "현대강변타운2",
+    "dealAmount": "8,000",
+    "date": "2026-05-19",
+    "floor": 8,
+    "area": 59.46
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "34,500",
+    "date": "2026-05-18",
+    "floor": 15,
+    "area": 59.92
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "53,900",
+    "date": "2026-05-18",
+    "floor": 7,
+    "area": 126.91
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "87,400",
+    "date": "2026-05-18",
+    "floor": 9,
+    "area": 140.007
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "98,000",
+    "date": "2026-05-17",
+    "floor": 16,
+    "area": 159.092
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "41,500",
+    "date": "2026-05-16",
+    "floor": 9,
+    "area": 84.89
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "40,500",
+    "date": "2026-05-16",
+    "floor": 17,
+    "area": 84.89
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "42,000",
+    "date": "2026-05-16",
+    "floor": 14,
+    "area": 84.89
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "42,000",
+    "date": "2026-05-13",
+    "floor": 3,
+    "area": 84.89
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "86,000",
+    "date": "2026-05-13",
+    "floor": 8,
+    "area": 138.121
+  },
+  {
+    "aptNm": "금호어울림",
+    "dealAmount": "124,000",
+    "date": "2026-05-12",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "20,000",
+    "date": "2026-05-11",
+    "floor": 2,
+    "area": 53.925
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "125,000",
+    "date": "2026-05-09",
+    "floor": 10,
+    "area": 84.84
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "42,000",
+    "date": "2026-05-06",
+    "floor": 16,
+    "area": 59.92
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "34,500",
+    "date": "2026-05-06",
+    "floor": 20,
+    "area": 59.92
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "44,000",
+    "date": "2026-05-06",
+    "floor": 17,
+    "area": 84.89
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "16,800",
+    "date": "2026-05-05",
+    "floor": 7,
+    "area": 47.325
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "18,500",
+    "date": "2026-05-04",
+    "floor": 6,
+    "area": 53.925
+  },
+  {
+    "aptNm": "현대강변타운2",
+    "dealAmount": "12,750",
+    "date": "2026-05-01",
+    "floor": 2,
+    "area": 59.46
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,800",
+    "date": "2026-04-26",
+    "floor": 18,
+    "area": 73.41
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "108,000",
+    "date": "2026-04-25",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "88,800",
+    "date": "2026-04-25",
+    "floor": 9,
+    "area": 138.121
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "72,500",
+    "date": "2026-04-25",
+    "floor": 9,
+    "area": 84.903
+  },
+  {
+    "aptNm": "금호어울림",
+    "dealAmount": "115,000",
+    "date": "2026-04-24",
+    "floor": 2,
+    "area": 98.01
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,500",
+    "date": "2026-04-23",
+    "floor": 13,
+    "area": 73.12
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "40,200",
+    "date": "2026-04-22",
+    "floor": 10,
+    "area": 59.92
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "108,600",
+    "date": "2026-04-19",
+    "floor": 4,
+    "area": 59.92
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "125,000",
+    "date": "2026-04-16",
+    "floor": 21,
+    "area": 84.84
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "40,500",
+    "date": "2026-04-15",
+    "floor": 9,
+    "area": 84.89
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "17,800",
+    "date": "2026-04-15",
+    "floor": 2,
+    "area": 53.925
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "19,300",
+    "date": "2026-04-14",
+    "floor": 11,
+    "area": 53.925
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "117,000",
+    "date": "2026-04-11",
+    "floor": 7,
+    "area": 84.87
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "18,900",
+    "date": "2026-04-07",
+    "floor": 4,
+    "area": 53.925
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "36,500",
+    "date": "2026-04-06",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,280",
+    "date": "2026-04-06",
+    "floor": 15,
+    "area": 73.41
+  },
+  {
+    "aptNm": "노암대목",
+    "dealAmount": "10,500",
+    "date": "2026-04-04",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "19,300",
+    "date": "2026-04-04",
+    "floor": 10,
+    "area": 53.925
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "16,500",
+    "date": "2026-04-01",
+    "floor": 9,
+    "area": 47.325
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "16,000",
+    "date": "2026-03-30",
+    "floor": 19,
+    "area": 47.325
+  },
+  {
+    "aptNm": "계양한양수자인",
+    "dealAmount": "52,500",
+    "date": "2026-03-28",
+    "floor": 3,
+    "area": 84.996
+  },
+  {
+    "aptNm": "계양한양수자인",
+    "dealAmount": "40,000",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 59.97
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "16,000",
+    "date": "2026-03-25",
+    "floor": 2,
+    "area": 53.925
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "19,300",
+    "date": "2026-03-21",
+    "floor": 12,
+    "area": 53.925
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "88,000",
+    "date": "2026-03-21",
+    "floor": 4,
+    "area": 159.092
+  },
+  {
+    "aptNm": "현대강변타운2",
+    "dealAmount": "13,000",
+    "date": "2026-03-20",
+    "floor": 1,
+    "area": 75.9
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "120,000",
+    "date": "2026-03-20",
+    "floor": 6,
+    "area": 84.87
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "20,000",
+    "date": "2026-03-18",
+    "floor": 11,
+    "area": 53.925
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "18,800",
+    "date": "2026-03-17",
+    "floor": 12,
+    "area": 53.925
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "109,000",
+    "date": "2026-03-14",
+    "floor": 15,
+    "area": 59.35
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "42,500",
+    "date": "2026-03-13",
+    "floor": 4,
+    "area": 84.89
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "30,000",
+    "date": "2026-03-12",
+    "floor": 1,
+    "area": 59.92
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "17,000",
+    "date": "2026-03-11",
+    "floor": 4,
+    "area": 73.41
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "40,200",
+    "date": "2026-03-09",
+    "floor": 14,
+    "area": 59.92
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "119,500",
+    "date": "2026-03-09",
+    "floor": 15,
+    "area": 84.71
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "85,500",
+    "date": "2026-03-09",
+    "floor": 9,
+    "area": 140.007
+  },
+  {
+    "aptNm": "현대강변타운2",
+    "dealAmount": "23,500",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 147.78
+  },
+  {
+    "aptNm": "금호어울림",
+    "dealAmount": "127,500",
+    "date": "2026-03-07",
+    "floor": 12,
+    "area": 116.25
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "36,000",
+    "date": "2026-03-06",
+    "floor": 16,
+    "area": 59.92
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "18,000",
+    "date": "2026-03-05",
+    "floor": 8,
+    "area": 53.925
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "19,000",
+    "date": "2026-03-04",
+    "floor": 15,
+    "area": 53.925
+  },
+  {
+    "aptNm": "현대강변타운2",
+    "dealAmount": "11,500",
+    "date": "2026-03-03",
+    "floor": 12,
+    "area": 59.46
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,000",
+    "date": "2026-03-02",
+    "floor": 8,
+    "area": 73.41
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "88,000",
+    "date": "2026-02-28",
+    "floor": 13,
+    "area": 138.121
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "44,500",
+    "date": "2026-02-27",
+    "floor": 10,
+    "area": 84.89
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,400",
+    "date": "2026-02-26",
+    "floor": 15,
+    "area": 73.41
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "19,000",
+    "date": "2026-02-24",
+    "floor": 18,
+    "area": 53.925
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,250",
+    "date": "2026-02-23",
+    "floor": 18,
+    "area": 73.12
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,700",
+    "date": "2026-02-22",
+    "floor": 12,
+    "area": 73.12
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "73,500",
+    "date": "2026-02-22",
+    "floor": 13,
+    "area": 84.867
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "19,000",
+    "date": "2026-02-21",
+    "floor": 9,
+    "area": 53.925
+  },
+  {
+    "aptNm": "강변센트럴하이츠",
+    "dealAmount": "103,000",
+    "date": "2026-02-21",
+    "floor": 19,
+    "area": 159.092
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "35,000",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 59.92
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,200",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 73.41
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "18,500",
+    "date": "2026-02-19",
+    "floor": 3,
+    "area": 53.925
+  },
+  {
+    "aptNm": "꿈의숲코오롱하늘채",
+    "dealAmount": "105,000",
+    "date": "2026-02-19",
+    "floor": 23,
+    "area": 59.92
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "25,800",
+    "date": "2026-02-12",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "36,500",
+    "date": "2026-02-11",
+    "floor": 18,
+    "area": 59.92
+  },
+  {
+    "aptNm": "현대강변타운2",
+    "dealAmount": "11,300",
+    "date": "2026-02-11",
+    "floor": 15,
+    "area": 59.46
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "8,800",
+    "date": "2026-02-10",
+    "floor": 2,
+    "area": 55.44
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "19,600",
+    "date": "2026-02-08",
+    "floor": 14,
+    "area": 73.41
+  },
+  {
+    "aptNm": "현대강변타운2",
+    "dealAmount": "14,500",
+    "date": "2026-02-06",
+    "floor": 10,
+    "area": 75.9
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "8,000",
+    "date": "2026-02-05",
+    "floor": 3,
+    "area": 55.44
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "35,500",
+    "date": "2026-02-04",
+    "floor": 14,
+    "area": 59.92
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "40,500",
+    "date": "2026-02-03",
+    "floor": 20,
+    "area": 84.89
+  },
+  {
+    "aptNm": "인정멜로디",
+    "dealAmount": "21,000",
+    "date": "2026-02-02",
+    "floor": 5,
+    "area": 53.925
+  }
+]

@@ -1,0 +1,828 @@
+[
+  {
+    "aptNm": "한우리2",
+    "dealAmount": "9,100",
+    "date": "2026-07-02",
+    "floor": 5,
+    "area": 59.865
+  },
+  {
+    "aptNm": "상일파크맨션",
+    "dealAmount": "12,000",
+    "date": "2026-07-01",
+    "floor": 7,
+    "area": 79.5
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "20,000",
+    "date": "2026-06-27",
+    "floor": 22,
+    "area": 59.88
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "34,500",
+    "date": "2026-06-27",
+    "floor": 3,
+    "area": 84.9846
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "248,000",
+    "date": "2026-06-27",
+    "floor": 16,
+    "area": 115.78
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "27,500",
+    "date": "2026-06-25",
+    "floor": 21,
+    "area": 84.96
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "36,600",
+    "date": "2026-06-24",
+    "floor": 8,
+    "area": 84.9846
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "238,000",
+    "date": "2026-06-22",
+    "floor": 24,
+    "area": 97.27
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "17,000",
+    "date": "2026-06-20",
+    "floor": 1,
+    "area": 59.88
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "32,500",
+    "date": "2026-06-20",
+    "floor": 19,
+    "area": 84.96
+  },
+  {
+    "aptNm": "보성트윈힐스",
+    "dealAmount": "6,500",
+    "date": "2026-06-19",
+    "floor": 6,
+    "area": 38.89
+  },
+  {
+    "aptNm": "보성트윈힐스",
+    "dealAmount": "6,300",
+    "date": "2026-06-18",
+    "floor": 6,
+    "area": 38.89
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "60,000",
+    "date": "2026-06-17",
+    "floor": 11,
+    "area": 44.35
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "37,700",
+    "date": "2026-06-15",
+    "floor": 5,
+    "area": 84.998
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "41,300",
+    "date": "2026-06-15",
+    "floor": 17,
+    "area": 84.998
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "284,000",
+    "date": "2026-06-15",
+    "floor": 6,
+    "area": 105.72
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "36,800",
+    "date": "2026-06-13",
+    "floor": 21,
+    "area": 84.998
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "37,500",
+    "date": "2026-06-13",
+    "floor": 22,
+    "area": 84.9846
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "245,000",
+    "date": "2026-06-13",
+    "floor": 2,
+    "area": 133.42
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "220,000",
+    "date": "2026-06-13",
+    "floor": 2,
+    "area": 97.27
+  },
+  {
+    "aptNm": "신도림LG자이",
+    "dealAmount": "112,000",
+    "date": "2026-06-12",
+    "floor": 22,
+    "area": 84.952
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "28,000",
+    "date": "2026-06-09",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "300,000",
+    "date": "2026-06-09",
+    "floor": 9,
+    "area": 109.42
+  },
+  {
+    "aptNm": "신도림LG자이",
+    "dealAmount": "112,000",
+    "date": "2026-06-08",
+    "floor": 22,
+    "area": 84.952
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "38,100",
+    "date": "2026-06-04",
+    "floor": 11,
+    "area": 84.9846
+  },
+  {
+    "aptNm": "중화동건영아파트",
+    "dealAmount": "61,000",
+    "date": "2026-06-04",
+    "floor": 6,
+    "area": 84.76
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "32,000",
+    "date": "2026-06-01",
+    "floor": 3,
+    "area": 134.92
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "43,500",
+    "date": "2026-06-01",
+    "floor": 8,
+    "area": 35.45
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "27,300",
+    "date": "2026-05-30",
+    "floor": 19,
+    "area": 84.96
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "18,000",
+    "date": "2026-05-29",
+    "floor": 22,
+    "area": 59.88
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "59,300",
+    "date": "2026-05-29",
+    "floor": 12,
+    "area": 44.35
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "260,000",
+    "date": "2026-05-29",
+    "floor": 17,
+    "area": 133.42
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "36,800",
+    "date": "2026-05-27",
+    "floor": 7,
+    "area": 84.9846
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "60,000",
+    "date": "2026-05-27",
+    "floor": 14,
+    "area": 44.35
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "6,000",
+    "date": "2026-05-26",
+    "floor": 4,
+    "area": 78.635
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "40,000",
+    "date": "2026-05-25",
+    "floor": 2,
+    "area": 35.45
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "43,500",
+    "date": "2026-05-25",
+    "floor": 14,
+    "area": 35.45
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "223,500",
+    "date": "2026-05-23",
+    "floor": 20,
+    "area": 97.27
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "220,000",
+    "date": "2026-05-22",
+    "floor": 1,
+    "area": 115.78
+  },
+  {
+    "aptNm": "신도림LG자이",
+    "dealAmount": "108,000",
+    "date": "2026-05-21",
+    "floor": 7,
+    "area": 84.952
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "39,500",
+    "date": "2026-05-21",
+    "floor": 3,
+    "area": 35.45
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "36,000",
+    "date": "2026-05-20",
+    "floor": 7,
+    "area": 84.998
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "60,000",
+    "date": "2026-05-19",
+    "floor": 2,
+    "area": 59.22
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "60,000",
+    "date": "2026-05-19",
+    "floor": 15,
+    "area": 44.35
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "260,000",
+    "date": "2026-05-15",
+    "floor": 9,
+    "area": 133.42
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "43,300",
+    "date": "2026-05-14",
+    "floor": 4,
+    "area": 35.45
+  },
+  {
+    "aptNm": "월배쌍용예가",
+    "dealAmount": "38,200",
+    "date": "2026-05-13",
+    "floor": 11,
+    "area": 84.9846
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "56,050",
+    "date": "2026-05-13",
+    "floor": 7,
+    "area": 59.22
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "234,000",
+    "date": "2026-05-12",
+    "floor": 21,
+    "area": 115.78
+  },
+  {
+    "aptNm": "명일우성",
+    "dealAmount": "187,000",
+    "date": "2026-05-11",
+    "floor": 3,
+    "area": 84.93
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "71,000",
+    "date": "2026-05-11",
+    "floor": 13,
+    "area": 82.39
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "19,000",
+    "date": "2026-05-09",
+    "floor": 12,
+    "area": 59.88
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "38,000",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 35.45
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "42,000",
+    "date": "2026-05-05",
+    "floor": 8,
+    "area": 35.45
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "235,000",
+    "date": "2026-05-05",
+    "floor": 16,
+    "area": 97.27
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "33,500",
+    "date": "2026-04-28",
+    "floor": 12,
+    "area": 134.92
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "250,000",
+    "date": "2026-04-25",
+    "floor": 5,
+    "area": 133.42
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "239,500",
+    "date": "2026-04-24",
+    "floor": 19,
+    "area": 115.78
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "18,000",
+    "date": "2026-04-23",
+    "floor": 12,
+    "area": 59.88
+  },
+  {
+    "aptNm": "한우리2",
+    "dealAmount": "11,500",
+    "date": "2026-04-22",
+    "floor": 13,
+    "area": 59.865
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "199,000",
+    "date": "2026-04-22",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "223,000",
+    "date": "2026-04-22",
+    "floor": 18,
+    "area": 97.27
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "8,000",
+    "date": "2026-04-21",
+    "floor": 11,
+    "area": 78.635
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "230,000",
+    "date": "2026-04-21",
+    "floor": 8,
+    "area": 133.42
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "18,000",
+    "date": "2026-04-20",
+    "floor": 18,
+    "area": 59.88
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "64,000",
+    "date": "2026-04-20",
+    "floor": 7,
+    "area": 59.22
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "21,600",
+    "date": "2026-04-18",
+    "floor": 12,
+    "area": 59.88
+  },
+  {
+    "aptNm": "신도림LG자이",
+    "dealAmount": "113,500",
+    "date": "2026-04-18",
+    "floor": 11,
+    "area": 84.952
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "207,000",
+    "date": "2026-04-17",
+    "floor": 18,
+    "area": 84.94
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "19,600",
+    "date": "2026-04-16",
+    "floor": 10,
+    "area": 59.88
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "75,500",
+    "date": "2026-04-16",
+    "floor": 7,
+    "area": 82.39
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "57,000",
+    "date": "2026-04-15",
+    "floor": 3,
+    "area": 44.35
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "59,500",
+    "date": "2026-04-15",
+    "floor": 4,
+    "area": 44.35
+  },
+  {
+    "aptNm": "명일우성",
+    "dealAmount": "195,000",
+    "date": "2026-04-14",
+    "floor": 5,
+    "area": 133.65
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "210,000",
+    "date": "2026-04-11",
+    "floor": 7,
+    "area": 97.27
+  },
+  {
+    "aptNm": "당산삼성래미안4차",
+    "dealAmount": "195,000",
+    "date": "2026-04-11",
+    "floor": 2,
+    "area": 84.94
+  },
+  {
+    "aptNm": "(화원)영남",
+    "dealAmount": "18,750",
+    "date": "2026-04-10",
+    "floor": 3,
+    "area": 73.7775
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "78,000",
+    "date": "2026-04-10",
+    "floor": 2,
+    "area": 96.4
+  },
+  {
+    "aptNm": "중화동건영아파트",
+    "dealAmount": "58,000",
+    "date": "2026-04-07",
+    "floor": 3,
+    "area": 84.76
+  },
+  {
+    "aptNm": "보성트윈힐스",
+    "dealAmount": "6,700",
+    "date": "2026-04-04",
+    "floor": 6,
+    "area": 38.97
+  },
+  {
+    "aptNm": "삼성청담아파트",
+    "dealAmount": "249,800",
+    "date": "2026-04-03",
+    "floor": 1,
+    "area": 114.83
+  },
+  {
+    "aptNm": "삼성청담아파트",
+    "dealAmount": "198,000",
+    "date": "2026-04-03",
+    "floor": 18,
+    "area": 59.99
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "25,500",
+    "date": "2026-03-30",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "6,000",
+    "date": "2026-03-28",
+    "floor": 1,
+    "area": 78.635
+  },
+  {
+    "aptNm": "삼성청담아파트",
+    "dealAmount": "210,000",
+    "date": "2026-03-28",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "명일우성",
+    "dealAmount": "208,500",
+    "date": "2026-03-27",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한주",
+    "dealAmount": "10,000",
+    "date": "2026-03-23",
+    "floor": 15,
+    "area": 59.55
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "17,500",
+    "date": "2026-03-22",
+    "floor": 23,
+    "area": 59.88
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "73,000",
+    "date": "2026-03-21",
+    "floor": 1,
+    "area": 96.4
+  },
+  {
+    "aptNm": "한우리2",
+    "dealAmount": "9,000",
+    "date": "2026-03-20",
+    "floor": 10,
+    "area": 59.865
+  },
+  {
+    "aptNm": "한우리2",
+    "dealAmount": "8,500",
+    "date": "2026-03-20",
+    "floor": 2,
+    "area": 59.865
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "32,500",
+    "date": "2026-03-18",
+    "floor": 11,
+    "area": 134.92
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "27,800",
+    "date": "2026-03-18",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "42,000",
+    "date": "2026-03-14",
+    "floor": 10,
+    "area": 35.45
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "18,100",
+    "date": "2026-03-12",
+    "floor": 13,
+    "area": 59.88
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "66,700",
+    "date": "2026-03-12",
+    "floor": 1,
+    "area": 82.39
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "5,000",
+    "date": "2026-03-10",
+    "floor": 2,
+    "area": 59.95
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "16,700",
+    "date": "2026-03-10",
+    "floor": 12,
+    "area": 59.88
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "18,700",
+    "date": "2026-03-10",
+    "floor": 13,
+    "area": 59.88
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "47,000",
+    "date": "2026-03-10",
+    "floor": 1,
+    "area": 44.35
+  },
+  {
+    "aptNm": "한주",
+    "dealAmount": "13,800",
+    "date": "2026-03-07",
+    "floor": 12,
+    "area": 84.85
+  },
+  {
+    "aptNm": "한우리2",
+    "dealAmount": "9,000",
+    "date": "2026-02-27",
+    "floor": 13,
+    "area": 59.865
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "16,500",
+    "date": "2026-02-27",
+    "floor": 4,
+    "area": 59.88
+  },
+  {
+    "aptNm": "명일우성",
+    "dealAmount": "175,000",
+    "date": "2026-02-27",
+    "floor": 5,
+    "area": 133.65
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "42,000",
+    "date": "2026-02-26",
+    "floor": 7,
+    "area": 35.45
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "71,000",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 82.39
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "398,000",
+    "date": "2026-02-26",
+    "floor": 7,
+    "area": 149.59
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "74,700",
+    "date": "2026-02-24",
+    "floor": 11,
+    "area": 82.39
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "318,000",
+    "date": "2026-02-24",
+    "floor": 3,
+    "area": 109.42
+  },
+  {
+    "aptNm": "중화동건영아파트",
+    "dealAmount": "42,500",
+    "date": "2026-02-24",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "한주",
+    "dealAmount": "11,000",
+    "date": "2026-02-23",
+    "floor": 10,
+    "area": 84.85
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "27,200",
+    "date": "2026-02-23",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "20,500",
+    "date": "2026-02-23",
+    "floor": 22,
+    "area": 59.88
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "19,500",
+    "date": "2026-02-22",
+    "floor": 20,
+    "area": 59.88
+  },
+  {
+    "aptNm": "(화원)영남",
+    "dealAmount": "15,200",
+    "date": "2026-02-10",
+    "floor": 3,
+    "area": 73.7775
+  },
+  {
+    "aptNm": "한우리2",
+    "dealAmount": "13,700",
+    "date": "2026-02-04",
+    "floor": 14,
+    "area": 59.865
+  },
+  {
+    "aptNm": "보성은하",
+    "dealAmount": "25,500",
+    "date": "2026-02-04",
+    "floor": 19,
+    "area": 84.96
+  },
+  {
+    "aptNm": "동답한신",
+    "dealAmount": "51,000",
+    "date": "2026-02-02",
+    "floor": 2,
+    "area": 44.35
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "신원",
+    "dealAmount": "37,000",
+    "date": "2026-06-27",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "26,800",
+    "date": "2026-06-23",
+    "floor": 12,
+    "area": 60
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "41,500",
+    "date": "2026-06-19",
+    "floor": 15,
+    "area": 84.93
+  },
+  {
+    "aptNm": "민족통일MJ캠퍼스외대3차",
+    "dealAmount": "24,500",
+    "date": "2026-06-19",
+    "floor": 8,
+    "area": 18.24
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "26,600",
+    "date": "2026-06-18",
+    "floor": 14,
+    "area": 60
+  },
+  {
+    "aptNm": "금성파크맨션2차",
+    "dealAmount": "3,000",
+    "date": "2026-06-17",
+    "floor": 5,
+    "area": 83.55
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "37,000",
+    "date": "2026-06-10",
+    "floor": 11,
+    "area": 84.93
+  },
+  {
+    "aptNm": "동백3차아파트",
+    "dealAmount": "4,500",
+    "date": "2026-06-05",
+    "floor": 12,
+    "area": 29.25
+  },
+  {
+    "aptNm": "동백3차아파트",
+    "dealAmount": "13,900",
+    "date": "2026-05-27",
+    "floor": 10,
+    "area": 84.89
+  },
+  {
+    "aptNm": "동백3차아파트",
+    "dealAmount": "4,450",
+    "date": "2026-05-07",
+    "floor": 6,
+    "area": 29.25
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "26,500",
+    "date": "2026-04-04",
+    "floor": 12,
+    "area": 60
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "27,000",
+    "date": "2026-03-21",
+    "floor": 13,
+    "area": 60
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "26,000",
+    "date": "2026-03-16",
+    "floor": 19,
+    "area": 60
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "26,500",
+    "date": "2026-03-13",
+    "floor": 5,
+    "area": 60
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "25,000",
+    "date": "2026-02-19",
+    "floor": 9,
+    "area": 60
+  }
+]

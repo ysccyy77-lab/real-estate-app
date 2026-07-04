@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "예그린",
+    "dealAmount": "3,800",
+    "date": "2026-07-02",
+    "floor": 3,
+    "area": 47.01
+  },
+  {
+    "aptNm": "예그린",
+    "dealAmount": "4,700",
+    "date": "2026-06-27",
+    "floor": 1,
+    "area": 47.01
+  },
+  {
+    "aptNm": "고성",
+    "dealAmount": "16,300",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "고성",
+    "dealAmount": "12,500",
+    "date": "2026-02-28",
+    "floor": 10,
+    "area": 52.53
+  }
+]

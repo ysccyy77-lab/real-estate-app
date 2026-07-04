@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "삼성버킹궁",
+    "dealAmount": "20,750",
+    "date": "2026-06-03",
+    "floor": 5,
+    "area": 84.809
+  },
+  {
+    "aptNm": "삼성버킹궁",
+    "dealAmount": "25,500",
+    "date": "2026-05-26",
+    "floor": 5,
+    "area": 84.809
+  },
+  {
+    "aptNm": "국제소답빌라",
+    "dealAmount": "2,900",
+    "date": "2026-05-26",
+    "floor": 6,
+    "area": 59.95
+  },
+  {
+    "aptNm": "삼성버킹궁",
+    "dealAmount": "20,500",
+    "date": "2026-05-19",
+    "floor": 6,
+    "area": 84.809
+  },
+  {
+    "aptNm": "국제소답빌라",
+    "dealAmount": "4,000",
+    "date": "2026-04-01",
+    "floor": 6,
+    "area": 59.88
+  },
+  {
+    "aptNm": "삼성버킹궁",
+    "dealAmount": "21,000",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 84.809
+  },
+  {
+    "aptNm": "삼성버킹궁",
+    "dealAmount": "21,000",
+    "date": "2026-02-04",
+    "floor": 15,
+    "area": 84.809
+  }
+]

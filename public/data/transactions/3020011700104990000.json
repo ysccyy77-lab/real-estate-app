@@ -1,0 +1,849 @@
+[
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "35,700",
+    "date": "2026-07-01",
+    "floor": 4,
+    "area": 84.7
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "36,300",
+    "date": "2026-07-01",
+    "floor": 6,
+    "area": 84.86
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "7,200",
+    "date": "2026-06-23",
+    "floor": 22,
+    "area": 77.56
+  },
+  {
+    "aptNm": "노변다숲",
+    "dealAmount": "15,000",
+    "date": "2026-06-21",
+    "floor": 14,
+    "area": 59.73
+  },
+  {
+    "aptNm": "구성더포레스트",
+    "dealAmount": "45,000",
+    "date": "2026-06-20",
+    "floor": 8,
+    "area": 84.74
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "13,800",
+    "date": "2026-06-19",
+    "floor": 10,
+    "area": 59.854
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "37,200",
+    "date": "2026-06-15",
+    "floor": 9,
+    "area": 84.86
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "14,000",
+    "date": "2026-06-12",
+    "floor": 12,
+    "area": 59.854
+  },
+  {
+    "aptNm": "노변다숲",
+    "dealAmount": "13,800",
+    "date": "2026-06-11",
+    "floor": 11,
+    "area": 59.73
+  },
+  {
+    "aptNm": "동훈노보빌",
+    "dealAmount": "82,000",
+    "date": "2026-06-11",
+    "floor": 7,
+    "area": 75.77
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "11,900",
+    "date": "2026-06-10",
+    "floor": 12,
+    "area": 84.54
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "16,400",
+    "date": "2026-06-09",
+    "floor": 9,
+    "area": 59.854
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "85,000",
+    "date": "2026-06-04",
+    "floor": 1,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "37,000",
+    "date": "2026-06-02",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "노변다숲",
+    "dealAmount": "12,000",
+    "date": "2026-06-02",
+    "floor": 9,
+    "area": 59.73
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "16,900",
+    "date": "2026-06-01",
+    "floor": 10,
+    "area": 59.854
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "36,000",
+    "date": "2026-05-30",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "92,500",
+    "date": "2026-05-29",
+    "floor": 11,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "15,500",
+    "date": "2026-05-26",
+    "floor": 4,
+    "area": 59.854
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "8,700",
+    "date": "2026-05-26",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "구성더포레스트",
+    "dealAmount": "43,200",
+    "date": "2026-05-23",
+    "floor": 10,
+    "area": 74.91
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "36,300",
+    "date": "2026-05-19",
+    "floor": 14,
+    "area": 84.86
+  },
+  {
+    "aptNm": "노변다숲",
+    "dealAmount": "17,000",
+    "date": "2026-05-18",
+    "floor": 15,
+    "area": 59.73
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "18,000",
+    "date": "2026-05-14",
+    "floor": 11,
+    "area": 84.929
+  },
+  {
+    "aptNm": "고덕 아이파크",
+    "dealAmount": "193,000",
+    "date": "2026-05-14",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "15,900",
+    "date": "2026-05-12",
+    "floor": 12,
+    "area": 59.854
+  },
+  {
+    "aptNm": "노변다숲",
+    "dealAmount": "13,800",
+    "date": "2026-05-11",
+    "floor": 11,
+    "area": 59.73
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "14,300",
+    "date": "2026-05-09",
+    "floor": 10,
+    "area": 59.854
+  },
+  {
+    "aptNm": "한강2차대주피오레",
+    "dealAmount": "127,000",
+    "date": "2026-05-08",
+    "floor": 12,
+    "area": 84.97
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "79,999",
+    "date": "2026-05-08",
+    "floor": 1,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "고덕 아이파크",
+    "dealAmount": "196,000",
+    "date": "2026-05-07",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "고덕 아이파크",
+    "dealAmount": "285,000",
+    "date": "2026-05-06",
+    "floor": 15,
+    "area": 177.99
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "9,000",
+    "date": "2026-05-05",
+    "floor": 18,
+    "area": 84.54
+  },
+  {
+    "aptNm": "고덕 아이파크",
+    "dealAmount": "196,000",
+    "date": "2026-05-02",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "85,900",
+    "date": "2026-05-02",
+    "floor": 24,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "16,976",
+    "date": "2026-05-01",
+    "floor": 9,
+    "area": 18.949
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "16,976",
+    "date": "2026-05-01",
+    "floor": 9,
+    "area": 18.804
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "19,999",
+    "date": "2026-05-01",
+    "floor": 10,
+    "area": 33.789
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "18,000",
+    "date": "2026-05-01",
+    "floor": 10,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "19,999",
+    "date": "2026-05-01",
+    "floor": 10,
+    "area": 30.022
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "18,207",
+    "date": "2026-05-01",
+    "floor": 10,
+    "area": 22.245
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "18,207",
+    "date": "2026-05-01",
+    "floor": 10,
+    "area": 22.015
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "8,000",
+    "date": "2026-05-01",
+    "floor": 6,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 6,
+    "area": 20.037
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "8,000",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 20.037
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "8,000",
+    "date": "2026-05-01",
+    "floor": 8,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "8,000",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 20.037
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 19.895
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "8,000",
+    "date": "2026-05-01",
+    "floor": 5,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 5,
+    "area": 20.037
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 5,
+    "area": 19.895
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "8,000",
+    "date": "2026-05-01",
+    "floor": 3,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 3,
+    "area": 20.037
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,386",
+    "date": "2026-05-01",
+    "floor": 3,
+    "area": 19.895
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,394",
+    "date": "2026-05-01",
+    "floor": 6,
+    "area": 19.895
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 19.895
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 8,
+    "area": 20.037
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 8,
+    "area": 19.895
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "8,000",
+    "date": "2026-05-01",
+    "floor": 9,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "8,000",
+    "date": "2026-05-01",
+    "floor": 2,
+    "area": 21.773
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 2,
+    "area": 20.037
+  },
+  {
+    "aptNm": "시크릿캐슬",
+    "dealAmount": "7,395",
+    "date": "2026-05-01",
+    "floor": 2,
+    "area": 19.895
+  },
+  {
+    "aptNm": "고덕 아이파크",
+    "dealAmount": "236,800",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 145.22
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "6,800",
+    "date": "2026-04-30",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "84,000",
+    "date": "2026-04-30",
+    "floor": 8,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "85,800",
+    "date": "2026-04-29",
+    "floor": 5,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "17,000",
+    "date": "2026-04-25",
+    "floor": 12,
+    "area": 59.854
+  },
+  {
+    "aptNm": "고덕 아이파크",
+    "dealAmount": "245,000",
+    "date": "2026-04-25",
+    "floor": 11,
+    "area": 114.98
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "37,000",
+    "date": "2026-04-24",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "8,200",
+    "date": "2026-04-23",
+    "floor": 15,
+    "area": 59.99
+  },
+  {
+    "aptNm": "구성더포레스트",
+    "dealAmount": "47,600",
+    "date": "2026-04-21",
+    "floor": 15,
+    "area": 84.95
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "10,950",
+    "date": "2026-04-20",
+    "floor": 17,
+    "area": 84.54
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "8,000",
+    "date": "2026-04-17",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "구성더포레스트",
+    "dealAmount": "46,000",
+    "date": "2026-04-15",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "86,000",
+    "date": "2026-04-15",
+    "floor": 11,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "86,700",
+    "date": "2026-04-14",
+    "floor": 9,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "19,500",
+    "date": "2026-04-12",
+    "floor": 15,
+    "area": 140.34
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "85,800",
+    "date": "2026-04-12",
+    "floor": 10,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "33,500",
+    "date": "2026-04-11",
+    "floor": 12,
+    "area": 84.85
+  },
+  {
+    "aptNm": "노변다숲",
+    "dealAmount": "12,500",
+    "date": "2026-04-10",
+    "floor": 13,
+    "area": 53.3225
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "6,500",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "7,300",
+    "date": "2026-04-06",
+    "floor": 19,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "11,900",
+    "date": "2026-04-05",
+    "floor": 12,
+    "area": 84.54
+  },
+  {
+    "aptNm": "구성더포레스트",
+    "dealAmount": "44,500",
+    "date": "2026-04-01",
+    "floor": 18,
+    "area": 84.69
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "11,700",
+    "date": "2026-04-01",
+    "floor": 16,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "8,500",
+    "date": "2026-03-31",
+    "floor": 14,
+    "area": 59.99
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "35,200",
+    "date": "2026-03-30",
+    "floor": 3,
+    "area": 84.94
+  },
+  {
+    "aptNm": "고덕 아이파크",
+    "dealAmount": "216,000",
+    "date": "2026-03-30",
+    "floor": 10,
+    "area": 177.99
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "85,000",
+    "date": "2026-03-28",
+    "floor": 15,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "16,750",
+    "date": "2026-03-25",
+    "floor": 1,
+    "area": 116.73
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "8,700",
+    "date": "2026-03-23",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
+    "aptNm": "구성더포레스트",
+    "dealAmount": "43,000",
+    "date": "2026-03-20",
+    "floor": 16,
+    "area": 84.74
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "6,900",
+    "date": "2026-03-20",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "19,500",
+    "date": "2026-03-14",
+    "floor": 6,
+    "area": 140.34
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "83,900",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "한강2차대주피오레",
+    "dealAmount": "124,500",
+    "date": "2026-03-11",
+    "floor": 2,
+    "area": 99.16
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "22,000",
+    "date": "2026-03-10",
+    "floor": 4,
+    "area": 84.929
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "13,900",
+    "date": "2026-03-10",
+    "floor": 13,
+    "area": 84.54
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "9,100",
+    "date": "2026-03-09",
+    "floor": 9,
+    "area": 77.56
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "8,550",
+    "date": "2026-03-07",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "12,500",
+    "date": "2026-03-07",
+    "floor": 10,
+    "area": 84.54
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "9,500",
+    "date": "2026-03-06",
+    "floor": 19,
+    "area": 77.56
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "6,350",
+    "date": "2026-03-06",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "14,500",
+    "date": "2026-03-06",
+    "floor": 21,
+    "area": 84.54
+  },
+  {
+    "aptNm": "노변다숲",
+    "dealAmount": "10,200",
+    "date": "2026-03-06",
+    "floor": 9,
+    "area": 38.94
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "7,500",
+    "date": "2026-03-05",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "동훈노보빌",
+    "dealAmount": "90,000",
+    "date": "2026-03-05",
+    "floor": 3,
+    "area": 105.54
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "35,500",
+    "date": "2026-03-01",
+    "floor": 9,
+    "area": 84.94
+  },
+  {
+    "aptNm": "동훈노보빌",
+    "dealAmount": "83,000",
+    "date": "2026-02-24",
+    "floor": 2,
+    "area": 84.82
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "34,100",
+    "date": "2026-02-21",
+    "floor": 10,
+    "area": 84.85
+  },
+  {
+    "aptNm": "세교 서희스타힐스",
+    "dealAmount": "35,500",
+    "date": "2026-02-21",
+    "floor": 5,
+    "area": 84.86
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "12,100",
+    "date": "2026-02-21",
+    "floor": 21,
+    "area": 84.54
+  },
+  {
+    "aptNm": "건영캐스빌",
+    "dealAmount": "82,000",
+    "date": "2026-02-21",
+    "floor": 3,
+    "area": 84.6475
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "7,200",
+    "date": "2026-02-19",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "노변다숲",
+    "dealAmount": "11,000",
+    "date": "2026-02-19",
+    "floor": 1,
+    "area": 53.3225
+  },
+  {
+    "aptNm": "동훈노보빌",
+    "dealAmount": "85,000",
+    "date": "2026-02-19",
+    "floor": 6,
+    "area": 84.82
+  },
+  {
+    "aptNm": "대우유토피아",
+    "dealAmount": "10,300",
+    "date": "2026-02-10",
+    "floor": 17,
+    "area": 84.54
+  },
+  {
+    "aptNm": "동광",
+    "dealAmount": "16,800",
+    "date": "2026-02-07",
+    "floor": 14,
+    "area": 59.854
+  },
+  {
+    "aptNm": "동훈노보빌",
+    "dealAmount": "81,000",
+    "date": "2026-02-07",
+    "floor": 4,
+    "area": 84.81
+  }
+]

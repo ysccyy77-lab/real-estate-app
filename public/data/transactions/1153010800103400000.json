@@ -1,0 +1,534 @@
+[
+  {
+    "aptNm": "논산인터불고코아루",
+    "dealAmount": "29,000",
+    "date": "2026-06-28",
+    "floor": 10,
+    "area": 84.9983
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "23,500",
+    "date": "2026-06-26",
+    "floor": 14,
+    "area": 59.84
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "74,000",
+    "date": "2026-06-19",
+    "floor": 14,
+    "area": 84.95
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "232,000",
+    "date": "2026-06-16",
+    "floor": 11,
+    "area": 84.87
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "79,000",
+    "date": "2026-06-14",
+    "floor": 7,
+    "area": 84.95
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "76,500",
+    "date": "2026-06-13",
+    "floor": 13,
+    "area": 84.95
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "19,000",
+    "date": "2026-06-10",
+    "floor": 1,
+    "area": 64.38
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "205,000",
+    "date": "2026-06-08",
+    "floor": 6,
+    "area": 59.99
+  },
+  {
+    "aptNm": "고척LIG리가1차",
+    "dealAmount": "89,500",
+    "date": "2026-06-04",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "189,500",
+    "date": "2026-06-04",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "롯데캐슬에듀포레",
+    "dealAmount": "225,100",
+    "date": "2026-06-03",
+    "floor": 11,
+    "area": 110.5377
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "240,000",
+    "date": "2026-05-30",
+    "floor": 6,
+    "area": 84.55
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "55,900",
+    "date": "2026-05-29",
+    "floor": 14,
+    "area": 84.91
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "75,000",
+    "date": "2026-05-29",
+    "floor": 6,
+    "area": 84.95
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "185,000",
+    "date": "2026-05-27",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "10,000",
+    "date": "2026-05-26",
+    "floor": 3,
+    "area": 52.22
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "65,000",
+    "date": "2026-05-26",
+    "floor": 21,
+    "area": 59.73
+  },
+  {
+    "aptNm": "롯데캐슬에듀포레",
+    "dealAmount": "209,000",
+    "date": "2026-05-26",
+    "floor": 14,
+    "area": 59.8718
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "86,800",
+    "date": "2026-05-23",
+    "floor": 9,
+    "area": 134.64
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "72,000",
+    "date": "2026-05-23",
+    "floor": 19,
+    "area": 84.75
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "57,000",
+    "date": "2026-05-22",
+    "floor": 1,
+    "area": 84.91
+  },
+  {
+    "aptNm": "고척LIG리가1차",
+    "dealAmount": "90,000",
+    "date": "2026-05-20",
+    "floor": 6,
+    "area": 84.91
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "19,800",
+    "date": "2026-05-18",
+    "floor": 2,
+    "area": 64.38
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "16,300",
+    "date": "2026-05-16",
+    "floor": 5,
+    "area": 64.38
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "76,000",
+    "date": "2026-05-15",
+    "floor": 5,
+    "area": 84.95
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "226,000",
+    "date": "2026-05-15",
+    "floor": 15,
+    "area": 59.99
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "15,000",
+    "date": "2026-05-14",
+    "floor": 6,
+    "area": 64.38
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "192,000",
+    "date": "2026-05-09",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "고척LIG리가1차",
+    "dealAmount": "88,000",
+    "date": "2026-05-08",
+    "floor": 11,
+    "area": 84.91
+  },
+  {
+    "aptNm": "롯데캐슬에듀포레",
+    "dealAmount": "203,500",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 59.8718
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "21,200",
+    "date": "2026-05-08",
+    "floor": 2,
+    "area": 64.38
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "24,200",
+    "date": "2026-05-07",
+    "floor": 5,
+    "area": 84.69
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "245,000",
+    "date": "2026-05-06",
+    "floor": 8,
+    "area": 84.87
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "209,000",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "블레스빌",
+    "dealAmount": "120,000",
+    "date": "2026-05-03",
+    "floor": 1,
+    "area": 79.43
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "64,900",
+    "date": "2026-04-30",
+    "floor": 8,
+    "area": 84.75
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "280,000",
+    "date": "2026-04-29",
+    "floor": 12,
+    "area": 114.55
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "295,000",
+    "date": "2026-04-28",
+    "floor": 18,
+    "area": 114.55
+  },
+  {
+    "aptNm": "논산인터불고코아루",
+    "dealAmount": "28,000",
+    "date": "2026-04-27",
+    "floor": 4,
+    "area": 84.9983
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "74,800",
+    "date": "2026-04-25",
+    "floor": 5,
+    "area": 84.95
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "193,000",
+    "date": "2026-04-25",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "17,500",
+    "date": "2026-04-14",
+    "floor": 6,
+    "area": 64.38
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "193,500",
+    "date": "2026-04-09",
+    "floor": 2,
+    "area": 59.9
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "195,000",
+    "date": "2026-04-09",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "논산인터불고코아루",
+    "dealAmount": "28,900",
+    "date": "2026-04-09",
+    "floor": 19,
+    "area": 84.9983
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "64,000",
+    "date": "2026-04-08",
+    "floor": 12,
+    "area": 84.75
+  },
+  {
+    "aptNm": "논산인터불고코아루",
+    "dealAmount": "28,500",
+    "date": "2026-04-08",
+    "floor": 11,
+    "area": 84.9983
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "59,500",
+    "date": "2026-04-06",
+    "floor": 6,
+    "area": 84.91
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "69,800",
+    "date": "2026-04-04",
+    "floor": 11,
+    "area": 84.75
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "50,000",
+    "date": "2026-04-03",
+    "floor": 1,
+    "area": 59.73
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "74,000",
+    "date": "2026-04-01",
+    "floor": 11,
+    "area": 84.95
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "58,800",
+    "date": "2026-03-29",
+    "floor": 6,
+    "area": 84.91
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "60,000",
+    "date": "2026-03-26",
+    "floor": 12,
+    "area": 59.73
+  },
+  {
+    "aptNm": "롯데캐슬에듀포레",
+    "dealAmount": "241,000",
+    "date": "2026-03-26",
+    "floor": 12,
+    "area": 84.9912
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "26,900",
+    "date": "2026-03-26",
+    "floor": 3,
+    "area": 84.69
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "71,000",
+    "date": "2026-03-21",
+    "floor": 2,
+    "area": 84.95
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "25,000",
+    "date": "2026-03-21",
+    "floor": 7,
+    "area": 84.48
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "59,900",
+    "date": "2026-03-21",
+    "floor": 14,
+    "area": 59.73
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "21,500",
+    "date": "2026-03-19",
+    "floor": 5,
+    "area": 84.69
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "18,000",
+    "date": "2026-03-16",
+    "floor": 2,
+    "area": 64.38
+  },
+  {
+    "aptNm": "논산인터불고코아루",
+    "dealAmount": "27,700",
+    "date": "2026-03-16",
+    "floor": 3,
+    "area": 84.9983
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "9,500",
+    "date": "2026-03-10",
+    "floor": 5,
+    "area": 52.22
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "58,500",
+    "date": "2026-03-09",
+    "floor": 18,
+    "area": 59.73
+  },
+  {
+    "aptNm": "논산인터불고코아루",
+    "dealAmount": "29,500",
+    "date": "2026-03-09",
+    "floor": 10,
+    "area": 84.963
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "74,000",
+    "date": "2026-03-05",
+    "floor": 9,
+    "area": 84.95
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "70,500",
+    "date": "2026-02-26",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "19,500",
+    "date": "2026-02-23",
+    "floor": 2,
+    "area": 64.38
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "55,000",
+    "date": "2026-02-21",
+    "floor": 5,
+    "area": 84.91
+  },
+  {
+    "aptNm": "서울숲푸르지오",
+    "dealAmount": "275,000",
+    "date": "2026-02-14",
+    "floor": 6,
+    "area": 114.8
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "66,400",
+    "date": "2026-02-13",
+    "floor": 21,
+    "area": 84.75
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "59,500",
+    "date": "2026-02-10",
+    "floor": 18,
+    "area": 59.73
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "9,800",
+    "date": "2026-02-09",
+    "floor": 1,
+    "area": 52.22
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "19,400",
+    "date": "2026-02-09",
+    "floor": 1,
+    "area": 64.38
+  },
+  {
+    "aptNm": "논산인터불고코아루",
+    "dealAmount": "30,900",
+    "date": "2026-02-06",
+    "floor": 15,
+    "area": 84.9983
+  },
+  {
+    "aptNm": "태산,대진.정광아파트",
+    "dealAmount": "25,500",
+    "date": "2026-02-03",
+    "floor": 1,
+    "area": 84.69
+  },
+  {
+    "aptNm": "논산인터불고코아루",
+    "dealAmount": "24,900",
+    "date": "2026-02-02",
+    "floor": 9,
+    "area": 71.9685
+  }
+]

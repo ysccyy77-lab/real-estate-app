@@ -1,0 +1,324 @@
+[
+  {
+    "aptNm": "현대",
+    "dealAmount": "22,000",
+    "date": "2026-06-29",
+    "floor": 15,
+    "area": 84.36
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "100,000",
+    "date": "2026-06-23",
+    "floor": 8,
+    "area": 84.55
+  },
+  {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "23,800",
+    "date": "2026-06-20",
+    "floor": 18,
+    "area": 59.8411
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "35,300",
+    "date": "2026-06-17",
+    "floor": 6,
+    "area": 59.94
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "29,800",
+    "date": "2026-06-09",
+    "floor": 1,
+    "area": 84.801
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "28,500",
+    "date": "2026-06-03",
+    "floor": 14,
+    "area": 99.43
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "24,550",
+    "date": "2026-05-30",
+    "floor": 9,
+    "area": 77.24
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "55,000",
+    "date": "2026-05-27",
+    "floor": 19,
+    "area": 101.95
+  },
+  {
+    "aptNm": "사동2지구화성파크드림",
+    "dealAmount": "40,500",
+    "date": "2026-05-27",
+    "floor": 17,
+    "area": 119.0504
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "32,900",
+    "date": "2026-05-20",
+    "floor": 10,
+    "area": 84.801
+  },
+  {
+    "aptNm": "송파건원여미지아파트",
+    "dealAmount": "81,000",
+    "date": "2026-05-09",
+    "floor": 11,
+    "area": 51.764
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "45,000",
+    "date": "2026-05-08",
+    "floor": 4,
+    "area": 84.63
+  },
+  {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "24,000",
+    "date": "2026-05-07",
+    "floor": 15,
+    "area": 59.8411
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "29,000",
+    "date": "2026-05-06",
+    "floor": 3,
+    "area": 84.801
+  },
+  {
+    "aptNm": "사동2지구화성파크드림",
+    "dealAmount": "43,500",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 130.6372
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "29,500",
+    "date": "2026-05-01",
+    "floor": 12,
+    "area": 114.24
+  },
+  {
+    "aptNm": "사동2지구화성파크드림",
+    "dealAmount": "33,250",
+    "date": "2026-05-01",
+    "floor": 14,
+    "area": 119.0504
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "33,800",
+    "date": "2026-04-29",
+    "floor": 13,
+    "area": 84.801
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "30,700",
+    "date": "2026-04-28",
+    "floor": 9,
+    "area": 84.801
+  },
+  {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "30,000",
+    "date": "2026-04-25",
+    "floor": 16,
+    "area": 74.6401
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "35,800",
+    "date": "2026-04-22",
+    "floor": 11,
+    "area": 59.94
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "33,800",
+    "date": "2026-04-21",
+    "floor": 13,
+    "area": 84.801
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "21,600",
+    "date": "2026-04-18",
+    "floor": 2,
+    "area": 84.36
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "44,000",
+    "date": "2026-04-16",
+    "floor": 2,
+    "area": 84.63
+  },
+  {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "20,800",
+    "date": "2026-04-15",
+    "floor": 8,
+    "area": 59.8411
+  },
+  {
+    "aptNm": "건우",
+    "dealAmount": "16,400",
+    "date": "2026-04-14",
+    "floor": 3,
+    "area": 43.92
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "43,000",
+    "date": "2026-04-13",
+    "floor": 5,
+    "area": 84.63
+  },
+  {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "24,000",
+    "date": "2026-04-11",
+    "floor": 15,
+    "area": 59.8411
+  },
+  {
+    "aptNm": "송파건원여미지아파트",
+    "dealAmount": "70,000",
+    "date": "2026-04-08",
+    "floor": 4,
+    "area": 51.764
+  },
+  {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "18,500",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 59.8411
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "41,844",
+    "date": "2026-04-02",
+    "floor": 5,
+    "area": 84.63
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "47,000",
+    "date": "2026-04-01",
+    "floor": 11,
+    "area": 84.63
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "34,700",
+    "date": "2026-03-31",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "30,700",
+    "date": "2026-03-30",
+    "floor": 7,
+    "area": 84.801
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "24,300",
+    "date": "2026-03-28",
+    "floor": 12,
+    "area": 77.24
+  },
+  {
+    "aptNm": "송파건원여미지아파트",
+    "dealAmount": "72,500",
+    "date": "2026-03-27",
+    "floor": 1,
+    "area": 51.764
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "28,300",
+    "date": "2026-03-24",
+    "floor": 1,
+    "area": 84.801
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "17,000",
+    "date": "2026-03-24",
+    "floor": 4,
+    "area": 77.24
+  },
+  {
+    "aptNm": "사동2지구화성파크드림",
+    "dealAmount": "37,000",
+    "date": "2026-03-21",
+    "floor": 13,
+    "area": 130.6372
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "30,200",
+    "date": "2026-03-16",
+    "floor": 7,
+    "area": 84.801
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "31,200",
+    "date": "2026-03-14",
+    "floor": 12,
+    "area": 84.801
+  },
+  {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "22,500",
+    "date": "2026-03-10",
+    "floor": 12,
+    "area": 59.8411
+  },
+  {
+    "aptNm": "현대3차",
+    "dealAmount": "89,800",
+    "date": "2026-02-27",
+    "floor": 12,
+    "area": 84.55
+  },
+  {
+    "aptNm": "신일드림빌",
+    "dealAmount": "30,100",
+    "date": "2026-02-19",
+    "floor": 4,
+    "area": 84.801
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "23,000",
+    "date": "2026-02-04",
+    "floor": 1,
+    "area": 99.43
+  },
+  {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "20,500",
+    "date": "2026-02-01",
+    "floor": 4,
+    "area": 59.8411
+  }
+]

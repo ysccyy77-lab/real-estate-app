@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "삼정백조",
+    "dealAmount": "8,200",
+    "date": "2026-06-10",
+    "floor": 10,
+    "area": 59.73
+  },
+  {
+    "aptNm": "삼정백조",
+    "dealAmount": "7,000",
+    "date": "2026-04-20",
+    "floor": 7,
+    "area": 59.73
+  },
+  {
+    "aptNm": "삼정백조",
+    "dealAmount": "7,300",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 59.73
+  },
+  {
+    "aptNm": "삼정백조",
+    "dealAmount": "8,100",
+    "date": "2026-03-04",
+    "floor": 8,
+    "area": 59.73
+  },
+  {
+    "aptNm": "삼정백조",
+    "dealAmount": "8,200",
+    "date": "2026-02-03",
+    "floor": 9,
+    "area": 59.73
+  },
+  {
+    "aptNm": "삼정백조",
+    "dealAmount": "8,250",
+    "date": "2026-02-02",
+    "floor": 14,
+    "area": 59.73
+  }
+]

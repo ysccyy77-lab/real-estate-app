@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "9,000",
+    "date": "2026-06-23",
+    "floor": 2,
+    "area": 79.1
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "8,000",
+    "date": "2026-04-08",
+    "floor": 2,
+    "area": 79.1
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "5,500",
+    "date": "2026-04-02",
+    "floor": 4,
+    "area": 69.21
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "8,500",
+    "date": "2026-03-30",
+    "floor": 8,
+    "area": 81.27
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "13,000",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 84.69
+  }
+]

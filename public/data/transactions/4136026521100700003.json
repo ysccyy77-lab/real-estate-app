@@ -1,0 +1,114 @@
+[
+  {
+    "aptNm": "신도",
+    "dealAmount": "45,500",
+    "date": "2026-06-20",
+    "floor": 20,
+    "area": 84.6
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "46,300",
+    "date": "2026-05-31",
+    "floor": 14,
+    "area": 84.6
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "31,900",
+    "date": "2026-05-30",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "47,500",
+    "date": "2026-05-26",
+    "floor": 3,
+    "area": 84.6
+  },
+  {
+    "aptNm": "알베로하우스",
+    "dealAmount": "19,500",
+    "date": "2026-05-18",
+    "floor": 7,
+    "area": 42.5
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "45,000",
+    "date": "2026-05-08",
+    "floor": 17,
+    "area": 84.6
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "37,000",
+    "date": "2026-04-26",
+    "floor": 6,
+    "area": 59.85
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "44,000",
+    "date": "2026-04-02",
+    "floor": 14,
+    "area": 84.6
+  },
+  {
+    "aptNm": "센트럴파크3차",
+    "dealAmount": "13,700",
+    "date": "2026-04-02",
+    "floor": 10,
+    "area": 58.303
+  },
+  {
+    "aptNm": "센트럴파크3차",
+    "dealAmount": "15,700",
+    "date": "2026-03-18",
+    "floor": 4,
+    "area": 59.6992
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "44,500",
+    "date": "2026-03-16",
+    "floor": 11,
+    "area": 84.6
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "43,500",
+    "date": "2026-02-28",
+    "floor": 16,
+    "area": 84.6
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "36,000",
+    "date": "2026-02-20",
+    "floor": 4,
+    "area": 59.85
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "42,000",
+    "date": "2026-02-08",
+    "floor": 10,
+    "area": 84.6
+  },
+  {
+    "aptNm": "신도",
+    "dealAmount": "41,500",
+    "date": "2026-02-03",
+    "floor": 3,
+    "area": 84.6
+  },
+  {
+    "aptNm": "수��맨션",
+    "dealAmount": "15,000",
+    "date": "2026-02-02",
+    "floor": 1,
+    "area": 70.45
+  }
+]

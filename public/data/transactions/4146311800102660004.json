@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "희성아트빌A",
+    "dealAmount": "9,700",
+    "date": "2026-06-04",
+    "floor": 7,
+    "area": 84.3362
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "34,200",
+    "date": "2026-05-04",
+    "floor": 2,
+    "area": 49.73
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "39,000",
+    "date": "2026-04-20",
+    "floor": 1,
+    "area": 49.73
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "152,500",
+    "date": "2026-06-20",
+    "floor": 16,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "7,000",
+    "date": "2026-06-19",
+    "floor": 2,
+    "area": 49.842
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "34,800",
+    "date": "2026-06-16",
+    "floor": 1,
+    "area": 84.999
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "128,000",
+    "date": "2026-06-13",
+    "floor": 4,
+    "area": 59.9837
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "106,000",
+    "date": "2026-06-12",
+    "floor": 6,
+    "area": 84.9602
+  },
+  {
+    "aptNm": "경성하늘샵",
+    "dealAmount": "5,200",
+    "date": "2026-06-10",
+    "floor": 3,
+    "area": 23.26
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "11,350",
+    "date": "2026-06-09",
+    "floor": 3,
+    "area": 59.34
+  },
+  {
+    "aptNm": "경성하늘샵",
+    "dealAmount": "9,334",
+    "date": "2026-06-09",
+    "floor": 11,
+    "area": 35.315
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "35,300",
+    "date": "2026-06-08",
+    "floor": 2,
+    "area": 126.6087
+  },
+  {
+    "aptNm": "두산한솔",
+    "dealAmount": "20,300",
+    "date": "2026-06-08",
+    "floor": 14,
+    "area": 99.97
+  },
+  {
+    "aptNm": "두산한솔",
+    "dealAmount": "13,000",
+    "date": "2026-06-07",
+    "floor": 8,
+    "area": 60
+  },
+  {
+    "aptNm": "두산한솔",
+    "dealAmount": "14,400",
+    "date": "2026-06-07",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "31,900",
+    "date": "2026-06-05",
+    "floor": 9,
+    "area": 84.9673
+  },
+  {
+    "aptNm": "마포한강2차푸르지오",
+    "dealAmount": "209,000",
+    "date": "2026-06-04",
+    "floor": 30,
+    "area": 83.45
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "21,200",
+    "date": "2026-06-04",
+    "floor": 5,
+    "area": 84.862
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "137,000",
+    "date": "2026-06-03",
+    "floor": 2,
+    "area": 84.9644
+  },
+  {
+    "aptNm": "두산한솔",
+    "dealAmount": "18,000",
+    "date": "2026-06-02",
+    "floor": 9,
+    "area": 99.97
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "21,500",
+    "date": "2026-05-30",
+    "floor": 12,
+    "area": 84.406
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "31,300",
+    "date": "2026-05-27",
+    "floor": 19,
+    "area": 84.9714
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "8,100",
+    "date": "2026-05-25",
+    "floor": 15,
+    "area": 49.842
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "8,100",
+    "date": "2026-05-23",
+    "floor": 15,
+    "area": 49.842
+  },
+  {
+    "aptNm": "마포한강2차푸르지오",
+    "dealAmount": "255,000",
+    "date": "2026-05-23",
+    "floor": 17,
+    "area": 110.88
+  },
+  {
+    "aptNm": "마포한강2차푸르지오",
+    "dealAmount": "177,000",
+    "date": "2026-05-19",
+    "floor": 8,
+    "area": 83.45
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "142,000",
+    "date": "2026-05-18",
+    "floor": 16,
+    "area": 84.9644
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "54,500",
+    "date": "2026-05-16",
+    "floor": 13,
+    "area": 59.4
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "6,900",
+    "date": "2026-05-15",
+    "floor": 1,
+    "area": 49.842
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "53,000",
+    "date": "2026-05-15",
+    "floor": 15,
+    "area": 59.4
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "25,800",
+    "date": "2026-05-14",
+    "floor": 8,
+    "area": 104.161
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "7,700",
+    "date": "2026-05-12",
+    "floor": 14,
+    "area": 49.842
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "31,500",
+    "date": "2026-05-12",
+    "floor": 12,
+    "area": 84.9673
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "63,000",
+    "date": "2026-05-11",
+    "floor": 5,
+    "area": 59.25
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "29,700",
+    "date": "2026-05-09",
+    "floor": 6,
+    "area": 84.9673
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "140,500",
+    "date": "2026-05-09",
+    "floor": 13,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "22,700",
+    "date": "2026-05-08",
+    "floor": 11,
+    "area": 80.429
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "8,000",
+    "date": "2026-05-08",
+    "floor": 8,
+    "area": 49.842
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "152,500",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "79,000",
+    "date": "2026-05-07",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "24,700",
+    "date": "2026-05-07",
+    "floor": 3,
+    "area": 103.824
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "149,700",
+    "date": "2026-05-05",
+    "floor": 16,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "132,000",
+    "date": "2026-05-05",
+    "floor": 13,
+    "area": 59.9728
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "65,500",
+    "date": "2026-04-29",
+    "floor": 9,
+    "area": 96.3
+  },
+  {
+    "aptNm": "경성하늘샵",
+    "dealAmount": "4,900",
+    "date": "2026-04-29",
+    "floor": 7,
+    "area": 23.26
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "8,500",
+    "date": "2026-04-28",
+    "floor": 12,
+    "area": 49.842
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "54,700",
+    "date": "2026-04-27",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "25,800",
+    "date": "2026-04-25",
+    "floor": 11,
+    "area": 103.824
+  },
+  {
+    "aptNm": "두산한솔",
+    "dealAmount": "20,300",
+    "date": "2026-04-25",
+    "floor": 14,
+    "area": 99.97
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "29,400",
+    "date": "2026-04-24",
+    "floor": 14,
+    "area": 84.9673
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "10,400",
+    "date": "2026-04-23",
+    "floor": 6,
+    "area": 59.8404
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "20,500",
+    "date": "2026-04-22",
+    "floor": 6,
+    "area": 64.564
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "55,000",
+    "date": "2026-04-22",
+    "floor": 18,
+    "area": 59.25
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "52,000",
+    "date": "2026-04-21",
+    "floor": 13,
+    "area": 59.4
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "26,000",
+    "date": "2026-04-20",
+    "floor": 12,
+    "area": 103.824
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "7,350",
+    "date": "2026-04-18",
+    "floor": 15,
+    "area": 49.842
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "21,300",
+    "date": "2026-04-18",
+    "floor": 2,
+    "area": 84.406
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "49,000",
+    "date": "2026-04-17",
+    "floor": 9,
+    "area": 150.9797
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "37,000",
+    "date": "2026-04-17",
+    "floor": 11,
+    "area": 149.9
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "13,900",
+    "date": "2026-04-15",
+    "floor": 11,
+    "area": 59.8404
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "8,200",
+    "date": "2026-04-13",
+    "floor": 9,
+    "area": 49.842
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "140,000",
+    "date": "2026-04-10",
+    "floor": 8,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "138,000",
+    "date": "2026-04-10",
+    "floor": 3,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "22,000",
+    "date": "2026-04-08",
+    "floor": 9,
+    "area": 80.429
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "135,000",
+    "date": "2026-04-08",
+    "floor": 2,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "8,400",
+    "date": "2026-03-31",
+    "floor": 14,
+    "area": 49.842
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "59,500",
+    "date": "2026-03-30",
+    "floor": 9,
+    "area": 59.25
+  },
+  {
+    "aptNm": "두산한솔",
+    "dealAmount": "16,500",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "145,000",
+    "date": "2026-03-27",
+    "floor": 13,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "11,000",
+    "date": "2026-03-25",
+    "floor": 12,
+    "area": 59.8404
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "58,200",
+    "date": "2026-03-24",
+    "floor": 18,
+    "area": 59.25
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "152,500",
+    "date": "2026-03-23",
+    "floor": 14,
+    "area": 84.9728
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "23,500",
+    "date": "2026-03-23",
+    "floor": 7,
+    "area": 103.824
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "29,500",
+    "date": "2026-03-20",
+    "floor": 20,
+    "area": 84.9673
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "11,700",
+    "date": "2026-03-19",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "12,800",
+    "date": "2026-03-19",
+    "floor": 9,
+    "area": 59.34
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "8,500",
+    "date": "2026-03-17",
+    "floor": 14,
+    "area": 49.842
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "30,200",
+    "date": "2026-03-15",
+    "floor": 26,
+    "area": 84.9673
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "22,400",
+    "date": "2026-03-15",
+    "floor": 7,
+    "area": 84.406
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "57,900",
+    "date": "2026-03-14",
+    "floor": 5,
+    "area": 59.25
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "120,000",
+    "date": "2026-03-14",
+    "floor": 5,
+    "area": 59.9837
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "14,450",
+    "date": "2026-03-13",
+    "floor": 4,
+    "area": 59.8404
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "7,450",
+    "date": "2026-03-12",
+    "floor": 7,
+    "area": 49.842
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "22,500",
+    "date": "2026-03-10",
+    "floor": 10,
+    "area": 84.406
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "65,000",
+    "date": "2026-03-09",
+    "floor": 18,
+    "area": 96.3
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "20,600",
+    "date": "2026-03-09",
+    "floor": 2,
+    "area": 84.406
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "12,000",
+    "date": "2026-03-07",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "30,500",
+    "date": "2026-03-05",
+    "floor": 10,
+    "area": 84.9673
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "22,700",
+    "date": "2026-03-04",
+    "floor": 7,
+    "area": 80.429
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "21,500",
+    "date": "2026-03-04",
+    "floor": 12,
+    "area": 84.406
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "7,550",
+    "date": "2026-03-03",
+    "floor": 9,
+    "area": 49.842
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "130,000",
+    "date": "2026-02-28",
+    "floor": 6,
+    "area": 59.9728
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "65,800",
+    "date": "2026-02-26",
+    "floor": 16,
+    "area": 96.3
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "77,800",
+    "date": "2026-02-25",
+    "floor": 18,
+    "area": 84.94
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "65,000",
+    "date": "2026-02-24",
+    "floor": 16,
+    "area": 84.06
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "10,100",
+    "date": "2026-02-23",
+    "floor": 2,
+    "area": 59.8404
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "51,000",
+    "date": "2026-02-20",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "9,800",
+    "date": "2026-02-15",
+    "floor": 2,
+    "area": 59.8404
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "36,500",
+    "date": "2026-02-13",
+    "floor": 8,
+    "area": 84.999
+  },
+  {
+    "aptNm": "다사e편한세상",
+    "dealAmount": "28,400",
+    "date": "2026-02-13",
+    "floor": 26,
+    "area": 84.9714
+  },
+  {
+    "aptNm": "두산한솔",
+    "dealAmount": "13,210",
+    "date": "2026-02-11",
+    "floor": 9,
+    "area": 60
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "139,800",
+    "date": "2026-02-08",
+    "floor": 2,
+    "area": 84.9206
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "8,500",
+    "date": "2026-02-07",
+    "floor": 7,
+    "area": 49.842
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "55,000",
+    "date": "2026-02-07",
+    "floor": 2,
+    "area": 59.25
+  },
+  {
+    "aptNm": "홍제센트럴IPARK",
+    "dealAmount": "143,750",
+    "date": "2026-02-05",
+    "floor": 14,
+    "area": 84.9206
+  },
+  {
+    "aptNm": "군산수송공원삼성쉐르빌",
+    "dealAmount": "25,500",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 103.824
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "12,500",
+    "date": "2026-02-03",
+    "floor": 10,
+    "area": 59.8404
+  }
+]

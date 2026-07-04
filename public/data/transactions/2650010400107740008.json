@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "광안예서더불어",
+    "dealAmount": "25,400",
+    "date": "2026-06-20",
+    "floor": 6,
+    "area": 55.92
+  },
+  {
+    "aptNm": "팬더",
+    "dealAmount": "8,600",
+    "date": "2026-06-12",
+    "floor": 5,
+    "area": 42.6
+  },
+  {
+    "aptNm": "광안예서더불어",
+    "dealAmount": "29,300",
+    "date": "2026-06-03",
+    "floor": 6,
+    "area": 66.1775
+  },
+  {
+    "aptNm": "팬더",
+    "dealAmount": "8,500",
+    "date": "2026-05-20",
+    "floor": 3,
+    "area": 38.79
+  },
+  {
+    "aptNm": "광안예서더불어",
+    "dealAmount": "26,700",
+    "date": "2026-04-20",
+    "floor": 4,
+    "area": 66.1775
+  },
+  {
+    "aptNm": "팬더",
+    "dealAmount": "9,000",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 46.44
+  },
+  {
+    "aptNm": "광안예서더불어",
+    "dealAmount": "26,500",
+    "date": "2026-03-29",
+    "floor": 13,
+    "area": 55.92
+  },
+  {
+    "aptNm": "팬더",
+    "dealAmount": "8,900",
+    "date": "2026-03-14",
+    "floor": 2,
+    "area": 38.79
+  }
+]

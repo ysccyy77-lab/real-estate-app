@@ -1,0 +1,107 @@
+[
+  {
+    "aptNm": "롯데",
+    "dealAmount": "19,000",
+    "date": "2026-06-26",
+    "floor": 5,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "18,500",
+    "date": "2026-06-17",
+    "floor": 4,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "15,200",
+    "date": "2026-06-07",
+    "floor": 15,
+    "area": 59.9645
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "19,100",
+    "date": "2026-06-06",
+    "floor": 1,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "22,500",
+    "date": "2026-05-30",
+    "floor": 25,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "21,000",
+    "date": "2026-05-30",
+    "floor": 2,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "19,200",
+    "date": "2026-05-23",
+    "floor": 2,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "21,000",
+    "date": "2026-05-15",
+    "floor": 12,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "21,500",
+    "date": "2026-04-15",
+    "floor": 25,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "14,000",
+    "date": "2026-04-13",
+    "floor": 5,
+    "area": 59.9645
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "20,800",
+    "date": "2026-04-10",
+    "floor": 14,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "16,000",
+    "date": "2026-04-08",
+    "floor": 16,
+    "area": 59.9645
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "17,800",
+    "date": "2026-03-24",
+    "floor": 15,
+    "area": 59.9645
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "15,000",
+    "date": "2026-03-07",
+    "floor": 21,
+    "area": 59.9645
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "20,000",
+    "date": "2026-03-02",
+    "floor": 13,
+    "area": 84.7504
+  }
+]

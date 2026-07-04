@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "새한",
+    "dealAmount": "9,600",
+    "date": "2026-06-30",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "8,500",
+    "date": "2026-05-14",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "7,900",
+    "date": "2026-05-12",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "9,150",
+    "date": "2026-04-25",
+    "floor": 7,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "9,300",
+    "date": "2026-04-15",
+    "floor": 15,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "7,200",
+    "date": "2026-03-21",
+    "floor": 15,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "7,800",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 59.94
+  }
+]

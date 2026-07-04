@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "백산",
+    "dealAmount": "35,000",
+    "date": "2026-06-26",
+    "floor": 4,
+    "area": 70.56
+  },
+  {
+    "aptNm": "용우",
+    "dealAmount": "4,300",
+    "date": "2026-06-25",
+    "floor": 5,
+    "area": 54.016
+  },
+  {
+    "aptNm": "현대레이크빌1",
+    "dealAmount": "55,000",
+    "date": "2026-05-07",
+    "floor": 6,
+    "area": 27.09
+  },
+  {
+    "aptNm": "백산",
+    "dealAmount": "44,200",
+    "date": "2026-04-30",
+    "floor": 2,
+    "area": 82.8
+  },
+  {
+    "aptNm": "남화기수타워",
+    "dealAmount": "16,500",
+    "date": "2026-04-23",
+    "floor": 5,
+    "area": 59.93
+  },
+  {
+    "aptNm": "용우",
+    "dealAmount": "4,700",
+    "date": "2026-04-17",
+    "floor": 11,
+    "area": 54.016
+  },
+  {
+    "aptNm": "솔렌시아",
+    "dealAmount": "69,300",
+    "date": "2026-04-07",
+    "floor": 5,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼화미성",
+    "dealAmount": "5,500",
+    "date": "2026-03-31",
+    "floor": 1,
+    "area": 58.83
+  },
+  {
+    "aptNm": "용우",
+    "dealAmount": "3,130",
+    "date": "2026-03-31",
+    "floor": 14,
+    "area": 33.76
+  },
+  {
+    "aptNm": "용우",
+    "dealAmount": "3,000",
+    "date": "2026-03-17",
+    "floor": 7,
+    "area": 33.76
+  },
+  {
+    "aptNm": "남화기수타워",
+    "dealAmount": "16,500",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 59.93
+  },
+  {
+    "aptNm": "삼화미성",
+    "dealAmount": "3,000",
+    "date": "2026-02-13",
+    "floor": 4,
+    "area": 58.83
+  },
+  {
+    "aptNm": "남화기수타워",
+    "dealAmount": "16,500",
+    "date": "2026-02-12",
+    "floor": 9,
+    "area": 59.93
+  }
+]

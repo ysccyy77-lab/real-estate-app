@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "임광",
+    "dealAmount": "89,000",
+    "date": "2026-06-03",
+    "floor": 10,
+    "area": 71.01
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "82,000",
+    "date": "2026-05-16",
+    "floor": 9,
+    "area": 71.01
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "79,400",
+    "date": "2026-05-09",
+    "floor": 5,
+    "area": 71.01
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "88,000",
+    "date": "2026-05-04",
+    "floor": 11,
+    "area": 84.91
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "62,000",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 59.34
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "86,000",
+    "date": "2026-02-06",
+    "floor": 14,
+    "area": 84.91
+  }
+]

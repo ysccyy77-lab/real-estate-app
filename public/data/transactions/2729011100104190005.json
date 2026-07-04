@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "11,800",
+    "date": "2026-06-02",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "13,400",
+    "date": "2026-05-06",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "13,300",
+    "date": "2026-05-02",
+    "floor": 18,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "15,700",
+    "date": "2026-03-20",
+    "floor": 17,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "13,100",
+    "date": "2026-03-19",
+    "floor": 14,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "15,000",
+    "date": "2026-03-09",
+    "floor": 14,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "13,400",
+    "date": "2026-03-06",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "13,000",
+    "date": "2026-03-04",
+    "floor": 20,
+    "area": 49.76
+  },
+  {
+    "aptNm": "성서5주공",
+    "dealAmount": "13,100",
+    "date": "2026-02-09",
+    "floor": 14,
+    "area": 59.99
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "대광",
+    "dealAmount": "13,300",
+    "date": "2026-03-07",
+    "floor": 5,
+    "area": 84.8
+  },
+  {
+    "aptNm": "대광",
+    "dealAmount": "12,000",
+    "date": "2026-03-05",
+    "floor": 7,
+    "area": 59.86
+  },
+  {
+    "aptNm": "대광",
+    "dealAmount": "14,700",
+    "date": "2026-02-23",
+    "floor": 1,
+    "area": 84.63
+  }
+]

@@ -1,5 +1,824 @@
 [
   {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "95,000",
+    "date": "2026-06-22",
+    "floor": 12,
+    "area": 75.75
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "120,000",
+    "date": "2026-06-19",
+    "floor": 13,
+    "area": 60.21
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "115,000",
+    "date": "2026-06-19",
+    "floor": 4,
+    "area": 61.38
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "107,500",
+    "date": "2026-06-12",
+    "floor": 1,
+    "area": 53.46
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "15,500",
+    "date": "2026-06-12",
+    "floor": 4,
+    "area": 89.55
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "25,000",
+    "date": "2026-06-12",
+    "floor": 12,
+    "area": 134.64
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "17,000",
+    "date": "2026-06-11",
+    "floor": 2,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "108,000",
+    "date": "2026-06-11",
+    "floor": 14,
+    "area": 53.46
+  },
+  {
+    "aptNm": "태림",
+    "dealAmount": "13,000",
+    "date": "2026-06-09",
+    "floor": 9,
+    "area": 84.87
+  },
+  {
+    "aptNm": "성호",
+    "dealAmount": "42,500",
+    "date": "2026-06-08",
+    "floor": 4,
+    "area": 84.02
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "18,000",
+    "date": "2026-06-07",
+    "floor": 10,
+    "area": 89.55
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "15,500",
+    "date": "2026-06-03",
+    "floor": 5,
+    "area": 89.55
+  },
+  {
+    "aptNm": "용인포곡삼성쉐르빌",
+    "dealAmount": "41,500",
+    "date": "2026-06-01",
+    "floor": 12,
+    "area": 84.9578
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "138,000",
+    "date": "2026-05-26",
+    "floor": 3,
+    "area": 84.97
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "15,000",
+    "date": "2026-05-25",
+    "floor": 5,
+    "area": 89.55
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "17,500",
+    "date": "2026-05-21",
+    "floor": 4,
+    "area": 59.9514
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "99,000",
+    "date": "2026-05-20",
+    "floor": 14,
+    "area": 84.57
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "118,000",
+    "date": "2026-05-19",
+    "floor": 12,
+    "area": 60.21
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "16,000",
+    "date": "2026-05-15",
+    "floor": 11,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "17,000",
+    "date": "2026-05-15",
+    "floor": 5,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "18,300",
+    "date": "2026-05-12",
+    "floor": 11,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "135,000",
+    "date": "2026-05-12",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "128,300",
+    "date": "2026-05-12",
+    "floor": 12,
+    "area": 73.08
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "16,450",
+    "date": "2026-05-11",
+    "floor": 11,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "134,000",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 84.97
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "18,000",
+    "date": "2026-05-09",
+    "floor": 12,
+    "area": 89.55
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "85,000",
+    "date": "2026-05-09",
+    "floor": 16,
+    "area": 75.75
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "131,000",
+    "date": "2026-05-08",
+    "floor": 12,
+    "area": 73.08
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "107,500",
+    "date": "2026-05-07",
+    "floor": 6,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "112,000",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "114,000",
+    "date": "2026-05-06",
+    "floor": 4,
+    "area": 61.38
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "127,000",
+    "date": "2026-05-06",
+    "floor": 8,
+    "area": 73.08
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "136,000",
+    "date": "2026-05-05",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "95,000",
+    "date": "2026-05-05",
+    "floor": 14,
+    "area": 84.57
+  },
+  {
+    "aptNm": "용인포곡삼성쉐르빌",
+    "dealAmount": "42,750",
+    "date": "2026-05-04",
+    "floor": 13,
+    "area": 84.788
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "107,000",
+    "date": "2026-05-02",
+    "floor": 6,
+    "area": 114.03
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "119,000",
+    "date": "2026-04-30",
+    "floor": 10,
+    "area": 61.38
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "125,000",
+    "date": "2026-04-27",
+    "floor": 7,
+    "area": 73.08
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "17,800",
+    "date": "2026-04-25",
+    "floor": 14,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "108,500",
+    "date": "2026-04-25",
+    "floor": 5,
+    "area": 53.46
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "92,000",
+    "date": "2026-04-25",
+    "floor": 17,
+    "area": 84.57
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "108,000",
+    "date": "2026-04-24",
+    "floor": 11,
+    "area": 61.38
+  },
+  {
+    "aptNm": "한양그린",
+    "dealAmount": "89,000",
+    "date": "2026-04-21",
+    "floor": 1,
+    "area": 135.13
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "124,000",
+    "date": "2026-04-20",
+    "floor": 12,
+    "area": 73.08
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "100,000",
+    "date": "2026-04-20",
+    "floor": 2,
+    "area": 114.03
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "17,400",
+    "date": "2026-04-17",
+    "floor": 6,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "16,000",
+    "date": "2026-04-17",
+    "floor": 11,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "112,000",
+    "date": "2026-04-17",
+    "floor": 1,
+    "area": 60.21
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "106,000",
+    "date": "2026-04-15",
+    "floor": 1,
+    "area": 53.46
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "19,000",
+    "date": "2026-04-14",
+    "floor": 7,
+    "area": 99.95
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "99,500",
+    "date": "2026-04-13",
+    "floor": 13,
+    "area": 114.03
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "135,000",
+    "date": "2026-04-11",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "106,000",
+    "date": "2026-04-10",
+    "floor": 5,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "125,000",
+    "date": "2026-04-08",
+    "floor": 3,
+    "area": 73.08
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "19,500",
+    "date": "2026-04-04",
+    "floor": 8,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "110,000",
+    "date": "2026-04-03",
+    "floor": 2,
+    "area": 60.21
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "115,000",
+    "date": "2026-04-02",
+    "floor": 12,
+    "area": 61.38
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "130,000",
+    "date": "2026-04-01",
+    "floor": 11,
+    "area": 83.01
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "123,000",
+    "date": "2026-03-30",
+    "floor": 15,
+    "area": 73.08
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "15,000",
+    "date": "2026-03-30",
+    "floor": 7,
+    "area": 89.55
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "131,500",
+    "date": "2026-03-28",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "15,700",
+    "date": "2026-03-28",
+    "floor": 14,
+    "area": 89.55
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "19,000",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 99.95
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "81,000",
+    "date": "2026-03-27",
+    "floor": 5,
+    "area": 84.57
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "116,000",
+    "date": "2026-03-26",
+    "floor": 8,
+    "area": 60.21
+  },
+  {
+    "aptNm": "동해하나리움",
+    "dealAmount": "18,900",
+    "date": "2026-03-24",
+    "floor": 7,
+    "area": 59.9844
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "15,500",
+    "date": "2026-03-24",
+    "floor": 2,
+    "area": 99.95
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "18,300",
+    "date": "2026-03-22",
+    "floor": 8,
+    "area": 89.55
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "127,000",
+    "date": "2026-03-21",
+    "floor": 4,
+    "area": 74.46
+  },
+  {
+    "aptNm": "용인포곡삼성쉐르빌",
+    "dealAmount": "39,000",
+    "date": "2026-03-21",
+    "floor": 6,
+    "area": 84.788
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "126,000",
+    "date": "2026-03-20",
+    "floor": 15,
+    "area": 83.01
+  },
+  {
+    "aptNm": "태림",
+    "dealAmount": "12,000",
+    "date": "2026-03-19",
+    "floor": 2,
+    "area": 59.4
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "111,000",
+    "date": "2026-03-18",
+    "floor": 10,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "119,700",
+    "date": "2026-03-14",
+    "floor": 3,
+    "area": 73.08
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "128,700",
+    "date": "2026-03-14",
+    "floor": 9,
+    "area": 83.01
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "101,500",
+    "date": "2026-03-14",
+    "floor": 16,
+    "area": 114.03
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "114,200",
+    "date": "2026-03-12",
+    "floor": 7,
+    "area": 60.21
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "123,500",
+    "date": "2026-03-11",
+    "floor": 6,
+    "area": 73.08
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "105,000",
+    "date": "2026-03-10",
+    "floor": 7,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "65,000",
+    "date": "2026-03-09",
+    "floor": 8,
+    "area": 61.38
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "16,000",
+    "date": "2026-03-09",
+    "floor": 2,
+    "area": 99.95
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "112,000",
+    "date": "2026-03-07",
+    "floor": 12,
+    "area": 61.38
+  },
+  {
+    "aptNm": "용인포곡삼성쉐르빌",
+    "dealAmount": "38,800",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 84.9578
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "117,000",
+    "date": "2026-03-06",
+    "floor": 4,
+    "area": 60.21
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "110,000",
+    "date": "2026-03-05",
+    "floor": 8,
+    "area": 53.46
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "89,500",
+    "date": "2026-03-05",
+    "floor": 12,
+    "area": 84.57
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "115,000",
+    "date": "2026-03-04",
+    "floor": 11,
+    "area": 61.38
+  },
+  {
+    "aptNm": "태림",
+    "dealAmount": "11,000",
+    "date": "2026-03-03",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "115,000",
+    "date": "2026-03-03",
+    "floor": 5,
+    "area": 61.38
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "85,000",
+    "date": "2026-03-03",
+    "floor": 1,
+    "area": 114.03
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "128,250",
+    "date": "2026-02-28",
+    "floor": 11,
+    "area": 73.08
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "97,000",
+    "date": "2026-02-24",
+    "floor": 17,
+    "area": 114.03
+  },
+  {
+    "aptNm": "태림",
+    "dealAmount": "15,000",
+    "date": "2026-02-20",
+    "floor": 7,
+    "area": 84.87
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "110,000",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 53.46
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "85,000",
+    "date": "2026-02-18",
+    "floor": 4,
+    "area": 75.75
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "135,000",
+    "date": "2026-02-14",
+    "floor": 15,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "114,500",
+    "date": "2026-02-14",
+    "floor": 3,
+    "area": 60.21
+  },
+  {
+    "aptNm": "마포웨스트리버태영데시앙",
+    "dealAmount": "204,000",
+    "date": "2026-02-14",
+    "floor": 15,
+    "area": 84.391
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "115,000",
+    "date": "2026-02-13",
+    "floor": 11,
+    "area": 61.38
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "108,000",
+    "date": "2026-02-13",
+    "floor": 12,
+    "area": 53.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "133,000",
+    "date": "2026-02-13",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "마포웨스트리버태영데시앙",
+    "dealAmount": "182,000",
+    "date": "2026-02-13",
+    "floor": 8,
+    "area": 74.784
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "95,000",
+    "date": "2026-02-12",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "132,000",
+    "date": "2026-02-12",
+    "floor": 15,
+    "area": 84.97
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "17,000",
+    "date": "2026-02-11",
+    "floor": 15,
+    "area": 99.95
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "124,500",
+    "date": "2026-02-10",
+    "floor": 5,
+    "area": 74.46
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "108,000",
+    "date": "2026-02-09",
+    "floor": 11,
+    "area": 53.46
+  },
+  {
+    "aptNm": "용인포곡삼성쉐르빌",
+    "dealAmount": "45,000",
+    "date": "2026-02-07",
+    "floor": 2,
+    "area": 115.2875
+  },
+  {
+    "aptNm": "마포웨스트리버태영데시앙",
+    "dealAmount": "208,500",
+    "date": "2026-02-07",
+    "floor": 10,
+    "area": 84.785
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "82,300",
+    "date": "2026-02-07",
+    "floor": 5,
+    "area": 75.75
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "128,000",
+    "date": "2026-02-06",
+    "floor": 3,
+    "area": 83.01
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "85,500",
+    "date": "2026-02-03",
+    "floor": 13,
+    "area": 84.57
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "135,000",
+    "date": "2026-02-02",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "133,000",
+    "date": "2026-02-02",
+    "floor": 12,
+    "area": 84.97
+  },
+  {
+    "aptNm": "원호대우",
+    "dealAmount": "18,000",
+    "date": "2026-02-02",
+    "floor": 8,
+    "area": 99.95
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "97,000",
+    "date": "2026-02-02",
+    "floor": 12,
+    "area": 114.03
+  },
+  {
+    "aptNm": "북가좌삼호",
+    "dealAmount": "87,000",
+    "date": "2026-02-02",
+    "floor": 7,
+    "area": 84.57
+  },
+  {
     "aptNm": "주공12",
     "dealAmount": "92,000",
     "date": "2024-06-30",

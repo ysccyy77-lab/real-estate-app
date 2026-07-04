@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "성지",
+    "dealAmount": "56,000",
+    "date": "2026-06-26",
+    "floor": 9,
+    "area": 67.27
+  },
+  {
+    "aptNm": "세원秀아파트",
+    "dealAmount": "22,900",
+    "date": "2026-04-18",
+    "floor": 8,
+    "area": 58.556
+  },
+  {
+    "aptNm": "성지",
+    "dealAmount": "53,000",
+    "date": "2026-03-20",
+    "floor": 1,
+    "area": 67.27
+  },
+  {
+    "aptNm": "세원秀아파트",
+    "dealAmount": "27,200",
+    "date": "2026-03-01",
+    "floor": 14,
+    "area": 76.2389
+  },
+  {
+    "aptNm": "성지",
+    "dealAmount": "51,000",
+    "date": "2026-02-07",
+    "floor": 9,
+    "area": 55.3
+  },
+  {
+    "aptNm": "성지",
+    "dealAmount": "49,900",
+    "date": "2026-02-07",
+    "floor": 10,
+    "area": 55.3
+  }
+]

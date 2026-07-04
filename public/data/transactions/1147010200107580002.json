@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "달동삼성1",
+    "dealAmount": "27,000",
+    "date": "2026-06-14",
+    "floor": 14,
+    "area": 77.04
+  },
+  {
+    "aptNm": "달동삼성1",
+    "dealAmount": "32,800",
+    "date": "2026-06-10",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "달동삼성1",
+    "dealAmount": "26,900",
+    "date": "2026-05-20",
+    "floor": 4,
+    "area": 59.88
+  },
+  {
+    "aptNm": "달동삼성1",
+    "dealAmount": "25,300",
+    "date": "2026-05-13",
+    "floor": 5,
+    "area": 59.88
+  },
+  {
+    "aptNm": "목동2차아이파크",
+    "dealAmount": "150,000",
+    "date": "2026-05-04",
+    "floor": 14,
+    "area": 84.85
+  },
+  {
+    "aptNm": "달동삼성1",
+    "dealAmount": "28,250",
+    "date": "2026-02-25",
+    "floor": 10,
+    "area": 59.88
+  },
+  {
+    "aptNm": "달동삼성1",
+    "dealAmount": "28,300",
+    "date": "2026-02-06",
+    "floor": 13,
+    "area": 59.88
+  },
+  {
+    "aptNm": "달동삼성1",
+    "dealAmount": "25,500",
+    "date": "2026-02-04",
+    "floor": 6,
+    "area": 59.88
+  }
+]

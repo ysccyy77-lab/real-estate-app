@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "반도보라",
+    "dealAmount": "47,000",
+    "date": "2026-05-26",
+    "floor": 17,
+    "area": 134.82
+  },
+  {
+    "aptNm": "반도보라",
+    "dealAmount": "22,500",
+    "date": "2026-05-25",
+    "floor": 15,
+    "area": 59.7
+  },
+  {
+    "aptNm": "반도보라",
+    "dealAmount": "23,000",
+    "date": "2026-05-19",
+    "floor": 8,
+    "area": 59.7
+  },
+  {
+    "aptNm": "반도보라",
+    "dealAmount": "38,500",
+    "date": "2026-05-02",
+    "floor": 6,
+    "area": 99.96
+  },
+  {
+    "aptNm": "반도보라",
+    "dealAmount": "21,500",
+    "date": "2026-04-13",
+    "floor": 8,
+    "area": 59.7
+  },
+  {
+    "aptNm": "반도보라",
+    "dealAmount": "21,800",
+    "date": "2026-02-28",
+    "floor": 15,
+    "area": 59.7
+  },
+  {
+    "aptNm": "반도보라",
+    "dealAmount": "23,000",
+    "date": "2026-02-24",
+    "floor": 23,
+    "area": 59.7
+  }
+]

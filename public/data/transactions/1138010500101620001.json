@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "경향파크",
+    "dealAmount": "44,500",
+    "date": "2026-04-11",
+    "floor": 13,
+    "area": 84.06
+  },
+  {
+    "aptNm": "정림무지개",
+    "dealAmount": "6,500",
+    "date": "2026-03-30",
+    "floor": 1,
+    "area": 65.17
+  },
+  {
+    "aptNm": "명보2차",
+    "dealAmount": "3,900",
+    "date": "2026-03-25",
+    "floor": 6,
+    "area": 58.95
+  },
+  {
+    "aptNm": "정림무지개",
+    "dealAmount": "9,600",
+    "date": "2026-03-12",
+    "floor": 5,
+    "area": 70.03
+  },
+  {
+    "aptNm": "경향파크",
+    "dealAmount": "43,000",
+    "date": "2026-02-19",
+    "floor": 8,
+    "area": 84.06
+  },
+  {
+    "aptNm": "정림무지개",
+    "dealAmount": "10,000",
+    "date": "2026-02-09",
+    "floor": 9,
+    "area": 77.41
+  },
+  {
+    "aptNm": "정림무지개",
+    "dealAmount": "10,000",
+    "date": "2026-02-02",
+    "floor": 9,
+    "area": 75.52
+  }
+]

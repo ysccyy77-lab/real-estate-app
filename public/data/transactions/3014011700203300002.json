@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "공원",
+    "dealAmount": "12,900",
+    "date": "2026-05-01",
+    "floor": 11,
+    "area": 59.4
+  },
+  {
+    "aptNm": "공원",
+    "dealAmount": "10,000",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "공원",
+    "dealAmount": "13,200",
+    "date": "2026-02-04",
+    "floor": 6,
+    "area": 59.4
+  }
+]

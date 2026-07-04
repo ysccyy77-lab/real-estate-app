@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "자연",
+    "dealAmount": "17,200",
+    "date": "2026-06-05",
+    "floor": 8,
+    "area": 59.988
+  },
+  {
+    "aptNm": "자연",
+    "dealAmount": "18,000",
+    "date": "2026-05-05",
+    "floor": 7,
+    "area": 59.988
+  },
+  {
+    "aptNm": "자연",
+    "dealAmount": "22,000",
+    "date": "2026-04-17",
+    "floor": 10,
+    "area": 84.936
+  },
+  {
+    "aptNm": "은하",
+    "dealAmount": "12,400",
+    "date": "2026-04-13",
+    "floor": 1,
+    "area": 65.6
+  },
+  {
+    "aptNm": "자연",
+    "dealAmount": "17,500",
+    "date": "2026-03-20",
+    "floor": 13,
+    "area": 59.988
+  },
+  {
+    "aptNm": "자연",
+    "dealAmount": "20,000",
+    "date": "2026-03-18",
+    "floor": 15,
+    "area": 59.988
+  },
+  {
+    "aptNm": "자연",
+    "dealAmount": "17,100",
+    "date": "2026-03-07",
+    "floor": 11,
+    "area": 59.988
+  }
+]

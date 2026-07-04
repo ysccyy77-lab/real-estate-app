@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "성덕하이빌3차",
+    "dealAmount": "25,000",
+    "date": "2026-06-24",
+    "floor": 8,
+    "area": 84.9551
+  },
+  {
+    "aptNm": "하단청구",
+    "dealAmount": "30,000",
+    "date": "2026-06-19",
+    "floor": 7,
+    "area": 129.94
+  },
+  {
+    "aptNm": "하단청구",
+    "dealAmount": "39,000",
+    "date": "2026-05-28",
+    "floor": 17,
+    "area": 129.94
+  },
+  {
+    "aptNm": "하단청구",
+    "dealAmount": "24,900",
+    "date": "2026-05-10",
+    "floor": 19,
+    "area": 84.6
+  },
+  {
+    "aptNm": "하단청구",
+    "dealAmount": "17,300",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 59.805
+  },
+  {
+    "aptNm": "하단청구",
+    "dealAmount": "18,000",
+    "date": "2026-03-27",
+    "floor": 24,
+    "area": 59.805
+  },
+  {
+    "aptNm": "하단청구",
+    "dealAmount": "21,700",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 59.805
+  }
+]

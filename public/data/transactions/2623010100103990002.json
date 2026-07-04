@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "9,995",
+    "date": "2026-06-26",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "15,500",
+    "date": "2026-06-25",
+    "floor": 17,
+    "area": 84.98
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "14,900",
+    "date": "2026-06-23",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "12,000",
+    "date": "2026-05-25",
+    "floor": 14,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "15,800",
+    "date": "2026-05-23",
+    "floor": 16,
+    "area": 84.98
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "9,800",
+    "date": "2026-05-18",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "11,000",
+    "date": "2026-05-09",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "12,000",
+    "date": "2026-04-14",
+    "floor": 11,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "17,500",
+    "date": "2026-03-20",
+    "floor": 12,
+    "area": 134.765
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "9,995",
+    "date": "2026-03-17",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "동조리젠시",
+    "dealAmount": "14,500",
+    "date": "2026-03-05",
+    "floor": 6,
+    "area": 84.78
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "18,500",
+    "date": "2026-03-03",
+    "floor": 14,
+    "area": 84.98
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "14,700",
+    "date": "2026-02-19",
+    "floor": 10,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼성강변타운",
+    "dealAmount": "13,000",
+    "date": "2026-02-07",
+    "floor": 12,
+    "area": 84.98
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "aptNm": "양지현대",
+    "dealAmount": "22,200",
+    "date": "2026-06-22",
+    "floor": 8,
+    "area": 59.467
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "104,000",
+    "date": "2026-06-19",
+    "floor": 34,
+    "area": 84.83
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "78,500",
+    "date": "2026-06-18",
+    "floor": 4,
+    "area": 70.92
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "88,600",
+    "date": "2026-06-17",
+    "floor": 2,
+    "area": 84.53
+  },
+  {
+    "aptNm": "롯데낙천대",
+    "dealAmount": "95,000",
+    "date": "2026-06-16",
+    "floor": 10,
+    "area": 112.03
+  },
+  {
+    "aptNm": "삼보",
+    "dealAmount": "10,750",
+    "date": "2026-06-13",
+    "floor": 5,
+    "area": 51.57
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "134,500",
+    "date": "2026-06-13",
+    "floor": 14,
+    "area": 114.26
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,300",
+    "date": "2026-06-12",
+    "floor": 8,
+    "area": 35.768
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "5,800",
+    "date": "2026-06-12",
+    "floor": 13,
+    "area": 35.768
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "80,500",
+    "date": "2026-06-12",
+    "floor": 29,
+    "area": 70.92
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "113,500",
+    "date": "2026-06-12",
+    "floor": 13,
+    "area": 107.45
+  },
+  {
+    "aptNm": "장안",
+    "dealAmount": "17,000",
+    "date": "2026-06-11",
+    "floor": 1,
+    "area": 44.85
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "53,000",
+    "date": "2026-06-11",
+    "floor": 4,
+    "area": 49.28
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,500",
+    "date": "2026-06-10",
+    "floor": 5,
+    "area": 35.768
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "49,000",
+    "date": "2026-06-08",
+    "floor": 6,
+    "area": 48.6
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "50,200",
+    "date": "2026-05-30",
+    "floor": 8,
+    "area": 48.6
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "104,500",
+    "date": "2026-05-27",
+    "floor": 5,
+    "area": 107.44
+  },
+  {
+    "aptNm": "횡성보람더하임",
+    "dealAmount": "26,700",
+    "date": "2026-05-26",
+    "floor": 8,
+    "area": 84.888
+  },
+  {
+    "aptNm": "롯데낙천대",
+    "dealAmount": "92,000",
+    "date": "2026-05-26",
+    "floor": 18,
+    "area": 112.03
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "49,800",
+    "date": "2026-05-19",
+    "floor": 7,
+    "area": 48.6
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "5,200",
+    "date": "2026-05-18",
+    "floor": 15,
+    "area": 35.768
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "50,000",
+    "date": "2026-05-18",
+    "floor": 9,
+    "area": 49.28
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "102,500",
+    "date": "2026-05-18",
+    "floor": 19,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼풍",
+    "dealAmount": "16,000",
+    "date": "2026-05-15",
+    "floor": 1,
+    "area": 62.3
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "97,500",
+    "date": "2026-05-15",
+    "floor": 16,
+    "area": 84.53
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "93,300",
+    "date": "2026-05-15",
+    "floor": 10,
+    "area": 84.53
+  },
+  {
+    "aptNm": "양지현대",
+    "dealAmount": "26,000",
+    "date": "2026-05-12",
+    "floor": 11,
+    "area": 84.852
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "101,000",
+    "date": "2026-05-10",
+    "floor": 33,
+    "area": 84.53
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "42,000",
+    "date": "2026-05-07",
+    "floor": 1,
+    "area": 48.6
+  },
+  {
+    "aptNm": "삼풍",
+    "dealAmount": "16,800",
+    "date": "2026-05-07",
+    "floor": 5,
+    "area": 62.3
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "5,800",
+    "date": "2026-05-06",
+    "floor": 10,
+    "area": 35.768
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,300",
+    "date": "2026-05-03",
+    "floor": 5,
+    "area": 35.768
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "83,500",
+    "date": "2026-05-02",
+    "floor": 33,
+    "area": 70.92
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "94,000",
+    "date": "2026-05-02",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "81,000",
+    "date": "2026-05-01",
+    "floor": 20,
+    "area": 70.92
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,800",
+    "date": "2026-04-30",
+    "floor": 7,
+    "area": 35.768
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "58,000",
+    "date": "2026-04-28",
+    "floor": 1,
+    "area": 59.74
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "90,000",
+    "date": "2026-04-28",
+    "floor": 28,
+    "area": 84.97
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,300",
+    "date": "2026-04-27",
+    "floor": 5,
+    "area": 35.768
+  },
+  {
+    "aptNm": "양지현대",
+    "dealAmount": "22,800",
+    "date": "2026-04-25",
+    "floor": 15,
+    "area": 59.467
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "49,500",
+    "date": "2026-04-25",
+    "floor": 11,
+    "area": 48.6
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "120,000",
+    "date": "2026-04-23",
+    "floor": 18,
+    "area": 107.44
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,450",
+    "date": "2026-04-20",
+    "floor": 3,
+    "area": 35.768
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "8,000",
+    "date": "2026-04-18",
+    "floor": 6,
+    "area": 49.538
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "59,200",
+    "date": "2026-04-18",
+    "floor": 7,
+    "area": 59.97
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "45,500",
+    "date": "2026-04-18",
+    "floor": 3,
+    "area": 48.93
+  },
+  {
+    "aptNm": "롯데낙천대",
+    "dealAmount": "85,000",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 112.03
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,000",
+    "date": "2026-04-16",
+    "floor": 2,
+    "area": 49.538
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "109,000",
+    "date": "2026-04-16",
+    "floor": 7,
+    "area": 107.45
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "62,500",
+    "date": "2026-04-14",
+    "floor": 11,
+    "area": 59.74
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "48,000",
+    "date": "2026-04-14",
+    "floor": 14,
+    "area": 48.6
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "52,000",
+    "date": "2026-04-11",
+    "floor": 12,
+    "area": 48.6
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "83,000",
+    "date": "2026-04-10",
+    "floor": 13,
+    "area": 70.92
+  },
+  {
+    "aptNm": "양지현대",
+    "dealAmount": "27,800",
+    "date": "2026-04-09",
+    "floor": 3,
+    "area": 84.852
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "40,500",
+    "date": "2026-04-09",
+    "floor": 2,
+    "area": 48.6
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "45,800",
+    "date": "2026-04-03",
+    "floor": 14,
+    "area": 48.6
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,000",
+    "date": "2026-03-31",
+    "floor": 1,
+    "area": 49.538
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "123,500",
+    "date": "2026-03-30",
+    "floor": 10,
+    "area": 114.26
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "58,500",
+    "date": "2026-03-28",
+    "floor": 3,
+    "area": 59.87
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "55,500",
+    "date": "2026-03-27",
+    "floor": 4,
+    "area": 59.87
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "5,900",
+    "date": "2026-03-26",
+    "floor": 8,
+    "area": 35.768
+  },
+  {
+    "aptNm": "양지현대",
+    "dealAmount": "20,400",
+    "date": "2026-03-24",
+    "floor": 6,
+    "area": 59.467
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "5,800",
+    "date": "2026-03-23",
+    "floor": 13,
+    "area": 35.768
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "48,500",
+    "date": "2026-03-20",
+    "floor": 12,
+    "area": 48.6
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "41,750",
+    "date": "2026-03-20",
+    "floor": 1,
+    "area": 48.6
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "118,600",
+    "date": "2026-03-16",
+    "floor": 15,
+    "area": 107.45
+  },
+  {
+    "aptNm": "양지현대",
+    "dealAmount": "27,800",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 84.852
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "44,700",
+    "date": "2026-03-14",
+    "floor": 6,
+    "area": 48.6
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "5,800",
+    "date": "2026-03-09",
+    "floor": 8,
+    "area": 35.768
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "6,000",
+    "date": "2026-03-09",
+    "floor": 12,
+    "area": 35.768
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "8,000",
+    "date": "2026-03-07",
+    "floor": 8,
+    "area": 49.538
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "5,800",
+    "date": "2026-03-05",
+    "floor": 8,
+    "area": 35.768
+  },
+  {
+    "aptNm": "양지현대",
+    "dealAmount": "27,200",
+    "date": "2026-02-28",
+    "floor": 8,
+    "area": 84.852
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "41,500",
+    "date": "2026-02-28",
+    "floor": 2,
+    "area": 48.93
+  },
+  {
+    "aptNm": "횡성보람더하임",
+    "dealAmount": "22,000",
+    "date": "2026-02-21",
+    "floor": 3,
+    "area": 84.888
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "41,000",
+    "date": "2026-02-21",
+    "floor": 4,
+    "area": 48.6
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "48,000",
+    "date": "2026-02-19",
+    "floor": 7,
+    "area": 48.93
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "55,800",
+    "date": "2026-02-19",
+    "floor": 9,
+    "area": 59.74
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "46,500",
+    "date": "2026-02-14",
+    "floor": 7,
+    "area": 48.93
+  },
+  {
+    "aptNm": "비선아파트",
+    "dealAmount": "57,300",
+    "date": "2026-02-12",
+    "floor": 13,
+    "area": 59.87
+  },
+  {
+    "aptNm": "주은다솜",
+    "dealAmount": "5,750",
+    "date": "2026-02-09",
+    "floor": 15,
+    "area": 35.768
+  },
+  {
+    "aptNm": "일동",
+    "dealAmount": "13,100",
+    "date": "2026-02-09",
+    "floor": 12,
+    "area": 59.97
+  },
+  {
+    "aptNm": "횡성보람더하임",
+    "dealAmount": "34,200",
+    "date": "2026-02-05",
+    "floor": 2,
+    "area": 103.452
+  },
+  {
+    "aptNm": "장안",
+    "dealAmount": "18,000",
+    "date": "2026-02-04",
+    "floor": 3,
+    "area": 47.1
+  },
+  {
+    "aptNm": "더샵송도프라임뷰20BL",
+    "dealAmount": "135,000",
+    "date": "2026-02-03",
+    "floor": 28,
+    "area": 114.26
+  }
+]

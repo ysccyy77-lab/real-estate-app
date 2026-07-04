@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "건영2",
+    "dealAmount": "37,500",
+    "date": "2026-05-20",
+    "floor": 7,
+    "area": 84.93
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "23,000",
+    "date": "2026-05-15",
+    "floor": 5,
+    "area": 59.82
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "22,700",
+    "date": "2026-04-23",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "26,000",
+    "date": "2026-04-18",
+    "floor": 8,
+    "area": 59.82
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "20,500",
+    "date": "2026-03-25",
+    "floor": 5,
+    "area": 59.82
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "31,550",
+    "date": "2026-03-24",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "32,000",
+    "date": "2026-03-12",
+    "floor": 2,
+    "area": 84.93
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "20,750",
+    "date": "2026-02-10",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "21,750",
+    "date": "2026-02-02",
+    "floor": 4,
+    "area": 59.82
+  }
+]

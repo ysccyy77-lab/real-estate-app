@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "동아",
+    "dealAmount": "30,000",
+    "date": "2026-07-01",
+    "floor": 4,
+    "area": 100
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "35,000",
+    "date": "2026-06-04",
+    "floor": 6,
+    "area": 127.69
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "25,000",
+    "date": "2026-05-30",
+    "floor": 10,
+    "area": 100
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "43,500",
+    "date": "2026-04-13",
+    "floor": 12,
+    "area": 164.97
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "32,000",
+    "date": "2026-02-03",
+    "floor": 10,
+    "area": 127.69
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "30,700",
+    "date": "2026-02-01",
+    "floor": 11,
+    "area": 100
+  }
+]

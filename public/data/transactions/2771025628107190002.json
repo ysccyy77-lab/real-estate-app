@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "강창삼산1",
+    "dealAmount": "10,900",
+    "date": "2026-06-17",
+    "floor": 13,
+    "area": 59.96
+  },
+  {
+    "aptNm": "강창삼산1",
+    "dealAmount": "14,500",
+    "date": "2026-06-06",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "강창삼산1",
+    "dealAmount": "12,500",
+    "date": "2026-06-03",
+    "floor": 24,
+    "area": 59.96
+  },
+  {
+    "aptNm": "강창삼산1",
+    "dealAmount": "17,800",
+    "date": "2026-04-17",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "강창삼산1",
+    "dealAmount": "17,500",
+    "date": "2026-03-21",
+    "floor": 14,
+    "area": 84.98
+  },
+  {
+    "aptNm": "강창삼산1",
+    "dealAmount": "4,870",
+    "date": "2026-03-02",
+    "floor": 13,
+    "area": 23.1
+  }
+]

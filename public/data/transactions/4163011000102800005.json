@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "현대3",
+    "dealAmount": "26,000",
+    "date": "2026-06-16",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "일성유수안2차",
+    "dealAmount": "25,300",
+    "date": "2026-06-15",
+    "floor": 24,
+    "area": 84.8502
+  },
+  {
+    "aptNm": "일성유수안2차",
+    "dealAmount": "23,500",
+    "date": "2026-05-08",
+    "floor": 18,
+    "area": 84.8502
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "28,000",
+    "date": "2026-05-08",
+    "floor": 16,
+    "area": 84.96
+  },
+  {
+    "aptNm": "일성유수안2차",
+    "dealAmount": "23,000",
+    "date": "2026-04-02",
+    "floor": 6,
+    "area": 84.8502
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "24,100",
+    "date": "2026-03-25",
+    "floor": 5,
+    "area": 71.457
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "29,200",
+    "date": "2026-03-09",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "일성유수안2차",
+    "dealAmount": "24,000",
+    "date": "2026-03-04",
+    "floor": 21,
+    "area": 84.8502
+  },
+  {
+    "aptNm": "융보",
+    "dealAmount": "14,500",
+    "date": "2026-03-02",
+    "floor": 8,
+    "area": 81.3
+  },
+  {
+    "aptNm": "일성유수안2차",
+    "dealAmount": "25,500",
+    "date": "2026-02-14",
+    "floor": 26,
+    "area": 84.8502
+  }
+]

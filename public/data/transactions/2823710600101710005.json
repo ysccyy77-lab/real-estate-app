@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "장미",
+    "dealAmount": "24,000",
+    "date": "2026-06-17",
+    "floor": 2,
+    "area": 60.768
+  },
+  {
+    "aptNm": "현대7",
+    "dealAmount": "118,100",
+    "date": "2026-06-05",
+    "floor": 11,
+    "area": 84.65
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "20,000",
+    "date": "2026-05-23",
+    "floor": 4,
+    "area": 59.93
+  },
+  {
+    "aptNm": "현대7",
+    "dealAmount": "93,000",
+    "date": "2026-05-15",
+    "floor": 8,
+    "area": 84.64
+  },
+  {
+    "aptNm": "서호",
+    "dealAmount": "3,200",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 59.88
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "19,000",
+    "date": "2026-04-12",
+    "floor": 1,
+    "area": 59.93
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "16,000",
+    "date": "2026-03-09",
+    "floor": 1,
+    "area": 53.33
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "대아청산",
+    "dealAmount": "5,100",
+    "date": "2026-06-24",
+    "floor": 6,
+    "area": 59.97
+  },
+  {
+    "aptNm": "대아청산",
+    "dealAmount": "6,000",
+    "date": "2026-04-04",
+    "floor": 10,
+    "area": 59.97
+  },
+  {
+    "aptNm": "대아청산",
+    "dealAmount": "5,700",
+    "date": "2026-04-01",
+    "floor": 1,
+    "area": 59.97
+  },
+  {
+    "aptNm": "대아청산",
+    "dealAmount": "7,700",
+    "date": "2026-02-18",
+    "floor": 6,
+    "area": 59.97
+  }
+]

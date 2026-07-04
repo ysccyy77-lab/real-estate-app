@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "9,500",
+    "date": "2026-06-29",
+    "floor": 1,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "14,400",
+    "date": "2026-06-25",
+    "floor": 6,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "13,000",
+    "date": "2026-06-10",
+    "floor": 10,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "13,000",
+    "date": "2026-06-08",
+    "floor": 10,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "14,800",
+    "date": "2026-04-24",
+    "floor": 6,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "14,100",
+    "date": "2026-04-17",
+    "floor": 5,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "16,000",
+    "date": "2026-04-07",
+    "floor": 9,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "10,000",
+    "date": "2026-03-25",
+    "floor": 7,
+    "area": 71.355
+  },
+  {
+    "aptNm": "태영빌라3차",
+    "dealAmount": "5,500",
+    "date": "2026-03-24",
+    "floor": 10,
+    "area": 59.94
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "15,900",
+    "date": "2026-03-16",
+    "floor": 15,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "12,000",
+    "date": "2026-03-05",
+    "floor": 5,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "17,200",
+    "date": "2026-03-01",
+    "floor": 10,
+    "area": 84.945
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "15,050",
+    "date": "2026-02-28",
+    "floor": 6,
+    "area": 84.945
+  },
+  {
+    "aptNm": "대삼아파트",
+    "dealAmount": "4,600",
+    "date": "2026-02-11",
+    "floor": 5,
+    "area": 59.94
+  }
+]

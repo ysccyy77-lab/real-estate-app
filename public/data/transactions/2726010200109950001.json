@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "거성유창",
+    "dealAmount": "10,950",
+    "date": "2026-06-21",
+    "floor": 2,
+    "area": 37.44
+  },
+  {
+    "aptNm": "거성유창",
+    "dealAmount": "11,500",
+    "date": "2026-06-06",
+    "floor": 2,
+    "area": 37.44
+  },
+  {
+    "aptNm": "대호",
+    "dealAmount": "6,800",
+    "date": "2026-06-05",
+    "floor": 13,
+    "area": 59.83
+  },
+  {
+    "aptNm": "대호",
+    "dealAmount": "6,200",
+    "date": "2026-05-15",
+    "floor": 4,
+    "area": 59.83
+  },
+  {
+    "aptNm": "거성유창",
+    "dealAmount": "11,000",
+    "date": "2026-04-15",
+    "floor": 1,
+    "area": 37.44
+  },
+  {
+    "aptNm": "대호",
+    "dealAmount": "7,600",
+    "date": "2026-04-11",
+    "floor": 9,
+    "area": 59.65
+  },
+  {
+    "aptNm": "대호",
+    "dealAmount": "4,250",
+    "date": "2026-04-08",
+    "floor": 5,
+    "area": 59.83
+  },
+  {
+    "aptNm": "만촌태왕리더스",
+    "dealAmount": "45,600",
+    "date": "2026-04-03",
+    "floor": 9,
+    "area": 84.9562
+  },
+  {
+    "aptNm": "만촌태왕리더스",
+    "dealAmount": "44,900",
+    "date": "2026-03-19",
+    "floor": 6,
+    "area": 84.9562
+  },
+  {
+    "aptNm": "만촌태왕리더스",
+    "dealAmount": "62,000",
+    "date": "2026-03-06",
+    "floor": 15,
+    "area": 117.629
+  }
+]

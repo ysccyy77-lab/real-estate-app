@@ -1,0 +1,114 @@
+[
+  {
+    "aptNm": "장림",
+    "dealAmount": "9,000",
+    "date": "2026-07-01",
+    "floor": 2,
+    "area": 66.61
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "51,000",
+    "date": "2026-06-26",
+    "floor": 6,
+    "area": 101.93
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "62,700",
+    "date": "2026-06-18",
+    "floor": 10,
+    "area": 134.85
+  },
+  {
+    "aptNm": "반도유보라아일랜드",
+    "dealAmount": "305,000",
+    "date": "2026-06-05",
+    "floor": 4,
+    "area": 140.4529
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "44,500",
+    "date": "2026-05-19",
+    "floor": 1,
+    "area": 101.93
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "52,000",
+    "date": "2026-05-19",
+    "floor": 9,
+    "area": 101.93
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "57,300",
+    "date": "2026-05-16",
+    "floor": 2,
+    "area": 134.85
+  },
+  {
+    "aptNm": "대아",
+    "dealAmount": "8,350",
+    "date": "2026-04-17",
+    "floor": 2,
+    "area": 59.88
+  },
+  {
+    "aptNm": "대아",
+    "dealAmount": "7,400",
+    "date": "2026-04-02",
+    "floor": 9,
+    "area": 59.88
+  },
+  {
+    "aptNm": "대아",
+    "dealAmount": "7,500",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 59.88
+  },
+  {
+    "aptNm": "대아",
+    "dealAmount": "7,700",
+    "date": "2026-03-25",
+    "floor": 9,
+    "area": 59.88
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "52,500",
+    "date": "2026-03-21",
+    "floor": 12,
+    "area": 101.93
+  },
+  {
+    "aptNm": "에이스타운",
+    "dealAmount": "18,800",
+    "date": "2026-03-05",
+    "floor": 7,
+    "area": 84.9841
+  },
+  {
+    "aptNm": "대아",
+    "dealAmount": "7,000",
+    "date": "2026-02-21",
+    "floor": 12,
+    "area": 59.88
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "67,000",
+    "date": "2026-02-06",
+    "floor": 11,
+    "area": 134.85
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "52,000",
+    "date": "2026-02-05",
+    "floor": 13,
+    "area": 101.93
+  }
+]

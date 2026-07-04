@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "현대5",
+    "dealAmount": "11,000",
+    "date": "2026-06-27",
+    "floor": 11,
+    "area": 59.87
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "14,600",
+    "date": "2026-05-17",
+    "floor": 8,
+    "area": 59.87
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "14,000",
+    "date": "2026-05-12",
+    "floor": 2,
+    "area": 84.965
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "15,500",
+    "date": "2026-05-07",
+    "floor": 1,
+    "area": 84.965
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "16,300",
+    "date": "2026-05-01",
+    "floor": 15,
+    "area": 84.965
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "17,000",
+    "date": "2026-04-29",
+    "floor": 6,
+    "area": 84.965
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "13,000",
+    "date": "2026-03-27",
+    "floor": 18,
+    "area": 84.965
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "13,000",
+    "date": "2026-02-09",
+    "floor": 6,
+    "area": 59.87
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "15,000",
+    "date": "2026-02-07",
+    "floor": 16,
+    "area": 84.965
+  },
+  {
+    "aptNm": "현대5",
+    "dealAmount": "16,300",
+    "date": "2026-02-01",
+    "floor": 14,
+    "area": 84.965
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "북실주공",
+    "dealAmount": "5,800",
+    "date": "2026-06-26",
+    "floor": 3,
+    "area": 39.3
+  },
+  {
+    "aptNm": "북실주공",
+    "dealAmount": "5,700",
+    "date": "2026-05-25",
+    "floor": 4,
+    "area": 39.69
+  },
+  {
+    "aptNm": "북실주공",
+    "dealAmount": "4,500",
+    "date": "2026-04-23",
+    "floor": 4,
+    "area": 39.3
+  },
+  {
+    "aptNm": "북실주공",
+    "dealAmount": "4,100",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 39.3
+  },
+  {
+    "aptNm": "북실주공",
+    "dealAmount": "5,800",
+    "date": "2026-02-26",
+    "floor": 3,
+    "area": 39.3
+  },
+  {
+    "aptNm": "북실주공",
+    "dealAmount": "6,200",
+    "date": "2026-02-23",
+    "floor": 3,
+    "area": 39.3
+  },
+  {
+    "aptNm": "북실주공",
+    "dealAmount": "5,400",
+    "date": "2026-02-08",
+    "floor": 3,
+    "area": 39.3
+  }
+]

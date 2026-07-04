@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "다대해송",
+    "dealAmount": "11,200",
+    "date": "2026-04-15",
+    "floor": 2,
+    "area": 52.11
+  },
+  {
+    "aptNm": "다대해송",
+    "dealAmount": "14,000",
+    "date": "2026-04-11",
+    "floor": 8,
+    "area": 52.11
+  },
+  {
+    "aptNm": "다대해송",
+    "dealAmount": "13,900",
+    "date": "2026-04-01",
+    "floor": 2,
+    "area": 52.11
+  },
+  {
+    "aptNm": "다대해송",
+    "dealAmount": "12,000",
+    "date": "2026-03-28",
+    "floor": 10,
+    "area": 52.11
+  },
+  {
+    "aptNm": "다대해송",
+    "dealAmount": "14,700",
+    "date": "2026-03-02",
+    "floor": 1,
+    "area": 52.11
+  },
+  {
+    "aptNm": "다대해송",
+    "dealAmount": "13,300",
+    "date": "2026-02-28",
+    "floor": 10,
+    "area": 52.11
+  }
+]

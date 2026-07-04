@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "9,000",
+    "date": "2026-06-05",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "11,520",
+    "date": "2026-04-28",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "9,300",
+    "date": "2026-04-23",
+    "floor": 2,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "11,000",
+    "date": "2026-03-28",
+    "floor": 12,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "11,650",
+    "date": "2026-03-26",
+    "floor": 12,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "10,000",
+    "date": "2026-03-25",
+    "floor": 11,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "11,700",
+    "date": "2026-03-13",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "10,300",
+    "date": "2026-03-06",
+    "floor": 15,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔6차",
+    "dealAmount": "9,900",
+    "date": "2026-02-23",
+    "floor": 11,
+    "area": 59.85
+  }
+]

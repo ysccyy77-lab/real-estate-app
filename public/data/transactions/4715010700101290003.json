@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "동보수정맨션",
+    "dealAmount": "15,500",
+    "date": "2026-06-15",
+    "floor": 9,
+    "area": 125.29
+  },
+  {
+    "aptNm": "동보수정맨션",
+    "dealAmount": "5,900",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "동보수정맨션",
+    "dealAmount": "6,200",
+    "date": "2026-03-31",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "10,500",
+    "date": "2026-03-30",
+    "floor": 2,
+    "area": 67.05
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "10,500",
+    "date": "2026-03-03",
+    "floor": 2,
+    "area": 67.05
+  }
+]

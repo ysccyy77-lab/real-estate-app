@@ -1,0 +1,121 @@
+[
+  {
+    "aptNm": "현대",
+    "dealAmount": "18,000",
+    "date": "2026-06-21",
+    "floor": 2,
+    "area": 59.95
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "20,000",
+    "date": "2026-06-04",
+    "floor": 11,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "17,200",
+    "date": "2026-06-03",
+    "floor": 8,
+    "area": 59.95
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "26,200",
+    "date": "2026-05-13",
+    "floor": 8,
+    "area": 84.69
+  },
+  {
+    "aptNm": "동양상가빌라2차",
+    "dealAmount": "7,500",
+    "date": "2026-04-22",
+    "floor": 2,
+    "area": 59.51
+  },
+  {
+    "aptNm": "월평타운",
+    "dealAmount": "26,000",
+    "date": "2026-04-22",
+    "floor": 6,
+    "area": 84.895
+  },
+  {
+    "aptNm": "월평타운",
+    "dealAmount": "15,500",
+    "date": "2026-04-22",
+    "floor": 9,
+    "area": 59.74
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "18,000",
+    "date": "2026-04-19",
+    "floor": 12,
+    "area": 59.95
+  },
+  {
+    "aptNm": "월평타운",
+    "dealAmount": "15,000",
+    "date": "2026-04-18",
+    "floor": 1,
+    "area": 59.74
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "19,900",
+    "date": "2026-04-01",
+    "floor": 4,
+    "area": 59.95
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "15,000",
+    "date": "2026-03-20",
+    "floor": 9,
+    "area": 59.95
+  },
+  {
+    "aptNm": "월평타운",
+    "dealAmount": "22,800",
+    "date": "2026-03-16",
+    "floor": 6,
+    "area": 84.895
+  },
+  {
+    "aptNm": "월평타운",
+    "dealAmount": "22,000",
+    "date": "2026-03-12",
+    "floor": 6,
+    "area": 84.895
+  },
+  {
+    "aptNm": "신형석리2",
+    "dealAmount": "2,000",
+    "date": "2026-03-11",
+    "floor": 1,
+    "area": 59.965
+  },
+  {
+    "aptNm": "월평타운",
+    "dealAmount": "28,000",
+    "date": "2026-02-13",
+    "floor": 4,
+    "area": 84.895
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "30,800",
+    "date": "2026-02-07",
+    "floor": 6,
+    "area": 84.6
+  },
+  {
+    "aptNm": "서광교파크뷰",
+    "dealAmount": "43,500",
+    "date": "2026-02-04",
+    "floor": 14,
+    "area": 59.73
+  }
+]

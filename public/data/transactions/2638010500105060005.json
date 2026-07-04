@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "현대타워",
+    "dealAmount": "11,600",
+    "date": "2026-06-29",
+    "floor": 16,
+    "area": 84.87
+  },
+  {
+    "aptNm": "태평양임대",
+    "dealAmount": "8,400",
+    "date": "2026-06-10",
+    "floor": 4,
+    "area": 39.348
+  },
+  {
+    "aptNm": "현대타워",
+    "dealAmount": "11,600",
+    "date": "2026-06-08",
+    "floor": 16,
+    "area": 84.87
+  },
+  {
+    "aptNm": "현대타워",
+    "dealAmount": "10,000",
+    "date": "2026-05-07",
+    "floor": 19,
+    "area": 59.67
+  },
+  {
+    "aptNm": "태평양임대",
+    "dealAmount": "7,500",
+    "date": "2026-04-16",
+    "floor": 13,
+    "area": 34.722
+  },
+  {
+    "aptNm": "태평양임대",
+    "dealAmount": "7,750",
+    "date": "2026-04-05",
+    "floor": 6,
+    "area": 39.348
+  },
+  {
+    "aptNm": "태평양임대",
+    "dealAmount": "6,500",
+    "date": "2026-03-23",
+    "floor": 9,
+    "area": 39.348
+  },
+  {
+    "aptNm": "태평양임대",
+    "dealAmount": "5,800",
+    "date": "2026-03-22",
+    "floor": 6,
+    "area": 34.722
+  },
+  {
+    "aptNm": "태평양임대",
+    "dealAmount": "5,800",
+    "date": "2026-03-17",
+    "floor": 2,
+    "area": 34.722
+  },
+  {
+    "aptNm": "현대타워",
+    "dealAmount": "8,500",
+    "date": "2026-03-04",
+    "floor": 12,
+    "area": 59.67
+  },
+  {
+    "aptNm": "태평양임대",
+    "dealAmount": "6,500",
+    "date": "2026-02-11",
+    "floor": 6,
+    "area": 34.722
+  },
+  {
+    "aptNm": "태평양임대",
+    "dealAmount": "6,600",
+    "date": "2026-02-10",
+    "floor": 6,
+    "area": 34.722
+  }
+]

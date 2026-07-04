@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "동신",
+    "dealAmount": "6,900",
+    "date": "2026-06-24",
+    "floor": 4,
+    "area": 49.72
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "8,800",
+    "date": "2026-06-03",
+    "floor": 6,
+    "area": 49.72
+  },
+  {
+    "aptNm": "현대백조",
+    "dealAmount": "8,700",
+    "date": "2026-05-28",
+    "floor": 10,
+    "area": 84.6
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "10,300",
+    "date": "2026-05-22",
+    "floor": 2,
+    "area": 84.95
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "7,350",
+    "date": "2026-05-13",
+    "floor": 12,
+    "area": 78.34
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "6,000",
+    "date": "2026-05-13",
+    "floor": 1,
+    "area": 41.23
+  },
+  {
+    "aptNm": "현대백조",
+    "dealAmount": "8,500",
+    "date": "2026-04-27",
+    "floor": 12,
+    "area": 84.6
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "5,300",
+    "date": "2026-04-08",
+    "floor": 1,
+    "area": 42.7
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "5,200",
+    "date": "2026-04-01",
+    "floor": 7,
+    "area": 49.72
+  },
+  {
+    "aptNm": "현대백조",
+    "dealAmount": "8,300",
+    "date": "2026-03-30",
+    "floor": 2,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대백조",
+    "dealAmount": "8,700",
+    "date": "2026-03-21",
+    "floor": 13,
+    "area": 84.6
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "5,400",
+    "date": "2026-03-17",
+    "floor": 1,
+    "area": 49.72
+  }
+]

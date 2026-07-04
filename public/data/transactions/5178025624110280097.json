@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "유명",
+    "dealAmount": "4,210",
+    "date": "2026-03-10",
+    "floor": 10,
+    "area": 39.78
+  },
+  {
+    "aptNm": "유명",
+    "dealAmount": "4,210",
+    "date": "2026-03-10",
+    "floor": 3,
+    "area": 39.78
+  },
+  {
+    "aptNm": "유명",
+    "dealAmount": "4,500",
+    "date": "2026-02-10",
+    "floor": 3,
+    "area": 39.78
+  },
+  {
+    "aptNm": "유명",
+    "dealAmount": "4,480",
+    "date": "2026-02-06",
+    "floor": 9,
+    "area": 39.78
+  },
+  {
+    "aptNm": "유명",
+    "dealAmount": "4,400",
+    "date": "2026-02-02",
+    "floor": 13,
+    "area": 39.78
+  }
+]

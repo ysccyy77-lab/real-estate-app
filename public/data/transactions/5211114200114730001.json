@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "서곡엘지",
+    "dealAmount": "34,400",
+    "date": "2026-06-19",
+    "floor": 8,
+    "area": 100.49
+  },
+  {
+    "aptNm": "서곡엘지",
+    "dealAmount": "33,800",
+    "date": "2026-05-29",
+    "floor": 13,
+    "area": 134.38
+  },
+  {
+    "aptNm": "서곡엘지",
+    "dealAmount": "31,200",
+    "date": "2026-05-15",
+    "floor": 2,
+    "area": 100.49
+  },
+  {
+    "aptNm": "서곡엘지",
+    "dealAmount": "33,300",
+    "date": "2026-05-15",
+    "floor": 3,
+    "area": 100.49
+  },
+  {
+    "aptNm": "서곡엘지",
+    "dealAmount": "31,200",
+    "date": "2026-05-11",
+    "floor": 1,
+    "area": 134.38
+  },
+  {
+    "aptNm": "서곡엘지",
+    "dealAmount": "36,000",
+    "date": "2026-04-24",
+    "floor": 9,
+    "area": 134.38
+  },
+  {
+    "aptNm": "우방청자",
+    "dealAmount": "18,000",
+    "date": "2026-04-21",
+    "floor": 2,
+    "area": 66.13
+  },
+  {
+    "aptNm": "우방청자",
+    "dealAmount": "15,000",
+    "date": "2026-03-26",
+    "floor": 4,
+    "area": 66.13
+  },
+  {
+    "aptNm": "서곡엘지",
+    "dealAmount": "31,500",
+    "date": "2026-03-02",
+    "floor": 15,
+    "area": 100.49
+  }
+]

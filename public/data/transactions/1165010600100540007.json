@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "신화",
+    "dealAmount": "211,000",
+    "date": "2026-05-19",
+    "floor": 6,
+    "area": 57.33
+  },
+  {
+    "aptNm": "신화",
+    "dealAmount": "210,000",
+    "date": "2026-05-13",
+    "floor": 6,
+    "area": 57.33
+  },
+  {
+    "aptNm": "만민하늘애",
+    "dealAmount": "81,000",
+    "date": "2026-04-23",
+    "floor": 11,
+    "area": 53.61
+  },
+  {
+    "aptNm": "만민하늘애",
+    "dealAmount": "78,000",
+    "date": "2026-04-22",
+    "floor": 7,
+    "area": 53.61
+  },
+  {
+    "aptNm": "율전에버그린아파트",
+    "dealAmount": "63,700",
+    "date": "2026-03-27",
+    "floor": 7,
+    "area": 78.73
+  },
+  {
+    "aptNm": "만민하늘애",
+    "dealAmount": "78,000",
+    "date": "2026-03-09",
+    "floor": 8,
+    "area": 53.61
+  },
+  {
+    "aptNm": "만민하늘애",
+    "dealAmount": "80,000",
+    "date": "2026-02-26",
+    "floor": 10,
+    "area": 53.61
+  },
+  {
+    "aptNm": "만민하늘애",
+    "dealAmount": "78,000",
+    "date": "2026-02-12",
+    "floor": 8,
+    "area": 53.61
+  }
+]

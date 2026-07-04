@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "백자타운빌",
+    "dealAmount": "16,700",
+    "date": "2026-06-01",
+    "floor": 12,
+    "area": 84.75
+  },
+  {
+    "aptNm": "백자타운빌",
+    "dealAmount": "15,000",
+    "date": "2026-05-18",
+    "floor": 10,
+    "area": 58.99
+  },
+  {
+    "aptNm": "정암문백",
+    "dealAmount": "5,300",
+    "date": "2026-04-03",
+    "floor": 6,
+    "area": 59.41
+  },
+  {
+    "aptNm": "정암문백",
+    "dealAmount": "6,500",
+    "date": "2026-03-27",
+    "floor": 2,
+    "area": 59.41
+  },
+  {
+    "aptNm": "백자타운빌",
+    "dealAmount": "14,300",
+    "date": "2026-03-17",
+    "floor": 9,
+    "area": 58.99
+  },
+  {
+    "aptNm": "백자타운빌",
+    "dealAmount": "15,450",
+    "date": "2026-03-01",
+    "floor": 6,
+    "area": 58.99
+  },
+  {
+    "aptNm": "백자타운빌",
+    "dealAmount": "16,800",
+    "date": "2026-02-27",
+    "floor": 1,
+    "area": 84.75
+  }
+]

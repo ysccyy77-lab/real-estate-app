@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "정광",
+    "dealAmount": "17,900",
+    "date": "2026-06-25",
+    "floor": 4,
+    "area": 59.21
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "24,000",
+    "date": "2026-06-17",
+    "floor": 17,
+    "area": 84.98
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "21,400",
+    "date": "2026-05-28",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "19,400",
+    "date": "2026-05-28",
+    "floor": 16,
+    "area": 59.21
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "16,100",
+    "date": "2026-05-22",
+    "floor": 18,
+    "area": 59.71
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "15,500",
+    "date": "2026-05-19",
+    "floor": 12,
+    "area": 65.29
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "14,800",
+    "date": "2026-05-14",
+    "floor": 13,
+    "area": 56.92
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "14,800",
+    "date": "2026-04-29",
+    "floor": 7,
+    "area": 59.71
+  },
+  {
+    "aptNm": "협성파크맨션",
+    "dealAmount": "8,000",
+    "date": "2026-04-13",
+    "floor": 1,
+    "area": 48.81
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "17,950",
+    "date": "2026-04-10",
+    "floor": 10,
+    "area": 65.29
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "22,850",
+    "date": "2026-04-07",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "14,400",
+    "date": "2026-03-30",
+    "floor": 8,
+    "area": 59.71
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "16,600",
+    "date": "2026-02-12",
+    "floor": 2,
+    "area": 56.92
+  }
+]

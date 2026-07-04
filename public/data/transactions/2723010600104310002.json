@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "청구타운",
+    "dealAmount": "21,000",
+    "date": "2026-06-25",
+    "floor": 16,
+    "area": 84.925
+  },
+  {
+    "aptNm": "청구타운",
+    "dealAmount": "16,000",
+    "date": "2026-06-17",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "청구타운",
+    "dealAmount": "17,000",
+    "date": "2026-05-29",
+    "floor": 4,
+    "area": 69.84
+  },
+  {
+    "aptNm": "청구타운",
+    "dealAmount": "22,800",
+    "date": "2026-05-26",
+    "floor": 6,
+    "area": 84.925
+  },
+  {
+    "aptNm": "청구타운",
+    "dealAmount": "15,000",
+    "date": "2026-05-19",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "청구타운",
+    "dealAmount": "21,000",
+    "date": "2026-04-16",
+    "floor": 8,
+    "area": 84.925
+  },
+  {
+    "aptNm": "청구타운",
+    "dealAmount": "15,000",
+    "date": "2026-03-16",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대영",
+    "dealAmount": "9,000",
+    "date": "2026-02-24",
+    "floor": 6,
+    "area": 76.18
+  }
+]

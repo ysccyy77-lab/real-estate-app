@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "백영",
+    "dealAmount": "17,000",
+    "date": "2026-06-29",
+    "floor": 13,
+    "area": 60
+  },
+  {
+    "aptNm": "백영",
+    "dealAmount": "17,000",
+    "date": "2026-05-07",
+    "floor": 18,
+    "area": 60
+  },
+  {
+    "aptNm": "백영",
+    "dealAmount": "14,100",
+    "date": "2026-04-26",
+    "floor": 19,
+    "area": 60
+  },
+  {
+    "aptNm": "백영",
+    "dealAmount": "15,400",
+    "date": "2026-04-15",
+    "floor": 11,
+    "area": 60
+  },
+  {
+    "aptNm": "백영",
+    "dealAmount": "14,500",
+    "date": "2026-04-13",
+    "floor": 9,
+    "area": 60
+  },
+  {
+    "aptNm": "백영",
+    "dealAmount": "15,200",
+    "date": "2026-04-11",
+    "floor": 16,
+    "area": 60
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "서재우방타운",
+    "dealAmount": "14,000",
+    "date": "2026-05-15",
+    "floor": 11,
+    "area": 78.15
+  },
+  {
+    "aptNm": "전원리빙필",
+    "dealAmount": "8,300",
+    "date": "2026-05-07",
+    "floor": 15,
+    "area": 59.4
+  },
+  {
+    "aptNm": "서재우방타운",
+    "dealAmount": "14,500",
+    "date": "2026-04-01",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서재우방타운",
+    "dealAmount": "10,900",
+    "date": "2026-03-25",
+    "floor": 19,
+    "area": 59.91
+  },
+  {
+    "aptNm": "서재우방타운",
+    "dealAmount": "12,800",
+    "date": "2026-03-23",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서재우방타운",
+    "dealAmount": "11,150",
+    "date": "2026-03-20",
+    "floor": 5,
+    "area": 59.91
+  },
+  {
+    "aptNm": "서재우방타운",
+    "dealAmount": "10,500",
+    "date": "2026-03-11",
+    "floor": 9,
+    "area": 59.91
+  },
+  {
+    "aptNm": "서재우방타운",
+    "dealAmount": "9,200",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 59.91
+  }
+]

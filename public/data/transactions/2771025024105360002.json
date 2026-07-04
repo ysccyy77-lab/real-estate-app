@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "화원한빛타운",
+    "dealAmount": "18,500",
+    "date": "2026-06-12",
+    "floor": 15,
+    "area": 84.97
+  },
+  {
+    "aptNm": "보라무지개",
+    "dealAmount": "6,000",
+    "date": "2026-05-27",
+    "floor": 6,
+    "area": 58.245
+  },
+  {
+    "aptNm": "구포전원타운",
+    "dealAmount": "4,700",
+    "date": "2026-05-22",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "화원한빛타운",
+    "dealAmount": "16,000",
+    "date": "2026-04-29",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "남아그린타워",
+    "dealAmount": "13,350",
+    "date": "2026-04-11",
+    "floor": 13,
+    "area": 59.965
+  },
+  {
+    "aptNm": "구포전원타운",
+    "dealAmount": "5,000",
+    "date": "2026-03-23",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "남아그린타워",
+    "dealAmount": "15,700",
+    "date": "2026-03-22",
+    "floor": 1,
+    "area": 83.88
+  },
+  {
+    "aptNm": "남아그린타워",
+    "dealAmount": "16,800",
+    "date": "2026-03-16",
+    "floor": 6,
+    "area": 83.88
+  },
+  {
+    "aptNm": "남아그린타워",
+    "dealAmount": "17,800",
+    "date": "2026-03-14",
+    "floor": 8,
+    "area": 83.88
+  },
+  {
+    "aptNm": "남아그린타워",
+    "dealAmount": "13,600",
+    "date": "2026-02-06",
+    "floor": 11,
+    "area": 59.965
+  }
+]

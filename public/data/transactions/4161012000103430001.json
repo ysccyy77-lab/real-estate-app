@@ -1,0 +1,156 @@
+[
+  {
+    "aptNm": "동산아파트2",
+    "dealAmount": "27,900",
+    "date": "2026-06-24",
+    "floor": 7,
+    "area": 84.11
+  },
+  {
+    "aptNm": "무지개",
+    "dealAmount": "2,500",
+    "date": "2026-06-09",
+    "floor": 5,
+    "area": 59.4
+  },
+  {
+    "aptNm": "대주파크빌1차C블럭",
+    "dealAmount": "23,000",
+    "date": "2026-05-20",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "동산아파트1",
+    "dealAmount": "21,500",
+    "date": "2026-05-12",
+    "floor": 8,
+    "area": 64.17
+  },
+  {
+    "aptNm": "대주파크빌1차C블럭",
+    "dealAmount": "24,500",
+    "date": "2026-05-04",
+    "floor": 13,
+    "area": 84.99
+  },
+  {
+    "aptNm": "상일대자연",
+    "dealAmount": "7,800",
+    "date": "2026-05-04",
+    "floor": 1,
+    "area": 84.965
+  },
+  {
+    "aptNm": "동산아파트2",
+    "dealAmount": "28,000",
+    "date": "2026-05-04",
+    "floor": 9,
+    "area": 78.82
+  },
+  {
+    "aptNm": "무지개",
+    "dealAmount": "2,500",
+    "date": "2026-04-30",
+    "floor": 6,
+    "area": 53.58
+  },
+  {
+    "aptNm": "대주파크빌1차C블럭",
+    "dealAmount": "29,000",
+    "date": "2026-04-18",
+    "floor": 6,
+    "area": 84.99
+  },
+  {
+    "aptNm": "동산아파트2",
+    "dealAmount": "29,000",
+    "date": "2026-04-16",
+    "floor": 8,
+    "area": 84.11
+  },
+  {
+    "aptNm": "대주파크빌1차C블럭",
+    "dealAmount": "25,500",
+    "date": "2026-03-29",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "동산아파트1",
+    "dealAmount": "19,500",
+    "date": "2026-03-25",
+    "floor": 7,
+    "area": 64.17
+  },
+  {
+    "aptNm": "가화만사성",
+    "dealAmount": "15,800",
+    "date": "2026-03-20",
+    "floor": 11,
+    "area": 53.4307
+  },
+  {
+    "aptNm": "동산아파트1",
+    "dealAmount": "19,500",
+    "date": "2026-03-16",
+    "floor": 4,
+    "area": 64.17
+  },
+  {
+    "aptNm": "동산아파트1",
+    "dealAmount": "30,500",
+    "date": "2026-03-14",
+    "floor": 5,
+    "area": 84.72
+  },
+  {
+    "aptNm": "현대웰하임(101동)",
+    "dealAmount": "11,000",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 16.959
+  },
+  {
+    "aptNm": "동산아파트2",
+    "dealAmount": "21,400",
+    "date": "2026-03-12",
+    "floor": 7,
+    "area": 64.17
+  },
+  {
+    "aptNm": "동산아파트1",
+    "dealAmount": "19,300",
+    "date": "2026-02-28",
+    "floor": 3,
+    "area": 64.17
+  },
+  {
+    "aptNm": "동산아파트2",
+    "dealAmount": "29,000",
+    "date": "2026-02-27",
+    "floor": 7,
+    "area": 84.11
+  },
+  {
+    "aptNm": "현대웰하임(101동)",
+    "dealAmount": "11,000",
+    "date": "2026-02-27",
+    "floor": 8,
+    "area": 16.959
+  },
+  {
+    "aptNm": "대주파크빌1차C블럭",
+    "dealAmount": "23,300",
+    "date": "2026-02-12",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "현대웰하임(101동)",
+    "dealAmount": "11,000",
+    "date": "2026-02-09",
+    "floor": 9,
+    "area": 16.959
+  }
+]

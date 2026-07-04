@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "해강",
+    "dealAmount": "6,200",
+    "date": "2026-05-27",
+    "floor": 2,
+    "area": 75.22
+  },
+  {
+    "aptNm": "현대미포조선",
+    "dealAmount": "15,500",
+    "date": "2026-05-24",
+    "floor": 9,
+    "area": 60
+  },
+  {
+    "aptNm": "평화타운맨션",
+    "dealAmount": "12,700",
+    "date": "2026-04-28",
+    "floor": 6,
+    "area": 67.28
+  },
+  {
+    "aptNm": "해강",
+    "dealAmount": "6,000",
+    "date": "2026-02-13",
+    "floor": 8,
+    "area": 69.34
+  },
+  {
+    "aptNm": "평화타운맨션",
+    "dealAmount": "12,000",
+    "date": "2026-02-02",
+    "floor": 1,
+    "area": 83.24
+  }
+]

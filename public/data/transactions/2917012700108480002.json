@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "양수",
+    "dealAmount": "21,000",
+    "date": "2026-04-11",
+    "floor": 5,
+    "area": 45
+  },
+  {
+    "aptNm": "양수",
+    "dealAmount": "20,000",
+    "date": "2026-04-09",
+    "floor": 1,
+    "area": 45
+  },
+  {
+    "aptNm": "양수",
+    "dealAmount": "21,000",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 45
+  }
+]

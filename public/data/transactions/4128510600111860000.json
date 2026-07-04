@@ -1,0 +1,842 @@
+[
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "36,000",
+    "date": "2026-07-01",
+    "floor": 17,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,000",
+    "date": "2026-06-29",
+    "floor": 5,
+    "area": 59.9328
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스1차",
+    "dealAmount": "50,800",
+    "date": "2026-06-28",
+    "floor": 17,
+    "area": 59.98
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,200",
+    "date": "2026-06-27",
+    "floor": 19,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "16,800",
+    "date": "2026-06-24",
+    "floor": 12,
+    "area": 68.1307
+  },
+  {
+    "aptNm": "삼천리1차",
+    "dealAmount": "31,000",
+    "date": "2026-06-23",
+    "floor": 1,
+    "area": 75.28
+  },
+  {
+    "aptNm": "대신리치빌",
+    "dealAmount": "26,200",
+    "date": "2026-06-23",
+    "floor": 11,
+    "area": 84.6039
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "36,300",
+    "date": "2026-06-22",
+    "floor": 1,
+    "area": 56.58
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "34,600",
+    "date": "2026-06-22",
+    "floor": 10,
+    "area": 72.9293
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,500",
+    "date": "2026-06-22",
+    "floor": 12,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "36,000",
+    "date": "2026-06-19",
+    "floor": 12,
+    "area": 58.74
+  },
+  {
+    "aptNm": "복사골(건영)",
+    "dealAmount": "50,500",
+    "date": "2026-06-16",
+    "floor": 5,
+    "area": 78.06
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,500",
+    "date": "2026-06-16",
+    "floor": 22,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,200",
+    "date": "2026-06-16",
+    "floor": 13,
+    "area": 59.9328
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "37,000",
+    "date": "2026-06-15",
+    "floor": 12,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,500",
+    "date": "2026-06-15",
+    "floor": 8,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "35,500",
+    "date": "2026-06-13",
+    "floor": 11,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "12,500",
+    "date": "2026-06-13",
+    "floor": 20,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "복사골(건영)",
+    "dealAmount": "51,000",
+    "date": "2026-06-12",
+    "floor": 14,
+    "area": 84.23
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "27,000",
+    "date": "2026-06-12",
+    "floor": 8,
+    "area": 39.55
+  },
+  {
+    "aptNm": "복사골(건영)",
+    "dealAmount": "51,000",
+    "date": "2026-06-12",
+    "floor": 15,
+    "area": 84.23
+  },
+  {
+    "aptNm": "대신리치빌",
+    "dealAmount": "25,500",
+    "date": "2026-06-09",
+    "floor": 9,
+    "area": 84.4275
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "32,500",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 72.9702
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "39,900",
+    "date": "2026-06-05",
+    "floor": 10,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "16,000",
+    "date": "2026-06-05",
+    "floor": 20,
+    "area": 68.1307
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "35,700",
+    "date": "2026-06-03",
+    "floor": 20,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "16,400",
+    "date": "2026-06-02",
+    "floor": 23,
+    "area": 68.1307
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,300",
+    "date": "2026-06-01",
+    "floor": 8,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "33,000",
+    "date": "2026-05-30",
+    "floor": 11,
+    "area": 72.9702
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "34,300",
+    "date": "2026-05-30",
+    "floor": 24,
+    "area": 72.9702
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "36,950",
+    "date": "2026-05-29",
+    "floor": 5,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "42,500",
+    "date": "2026-05-26",
+    "floor": 6,
+    "area": 84.9982
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,300",
+    "date": "2026-05-26",
+    "floor": 16,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "12,900",
+    "date": "2026-05-26",
+    "floor": 17,
+    "area": 59.9328
+  },
+  {
+    "aptNm": "대신리치빌",
+    "dealAmount": "25,500",
+    "date": "2026-05-26",
+    "floor": 6,
+    "area": 84.4275
+  },
+  {
+    "aptNm": "정자뜰마을태영데시앙2차",
+    "dealAmount": "134,000",
+    "date": "2026-05-25",
+    "floor": 11,
+    "area": 84.6587
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,600",
+    "date": "2026-05-23",
+    "floor": 10,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,000",
+    "date": "2026-05-22",
+    "floor": 3,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "35,750",
+    "date": "2026-05-20",
+    "floor": 5,
+    "area": 56.58
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스1차",
+    "dealAmount": "49,000",
+    "date": "2026-05-20",
+    "floor": 14,
+    "area": 59.98
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스1차",
+    "dealAmount": "63,500",
+    "date": "2026-05-20",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "22,300",
+    "date": "2026-05-19",
+    "floor": 6,
+    "area": 48.91
+  },
+  {
+    "aptNm": "삼천리1차",
+    "dealAmount": "27,800",
+    "date": "2026-05-18",
+    "floor": 1,
+    "area": 61.93
+  },
+  {
+    "aptNm": "삼천리1차",
+    "dealAmount": "34,800",
+    "date": "2026-05-18",
+    "floor": 4,
+    "area": 75.28
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스1차",
+    "dealAmount": "46,000",
+    "date": "2026-05-18",
+    "floor": 23,
+    "area": 59.98
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "36,500",
+    "date": "2026-05-17",
+    "floor": 7,
+    "area": 56.58
+  },
+  {
+    "aptNm": "정자뜰마을태영데시앙2차",
+    "dealAmount": "138,000",
+    "date": "2026-05-17",
+    "floor": 11,
+    "area": 84.6587
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스1차",
+    "dealAmount": "47,500",
+    "date": "2026-05-16",
+    "floor": 28,
+    "area": 59.98
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "33,500",
+    "date": "2026-05-11",
+    "floor": 14,
+    "area": 72.9702
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,000",
+    "date": "2026-05-11",
+    "floor": 10,
+    "area": 59.9328
+  },
+  {
+    "aptNm": "복사골(건영)",
+    "dealAmount": "50,500",
+    "date": "2026-05-07",
+    "floor": 18,
+    "area": 84.23
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "25,000",
+    "date": "2026-05-06",
+    "floor": 6,
+    "area": 39.55
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "39,200",
+    "date": "2026-05-02",
+    "floor": 9,
+    "area": 56.58
+  },
+  {
+    "aptNm": "복사골(건영)",
+    "dealAmount": "52,500",
+    "date": "2026-05-01",
+    "floor": 16,
+    "area": 78.06
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "35,000",
+    "date": "2026-04-30",
+    "floor": 6,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,700",
+    "date": "2026-04-30",
+    "floor": 21,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,300",
+    "date": "2026-04-29",
+    "floor": 18,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "26,500",
+    "date": "2026-04-28",
+    "floor": 5,
+    "area": 39.55
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "39,500",
+    "date": "2026-04-28",
+    "floor": 13,
+    "area": 56.58
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "35,600",
+    "date": "2026-04-27",
+    "floor": 12,
+    "area": 56.58
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,700",
+    "date": "2026-04-25",
+    "floor": 21,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "복사골(건영)",
+    "dealAmount": "51,000",
+    "date": "2026-04-24",
+    "floor": 13,
+    "area": 84.23
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,200",
+    "date": "2026-04-24",
+    "floor": 16,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "삼천리1차",
+    "dealAmount": "31,500",
+    "date": "2026-04-21",
+    "floor": 4,
+    "area": 61.93
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "41,800",
+    "date": "2026-04-19",
+    "floor": 11,
+    "area": 84.9982
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스1차",
+    "dealAmount": "61,000",
+    "date": "2026-04-18",
+    "floor": 24,
+    "area": 84.98
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "14,100",
+    "date": "2026-04-18",
+    "floor": 13,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "35,000",
+    "date": "2026-04-17",
+    "floor": 13,
+    "area": 58.74
+  },
+  {
+    "aptNm": "삼천리1차",
+    "dealAmount": "31,200",
+    "date": "2026-04-17",
+    "floor": 11,
+    "area": 61.93
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "12,500",
+    "date": "2026-04-16",
+    "floor": 17,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "23,000",
+    "date": "2026-04-13",
+    "floor": 6,
+    "area": 48.91
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "31,500",
+    "date": "2026-04-13",
+    "floor": 6,
+    "area": 72.941
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "12,500",
+    "date": "2026-04-13",
+    "floor": 4,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "14,000",
+    "date": "2026-04-11",
+    "floor": 5,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "대신리치빌",
+    "dealAmount": "26,800",
+    "date": "2026-04-09",
+    "floor": 19,
+    "area": 84.4275
+  },
+  {
+    "aptNm": "정자뜰마을태영데시앙2차",
+    "dealAmount": "126,000",
+    "date": "2026-04-04",
+    "floor": 4,
+    "area": 84.6587
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "14,300",
+    "date": "2026-03-31",
+    "floor": 8,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "16,500",
+    "date": "2026-03-30",
+    "floor": 6,
+    "area": 68.1307
+  },
+  {
+    "aptNm": "정자뜰마을태영데시앙2차",
+    "dealAmount": "125,000",
+    "date": "2026-03-28",
+    "floor": 3,
+    "area": 84.6587
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,300",
+    "date": "2026-03-28",
+    "floor": 5,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "35,900",
+    "date": "2026-03-27",
+    "floor": 17,
+    "area": 58.74
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "22,800",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 48.91
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스2차",
+    "dealAmount": "59,500",
+    "date": "2026-03-26",
+    "floor": 16,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스1차",
+    "dealAmount": "46,500",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 59.98
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "33,000",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 72.9702
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,750",
+    "date": "2026-03-23",
+    "floor": 14,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "삼천리1차",
+    "dealAmount": "35,500",
+    "date": "2026-03-20",
+    "floor": 4,
+    "area": 75.28
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스1차",
+    "dealAmount": "46,500",
+    "date": "2026-03-20",
+    "floor": 6,
+    "area": 59.98
+  },
+  {
+    "aptNm": "복사골(건영)",
+    "dealAmount": "49,000",
+    "date": "2026-03-17",
+    "floor": 3,
+    "area": 78.06
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "15,000",
+    "date": "2026-03-16",
+    "floor": 10,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "35,900",
+    "date": "2026-03-13",
+    "floor": 11,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "34,600",
+    "date": "2026-03-12",
+    "floor": 18,
+    "area": 72.9293
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "16,000",
+    "date": "2026-03-12",
+    "floor": 3,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "23,000",
+    "date": "2026-03-12",
+    "floor": 20,
+    "area": 84.8806
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "34,800",
+    "date": "2026-03-11",
+    "floor": 20,
+    "area": 72.9702
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,500",
+    "date": "2026-03-11",
+    "floor": 11,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "24,300",
+    "date": "2026-03-09",
+    "floor": 6,
+    "area": 48.91
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,800",
+    "date": "2026-03-06",
+    "floor": 20,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "35,500",
+    "date": "2026-03-05",
+    "floor": 3,
+    "area": 56.58
+  },
+  {
+    "aptNm": "삼천리1차",
+    "dealAmount": "30,000",
+    "date": "2026-03-03",
+    "floor": 8,
+    "area": 61.93
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "32,500",
+    "date": "2026-03-03",
+    "floor": 5,
+    "area": 72.9293
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "36,500",
+    "date": "2026-03-02",
+    "floor": 10,
+    "area": 56.58
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "34,800",
+    "date": "2026-03-02",
+    "floor": 20,
+    "area": 72.9702
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,600",
+    "date": "2026-03-01",
+    "floor": 15,
+    "area": 59.9328
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "26,000",
+    "date": "2026-02-26",
+    "floor": 4,
+    "area": 39.55
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "32,350",
+    "date": "2026-02-25",
+    "floor": 6,
+    "area": 72.9293
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "36,500",
+    "date": "2026-02-23",
+    "floor": 12,
+    "area": 58.74
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "35,200",
+    "date": "2026-02-21",
+    "floor": 3,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,150",
+    "date": "2026-02-21",
+    "floor": 4,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "백송마을(대림)",
+    "dealAmount": "37,100",
+    "date": "2026-02-19",
+    "floor": 8,
+    "area": 58.74
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "41,500",
+    "date": "2026-02-14",
+    "floor": 6,
+    "area": 84.9982
+  },
+  {
+    "aptNm": "삼천리1차",
+    "dealAmount": "41,900",
+    "date": "2026-02-13",
+    "floor": 6,
+    "area": 84.71
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "14,000",
+    "date": "2026-02-13",
+    "floor": 23,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "25,500",
+    "date": "2026-02-11",
+    "floor": 5,
+    "area": 39.55
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "41,700",
+    "date": "2026-02-09",
+    "floor": 19,
+    "area": 84.9982
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "36,000",
+    "date": "2026-02-07",
+    "floor": 14,
+    "area": 72.9293
+  },
+  {
+    "aptNm": "e편한세상선부파크플레이스2차",
+    "dealAmount": "62,000",
+    "date": "2026-02-06",
+    "floor": 18,
+    "area": 84.98
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,800",
+    "date": "2026-02-04",
+    "floor": 20,
+    "area": 59.9588
+  },
+  {
+    "aptNm": "정자뜰마을태영데시앙2차",
+    "dealAmount": "125,000",
+    "date": "2026-02-03",
+    "floor": 2,
+    "area": 84.6587
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "41,700",
+    "date": "2026-02-02",
+    "floor": 12,
+    "area": 84.9982
+  }
+]

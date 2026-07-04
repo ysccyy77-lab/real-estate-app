@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "성산",
+    "dealAmount": "5,000",
+    "date": "2026-06-18",
+    "floor": 5,
+    "area": 59.808
+  },
+  {
+    "aptNm": "한신센타뷰",
+    "dealAmount": "22,500",
+    "date": "2026-05-07",
+    "floor": 11,
+    "area": 69.09
+  },
+  {
+    "aptNm": "한신센타뷰",
+    "dealAmount": "23,300",
+    "date": "2026-04-24",
+    "floor": 9,
+    "area": 69.09
+  },
+  {
+    "aptNm": "신반포27",
+    "dealAmount": "270,000",
+    "date": "2026-04-21",
+    "floor": 9,
+    "area": 53.46
+  },
+  {
+    "aptNm": "한신센타뷰",
+    "dealAmount": "23,000",
+    "date": "2026-04-13",
+    "floor": 13,
+    "area": 69.09
+  },
+  {
+    "aptNm": "성산",
+    "dealAmount": "6,600",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 38.955
+  },
+  {
+    "aptNm": "성산",
+    "dealAmount": "6,500",
+    "date": "2026-03-03",
+    "floor": 2,
+    "area": 38.955
+  }
+]

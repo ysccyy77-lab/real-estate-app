@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "역삼I'PARK",
+    "dealAmount": "101,000",
+    "date": "2026-04-20",
+    "floor": 17,
+    "area": 28.246
+  },
+  {
+    "aptNm": "역삼I'PARK",
+    "dealAmount": "300,000",
+    "date": "2026-04-13",
+    "floor": 19,
+    "area": 144.641
+  },
+  {
+    "aptNm": "역삼I'PARK",
+    "dealAmount": "98,000",
+    "date": "2026-04-06",
+    "floor": 12,
+    "area": 28.246
+  },
+  {
+    "aptNm": "역삼I'PARK",
+    "dealAmount": "98,000",
+    "date": "2026-03-25",
+    "floor": 12,
+    "area": 28.246
+  },
+  {
+    "aptNm": "역삼I'PARK",
+    "dealAmount": "97,000",
+    "date": "2026-03-20",
+    "floor": 14,
+    "area": 28.246
+  },
+  {
+    "aptNm": "역삼I'PARK",
+    "dealAmount": "86,500",
+    "date": "2026-02-21",
+    "floor": 2,
+    "area": 28.246
+  }
+]

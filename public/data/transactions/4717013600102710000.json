@@ -1,0 +1,219 @@
+[
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "11,000",
+    "date": "2026-06-29",
+    "floor": 2,
+    "area": 49.22
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "8,500",
+    "date": "2026-06-17",
+    "floor": 2,
+    "area": 40.32
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "7,500",
+    "date": "2026-06-09",
+    "floor": 1,
+    "area": 40.45
+  },
+  {
+    "aptNm": "영등포중흥에스클래스",
+    "dealAmount": "46,000",
+    "date": "2026-06-09",
+    "floor": 22,
+    "area": 24.85
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "11,300",
+    "date": "2026-06-07",
+    "floor": 4,
+    "area": 59.3
+  },
+  {
+    "aptNm": "영등포중흥에스클래스",
+    "dealAmount": "162,700",
+    "date": "2026-05-29",
+    "floor": 19,
+    "area": 84.95
+  },
+  {
+    "aptNm": "영등포중흥에스클래스",
+    "dealAmount": "160,500",
+    "date": "2026-05-29",
+    "floor": 17,
+    "area": 84.95
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "12,500",
+    "date": "2026-05-19",
+    "floor": 5,
+    "area": 59.3
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "8,955",
+    "date": "2026-05-14",
+    "floor": 4,
+    "area": 40.45
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "23,900",
+    "date": "2026-05-04",
+    "floor": 1,
+    "area": 49.22
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "12,000",
+    "date": "2026-05-02",
+    "floor": 2,
+    "area": 59.3
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "7,000",
+    "date": "2026-04-30",
+    "floor": 5,
+    "area": 40.32
+  },
+  {
+    "aptNm": "센텀포레스트",
+    "dealAmount": "37,650",
+    "date": "2026-04-27",
+    "floor": 7,
+    "area": 39.48
+  },
+  {
+    "aptNm": "영등포중흥에스클래스",
+    "dealAmount": "139,000",
+    "date": "2026-04-27",
+    "floor": 14,
+    "area": 59.97
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "8,990",
+    "date": "2026-03-31",
+    "floor": 2,
+    "area": 40.45
+  },
+  {
+    "aptNm": "세양청마루",
+    "dealAmount": "19,800",
+    "date": "2026-03-30",
+    "floor": 2,
+    "area": 84.986
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "7,000",
+    "date": "2026-03-27",
+    "floor": 5,
+    "area": 40.45
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "8,000",
+    "date": "2026-03-21",
+    "floor": 1,
+    "area": 40.45
+  },
+  {
+    "aptNm": "영등포중흥에스클래스",
+    "dealAmount": "146,000",
+    "date": "2026-03-18",
+    "floor": 11,
+    "area": 84.95
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "11,170",
+    "date": "2026-03-09",
+    "floor": 2,
+    "area": 49.22
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "9,676",
+    "date": "2026-03-03",
+    "floor": 4,
+    "area": 49.22
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "13,530",
+    "date": "2026-02-26",
+    "floor": 1,
+    "area": 59.3
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "8,990",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 40.45
+  },
+  {
+    "aptNm": "영등포중흥에스클래스",
+    "dealAmount": "134,000",
+    "date": "2026-02-14",
+    "floor": 12,
+    "area": 59.96
+  },
+  {
+    "aptNm": "영등포중흥에스클래스",
+    "dealAmount": "145,000",
+    "date": "2026-02-13",
+    "floor": 17,
+    "area": 59.96
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "9,610",
+    "date": "2026-02-09",
+    "floor": 1,
+    "area": 42.74
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "11,100",
+    "date": "2026-02-09",
+    "floor": 5,
+    "area": 49.22
+  },
+  {
+    "aptNm": "영등포중흥에스클래스",
+    "dealAmount": "47,900",
+    "date": "2026-02-09",
+    "floor": 24,
+    "area": 24.85
+  },
+  {
+    "aptNm": "세양청마루",
+    "dealAmount": "19,300",
+    "date": "2026-02-06",
+    "floor": 10,
+    "area": 84.986
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "8,000",
+    "date": "2026-02-06",
+    "floor": 5,
+    "area": 40.45
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "8,000",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 40.45
+  }
+]

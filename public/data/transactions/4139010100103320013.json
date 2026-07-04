@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "극동",
+    "dealAmount": "40,000",
+    "date": "2026-06-09",
+    "floor": 3,
+    "area": 84.57
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "31,250",
+    "date": "2026-05-19",
+    "floor": 15,
+    "area": 59.77
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "32,500",
+    "date": "2026-03-21",
+    "floor": 15,
+    "area": 59.77
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "48,000",
+    "date": "2026-02-09",
+    "floor": 5,
+    "area": 118.65
+  }
+]

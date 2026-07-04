@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "35,000",
+    "date": "2026-06-20",
+    "floor": 12,
+    "area": 134.671
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "32,000",
+    "date": "2026-05-22",
+    "floor": 8,
+    "area": 134.671
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "26,500",
+    "date": "2026-05-12",
+    "floor": 9,
+    "area": 84.753
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "24,500",
+    "date": "2026-04-10",
+    "floor": 2,
+    "area": 84.753
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "27,000",
+    "date": "2026-03-18",
+    "floor": 13,
+    "area": 115.371
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "31,500",
+    "date": "2026-03-17",
+    "floor": 10,
+    "area": 134.671
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "26,500",
+    "date": "2026-03-06",
+    "floor": 10,
+    "area": 84.753
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "32,500",
+    "date": "2026-03-04",
+    "floor": 10,
+    "area": 134.671
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "16,000",
+    "date": "2026-02-24",
+    "floor": 9,
+    "area": 84.753
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "26,200",
+    "date": "2026-02-08",
+    "floor": 5,
+    "area": 84.753
+  }
+]

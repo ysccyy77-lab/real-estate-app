@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "복현서한2",
+    "dealAmount": "16,300",
+    "date": "2026-05-14",
+    "floor": 8,
+    "area": 74.33
+  },
+  {
+    "aptNm": "산호",
+    "dealAmount": "25,000",
+    "date": "2026-05-08",
+    "floor": 6,
+    "area": 66.54
+  },
+  {
+    "aptNm": "복현서한2",
+    "dealAmount": "19,400",
+    "date": "2026-04-24",
+    "floor": 3,
+    "area": 84.86
+  },
+  {
+    "aptNm": "복현서한2",
+    "dealAmount": "20,800",
+    "date": "2026-04-15",
+    "floor": 12,
+    "area": 59.75
+  },
+  {
+    "aptNm": "산호",
+    "dealAmount": "29,000",
+    "date": "2026-04-03",
+    "floor": 10,
+    "area": 68.16
+  },
+  {
+    "aptNm": "복현서한2",
+    "dealAmount": "21,500",
+    "date": "2026-03-09",
+    "floor": 11,
+    "area": 84.86
+  },
+  {
+    "aptNm": "복현서한2",
+    "dealAmount": "14,500",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 59.75
+  },
+  {
+    "aptNm": "복현서한2",
+    "dealAmount": "25,000",
+    "date": "2026-02-23",
+    "floor": 8,
+    "area": 84.86
+  },
+  {
+    "aptNm": "복현서한2",
+    "dealAmount": "15,000",
+    "date": "2026-02-02",
+    "floor": 4,
+    "area": 74.33
+  }
+]

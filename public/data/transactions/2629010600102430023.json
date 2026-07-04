@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "청구",
+    "dealAmount": "37,000",
+    "date": "2026-05-20",
+    "floor": 4,
+    "area": 140.14
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "22,000",
+    "date": "2026-04-07",
+    "floor": 2,
+    "area": 84.91
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "38,500",
+    "date": "2026-02-28",
+    "floor": 9,
+    "area": 140.14
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "19,000",
+    "date": "2026-02-25",
+    "floor": 17,
+    "area": 59.8
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "26,700",
+    "date": "2026-02-02",
+    "floor": 10,
+    "area": 84.99
+  }
+]

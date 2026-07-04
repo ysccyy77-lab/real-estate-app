@@ -1,0 +1,597 @@
+[
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "88,000",
+    "date": "2026-06-26",
+    "floor": 8,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼이",
+    "dealAmount": "14,500",
+    "date": "2026-06-24",
+    "floor": 3,
+    "area": 54
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "90,000",
+    "date": "2026-06-18",
+    "floor": 24,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "석동주공",
+    "dealAmount": "6,000",
+    "date": "2026-06-15",
+    "floor": 4,
+    "area": 32.76
+  },
+  {
+    "aptNm": "예산우방유쉘",
+    "dealAmount": "34,000",
+    "date": "2026-06-13",
+    "floor": 18,
+    "area": 156.91
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "93,700",
+    "date": "2026-06-12",
+    "floor": 9,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "예산우방유쉘",
+    "dealAmount": "26,900",
+    "date": "2026-06-12",
+    "floor": 7,
+    "area": 110.52
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "87,800",
+    "date": "2026-06-09",
+    "floor": 21,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "78,000",
+    "date": "2026-06-02",
+    "floor": 22,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "동보팰리스",
+    "dealAmount": "15,000",
+    "date": "2026-06-01",
+    "floor": 2,
+    "area": 76.2102
+  },
+  {
+    "aptNm": "석동주공",
+    "dealAmount": "9,000",
+    "date": "2026-05-30",
+    "floor": 2,
+    "area": 32.76
+  },
+  {
+    "aptNm": "석동주공",
+    "dealAmount": "6,800",
+    "date": "2026-05-27",
+    "floor": 2,
+    "area": 32.76
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "88,000",
+    "date": "2026-05-25",
+    "floor": 26,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "예산우방유쉘",
+    "dealAmount": "24,000",
+    "date": "2026-05-24",
+    "floor": 13,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "86,000",
+    "date": "2026-05-20",
+    "floor": 11,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "75,400",
+    "date": "2026-05-19",
+    "floor": 18,
+    "area": 55.1685
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "70,000",
+    "date": "2026-05-19",
+    "floor": 2,
+    "area": 55.1685
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "77,700",
+    "date": "2026-05-14",
+    "floor": 26,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "90,000",
+    "date": "2026-05-13",
+    "floor": 10,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "영무예다음",
+    "dealAmount": "24,500",
+    "date": "2026-05-12",
+    "floor": 6,
+    "area": 59.97
+  },
+  {
+    "aptNm": "거성파스텔",
+    "dealAmount": "153,300",
+    "date": "2026-05-11",
+    "floor": 16,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "85,000",
+    "date": "2026-05-09",
+    "floor": 22,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "예산우방유쉘",
+    "dealAmount": "22,250",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "거성파스텔",
+    "dealAmount": "149,500",
+    "date": "2026-05-07",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "예산우방유쉘",
+    "dealAmount": "23,650",
+    "date": "2026-05-01",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "92,000",
+    "date": "2026-04-24",
+    "floor": 13,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "거성파스텔",
+    "dealAmount": "142,000",
+    "date": "2026-04-24",
+    "floor": 19,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "87,700",
+    "date": "2026-04-22",
+    "floor": 15,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "77,700",
+    "date": "2026-04-21",
+    "floor": 6,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "거성파스텔",
+    "dealAmount": "133,000",
+    "date": "2026-04-20",
+    "floor": 15,
+    "area": 59.96
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "80,000",
+    "date": "2026-04-18",
+    "floor": 25,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "예산우방유쉘",
+    "dealAmount": "26,500",
+    "date": "2026-04-15",
+    "floor": 12,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "85,000",
+    "date": "2026-04-14",
+    "floor": 25,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "85,700",
+    "date": "2026-04-11",
+    "floor": 26,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "75,500",
+    "date": "2026-04-09",
+    "floor": 20,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "석동주공",
+    "dealAmount": "7,000",
+    "date": "2026-04-07",
+    "floor": 4,
+    "area": 32.76
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "84,000",
+    "date": "2026-04-03",
+    "floor": 8,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "83,000",
+    "date": "2026-04-01",
+    "floor": 25,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "84,000",
+    "date": "2026-04-01",
+    "floor": 12,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "83,000",
+    "date": "2026-04-01",
+    "floor": 25,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "67,800",
+    "date": "2026-03-30",
+    "floor": 2,
+    "area": 55.1685
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "71,500",
+    "date": "2026-03-28",
+    "floor": 23,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "74,500",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "77,000",
+    "date": "2026-03-24",
+    "floor": 8,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "84,800",
+    "date": "2026-03-23",
+    "floor": 16,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "82,000",
+    "date": "2026-03-21",
+    "floor": 20,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "87,000",
+    "date": "2026-03-21",
+    "floor": 19,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "82,000",
+    "date": "2026-03-20",
+    "floor": 15,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "거성파스텔",
+    "dealAmount": "150,000",
+    "date": "2026-03-20",
+    "floor": 20,
+    "area": 131.34
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "77,500",
+    "date": "2026-03-18",
+    "floor": 10,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "81,000",
+    "date": "2026-03-17",
+    "floor": 16,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "86,700",
+    "date": "2026-03-14",
+    "floor": 25,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "80,000",
+    "date": "2026-03-13",
+    "floor": 8,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "78,000",
+    "date": "2026-03-12",
+    "floor": 3,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "82,000",
+    "date": "2026-03-10",
+    "floor": 7,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "73,000",
+    "date": "2026-03-10",
+    "floor": 1,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "73,000",
+    "date": "2026-03-09",
+    "floor": 1,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "70,500",
+    "date": "2026-03-09",
+    "floor": 15,
+    "area": 55.1685
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "69,000",
+    "date": "2026-03-08",
+    "floor": 24,
+    "area": 55.1685
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "68,700",
+    "date": "2026-03-02",
+    "floor": 26,
+    "area": 55.1685
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "83,200",
+    "date": "2026-03-01",
+    "floor": 11,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "76,500",
+    "date": "2026-02-28",
+    "floor": 4,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "71,500",
+    "date": "2026-02-28",
+    "floor": 5,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "세경1",
+    "dealAmount": "8,000",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 56.42
+  },
+  {
+    "aptNm": "세경1",
+    "dealAmount": "7,000",
+    "date": "2026-02-21",
+    "floor": 1,
+    "area": 56.42
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "72,000",
+    "date": "2026-02-21",
+    "floor": 22,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "세경1",
+    "dealAmount": "7,100",
+    "date": "2026-02-20",
+    "floor": 1,
+    "area": 56.42
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "80,000",
+    "date": "2026-02-20",
+    "floor": 16,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "82,500",
+    "date": "2026-02-19",
+    "floor": 4,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "75,500",
+    "date": "2026-02-19",
+    "floor": 8,
+    "area": 55.2699
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "81,000",
+    "date": "2026-02-14",
+    "floor": 27,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "세경1",
+    "dealAmount": "7,110",
+    "date": "2026-02-13",
+    "floor": 2,
+    "area": 56.42
+  },
+  {
+    "aptNm": "석동주공",
+    "dealAmount": "11,700",
+    "date": "2026-02-12",
+    "floor": 3,
+    "area": 47.31
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "77,800",
+    "date": "2026-02-11",
+    "floor": 4,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "석동주공",
+    "dealAmount": "10,700",
+    "date": "2026-02-11",
+    "floor": 1,
+    "area": 32.76
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "80,000",
+    "date": "2026-02-06",
+    "floor": 8,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "동보팰리스",
+    "dealAmount": "15,000",
+    "date": "2026-02-06",
+    "floor": 5,
+    "area": 78.0538
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "84,500",
+    "date": "2026-02-05",
+    "floor": 20,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "예산우방유쉘",
+    "dealAmount": "38,000",
+    "date": "2026-02-05",
+    "floor": 12,
+    "area": 185.99
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "82,000",
+    "date": "2026-02-04",
+    "floor": 25,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "76,500",
+    "date": "2026-02-03",
+    "floor": 2,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "77,900",
+    "date": "2026-02-03",
+    "floor": 8,
+    "area": 79.3188
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "82,900",
+    "date": "2026-02-02",
+    "floor": 13,
+    "area": 79.2856
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "69,000",
+    "date": "2026-02-02",
+    "floor": 5,
+    "area": 55.1685
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "76,000",
+    "date": "2026-02-02",
+    "floor": 2,
+    "area": 55.2699
+  }
+]

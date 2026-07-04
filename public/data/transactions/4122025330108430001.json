@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "동아현대",
+    "dealAmount": "26,000",
+    "date": "2026-06-18",
+    "floor": 7,
+    "area": 84.79
+  },
+  {
+    "aptNm": "대근그린맨션",
+    "dealAmount": "2,700",
+    "date": "2026-06-05",
+    "floor": 6,
+    "area": 71.52
+  },
+  {
+    "aptNm": "동아현대",
+    "dealAmount": "37,300",
+    "date": "2026-06-04",
+    "floor": 17,
+    "area": 134.79
+  },
+  {
+    "aptNm": "동아현대",
+    "dealAmount": "40,500",
+    "date": "2026-05-30",
+    "floor": 4,
+    "area": 178.71
+  },
+  {
+    "aptNm": "동아현대",
+    "dealAmount": "27,800",
+    "date": "2026-05-21",
+    "floor": 11,
+    "area": 84.79
+  },
+  {
+    "aptNm": "동아현대",
+    "dealAmount": "29,000",
+    "date": "2026-05-13",
+    "floor": 10,
+    "area": 99.98
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "28,500",
+    "date": "2026-05-06",
+    "floor": 2,
+    "area": 53.64
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "28,500",
+    "date": "2026-04-24",
+    "floor": 5,
+    "area": 56.34
+  },
+  {
+    "aptNm": "동아현대",
+    "dealAmount": "26,400",
+    "date": "2026-03-30",
+    "floor": 4,
+    "area": 84.79
+  },
+  {
+    "aptNm": "삼진(843-1)",
+    "dealAmount": "3,500",
+    "date": "2026-03-19",
+    "floor": 3,
+    "area": 60.28
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "31,000",
+    "date": "2026-03-01",
+    "floor": 1,
+    "area": 53.64
+  },
+  {
+    "aptNm": "대근그린맨션",
+    "dealAmount": "4,500",
+    "date": "2026-02-26",
+    "floor": 2,
+    "area": 71.52
+  },
+  {
+    "aptNm": "삼진(843-1)",
+    "dealAmount": "3,700",
+    "date": "2026-02-14",
+    "floor": 4,
+    "area": 60.28
+  }
+]

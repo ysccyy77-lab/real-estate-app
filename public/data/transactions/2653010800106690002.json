@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "엄궁대림",
+    "dealAmount": "16,300",
+    "date": "2026-06-22",
+    "floor": 24,
+    "area": 59.85
+  },
+  {
+    "aptNm": "엄궁대림",
+    "dealAmount": "15,000",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 59.85
+  },
+  {
+    "aptNm": "엄궁대림",
+    "dealAmount": "28,000",
+    "date": "2026-04-30",
+    "floor": 7,
+    "area": 131.98
+  },
+  {
+    "aptNm": "엄궁대림",
+    "dealAmount": "13,900",
+    "date": "2026-04-14",
+    "floor": 6,
+    "area": 59.85
+  },
+  {
+    "aptNm": "엄궁대림",
+    "dealAmount": "23,800",
+    "date": "2026-03-10",
+    "floor": 7,
+    "area": 84.87
+  }
+]

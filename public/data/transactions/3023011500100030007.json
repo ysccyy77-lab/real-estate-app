@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "덕암아파트",
+    "dealAmount": "8,100",
+    "date": "2026-06-18",
+    "floor": 13,
+    "area": 41.87
+  },
+  {
+    "aptNm": "덕암아파트",
+    "dealAmount": "6,000",
+    "date": "2026-05-28",
+    "floor": 6,
+    "area": 41.87
+  },
+  {
+    "aptNm": "덕암아파트",
+    "dealAmount": "7,900",
+    "date": "2026-05-07",
+    "floor": 2,
+    "area": 41.87
+  },
+  {
+    "aptNm": "덕암아파트",
+    "dealAmount": "7,300",
+    "date": "2026-03-07",
+    "floor": 10,
+    "area": 41.87
+  },
+  {
+    "aptNm": "덕암아파트",
+    "dealAmount": "6,800",
+    "date": "2026-03-07",
+    "floor": 15,
+    "area": 41.87
+  },
+  {
+    "aptNm": "덕암아파트",
+    "dealAmount": "7,200",
+    "date": "2026-02-20",
+    "floor": 9,
+    "area": 41.87
+  },
+  {
+    "aptNm": "덕암아파트",
+    "dealAmount": "6,200",
+    "date": "2026-02-02",
+    "floor": 10,
+    "area": 34.58
+  }
+]

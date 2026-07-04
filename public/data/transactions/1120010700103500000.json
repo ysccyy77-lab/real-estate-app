@@ -1,0 +1,345 @@
+[
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "17,500",
+    "date": "2026-06-27",
+    "floor": 6,
+    "area": 59.914
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "26,750",
+    "date": "2026-06-26",
+    "floor": 6,
+    "area": 84.91
+  },
+  {
+    "aptNm": "신화오페라하우스801",
+    "dealAmount": "8,500",
+    "date": "2026-06-24",
+    "floor": 3,
+    "area": 59.811
+  },
+  {
+    "aptNm": "신화오페라하우스801",
+    "dealAmount": "8,700",
+    "date": "2026-06-23",
+    "floor": 10,
+    "area": 59.811
+  },
+  {
+    "aptNm": "에이스아파트(3차)",
+    "dealAmount": "12,000",
+    "date": "2026-06-11",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "리치팰리스",
+    "dealAmount": "29,850",
+    "date": "2026-06-09",
+    "floor": 4,
+    "area": 142.435
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "20,000",
+    "date": "2026-06-03",
+    "floor": 1,
+    "area": 84.91
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "24,500",
+    "date": "2026-06-01",
+    "floor": 9,
+    "area": 84.91
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "43,000",
+    "date": "2026-05-29",
+    "floor": 9,
+    "area": 101.88
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "24,000",
+    "date": "2026-05-25",
+    "floor": 20,
+    "area": 84.91
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "39,000",
+    "date": "2026-05-25",
+    "floor": 13,
+    "area": 101.88
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "41,000",
+    "date": "2026-05-25",
+    "floor": 5,
+    "area": 124.05
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "24,500",
+    "date": "2026-05-22",
+    "floor": 12,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "32,800",
+    "date": "2026-05-17",
+    "floor": 5,
+    "area": 134.97
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "37,000",
+    "date": "2026-05-13",
+    "floor": 6,
+    "area": 84.9
+  },
+  {
+    "aptNm": "보창",
+    "dealAmount": "4,700",
+    "date": "2026-05-11",
+    "floor": 5,
+    "area": 35.2139
+  },
+  {
+    "aptNm": "강변한신코아",
+    "dealAmount": "138,000",
+    "date": "2026-05-08",
+    "floor": 11,
+    "area": 77.22
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "39,000",
+    "date": "2026-05-08",
+    "floor": 4,
+    "area": 101.88
+  },
+  {
+    "aptNm": "경동",
+    "dealAmount": "21,000",
+    "date": "2026-05-07",
+    "floor": 4,
+    "area": 84.62
+  },
+  {
+    "aptNm": "보창",
+    "dealAmount": "3,800",
+    "date": "2026-05-07",
+    "floor": 8,
+    "area": 33.9921
+  },
+  {
+    "aptNm": "경동",
+    "dealAmount": "52,000",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 186.65
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "26,000",
+    "date": "2026-05-01",
+    "floor": 5,
+    "area": 84.91
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "44,000",
+    "date": "2026-04-29",
+    "floor": 5,
+    "area": 124.05
+  },
+  {
+    "aptNm": "에이스아파트(3차)",
+    "dealAmount": "13,500",
+    "date": "2026-04-28",
+    "floor": 5,
+    "area": 84.935
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "33,500",
+    "date": "2026-04-28",
+    "floor": 14,
+    "area": 134.97
+  },
+  {
+    "aptNm": "제니스타워",
+    "dealAmount": "5,200",
+    "date": "2026-04-25",
+    "floor": 7,
+    "area": 25.55
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "23,000",
+    "date": "2026-04-23",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "에이스아파트(3차)",
+    "dealAmount": "8,800",
+    "date": "2026-04-18",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "19,900",
+    "date": "2026-04-18",
+    "floor": 6,
+    "area": 59.914
+  },
+  {
+    "aptNm": "경동",
+    "dealAmount": "18,500",
+    "date": "2026-04-06",
+    "floor": 11,
+    "area": 59.79
+  },
+  {
+    "aptNm": "세한그린파크",
+    "dealAmount": "7,000",
+    "date": "2026-03-27",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
+    "aptNm": "동명다동",
+    "dealAmount": "10,000",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 45.6
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "27,000",
+    "date": "2026-03-25",
+    "floor": 4,
+    "area": 101.94
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "33,000",
+    "date": "2026-03-24",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "세한그린파크",
+    "dealAmount": "8,700",
+    "date": "2026-03-23",
+    "floor": 14,
+    "area": 84.99
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "31,000",
+    "date": "2026-03-17",
+    "floor": 13,
+    "area": 84.9
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "36,500",
+    "date": "2026-03-14",
+    "floor": 1,
+    "area": 101.88
+  },
+  {
+    "aptNm": "대성",
+    "dealAmount": "6,300",
+    "date": "2026-03-13",
+    "floor": 4,
+    "area": 59.88
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "23,000",
+    "date": "2026-03-10",
+    "floor": 2,
+    "area": 101.94
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "32,000",
+    "date": "2026-03-03",
+    "floor": 4,
+    "area": 134.97
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "18,400",
+    "date": "2026-02-22",
+    "floor": 9,
+    "area": 59.914
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "36,000",
+    "date": "2026-02-19",
+    "floor": 18,
+    "area": 101.88
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "20,000",
+    "date": "2026-02-18",
+    "floor": 15,
+    "area": 59.67
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "23,300",
+    "date": "2026-02-15",
+    "floor": 2,
+    "area": 84.91
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "20,800",
+    "date": "2026-02-14",
+    "floor": 18,
+    "area": 59.914
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "38,000",
+    "date": "2026-02-14",
+    "floor": 13,
+    "area": 101.88
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "34,000",
+    "date": "2026-02-14",
+    "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "25,300",
+    "date": "2026-02-10",
+    "floor": 18,
+    "area": 84.91
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "17,400",
+    "date": "2026-02-01",
+    "floor": 12,
+    "area": 59.914
+  }
+]

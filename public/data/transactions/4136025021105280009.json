@@ -1,0 +1,86 @@
+[
+  {
+    "aptNm": "신한",
+    "dealAmount": "39,000",
+    "date": "2026-05-16",
+    "floor": 4,
+    "area": 59.84
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "37,500",
+    "date": "2026-05-11",
+    "floor": 11,
+    "area": 59.84
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "46,000",
+    "date": "2026-05-07",
+    "floor": 5,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "43,000",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "41,000",
+    "date": "2026-04-09",
+    "floor": 1,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "45,700",
+    "date": "2026-03-31",
+    "floor": 16,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "50,000",
+    "date": "2026-03-15",
+    "floor": 5,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "40,000",
+    "date": "2026-03-14",
+    "floor": 1,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "46,000",
+    "date": "2026-03-13",
+    "floor": 9,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "43,000",
+    "date": "2026-02-21",
+    "floor": 8,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "53,000",
+    "date": "2026-02-10",
+    "floor": 18,
+    "area": 84.68
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "51,500",
+    "date": "2026-02-08",
+    "floor": 15,
+    "area": 84.68
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "자산",
+    "dealAmount": "6,300",
+    "date": "2026-04-28",
+    "floor": 4,
+    "area": 48.22
+  },
+  {
+    "aptNm": "자산",
+    "dealAmount": "6,200",
+    "date": "2026-03-30",
+    "floor": 4,
+    "area": 48.22
+  },
+  {
+    "aptNm": "자산",
+    "dealAmount": "5,100",
+    "date": "2026-02-09",
+    "floor": 5,
+    "area": 48.22
+  }
+]

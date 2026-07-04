@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "진흥",
+    "dealAmount": "17,150",
+    "date": "2026-05-20",
+    "floor": 4,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "19,250",
+    "date": "2026-05-19",
+    "floor": 10,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "15,400",
+    "date": "2026-05-04",
+    "floor": 10,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "15,500",
+    "date": "2026-05-04",
+    "floor": 2,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "15,500",
+    "date": "2026-04-23",
+    "floor": 7,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "16,500",
+    "date": "2026-04-23",
+    "floor": 10,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "16,500",
+    "date": "2026-04-18",
+    "floor": 14,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "16,700",
+    "date": "2026-04-11",
+    "floor": 12,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "15,900",
+    "date": "2026-03-20",
+    "floor": 1,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "15,000",
+    "date": "2026-03-19",
+    "floor": 7,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "18,600",
+    "date": "2026-03-06",
+    "floor": 2,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "14,800",
+    "date": "2026-03-01",
+    "floor": 1,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "17,600",
+    "date": "2026-02-24",
+    "floor": 7,
+    "area": 59.15
+  }
+]

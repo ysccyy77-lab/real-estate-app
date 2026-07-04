@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "23,800",
+    "date": "2026-06-09",
+    "floor": 8,
+    "area": 84.87
+  },
+  {
+    "aptNm": "덕평로얄",
+    "dealAmount": "5,700",
+    "date": "2026-05-22",
+    "floor": 12,
+    "area": 54.5
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "23,500",
+    "date": "2026-04-27",
+    "floor": 7,
+    "area": 84.87
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "21,900",
+    "date": "2026-04-25",
+    "floor": 5,
+    "area": 84.87
+  },
+  {
+    "aptNm": "덕평로얄",
+    "dealAmount": "8,900",
+    "date": "2026-04-11",
+    "floor": 4,
+    "area": 59.92
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "24,900",
+    "date": "2026-04-08",
+    "floor": 8,
+    "area": 84.87
+  },
+  {
+    "aptNm": "보수2차봄여름가을겨울",
+    "dealAmount": "16,000",
+    "date": "2026-03-27",
+    "floor": 2,
+    "area": 44.563
+  },
+  {
+    "aptNm": "혜인",
+    "dealAmount": "9,150",
+    "date": "2026-03-23",
+    "floor": 9,
+    "area": 60.45
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "27,600",
+    "date": "2026-03-21",
+    "floor": 7,
+    "area": 84.87
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "22,000",
+    "date": "2026-03-20",
+    "floor": 9,
+    "area": 84.87
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "22,000",
+    "date": "2026-03-18",
+    "floor": 13,
+    "area": 84.87
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "20,700",
+    "date": "2026-03-14",
+    "floor": 1,
+    "area": 84.87
+  },
+  {
+    "aptNm": "덕평로얄",
+    "dealAmount": "9,100",
+    "date": "2026-02-27",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "23,000",
+    "date": "2026-02-02",
+    "floor": 6,
+    "area": 84.87
+  }
+]

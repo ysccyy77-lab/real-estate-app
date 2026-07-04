@@ -1,0 +1,464 @@
+[
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "46,000",
+    "date": "2026-06-30",
+    "floor": 30,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "43,600",
+    "date": "2026-06-20",
+    "floor": 3,
+    "area": 59.977
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "49,700",
+    "date": "2026-06-17",
+    "floor": 26,
+    "area": 74.865
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "11,000",
+    "date": "2026-06-15",
+    "floor": 11,
+    "area": 59.79
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "49,500",
+    "date": "2026-06-11",
+    "floor": 29,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "49,900",
+    "date": "2026-06-06",
+    "floor": 20,
+    "area": 59.962
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "17,700",
+    "date": "2026-06-02",
+    "floor": 3,
+    "area": 133.92
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "48,400",
+    "date": "2026-06-01",
+    "floor": 15,
+    "area": 74.865
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "32,500",
+    "date": "2026-05-30",
+    "floor": 1,
+    "area": 84.88
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "56,000",
+    "date": "2026-05-30",
+    "floor": 32,
+    "area": 84.873
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "53,000",
+    "date": "2026-05-25",
+    "floor": 7,
+    "area": 84.873
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "58,000",
+    "date": "2026-05-15",
+    "floor": 33,
+    "area": 84.816
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "8,500",
+    "date": "2026-05-14",
+    "floor": 11,
+    "area": 59.79
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "58,300",
+    "date": "2026-05-14",
+    "floor": 19,
+    "area": 84.816
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "49,500",
+    "date": "2026-05-13",
+    "floor": 28,
+    "area": 59.962
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "22,300",
+    "date": "2026-05-11",
+    "floor": 10,
+    "area": 59.856
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "48,600",
+    "date": "2026-05-11",
+    "floor": 13,
+    "area": 59.977
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "53,000",
+    "date": "2026-05-10",
+    "floor": 6,
+    "area": 84.873
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "33,900",
+    "date": "2026-05-08",
+    "floor": 10,
+    "area": 84.88
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "19,400",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 59.846
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "35,000",
+    "date": "2026-05-08",
+    "floor": 5,
+    "area": 84.88
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "50,500",
+    "date": "2026-05-08",
+    "floor": 20,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "55,200",
+    "date": "2026-05-05",
+    "floor": 25,
+    "area": 84.873
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "45,000",
+    "date": "2026-04-30",
+    "floor": 10,
+    "area": 59.996
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "61,000",
+    "date": "2026-04-30",
+    "floor": 31,
+    "area": 84.873
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "44,200",
+    "date": "2026-04-22",
+    "floor": 3,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "43,500",
+    "date": "2026-04-21",
+    "floor": 12,
+    "area": 59.962
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "24,000",
+    "date": "2026-04-20",
+    "floor": 3,
+    "area": 59.856
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "23,500",
+    "date": "2026-04-18",
+    "floor": 7,
+    "area": 59.856
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "54,000",
+    "date": "2026-04-18",
+    "floor": 20,
+    "area": 84.873
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "19,400",
+    "date": "2026-04-15",
+    "floor": 2,
+    "area": 59.846
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "34,800",
+    "date": "2026-04-15",
+    "floor": 6,
+    "area": 84.88
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "58,500",
+    "date": "2026-04-15",
+    "floor": 20,
+    "area": 84.881
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "29,000",
+    "date": "2026-04-10",
+    "floor": 6,
+    "area": 84.88
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "30,000",
+    "date": "2026-04-10",
+    "floor": 1,
+    "area": 84.88
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "34,600",
+    "date": "2026-04-07",
+    "floor": 4,
+    "area": 84.88
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "47,100",
+    "date": "2026-04-02",
+    "floor": 22,
+    "area": 59.962
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "9,300",
+    "date": "2026-03-30",
+    "floor": 14,
+    "area": 59.79
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "58,000",
+    "date": "2026-03-28",
+    "floor": 16,
+    "area": 84.873
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "24,000",
+    "date": "2026-03-27",
+    "floor": 9,
+    "area": 59.856
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "30,900",
+    "date": "2026-03-27",
+    "floor": 13,
+    "area": 59.962
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "24,000",
+    "date": "2026-03-26",
+    "floor": 1,
+    "area": 167.73
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "14,500",
+    "date": "2026-03-25",
+    "floor": 1,
+    "area": 84.5
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "8,400",
+    "date": "2026-03-21",
+    "floor": 2,
+    "area": 59.93
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "52,500",
+    "date": "2026-03-19",
+    "floor": 24,
+    "area": 74.865
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "12,900",
+    "date": "2026-03-13",
+    "floor": 9,
+    "area": 84.5
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "53,700",
+    "date": "2026-03-13",
+    "floor": 13,
+    "area": 84.816
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "48,200",
+    "date": "2026-03-13",
+    "floor": 19,
+    "area": 59.962
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "31,800",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 84.88
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "53,500",
+    "date": "2026-03-10",
+    "floor": 4,
+    "area": 84.816
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "54,700",
+    "date": "2026-03-09",
+    "floor": 9,
+    "area": 84.816
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "62,800",
+    "date": "2026-03-05",
+    "floor": 29,
+    "area": 84.873
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "46,500",
+    "date": "2026-03-05",
+    "floor": 26,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "58,000",
+    "date": "2026-02-28",
+    "floor": 11,
+    "area": 84.816
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "58,500",
+    "date": "2026-02-28",
+    "floor": 36,
+    "area": 84.881
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "43,300",
+    "date": "2026-02-27",
+    "floor": 4,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "56,200",
+    "date": "2026-02-27",
+    "floor": 10,
+    "area": 84.816
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "20,500",
+    "date": "2026-02-21",
+    "floor": 4,
+    "area": 59.846
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "45,000",
+    "date": "2026-02-20",
+    "floor": 13,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "61,000",
+    "date": "2026-02-19",
+    "floor": 38,
+    "area": 84.873
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "57,900",
+    "date": "2026-02-16",
+    "floor": 36,
+    "area": 84.881
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "11,000",
+    "date": "2026-02-11",
+    "floor": 1,
+    "area": 84.5
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "46,600",
+    "date": "2026-02-11",
+    "floor": 34,
+    "area": 59.962
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "47,400",
+    "date": "2026-02-07",
+    "floor": 26,
+    "area": 59.977
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
+    "dealAmount": "50,000",
+    "date": "2026-02-07",
+    "floor": 25,
+    "area": 59.977
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "23,000",
+    "date": "2026-02-04",
+    "floor": 13,
+    "area": 167.73
+  }
+]

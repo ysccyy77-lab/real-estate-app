@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "풍산(1~4동)",
+    "dealAmount": "4,300",
+    "date": "2026-06-05",
+    "floor": 6,
+    "area": 59.34
+  },
+  {
+    "aptNm": "삼익2",
+    "dealAmount": "18,500",
+    "date": "2026-04-21",
+    "floor": 15,
+    "area": 84.36
+  },
+  {
+    "aptNm": "풍산(1~4동)",
+    "dealAmount": "4,200",
+    "date": "2026-03-31",
+    "floor": 6,
+    "area": 49.86
+  },
+  {
+    "aptNm": "삼익2",
+    "dealAmount": "16,200",
+    "date": "2026-03-27",
+    "floor": 1,
+    "area": 84.36
+  },
+  {
+    "aptNm": "삼익2",
+    "dealAmount": "18,300",
+    "date": "2026-03-26",
+    "floor": 5,
+    "area": 84.36
+  },
+  {
+    "aptNm": "삼익2",
+    "dealAmount": "18,500",
+    "date": "2026-03-23",
+    "floor": 11,
+    "area": 84.36
+  },
+  {
+    "aptNm": "풍산(1~4동)",
+    "dealAmount": "5,500",
+    "date": "2026-03-07",
+    "floor": 4,
+    "area": 59.34
+  },
+  {
+    "aptNm": "풍산(1~4동)",
+    "dealAmount": "3,500",
+    "date": "2026-02-20",
+    "floor": 5,
+    "area": 45
+  },
+  {
+    "aptNm": "풍산(1~4동)",
+    "dealAmount": "5,400",
+    "date": "2026-02-16",
+    "floor": 1,
+    "area": 59.34
+  }
+]

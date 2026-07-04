@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "15,500",
+    "date": "2026-06-30",
+    "floor": 16,
+    "area": 59.95
+  },
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "21,500",
+    "date": "2026-05-09",
+    "floor": 20,
+    "area": 84.98
+  },
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "20,900",
+    "date": "2026-04-04",
+    "floor": 19,
+    "area": 84.98
+  },
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "15,300",
+    "date": "2026-03-27",
+    "floor": 16,
+    "area": 59.95
+  },
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "19,000",
+    "date": "2026-03-22",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "13,500",
+    "date": "2026-03-09",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "20,000",
+    "date": "2026-03-04",
+    "floor": 19,
+    "area": 84.98
+  },
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "13,250",
+    "date": "2026-02-19",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "선암동서광",
+    "dealAmount": "18,200",
+    "date": "2026-02-10",
+    "floor": 9,
+    "area": 74.98
+  }
+]

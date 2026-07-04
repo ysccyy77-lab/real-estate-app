@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "구평화신",
+    "dealAmount": "12,500",
+    "date": "2026-06-28",
+    "floor": 11,
+    "area": 84.945
+  },
+  {
+    "aptNm": "구평화신",
+    "dealAmount": "12,900",
+    "date": "2026-06-18",
+    "floor": 4,
+    "area": 84.945
+  },
+  {
+    "aptNm": "구평화신",
+    "dealAmount": "14,300",
+    "date": "2026-05-26",
+    "floor": 16,
+    "area": 84.945
+  },
+  {
+    "aptNm": "구평화신",
+    "dealAmount": "21,000",
+    "date": "2026-05-22",
+    "floor": 1,
+    "area": 141.075
+  },
+  {
+    "aptNm": "구평화신",
+    "dealAmount": "14,000",
+    "date": "2026-05-01",
+    "floor": 9,
+    "area": 84.945
+  },
+  {
+    "aptNm": "구평화신",
+    "dealAmount": "13,450",
+    "date": "2026-04-18",
+    "floor": 19,
+    "area": 84.945
+  },
+  {
+    "aptNm": "구평화신",
+    "dealAmount": "15,600",
+    "date": "2026-04-03",
+    "floor": 7,
+    "area": 84.945
+  },
+  {
+    "aptNm": "구평화신",
+    "dealAmount": "18,800",
+    "date": "2026-02-20",
+    "floor": 14,
+    "area": 141.075
+  },
+  {
+    "aptNm": "연지센트럴파크",
+    "dealAmount": "19,500",
+    "date": "2026-02-12",
+    "floor": 11,
+    "area": 48.9077
+  }
+]

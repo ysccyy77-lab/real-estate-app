@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "8,000",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 34.4
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "11,700",
+    "date": "2026-06-06",
+    "floor": 6,
+    "area": 44.46
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "7,600",
+    "date": "2026-05-28",
+    "floor": 10,
+    "area": 34.4
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "10,000",
+    "date": "2026-05-23",
+    "floor": 8,
+    "area": 44.46
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "7,800",
+    "date": "2026-05-18",
+    "floor": 13,
+    "area": 34.4
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "7,600",
+    "date": "2026-05-12",
+    "floor": 14,
+    "area": 34.4
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "10,200",
+    "date": "2026-04-21",
+    "floor": 4,
+    "area": 44.46
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "11,500",
+    "date": "2026-04-18",
+    "floor": 6,
+    "area": 44.46
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "12,000",
+    "date": "2026-04-13",
+    "floor": 15,
+    "area": 44.46
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "12,500",
+    "date": "2026-03-08",
+    "floor": 7,
+    "area": 45.55
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "8,500",
+    "date": "2026-03-04",
+    "floor": 6,
+    "area": 34.4
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "11,700",
+    "date": "2026-02-05",
+    "floor": 10,
+    "area": 45.55
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "9,900",
+    "date": "2026-02-05",
+    "floor": 6,
+    "area": 45.55
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "한신조합",
+    "dealAmount": "16,000",
+    "date": "2026-06-27",
+    "floor": 15,
+    "area": 51.8
+  },
+  {
+    "aptNm": "한신조합",
+    "dealAmount": "27,500",
+    "date": "2026-05-15",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한신조합",
+    "dealAmount": "23,500",
+    "date": "2026-03-31",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한신조합",
+    "dealAmount": "18,690",
+    "date": "2026-03-26",
+    "floor": 11,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한신조합",
+    "dealAmount": "16,300",
+    "date": "2026-03-02",
+    "floor": 9,
+    "area": 61.88
+  },
+  {
+    "aptNm": "한신조합",
+    "dealAmount": "15,500",
+    "date": "2026-02-11",
+    "floor": 6,
+    "area": 61.88
+  }
+]

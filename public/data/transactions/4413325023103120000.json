@@ -1,0 +1,373 @@
+[
+  {
+    "aptNm": "대흥온천맨션",
+    "dealAmount": "4,000",
+    "date": "2026-06-13",
+    "floor": 10,
+    "area": 59.9
+  },
+  {
+    "aptNm": "우방아파트",
+    "dealAmount": "66,000",
+    "date": "2026-06-12",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "우방아파트",
+    "dealAmount": "57,000",
+    "date": "2026-06-09",
+    "floor": 13,
+    "area": 59.98
+  },
+  {
+    "aptNm": "우방아파트",
+    "dealAmount": "79,000",
+    "date": "2026-06-09",
+    "floor": 13,
+    "area": 114.73
+  },
+  {
+    "aptNm": "대동타운",
+    "dealAmount": "5,600",
+    "date": "2026-06-08",
+    "floor": 13,
+    "area": 56.88
+  },
+  {
+    "aptNm": "전원",
+    "dealAmount": "38,500",
+    "date": "2026-06-08",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "장자마을부영(312)",
+    "dealAmount": "25,000",
+    "date": "2026-06-06",
+    "floor": 6,
+    "area": 84.9767
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "8,500",
+    "date": "2026-05-29",
+    "floor": 8,
+    "area": 59.908
+  },
+  {
+    "aptNm": "장자마을부영(312)",
+    "dealAmount": "23,700",
+    "date": "2026-05-23",
+    "floor": 13,
+    "area": 84.9767
+  },
+  {
+    "aptNm": "대동타운",
+    "dealAmount": "4,300",
+    "date": "2026-05-12",
+    "floor": 10,
+    "area": 56.88
+  },
+  {
+    "aptNm": "목동신시가지9",
+    "dealAmount": "273,000",
+    "date": "2026-05-12",
+    "floor": 5,
+    "area": 100.33
+  },
+  {
+    "aptNm": "전원",
+    "dealAmount": "39,800",
+    "date": "2026-05-09",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "장자마을부영(312)",
+    "dealAmount": "23,400",
+    "date": "2026-05-08",
+    "floor": 6,
+    "area": 84.9767
+  },
+  {
+    "aptNm": "목동신시가지9",
+    "dealAmount": "285,000",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 106.93
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "6,528",
+    "date": "2026-04-30",
+    "floor": 8,
+    "area": 59.908
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "6,528",
+    "date": "2026-04-30",
+    "floor": 4,
+    "area": 59.908
+  },
+  {
+    "aptNm": "전원",
+    "dealAmount": "38,000",
+    "date": "2026-04-27",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대흥온천맨션",
+    "dealAmount": "6,600",
+    "date": "2026-04-23",
+    "floor": 4,
+    "area": 82.07
+  },
+  {
+    "aptNm": "우방아파트",
+    "dealAmount": "56,200",
+    "date": "2026-04-23",
+    "floor": 6,
+    "area": 59.98
+  },
+  {
+    "aptNm": "목동신시가지9",
+    "dealAmount": "351,500",
+    "date": "2026-04-22",
+    "floor": 15,
+    "area": 156.84
+  },
+  {
+    "aptNm": "대동타운",
+    "dealAmount": "5,400",
+    "date": "2026-04-20",
+    "floor": 12,
+    "area": 56.88
+  },
+  {
+    "aptNm": "배재현대",
+    "dealAmount": "142,500",
+    "date": "2026-04-15",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "우방아파트",
+    "dealAmount": "56,000",
+    "date": "2026-04-15",
+    "floor": 9,
+    "area": 59.98
+  },
+  {
+    "aptNm": "성환삼풍",
+    "dealAmount": "12,800",
+    "date": "2026-04-15",
+    "floor": 6,
+    "area": 71.235
+  },
+  {
+    "aptNm": "대동타운",
+    "dealAmount": "4,500",
+    "date": "2026-04-14",
+    "floor": 9,
+    "area": 56.88
+  },
+  {
+    "aptNm": "배재현대",
+    "dealAmount": "155,000",
+    "date": "2026-04-08",
+    "floor": 6,
+    "area": 59.94
+  },
+  {
+    "aptNm": "배재현대",
+    "dealAmount": "144,000",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "목동신시가지9",
+    "dealAmount": "279,000",
+    "date": "2026-03-26",
+    "floor": 9,
+    "area": 156.84
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "10,650",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 84.87
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "13,500",
+    "date": "2026-03-24",
+    "floor": 5,
+    "area": 146.095
+  },
+  {
+    "aptNm": "성환삼풍",
+    "dealAmount": "14,000",
+    "date": "2026-03-19",
+    "floor": 6,
+    "area": 84.555
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "6,700",
+    "date": "2026-03-15",
+    "floor": 16,
+    "area": 59.908
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "11,900",
+    "date": "2026-03-07",
+    "floor": 15,
+    "area": 146.095
+  },
+  {
+    "aptNm": "장자마을부영(312)",
+    "dealAmount": "22,700",
+    "date": "2026-03-07",
+    "floor": 7,
+    "area": 84.9767
+  },
+  {
+    "aptNm": "목동신시가지9",
+    "dealAmount": "349,000",
+    "date": "2026-03-04",
+    "floor": 4,
+    "area": 156.84
+  },
+  {
+    "aptNm": "전원",
+    "dealAmount": "33,800",
+    "date": "2026-03-03",
+    "floor": 14,
+    "area": 69.75
+  },
+  {
+    "aptNm": "장자마을부영(312)",
+    "dealAmount": "21,700",
+    "date": "2026-02-28",
+    "floor": 4,
+    "area": 84.9767
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "9,000",
+    "date": "2026-02-25",
+    "floor": 15,
+    "area": 84.87
+  },
+  {
+    "aptNm": "목동신시가지9",
+    "dealAmount": "293,000",
+    "date": "2026-02-23",
+    "floor": 9,
+    "area": 106.93
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "6,630",
+    "date": "2026-02-23",
+    "floor": 13,
+    "area": 59.908
+  },
+  {
+    "aptNm": "배재현대",
+    "dealAmount": "145,000",
+    "date": "2026-02-20",
+    "floor": 9,
+    "area": 59.94
+  },
+  {
+    "aptNm": "전원",
+    "dealAmount": "42,500",
+    "date": "2026-02-14",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대동타운",
+    "dealAmount": "5,000",
+    "date": "2026-02-12",
+    "floor": 6,
+    "area": 56.88
+  },
+  {
+    "aptNm": "목동신시가지9",
+    "dealAmount": "235,000",
+    "date": "2026-02-10",
+    "floor": 9,
+    "area": 71.37
+  },
+  {
+    "aptNm": "장자마을부영(312)",
+    "dealAmount": "20,700",
+    "date": "2026-02-10",
+    "floor": 5,
+    "area": 84.9767
+  },
+  {
+    "aptNm": "대동타운",
+    "dealAmount": "4,400",
+    "date": "2026-02-09",
+    "floor": 7,
+    "area": 56.88
+  },
+  {
+    "aptNm": "전원",
+    "dealAmount": "33,800",
+    "date": "2026-02-07",
+    "floor": 8,
+    "area": 69.75
+  },
+  {
+    "aptNm": "배재현대",
+    "dealAmount": "168,500",
+    "date": "2026-02-07",
+    "floor": 2,
+    "area": 84.9
+  },
+  {
+    "aptNm": "배재현대",
+    "dealAmount": "175,000",
+    "date": "2026-02-05",
+    "floor": 18,
+    "area": 84.9
+  },
+  {
+    "aptNm": "전원",
+    "dealAmount": "34,500",
+    "date": "2026-02-03",
+    "floor": 10,
+    "area": 69.75
+  },
+  {
+    "aptNm": "대동타운",
+    "dealAmount": "5,000",
+    "date": "2026-02-02",
+    "floor": 6,
+    "area": 56.88
+  },
+  {
+    "aptNm": "대흥온천맨션",
+    "dealAmount": "6,000",
+    "date": "2026-02-02",
+    "floor": 6,
+    "area": 84.86
+  },
+  {
+    "aptNm": "대흥온천맨션",
+    "dealAmount": "6,100",
+    "date": "2026-02-02",
+    "floor": 2,
+    "area": 82.07
+  }
+]

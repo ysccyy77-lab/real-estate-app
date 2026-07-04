@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "승리",
+    "dealAmount": "30,600",
+    "date": "2026-06-14",
+    "floor": 4,
+    "area": 83.08
+  },
+  {
+    "aptNm": "승리",
+    "dealAmount": "29,800",
+    "date": "2026-04-27",
+    "floor": 8,
+    "area": 83.96
+  },
+  {
+    "aptNm": "승리",
+    "dealAmount": "26,000",
+    "date": "2026-02-07",
+    "floor": 22,
+    "area": 59.81
+  }
+]

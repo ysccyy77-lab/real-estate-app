@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "IDS아델하임",
+    "dealAmount": "17,300",
+    "date": "2026-06-26",
+    "floor": 16,
+    "area": 49.55
+  },
+  {
+    "aptNm": "IDS아델하임",
+    "dealAmount": "13,500",
+    "date": "2026-06-11",
+    "floor": 21,
+    "area": 40.13
+  },
+  {
+    "aptNm": "IDS아델하임",
+    "dealAmount": "17,000",
+    "date": "2026-05-23",
+    "floor": 17,
+    "area": 49.55
+  },
+  {
+    "aptNm": "IDS아델하임",
+    "dealAmount": "16,000",
+    "date": "2026-04-08",
+    "floor": 4,
+    "area": 49.55
+  },
+  {
+    "aptNm": "IDS아델하임",
+    "dealAmount": "9,950",
+    "date": "2026-03-28",
+    "floor": 21,
+    "area": 26.02
+  },
+  {
+    "aptNm": "IDS아델하임",
+    "dealAmount": "17,800",
+    "date": "2026-02-04",
+    "floor": 13,
+    "area": 49.55
+  },
+  {
+    "aptNm": "IDS아델하임",
+    "dealAmount": "17,500",
+    "date": "2026-02-04",
+    "floor": 9,
+    "area": 49.55
+  }
+]

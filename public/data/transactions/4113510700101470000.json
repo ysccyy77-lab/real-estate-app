@@ -1,0 +1,450 @@
+[
+  {
+    "aptNm": "삼익",
+    "dealAmount": "41,500",
+    "date": "2026-07-01",
+    "floor": 2,
+    "area": 49.76
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "39,000",
+    "date": "2026-06-27",
+    "floor": 1,
+    "area": 49.76
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "7,150",
+    "date": "2026-06-26",
+    "floor": 10,
+    "area": 32.39
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "39,000",
+    "date": "2026-06-23",
+    "floor": 1,
+    "area": 49.76
+  },
+  {
+    "aptNm": "서울숲삼부아파트",
+    "dealAmount": "234,000",
+    "date": "2026-06-22",
+    "floor": 1,
+    "area": 122.01
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "43,000",
+    "date": "2026-06-17",
+    "floor": 2,
+    "area": 167.6654
+  },
+  {
+    "aptNm": "서울숲삼부아파트",
+    "dealAmount": "209,000",
+    "date": "2026-06-15",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "47,500",
+    "date": "2026-06-12",
+    "floor": 2,
+    "area": 134.6076
+  },
+  {
+    "aptNm": "신원2차",
+    "dealAmount": "24,900",
+    "date": "2026-06-09",
+    "floor": 19,
+    "area": 59.96
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "37,000",
+    "date": "2026-06-09",
+    "floor": 2,
+    "area": 49.76
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "6,600",
+    "date": "2026-06-08",
+    "floor": 3,
+    "area": 32.39
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "9,500",
+    "date": "2026-06-06",
+    "floor": 6,
+    "area": 41.3
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "42,000",
+    "date": "2026-05-27",
+    "floor": 11,
+    "area": 134.6076
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "46,400",
+    "date": "2026-05-26",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "서울숲삼부아파트",
+    "dealAmount": "213,000",
+    "date": "2026-05-23",
+    "floor": 8,
+    "area": 84.09
+  },
+  {
+    "aptNm": "서울숲삼부아파트",
+    "dealAmount": "213,000",
+    "date": "2026-05-22",
+    "floor": 10,
+    "area": 84.09
+  },
+  {
+    "aptNm": "서울숲삼부아파트",
+    "dealAmount": "176,200",
+    "date": "2026-05-16",
+    "floor": 3,
+    "area": 67.92
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "51,000",
+    "date": "2026-05-14",
+    "floor": 10,
+    "area": 134.6076
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "42,000",
+    "date": "2026-05-09",
+    "floor": 15,
+    "area": 108.6002
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "54,000",
+    "date": "2026-05-09",
+    "floor": 14,
+    "area": 196.7425
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "44,500",
+    "date": "2026-05-08",
+    "floor": 6,
+    "area": 134.6076
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "42,800",
+    "date": "2026-05-08",
+    "floor": 17,
+    "area": 108.6002
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "53,000",
+    "date": "2026-05-08",
+    "floor": 9,
+    "area": 196.7425
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "7,300",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 32.39
+  },
+  {
+    "aptNm": "신원2차",
+    "dealAmount": "23,400",
+    "date": "2026-04-30",
+    "floor": 20,
+    "area": 59.96
+  },
+  {
+    "aptNm": "서울숲삼부아파트",
+    "dealAmount": "205,000",
+    "date": "2026-04-30",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "7,520",
+    "date": "2026-04-29",
+    "floor": 11,
+    "area": 32.39
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "44,300",
+    "date": "2026-04-28",
+    "floor": 5,
+    "area": 59.96
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "12,900",
+    "date": "2026-04-27",
+    "floor": 6,
+    "area": 54.9
+  },
+  {
+    "aptNm": "신원2차",
+    "dealAmount": "30,200",
+    "date": "2026-04-22",
+    "floor": 1,
+    "area": 84.68
+  },
+  {
+    "aptNm": "골든캐슬",
+    "dealAmount": "39,000",
+    "date": "2026-04-13",
+    "floor": 14,
+    "area": 145.2659
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "14,000",
+    "date": "2026-04-10",
+    "floor": 1,
+    "area": 39.69
+  },
+  {
+    "aptNm": "신원2차",
+    "dealAmount": "23,800",
+    "date": "2026-04-09",
+    "floor": 12,
+    "area": 59.96
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "9,950",
+    "date": "2026-04-07",
+    "floor": 4,
+    "area": 41.3
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "53,000",
+    "date": "2026-04-04",
+    "floor": 5,
+    "area": 68.62
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "53,800",
+    "date": "2026-03-31",
+    "floor": 5,
+    "area": 68.62
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "17,000",
+    "date": "2026-03-31",
+    "floor": 5,
+    "area": 64.62
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "10,500",
+    "date": "2026-03-31",
+    "floor": 7,
+    "area": 41.3
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "10,700",
+    "date": "2026-03-27",
+    "floor": 8,
+    "area": 41.3
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "41,000",
+    "date": "2026-03-26",
+    "floor": 9,
+    "area": 108.6002
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "61,700",
+    "date": "2026-03-26",
+    "floor": 4,
+    "area": 79.71
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "39,500",
+    "date": "2026-03-24",
+    "floor": 1,
+    "area": 108.6002
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "54,000",
+    "date": "2026-03-24",
+    "floor": 1,
+    "area": 68.62
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "15,500",
+    "date": "2026-03-24",
+    "floor": 2,
+    "area": 39.69
+  },
+  {
+    "aptNm": "서울숲삼부아파트",
+    "dealAmount": "230,000",
+    "date": "2026-03-21",
+    "floor": 13,
+    "area": 122.01
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "37,000",
+    "date": "2026-03-20",
+    "floor": 1,
+    "area": 49.76
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "13,300",
+    "date": "2026-03-18",
+    "floor": 6,
+    "area": 49.94
+  },
+  {
+    "aptNm": "골든캐슬",
+    "dealAmount": "49,200",
+    "date": "2026-03-18",
+    "floor": 5,
+    "area": 172.0512
+  },
+  {
+    "aptNm": "상강",
+    "dealAmount": "8,700",
+    "date": "2026-03-14",
+    "floor": 10,
+    "area": 59.36
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "52,000",
+    "date": "2026-03-12",
+    "floor": 5,
+    "area": 79.71
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "36,400",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 49.76
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "9,000",
+    "date": "2026-03-10",
+    "floor": 2,
+    "area": 41.3
+  },
+  {
+    "aptNm": "골든캐슬",
+    "dealAmount": "36,150",
+    "date": "2026-03-05",
+    "floor": 5,
+    "area": 145.2659
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "46,000",
+    "date": "2026-03-04",
+    "floor": 7,
+    "area": 167.6654
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "30,000",
+    "date": "2026-03-02",
+    "floor": 5,
+    "area": 39.93
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "40,500",
+    "date": "2026-02-26",
+    "floor": 16,
+    "area": 108.6002
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "37,500",
+    "date": "2026-02-24",
+    "floor": 3,
+    "area": 49.76
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "44,000",
+    "date": "2026-02-24",
+    "floor": 5,
+    "area": 59.88
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "47,000",
+    "date": "2026-02-20",
+    "floor": 16,
+    "area": 134.6076
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "30,900",
+    "date": "2026-02-20",
+    "floor": 2,
+    "area": 39.93
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "7,350",
+    "date": "2026-02-20",
+    "floor": 3,
+    "area": 32.39
+  },
+  {
+    "aptNm": "용운주공2단지",
+    "dealAmount": "9,000",
+    "date": "2026-02-17",
+    "floor": 6,
+    "area": 54.9
+  },
+  {
+    "aptNm": "양도마을(서해그랑블)",
+    "dealAmount": "38,500",
+    "date": "2026-02-13",
+    "floor": 18,
+    "area": 108.6002
+  },
+  {
+    "aptNm": "골든캐슬",
+    "dealAmount": "39,000",
+    "date": "2026-02-05",
+    "floor": 7,
+    "area": 145.2659
+  }
+]

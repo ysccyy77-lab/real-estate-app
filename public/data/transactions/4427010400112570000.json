@@ -1,0 +1,212 @@
+[
+  {
+    "aptNm": "럭키",
+    "dealAmount": "72,000",
+    "date": "2026-06-19",
+    "floor": 13,
+    "area": 71.4
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "19,000",
+    "date": "2026-06-15",
+    "floor": 2,
+    "area": 83.66
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "73,000",
+    "date": "2026-06-11",
+    "floor": 1,
+    "area": 84.9
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "40,950",
+    "date": "2026-06-08",
+    "floor": 12,
+    "area": 56.11
+  },
+  {
+    "aptNm": "당진원당이안",
+    "dealAmount": "23,800",
+    "date": "2026-05-30",
+    "floor": 6,
+    "area": 84.9975
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "22,000",
+    "date": "2026-05-22",
+    "floor": 4,
+    "area": 84.97
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "81,000",
+    "date": "2026-05-18",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "47,000",
+    "date": "2026-05-13",
+    "floor": 13,
+    "area": 71.4
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "77,500",
+    "date": "2026-05-09",
+    "floor": 7,
+    "area": 84.9
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "74,000",
+    "date": "2026-05-09",
+    "floor": 2,
+    "area": 84.9
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "22,200",
+    "date": "2026-05-07",
+    "floor": 7,
+    "area": 101.98
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "59,000",
+    "date": "2026-05-05",
+    "floor": 4,
+    "area": 56.11
+  },
+  {
+    "aptNm": "당진원당이안",
+    "dealAmount": "27,700",
+    "date": "2026-04-27",
+    "floor": 13,
+    "area": 101.7466
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "59,000",
+    "date": "2026-04-25",
+    "floor": 5,
+    "area": 59.98
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "21,500",
+    "date": "2026-04-22",
+    "floor": 9,
+    "area": 83.66
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "58,500",
+    "date": "2026-04-17",
+    "floor": 9,
+    "area": 56.11
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "59,000",
+    "date": "2026-04-15",
+    "floor": 12,
+    "area": 59.98
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "71,500",
+    "date": "2026-04-08",
+    "floor": 9,
+    "area": 71.4
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "20,000",
+    "date": "2026-03-31",
+    "floor": 7,
+    "area": 101.98
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "76,000",
+    "date": "2026-03-21",
+    "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "화성맨션",
+    "dealAmount": "32,000",
+    "date": "2026-03-20",
+    "floor": 13,
+    "area": 115.62
+  },
+  {
+    "aptNm": "화성맨션",
+    "dealAmount": "25,900",
+    "date": "2026-03-19",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "67,000",
+    "date": "2026-03-14",
+    "floor": 2,
+    "area": 71.4
+  },
+  {
+    "aptNm": "화성맨션",
+    "dealAmount": "25,000",
+    "date": "2026-03-12",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "22,400",
+    "date": "2026-03-11",
+    "floor": 9,
+    "area": 83.66
+  },
+  {
+    "aptNm": "당진원당이안",
+    "dealAmount": "22,500",
+    "date": "2026-03-06",
+    "floor": 14,
+    "area": 84.8975
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "19,600",
+    "date": "2026-03-01",
+    "floor": 5,
+    "area": 83.66
+  },
+  {
+    "aptNm": "당진원당이안",
+    "dealAmount": "23,000",
+    "date": "2026-02-11",
+    "floor": 11,
+    "area": 84.9976
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "52,000",
+    "date": "2026-02-07",
+    "floor": 1,
+    "area": 56.11
+  },
+  {
+    "aptNm": "현진에버빌",
+    "dealAmount": "19,000",
+    "date": "2026-02-06",
+    "floor": 1,
+    "area": 83.66
+  }
+]

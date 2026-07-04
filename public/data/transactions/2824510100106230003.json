@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "하나",
+    "dealAmount": "28,300",
+    "date": "2026-06-15",
+    "floor": 2,
+    "area": 104.45
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "18,500",
+    "date": "2026-04-27",
+    "floor": 2,
+    "area": 59.79
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "24,800",
+    "date": "2026-04-16",
+    "floor": 17,
+    "area": 84.87
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "22,500",
+    "date": "2026-04-11",
+    "floor": 17,
+    "area": 59.79
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "27,500",
+    "date": "2026-04-09",
+    "floor": 1,
+    "area": 104.45
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "20,500",
+    "date": "2026-03-23",
+    "floor": 8,
+    "area": 59.79
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "22,350",
+    "date": "2026-03-10",
+    "floor": 6,
+    "area": 59.79
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "18,800",
+    "date": "2026-02-28",
+    "floor": 1,
+    "area": 59.79
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "18,900",
+    "date": "2026-02-12",
+    "floor": 6,
+    "area": 59.79
+  }
+]

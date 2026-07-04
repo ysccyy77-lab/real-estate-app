@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "윤성",
+    "dealAmount": "18,100",
+    "date": "2026-06-19",
+    "floor": 7,
+    "area": 59.86
+  },
+  {
+    "aptNm": "윤성",
+    "dealAmount": "17,500",
+    "date": "2026-05-30",
+    "floor": 4,
+    "area": 59.86
+  },
+  {
+    "aptNm": "윤성",
+    "dealAmount": "16,200",
+    "date": "2026-04-10",
+    "floor": 15,
+    "area": 59.86
+  },
+  {
+    "aptNm": "윤성",
+    "dealAmount": "17,500",
+    "date": "2026-03-23",
+    "floor": 17,
+    "area": 59.86
+  },
+  {
+    "aptNm": "윤성",
+    "dealAmount": "17,000",
+    "date": "2026-03-11",
+    "floor": 17,
+    "area": 59.86
+  },
+  {
+    "aptNm": "윤성",
+    "dealAmount": "23,000",
+    "date": "2026-03-07",
+    "floor": 13,
+    "area": 88.28
+  },
+  {
+    "aptNm": "윤성",
+    "dealAmount": "16,250",
+    "date": "2026-02-10",
+    "floor": 2,
+    "area": 59.86
+  }
+]

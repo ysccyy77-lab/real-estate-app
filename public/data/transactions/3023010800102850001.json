@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "유원",
+    "dealAmount": "13,000",
+    "date": "2026-07-02",
+    "floor": 5,
+    "area": 59.17
+  },
+  {
+    "aptNm": "유원",
+    "dealAmount": "13,000",
+    "date": "2026-05-22",
+    "floor": 4,
+    "area": 59.17
+  },
+  {
+    "aptNm": "유원",
+    "dealAmount": "21,500",
+    "date": "2026-05-17",
+    "floor": 7,
+    "area": 84.945
+  },
+  {
+    "aptNm": "유원",
+    "dealAmount": "18,100",
+    "date": "2026-03-23",
+    "floor": 10,
+    "area": 71.4
+  },
+  {
+    "aptNm": "유원",
+    "dealAmount": "16,800",
+    "date": "2026-03-16",
+    "floor": 1,
+    "area": 71.4
+  },
+  {
+    "aptNm": "신초",
+    "dealAmount": "9,400",
+    "date": "2026-03-13",
+    "floor": 5,
+    "area": 59.305
+  },
+  {
+    "aptNm": "유원",
+    "dealAmount": "18,000",
+    "date": "2026-03-11",
+    "floor": 14,
+    "area": 71.4
+  }
+]

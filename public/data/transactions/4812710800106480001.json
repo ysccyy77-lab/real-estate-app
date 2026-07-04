@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "회원주공",
+    "dealAmount": "17,000",
+    "date": "2026-06-05",
+    "floor": 19,
+    "area": 84.84
+  },
+  {
+    "aptNm": "회원주공",
+    "dealAmount": "9,800",
+    "date": "2026-05-29",
+    "floor": 17,
+    "area": 59.85
+  },
+  {
+    "aptNm": "회원주공",
+    "dealAmount": "10,300",
+    "date": "2026-05-20",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "회원주공",
+    "dealAmount": "16,700",
+    "date": "2026-05-12",
+    "floor": 20,
+    "area": 84.84
+  },
+  {
+    "aptNm": "성우주택",
+    "dealAmount": "16,500",
+    "date": "2026-03-04",
+    "floor": 8,
+    "area": 84.93
+  }
+]

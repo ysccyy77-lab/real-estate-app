@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "12,500",
+    "date": "2026-06-04",
+    "floor": 11,
+    "area": 59.8
+  },
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "11,000",
+    "date": "2026-05-20",
+    "floor": 15,
+    "area": 59.8
+  },
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "8,500",
+    "date": "2026-04-26",
+    "floor": 5,
+    "area": 59.8
+  },
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "8,300",
+    "date": "2026-04-06",
+    "floor": 1,
+    "area": 59.8
+  },
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "13,900",
+    "date": "2026-03-25",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "16,500",
+    "date": "2026-03-13",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "16,500",
+    "date": "2026-02-13",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "10,300",
+    "date": "2026-02-11",
+    "floor": 11,
+    "area": 59.8
+  },
+  {
+    "aptNm": "제일타운",
+    "dealAmount": "8,611",
+    "date": "2026-02-03",
+    "floor": 9,
+    "area": 59.8
+  }
+]

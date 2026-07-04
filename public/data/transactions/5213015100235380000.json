@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "9,500",
+    "date": "2026-06-11",
+    "floor": 8,
+    "area": 84.46
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "6,500",
+    "date": "2026-06-05",
+    "floor": 9,
+    "area": 59.35
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "8,800",
+    "date": "2026-05-16",
+    "floor": 7,
+    "area": 84.46
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "5,700",
+    "date": "2026-04-27",
+    "floor": 2,
+    "area": 59.35
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "9,000",
+    "date": "2026-04-20",
+    "floor": 6,
+    "area": 84.46
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "6,400",
+    "date": "2026-03-30",
+    "floor": 7,
+    "area": 59.35
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "6,750",
+    "date": "2026-03-17",
+    "floor": 8,
+    "area": 59.35
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "7,000",
+    "date": "2026-02-02",
+    "floor": 11,
+    "area": 59.35
+  }
+]

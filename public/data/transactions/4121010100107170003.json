@@ -1,6 +1,62 @@
 [
   {
     "aptNm": "상우1차",
+    "dealAmount": "40,000",
+    "date": "2026-05-19",
+    "floor": 14,
+    "area": 59.45
+  },
+  {
+    "aptNm": "블루원",
+    "dealAmount": "24,000",
+    "date": "2026-04-30",
+    "floor": 10,
+    "area": 91.2779
+  },
+  {
+    "aptNm": "상우1차",
+    "dealAmount": "43,980",
+    "date": "2026-04-17",
+    "floor": 9,
+    "area": 84.54
+  },
+  {
+    "aptNm": "상우1차",
+    "dealAmount": "37,000",
+    "date": "2026-04-07",
+    "floor": 17,
+    "area": 59.34
+  },
+  {
+    "aptNm": "상우1차",
+    "dealAmount": "33,000",
+    "date": "2026-04-04",
+    "floor": 2,
+    "area": 59.45
+  },
+  {
+    "aptNm": "블루원",
+    "dealAmount": "21,350",
+    "date": "2026-03-25",
+    "floor": 10,
+    "area": 91.2779
+  },
+  {
+    "aptNm": "법경캐슬",
+    "dealAmount": "33,500",
+    "date": "2026-03-11",
+    "floor": 4,
+    "area": 84.7916
+  },
+  {
+    "aptNm": "상우1차",
+    "dealAmount": "36,000",
+    "date": "2026-02-23",
+    "floor": 5,
+    "area": 59.45
+  },
+  {
+    "aptNm": "상우1차",
     "dealAmount": "30,000",
     "date": "2024-04-27",
     "floor": 7,

@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "9,500",
+    "date": "2026-06-26",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "8,400",
+    "date": "2026-06-06",
+    "floor": 15,
+    "area": 54
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "11,000",
+    "date": "2026-04-10",
+    "floor": 10,
+    "area": 59.4
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "10,200",
+    "date": "2026-04-03",
+    "floor": 11,
+    "area": 56.7
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "9,700",
+    "date": "2026-04-02",
+    "floor": 14,
+    "area": 59.4
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "11,000",
+    "date": "2026-03-19",
+    "floor": 5,
+    "area": 59.4
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "10,200",
+    "date": "2026-03-05",
+    "floor": 8,
+    "area": 59.4
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "10,700",
+    "date": "2026-03-02",
+    "floor": 7,
+    "area": 56.7
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "8,000",
+    "date": "2026-02-19",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "남운그린힐",
+    "dealAmount": "8,900",
+    "date": "2026-02-04",
+    "floor": 1,
+    "area": 54
+  }
+]

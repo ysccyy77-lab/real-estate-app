@@ -1,0 +1,93 @@
+[
+  {
+    "aptNm": "고려6차(701-704동)",
+    "dealAmount": "12,500",
+    "date": "2026-06-19",
+    "floor": 7,
+    "area": 84.974
+  },
+  {
+    "aptNm": "가평코아루",
+    "dealAmount": "28,000",
+    "date": "2026-06-10",
+    "floor": 5,
+    "area": 84.7532
+  },
+  {
+    "aptNm": "수명산SKVIEW",
+    "dealAmount": "113,500",
+    "date": "2026-05-28",
+    "floor": 4,
+    "area": 128.76
+  },
+  {
+    "aptNm": "수명산SKVIEW",
+    "dealAmount": "104,000",
+    "date": "2026-05-22",
+    "floor": 8,
+    "area": 120.99
+  },
+  {
+    "aptNm": "고려6차(701-704동)",
+    "dealAmount": "11,600",
+    "date": "2026-04-20",
+    "floor": 8,
+    "area": 59.781
+  },
+  {
+    "aptNm": "구서동쌍용예가1단지",
+    "dealAmount": "53,500",
+    "date": "2026-04-10",
+    "floor": 10,
+    "area": 84.9998
+  },
+  {
+    "aptNm": "수명산SKVIEW",
+    "dealAmount": "87,500",
+    "date": "2026-04-10",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "고려6차(701-704동)",
+    "dealAmount": "7,500",
+    "date": "2026-04-09",
+    "floor": 4,
+    "area": 59.781
+  },
+  {
+    "aptNm": "동양화학사원",
+    "dealAmount": "4,650",
+    "date": "2026-03-24",
+    "floor": 4,
+    "area": 51.51
+  },
+  {
+    "aptNm": "수명산SKVIEW",
+    "dealAmount": "75,000",
+    "date": "2026-03-14",
+    "floor": 2,
+    "area": 84.94
+  },
+  {
+    "aptNm": "가평코아루",
+    "dealAmount": "26,000",
+    "date": "2026-03-09",
+    "floor": 9,
+    "area": 84.7532
+  },
+  {
+    "aptNm": "수명산SKVIEW",
+    "dealAmount": "96,000",
+    "date": "2026-02-28",
+    "floor": 4,
+    "area": 127.89
+  },
+  {
+    "aptNm": "동양화학사원",
+    "dealAmount": "4,300",
+    "date": "2026-02-27",
+    "floor": 5,
+    "area": 51.51
+  }
+]

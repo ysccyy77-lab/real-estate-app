@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "서우",
+    "dealAmount": "19,700",
+    "date": "2026-04-27",
+    "floor": 10,
+    "area": 59.76
+  },
+  {
+    "aptNm": "서우",
+    "dealAmount": "36,300",
+    "date": "2026-04-25",
+    "floor": 8,
+    "area": 143.825
+  },
+  {
+    "aptNm": "서우",
+    "dealAmount": "27,000",
+    "date": "2026-03-12",
+    "floor": 15,
+    "area": 84.615
+  },
+  {
+    "aptNm": "서우",
+    "dealAmount": "33,000",
+    "date": "2026-03-12",
+    "floor": 5,
+    "area": 143.825
+  },
+  {
+    "aptNm": "서우",
+    "dealAmount": "19,000",
+    "date": "2026-02-14",
+    "floor": 11,
+    "area": 59.76
+  }
+]

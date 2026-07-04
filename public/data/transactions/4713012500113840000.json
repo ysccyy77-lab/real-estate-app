@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "25,900",
+    "date": "2026-06-23",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "30,000",
+    "date": "2026-06-05",
+    "floor": 8,
+    "area": 128.49
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "26,650",
+    "date": "2026-05-15",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "26,000",
+    "date": "2026-05-06",
+    "floor": 10,
+    "area": 84.95
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "32,100",
+    "date": "2026-04-20",
+    "floor": 2,
+    "area": 148.19
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "26,900",
+    "date": "2026-03-28",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "26,700",
+    "date": "2026-03-23",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "41,000",
+    "date": "2026-03-04",
+    "floor": 15,
+    "area": 148.19
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "29,500",
+    "date": "2026-02-26",
+    "floor": 9,
+    "area": 84.95
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "41,000",
+    "date": "2026-02-26",
+    "floor": 15,
+    "area": 148.19
+  }
+]

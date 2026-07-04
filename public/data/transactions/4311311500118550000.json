@@ -1,0 +1,135 @@
+[
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,500",
+    "date": "2026-06-22",
+    "floor": 13,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,100",
+    "date": "2026-06-09",
+    "floor": 2,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,500",
+    "date": "2026-06-04",
+    "floor": 13,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,450",
+    "date": "2026-05-23",
+    "floor": 12,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "8,200",
+    "date": "2026-05-08",
+    "floor": 8,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "8,500",
+    "date": "2026-05-04",
+    "floor": 8,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,350",
+    "date": "2026-04-22",
+    "floor": 3,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "8,700",
+    "date": "2026-04-10",
+    "floor": 1,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "10,500",
+    "date": "2026-04-08",
+    "floor": 15,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,000",
+    "date": "2026-04-04",
+    "floor": 2,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "8,500",
+    "date": "2026-03-11",
+    "floor": 4,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,500",
+    "date": "2026-03-05",
+    "floor": 6,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,000",
+    "date": "2026-02-26",
+    "floor": 15,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,650",
+    "date": "2026-02-20",
+    "floor": 2,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,000",
+    "date": "2026-02-19",
+    "floor": 3,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "9,500",
+    "date": "2026-02-19",
+    "floor": 11,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "8,700",
+    "date": "2026-02-03",
+    "floor": 15,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "8,700",
+    "date": "2026-02-02",
+    "floor": 8,
+    "area": 44.13
+  },
+  {
+    "aptNm": "푸른",
+    "dealAmount": "8,500",
+    "date": "2026-02-02",
+    "floor": 12,
+    "area": 44.13
+  }
+]

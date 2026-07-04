@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "동인",
+    "dealAmount": "46,000",
+    "date": "2026-04-13",
+    "floor": 5,
+    "area": 78.64
+  },
+  {
+    "aptNm": "동인",
+    "dealAmount": "39,500",
+    "date": "2026-03-31",
+    "floor": 8,
+    "area": 67.36
+  },
+  {
+    "aptNm": "동인",
+    "dealAmount": "42,000",
+    "date": "2026-03-15",
+    "floor": 6,
+    "area": 78.64
+  }
+]

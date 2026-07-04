@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "80,000",
+    "date": "2026-05-30",
+    "floor": 10,
+    "area": 59.44
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "85,000",
+    "date": "2026-05-15",
+    "floor": 1,
+    "area": 84.63
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "51,050",
+    "date": "2026-05-04",
+    "floor": 15,
+    "area": 84.63
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "89,000",
+    "date": "2026-04-25",
+    "floor": 10,
+    "area": 84.63
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "85,800",
+    "date": "2026-04-24",
+    "floor": 5,
+    "area": 84.63
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "70,000",
+    "date": "2026-03-26",
+    "floor": 6,
+    "area": 59.44
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "87,000",
+    "date": "2026-02-14",
+    "floor": 7,
+    "area": 84.63
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "65,000",
+    "date": "2026-02-06",
+    "floor": 1,
+    "area": 59.44
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "67,500",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 59.44
+  }
+]

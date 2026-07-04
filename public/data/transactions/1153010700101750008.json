@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "청실",
+    "dealAmount": "54,700",
+    "date": "2026-05-14",
+    "floor": 5,
+    "area": 64.56
+  },
+  {
+    "aptNm": "청실",
+    "dealAmount": "54,700",
+    "date": "2026-04-29",
+    "floor": 13,
+    "area": 64.56
+  },
+  {
+    "aptNm": "청실",
+    "dealAmount": "53,800",
+    "date": "2026-03-27",
+    "floor": 11,
+    "area": 64.56
+  },
+  {
+    "aptNm": "청실",
+    "dealAmount": "54,000",
+    "date": "2026-03-12",
+    "floor": 10,
+    "area": 64.56
+  },
+  {
+    "aptNm": "청실",
+    "dealAmount": "52,000",
+    "date": "2026-02-14",
+    "floor": 5,
+    "area": 64.56
+  }
+]

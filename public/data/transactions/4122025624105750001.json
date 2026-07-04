@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "스마트빌듀오3차",
+    "dealAmount": "4,000",
+    "date": "2026-05-26",
+    "floor": 4,
+    "area": 24.31
+  },
+  {
+    "aptNm": "센텀지수APT",
+    "dealAmount": "12,000",
+    "date": "2026-05-20",
+    "floor": 10,
+    "area": 59.9
+  },
+  {
+    "aptNm": "센텀지수APT",
+    "dealAmount": "12,000",
+    "date": "2026-05-20",
+    "floor": 7,
+    "area": 59.9
+  },
+  {
+    "aptNm": "스마트빌듀오3차",
+    "dealAmount": "6,000",
+    "date": "2026-05-14",
+    "floor": 11,
+    "area": 30.59
+  },
+  {
+    "aptNm": "스마트빌듀오3차",
+    "dealAmount": "4,750",
+    "date": "2026-04-27",
+    "floor": 4,
+    "area": 24.31
+  },
+  {
+    "aptNm": "스마트빌듀오3차",
+    "dealAmount": "4,300",
+    "date": "2026-03-06",
+    "floor": 9,
+    "area": 24.31
+  },
+  {
+    "aptNm": "스마트빌듀오3차",
+    "dealAmount": "5,600",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 30.59
+  },
+  {
+    "aptNm": "스마트빌듀오3차",
+    "dealAmount": "4,300",
+    "date": "2026-02-05",
+    "floor": 6,
+    "area": 24.31
+  },
+  {
+    "aptNm": "스마트빌듀오3차",
+    "dealAmount": "4,600",
+    "date": "2026-02-04",
+    "floor": 6,
+    "area": 24.31
+  }
+]

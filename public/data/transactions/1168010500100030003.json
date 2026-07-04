@@ -1,0 +1,100 @@
+[
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "11,500",
+    "date": "2026-06-13",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "12,500",
+    "date": "2026-06-12",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "16,700",
+    "date": "2026-06-04",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "12,000",
+    "date": "2026-05-23",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "이안용산프리미어",
+    "dealAmount": "175,000",
+    "date": "2026-05-21",
+    "floor": 14,
+    "area": 109.03
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "14,500",
+    "date": "2026-04-23",
+    "floor": 14,
+    "area": 71.81
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "16,000",
+    "date": "2026-04-07",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "14,600",
+    "date": "2026-03-28",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "이안용산프리미어",
+    "dealAmount": "125,000",
+    "date": "2026-03-14",
+    "floor": 31,
+    "area": 110.14
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "14,700",
+    "date": "2026-03-14",
+    "floor": 4,
+    "area": 71.81
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "13,500",
+    "date": "2026-03-14",
+    "floor": 10,
+    "area": 71.81
+  },
+  {
+    "aptNm": "이안용산프리미어",
+    "dealAmount": "157,000",
+    "date": "2026-03-10",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "12,800",
+    "date": "2026-03-02",
+    "floor": 16,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성거벽산",
+    "dealAmount": "14,500",
+    "date": "2026-02-13",
+    "floor": 16,
+    "area": 71.81
+  }
+]

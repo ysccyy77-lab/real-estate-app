@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "코오롱2차",
+    "dealAmount": "8,500",
+    "date": "2026-06-18",
+    "floor": 1,
+    "area": 70.76
+  },
+  {
+    "aptNm": "코오롱2차",
+    "dealAmount": "10,700",
+    "date": "2026-05-18",
+    "floor": 11,
+    "area": 70.76
+  },
+  {
+    "aptNm": "코오롱2차",
+    "dealAmount": "11,500",
+    "date": "2026-05-17",
+    "floor": 13,
+    "area": 84.9
+  },
+  {
+    "aptNm": "코오롱2차",
+    "dealAmount": "10,500",
+    "date": "2026-04-25",
+    "floor": 8,
+    "area": 70.76
+  },
+  {
+    "aptNm": "코오롱2차",
+    "dealAmount": "12,000",
+    "date": "2026-04-13",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "코오롱2차",
+    "dealAmount": "8,000",
+    "date": "2026-03-25",
+    "floor": 2,
+    "area": 70.76
+  }
+]

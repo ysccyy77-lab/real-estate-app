@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "제일",
+    "dealAmount": "119,000",
+    "date": "2026-06-23",
+    "floor": 8,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
+    "dealAmount": "117,000",
+    "date": "2026-06-17",
+    "floor": 8,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
+    "dealAmount": "120,000",
+    "date": "2026-05-29",
+    "floor": 10,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
+    "dealAmount": "120,000",
+    "date": "2026-05-20",
+    "floor": 7,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
+    "dealAmount": "119,000",
+    "date": "2026-05-19",
+    "floor": 10,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
+    "dealAmount": "122,000",
+    "date": "2026-04-27",
+    "floor": 8,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
+    "dealAmount": "114,000",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
+    "dealAmount": "119,000",
+    "date": "2026-04-17",
+    "floor": 5,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
+    "dealAmount": "121,000",
+    "date": "2026-03-27",
+    "floor": 8,
+    "area": 60.03
+  }
+]

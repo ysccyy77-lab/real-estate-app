@@ -1,0 +1,506 @@
+[
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "40,700",
+    "date": "2026-06-22",
+    "floor": 19,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "105,000",
+    "date": "2026-06-20",
+    "floor": 10,
+    "area": 140.34
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "41,900",
+    "date": "2026-06-19",
+    "floor": 16,
+    "area": 59.98
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "2,400",
+    "date": "2026-06-16",
+    "floor": 9,
+    "area": 25.92
+  },
+  {
+    "aptNm": "함양웰가센트뷰",
+    "dealAmount": "27,750",
+    "date": "2026-06-12",
+    "floor": 8,
+    "area": 73.8663
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "4,200",
+    "date": "2026-06-04",
+    "floor": 5,
+    "area": 40.32
+  },
+  {
+    "aptNm": "함양웰가센트뷰",
+    "dealAmount": "33,200",
+    "date": "2026-06-03",
+    "floor": 23,
+    "area": 84.9506
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "40,700",
+    "date": "2026-06-03",
+    "floor": 14,
+    "area": 59.97
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "40,300",
+    "date": "2026-05-30",
+    "floor": 10,
+    "area": 59.98
+  },
+  {
+    "aptNm": "광남백조",
+    "dealAmount": "10,500",
+    "date": "2026-05-29",
+    "floor": 3,
+    "area": 60.08
+  },
+  {
+    "aptNm": "함양웰가센트뷰",
+    "dealAmount": "34,000",
+    "date": "2026-05-28",
+    "floor": 15,
+    "area": 84.9506
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "74,000",
+    "date": "2026-05-23",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "179,500",
+    "date": "2026-05-22",
+    "floor": 11,
+    "area": 83.52
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "39,000",
+    "date": "2026-05-21",
+    "floor": 11,
+    "area": 59.98
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "40,000",
+    "date": "2026-05-20",
+    "floor": 13,
+    "area": 59.98
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "49,500",
+    "date": "2026-05-19",
+    "floor": 17,
+    "area": 59.98
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "174,000",
+    "date": "2026-05-16",
+    "floor": 5,
+    "area": 83.21
+  },
+  {
+    "aptNm": "삼보전원",
+    "dealAmount": "2,750",
+    "date": "2026-05-14",
+    "floor": 1,
+    "area": 59.95
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "172,000",
+    "date": "2026-05-11",
+    "floor": 7,
+    "area": 83.52
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "39,800",
+    "date": "2026-05-05",
+    "floor": 7,
+    "area": 59.98
+  },
+  {
+    "aptNm": "리버펠리스1동",
+    "dealAmount": "143,000",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 142.42
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "37,500",
+    "date": "2026-05-01",
+    "floor": 7,
+    "area": 59.98
+  },
+  {
+    "aptNm": "삼보전원",
+    "dealAmount": "3,600",
+    "date": "2026-04-30",
+    "floor": 1,
+    "area": 59.95
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "46,750",
+    "date": "2026-04-29",
+    "floor": 14,
+    "area": 59.98
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "172,000",
+    "date": "2026-04-23",
+    "floor": 10,
+    "area": 83.52
+  },
+  {
+    "aptNm": "디지털한빛",
+    "dealAmount": "31,000",
+    "date": "2026-04-22",
+    "floor": 6,
+    "area": 59.8518
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "170,000",
+    "date": "2026-04-18",
+    "floor": 11,
+    "area": 83.34
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "173,800",
+    "date": "2026-04-17",
+    "floor": 9,
+    "area": 83.21
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "32,000",
+    "date": "2026-04-16",
+    "floor": 6,
+    "area": 51.98
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "170,000",
+    "date": "2026-04-10",
+    "floor": 9,
+    "area": 83.52
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,700",
+    "date": "2026-04-10",
+    "floor": 3,
+    "area": 40.32
+  },
+  {
+    "aptNm": "함양웰가센트뷰",
+    "dealAmount": "34,500",
+    "date": "2026-04-09",
+    "floor": 17,
+    "area": 84.9506
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "71,500",
+    "date": "2026-04-09",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "경성B",
+    "dealAmount": "14,000",
+    "date": "2026-04-07",
+    "floor": 5,
+    "area": 58.23
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "32,000",
+    "date": "2026-04-07",
+    "floor": 9,
+    "area": 51.98
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,100",
+    "date": "2026-04-06",
+    "floor": 9,
+    "area": 35.1
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,850",
+    "date": "2026-04-04",
+    "floor": 6,
+    "area": 40.32
+  },
+  {
+    "aptNm": "광남백조",
+    "dealAmount": "11,300",
+    "date": "2026-03-30",
+    "floor": 5,
+    "area": 60.08
+  },
+  {
+    "aptNm": "함양웰가센트뷰",
+    "dealAmount": "34,000",
+    "date": "2026-03-28",
+    "floor": 20,
+    "area": 84.9506
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "39,000",
+    "date": "2026-03-27",
+    "floor": 6,
+    "area": 59.97
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,300",
+    "date": "2026-03-26",
+    "floor": 8,
+    "area": 35.1
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,500",
+    "date": "2026-03-23",
+    "floor": 7,
+    "area": 35.1
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,300",
+    "date": "2026-03-22",
+    "floor": 8,
+    "area": 35.1
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "76,500",
+    "date": "2026-03-16",
+    "floor": 16,
+    "area": 84.98
+  },
+  {
+    "aptNm": "함양웰가센트뷰",
+    "dealAmount": "33,000",
+    "date": "2026-03-13",
+    "floor": 3,
+    "area": 84.9506
+  },
+  {
+    "aptNm": "삼보전원",
+    "dealAmount": "3,750",
+    "date": "2026-03-11",
+    "floor": 5,
+    "area": 68.78
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,200",
+    "date": "2026-03-11",
+    "floor": 8,
+    "area": 35.1
+  },
+  {
+    "aptNm": "삼보전원",
+    "dealAmount": "2,500",
+    "date": "2026-03-10",
+    "floor": 3,
+    "area": 54.51
+  },
+  {
+    "aptNm": "광남백조",
+    "dealAmount": "11,800",
+    "date": "2026-03-09",
+    "floor": 8,
+    "area": 60.08
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "98,000",
+    "date": "2026-03-06",
+    "floor": 19,
+    "area": 140.34
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "47,000",
+    "date": "2026-03-05",
+    "floor": 10,
+    "area": 59.98
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "39,100",
+    "date": "2026-02-28",
+    "floor": 2,
+    "area": 59.98
+  },
+  {
+    "aptNm": "경성B",
+    "dealAmount": "20,000",
+    "date": "2026-02-27",
+    "floor": 1,
+    "area": 57.24
+  },
+  {
+    "aptNm": "광남백조",
+    "dealAmount": "9,500",
+    "date": "2026-02-24",
+    "floor": 12,
+    "area": 60.08
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "32,100",
+    "date": "2026-02-21",
+    "floor": 16,
+    "area": 51.98
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "71,000",
+    "date": "2026-02-20",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "40,000",
+    "date": "2026-02-20",
+    "floor": 17,
+    "area": 59.98
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "187,000",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 83.52
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "175,000",
+    "date": "2026-02-13",
+    "floor": 2,
+    "area": 83.52
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "37,500",
+    "date": "2026-02-10",
+    "floor": 9,
+    "area": 59.97
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "72,000",
+    "date": "2026-02-09",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "옥동서광",
+    "dealAmount": "71,500",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "39,000",
+    "date": "2026-02-09",
+    "floor": 3,
+    "area": 59.98
+  },
+  {
+    "aptNm": "광남백조",
+    "dealAmount": "9,750",
+    "date": "2026-02-07",
+    "floor": 10,
+    "area": 37.98
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,200",
+    "date": "2026-02-06",
+    "floor": 11,
+    "area": 35.1
+  },
+  {
+    "aptNm": "경향렉스빌",
+    "dealAmount": "3,200",
+    "date": "2026-02-06",
+    "floor": 8,
+    "area": 35.1
+  },
+  {
+    "aptNm": "함양웰가센트뷰",
+    "dealAmount": "28,500",
+    "date": "2026-02-05",
+    "floor": 18,
+    "area": 72.6705
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "38,500",
+    "date": "2026-02-05",
+    "floor": 13,
+    "area": 59.98
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "37,900",
+    "date": "2026-02-05",
+    "floor": 9,
+    "area": 59.98
+  },
+  {
+    "aptNm": "고덕주공9",
+    "dealAmount": "179,000",
+    "date": "2026-02-03",
+    "floor": 12,
+    "area": 83.34
+  },
+  {
+    "aptNm": "우정혁신엘에이치2단지",
+    "dealAmount": "38,300",
+    "date": "2026-02-03",
+    "floor": 7,
+    "area": 59.98
+  },
+  {
+    "aptNm": "광남백조",
+    "dealAmount": "12,000",
+    "date": "2026-02-02",
+    "floor": 11,
+    "area": 60.08
+  }
+]

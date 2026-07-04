@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "성서청구타운",
+    "dealAmount": "21,000",
+    "date": "2026-06-23",
+    "floor": 15,
+    "area": 84.965
+  },
+  {
+    "aptNm": "성서청구타운",
+    "dealAmount": "22,000",
+    "date": "2026-05-20",
+    "floor": 16,
+    "area": 84.965
+  },
+  {
+    "aptNm": "성서청구타운",
+    "dealAmount": "14,700",
+    "date": "2026-05-16",
+    "floor": 17,
+    "area": 59.95
+  },
+  {
+    "aptNm": "서울",
+    "dealAmount": "13,800",
+    "date": "2026-05-13",
+    "floor": 4,
+    "area": 46.62
+  },
+  {
+    "aptNm": "서울",
+    "dealAmount": "11,900",
+    "date": "2026-04-29",
+    "floor": 5,
+    "area": 46.62
+  },
+  {
+    "aptNm": "서울",
+    "dealAmount": "11,000",
+    "date": "2026-04-23",
+    "floor": 5,
+    "area": 46.62
+  },
+  {
+    "aptNm": "성서청구타운",
+    "dealAmount": "21,300",
+    "date": "2026-04-12",
+    "floor": 12,
+    "area": 84.965
+  },
+  {
+    "aptNm": "성서청구타운",
+    "dealAmount": "20,500",
+    "date": "2026-03-28",
+    "floor": 8,
+    "area": 84.965
+  },
+  {
+    "aptNm": "성서청구타운",
+    "dealAmount": "18,000",
+    "date": "2026-03-07",
+    "floor": 20,
+    "area": 59.95
+  },
+  {
+    "aptNm": "성서청구타운",
+    "dealAmount": "15,000",
+    "date": "2026-02-25",
+    "floor": 10,
+    "area": 59.95
+  },
+  {
+    "aptNm": "성서청구타운",
+    "dealAmount": "14,500",
+    "date": "2026-02-21",
+    "floor": 16,
+    "area": 59.95
+  }
+]

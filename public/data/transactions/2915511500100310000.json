@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "영도화랑",
+    "dealAmount": "11,000",
+    "date": "2026-06-18",
+    "floor": 5,
+    "area": 62.98
+  },
+  {
+    "aptNm": "은영칠성",
+    "dealAmount": "15,000",
+    "date": "2026-04-30",
+    "floor": 3,
+    "area": 46.78
+  },
+  {
+    "aptNm": "은영칠성",
+    "dealAmount": "14,000",
+    "date": "2026-04-30",
+    "floor": 1,
+    "area": 46.78
+  },
+  {
+    "aptNm": "동서2차",
+    "dealAmount": "12,800",
+    "date": "2026-04-29",
+    "floor": 3,
+    "area": 51.65
+  },
+  {
+    "aptNm": "동서2차",
+    "dealAmount": "10,000",
+    "date": "2026-04-28",
+    "floor": 5,
+    "area": 65.06
+  },
+  {
+    "aptNm": "한빛타운",
+    "dealAmount": "5,800",
+    "date": "2026-03-01",
+    "floor": 9,
+    "area": 57.09
+  },
+  {
+    "aptNm": "은영칠성",
+    "dealAmount": "14,800",
+    "date": "2026-02-28",
+    "floor": 1,
+    "area": 43.2
+  },
+  {
+    "aptNm": "은영칠성",
+    "dealAmount": "14,800",
+    "date": "2026-02-27",
+    "floor": 1,
+    "area": 43.2
+  },
+  {
+    "aptNm": "동서2차",
+    "dealAmount": "15,100",
+    "date": "2026-02-11",
+    "floor": 1,
+    "area": 65.06
+  }
+]

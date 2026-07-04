@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "GM펠리스",
+    "dealAmount": "17,500",
+    "date": "2026-06-17",
+    "floor": 8,
+    "area": 48.8
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "11,300",
+    "date": "2026-05-30",
+    "floor": 7,
+    "area": 59.86
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "11,000",
+    "date": "2026-04-21",
+    "floor": 6,
+    "area": 59.86
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "22,000",
+    "date": "2026-03-28",
+    "floor": 7,
+    "area": 113.52
+  }
+]

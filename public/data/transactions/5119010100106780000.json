@@ -1,0 +1,443 @@
+[
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "35,000",
+    "date": "2026-07-03",
+    "floor": 2,
+    "area": 51.8
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "31,000",
+    "date": "2026-07-02",
+    "floor": 15,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,500",
+    "date": "2026-06-27",
+    "floor": 12,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "42,500",
+    "date": "2026-06-26",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "30,700",
+    "date": "2026-06-22",
+    "floor": 3,
+    "area": 119.849
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "43,500",
+    "date": "2026-06-21",
+    "floor": 11,
+    "area": 84.981
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "42,900",
+    "date": "2026-06-18",
+    "floor": 8,
+    "area": 84.981
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "41,200",
+    "date": "2026-06-17",
+    "floor": 3,
+    "area": 59.96
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "37,000",
+    "date": "2026-06-16",
+    "floor": 13,
+    "area": 51.8
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,500",
+    "date": "2026-06-16",
+    "floor": 9,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "25,000",
+    "date": "2026-06-15",
+    "floor": 8,
+    "area": 84.943
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "32,500",
+    "date": "2026-06-15",
+    "floor": 15,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "26,500",
+    "date": "2026-06-14",
+    "floor": 3,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "42,400",
+    "date": "2026-06-11",
+    "floor": 19,
+    "area": 59.95
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "42,500",
+    "date": "2026-06-10",
+    "floor": 13,
+    "area": 59.96
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "41,980",
+    "date": "2026-06-08",
+    "floor": 21,
+    "area": 59.96
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "27,000",
+    "date": "2026-06-04",
+    "floor": 11,
+    "area": 84.943
+  },
+  {
+    "aptNm": "이원예채",
+    "dealAmount": "20,000",
+    "date": "2026-06-01",
+    "floor": 9,
+    "area": 84.86
+  },
+  {
+    "aptNm": "신영아파트(101동)",
+    "dealAmount": "18,000",
+    "date": "2026-06-01",
+    "floor": 4,
+    "area": 59.46
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "33,900",
+    "date": "2026-05-30",
+    "floor": 15,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "26,300",
+    "date": "2026-05-25",
+    "floor": 12,
+    "area": 84.943
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "26,000",
+    "date": "2026-05-22",
+    "floor": 5,
+    "area": 84.943
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "35,250",
+    "date": "2026-05-17",
+    "floor": 14,
+    "area": 59.949
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "42,000",
+    "date": "2026-05-15",
+    "floor": 15,
+    "area": 59.96
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "41,900",
+    "date": "2026-05-12",
+    "floor": 7,
+    "area": 59.95
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "32,000",
+    "date": "2026-05-11",
+    "floor": 2,
+    "area": 59.949
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "42,000",
+    "date": "2026-05-09",
+    "floor": 15,
+    "area": 59.96
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "41,500",
+    "date": "2026-05-09",
+    "floor": 5,
+    "area": 59.95
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "32,500",
+    "date": "2026-05-07",
+    "floor": 2,
+    "area": 59.949
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "37,000",
+    "date": "2026-05-06",
+    "floor": 14,
+    "area": 59.949
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "30,500",
+    "date": "2026-05-05",
+    "floor": 6,
+    "area": 119.849
+  },
+  {
+    "aptNm": "더퍼스트주상복합아파트",
+    "dealAmount": "7,500",
+    "date": "2026-05-04",
+    "floor": 8,
+    "area": 19.77
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "31,000",
+    "date": "2026-04-29",
+    "floor": 7,
+    "area": 119.849
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "30,500",
+    "date": "2026-04-25",
+    "floor": 10,
+    "area": 119.849
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,500",
+    "date": "2026-04-16",
+    "floor": 13,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,000",
+    "date": "2026-04-16",
+    "floor": 1,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "32,000",
+    "date": "2026-04-15",
+    "floor": 7,
+    "area": 119.849
+  },
+  {
+    "aptNm": "리벤티움",
+    "dealAmount": "41,900",
+    "date": "2026-04-14",
+    "floor": 19,
+    "area": 59.95
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,500",
+    "date": "2026-04-11",
+    "floor": 8,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "이원예채",
+    "dealAmount": "26,000",
+    "date": "2026-04-09",
+    "floor": 13,
+    "area": 123.36
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "29,000",
+    "date": "2026-04-04",
+    "floor": 13,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "이원예채",
+    "dealAmount": "18,300",
+    "date": "2026-04-01",
+    "floor": 8,
+    "area": 84.86
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "27,500",
+    "date": "2026-03-30",
+    "floor": 4,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "26,500",
+    "date": "2026-03-28",
+    "floor": 2,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,500",
+    "date": "2026-03-27",
+    "floor": 13,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "29,500",
+    "date": "2026-03-26",
+    "floor": 14,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "38,000",
+    "date": "2026-03-16",
+    "floor": 7,
+    "area": 59.949
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "43,000",
+    "date": "2026-03-14",
+    "floor": 20,
+    "area": 59.949
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "24,500",
+    "date": "2026-03-10",
+    "floor": 3,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "35,000",
+    "date": "2026-03-06",
+    "floor": 14,
+    "area": 59.949
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,800",
+    "date": "2026-03-05",
+    "floor": 10,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "34,000",
+    "date": "2026-03-04",
+    "floor": 13,
+    "area": 59.949
+  },
+  {
+    "aptNm": "센텀플로라1차",
+    "dealAmount": "24,300",
+    "date": "2026-03-04",
+    "floor": 17,
+    "area": 59.9418
+  },
+  {
+    "aptNm": "이원예채",
+    "dealAmount": "22,500",
+    "date": "2026-03-03",
+    "floor": 6,
+    "area": 84.86
+  },
+  {
+    "aptNm": "장락e-편한세상",
+    "dealAmount": "30,900",
+    "date": "2026-02-26",
+    "floor": 13,
+    "area": 119.849
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "29,000",
+    "date": "2026-02-26",
+    "floor": 4,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "이원예채",
+    "dealAmount": "25,000",
+    "date": "2026-02-20",
+    "floor": 11,
+    "area": 106.7
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,300",
+    "date": "2026-02-19",
+    "floor": 13,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "센텀플로라1차",
+    "dealAmount": "24,300",
+    "date": "2026-02-11",
+    "floor": 14,
+    "area": 59.9418
+  },
+  {
+    "aptNm": "센텀플로라1차",
+    "dealAmount": "24,300",
+    "date": "2026-02-10",
+    "floor": 19,
+    "area": 59.9418
+  },
+  {
+    "aptNm": "이원예채",
+    "dealAmount": "22,500",
+    "date": "2026-02-09",
+    "floor": 7,
+    "area": 106.7
+  },
+  {
+    "aptNm": "호평마을한라비발디",
+    "dealAmount": "31,000",
+    "date": "2026-02-04",
+    "floor": 3,
+    "area": 59.949
+  },
+  {
+    "aptNm": "대원칸타빌1차",
+    "dealAmount": "28,000",
+    "date": "2026-02-01",
+    "floor": 7,
+    "area": 84.9992
+  }
+]

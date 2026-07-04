@@ -1,0 +1,23 @@
+[
+  {
+    "aptNm": "한주",
+    "dealAmount": "22,800",
+    "date": "2026-04-12",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
+    "aptNm": "한주",
+    "dealAmount": "31,500",
+    "date": "2026-04-08",
+    "floor": 9,
+    "area": 84.83
+  },
+  {
+    "aptNm": "한주",
+    "dealAmount": "29,000",
+    "date": "2026-02-20",
+    "floor": 2,
+    "area": 84.83
+  }
+]

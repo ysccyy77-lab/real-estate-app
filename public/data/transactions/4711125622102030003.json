@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "청호하이츠",
+    "dealAmount": "3,300",
+    "date": "2026-06-30",
+    "floor": 2,
+    "area": 36
+  },
+  {
+    "aptNm": "한마을",
+    "dealAmount": "4,500",
+    "date": "2026-05-21",
+    "floor": 5,
+    "area": 52.38
+  },
+  {
+    "aptNm": "청호하이츠",
+    "dealAmount": "4,100",
+    "date": "2026-04-17",
+    "floor": 13,
+    "area": 36
+  },
+  {
+    "aptNm": "청호하이츠",
+    "dealAmount": "8,500",
+    "date": "2026-04-15",
+    "floor": 13,
+    "area": 59.775
+  },
+  {
+    "aptNm": "청호하이츠",
+    "dealAmount": "9,500",
+    "date": "2026-03-14",
+    "floor": 14,
+    "area": 59.775
+  },
+  {
+    "aptNm": "구서다움파크",
+    "dealAmount": "36,200",
+    "date": "2026-03-05",
+    "floor": 8,
+    "area": 74.0345
+  },
+  {
+    "aptNm": "청호하이츠",
+    "dealAmount": "3,900",
+    "date": "2026-02-25",
+    "floor": 13,
+    "area": 36
+  },
+  {
+    "aptNm": "청호하이츠",
+    "dealAmount": "7,900",
+    "date": "2026-02-20",
+    "floor": 4,
+    "area": 59.775
+  },
+  {
+    "aptNm": "청호하이츠",
+    "dealAmount": "4,350",
+    "date": "2026-02-05",
+    "floor": 11,
+    "area": 36
+  }
+]

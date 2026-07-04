@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "천산",
+    "dealAmount": "6,000",
+    "date": "2026-06-18",
+    "floor": 4,
+    "area": 59.706
+  },
+  {
+    "aptNm": "천산",
+    "dealAmount": "6,000",
+    "date": "2026-05-27",
+    "floor": 3,
+    "area": 59.706
+  },
+  {
+    "aptNm": "가조에제르아파트",
+    "dealAmount": "18,314",
+    "date": "2026-04-03",
+    "floor": 4,
+    "area": 84.8581
+  },
+  {
+    "aptNm": "건영웰스파크",
+    "dealAmount": "25,500",
+    "date": "2026-03-24",
+    "floor": 9,
+    "area": 84.52
+  },
+  {
+    "aptNm": "가조에제르아파트",
+    "dealAmount": "17,300",
+    "date": "2026-03-12",
+    "floor": 2,
+    "area": 84.8581
+  },
+  {
+    "aptNm": "천산",
+    "dealAmount": "5,100",
+    "date": "2026-03-10",
+    "floor": 7,
+    "area": 59.706
+  },
+  {
+    "aptNm": "천산",
+    "dealAmount": "5,300",
+    "date": "2026-02-23",
+    "floor": 4,
+    "area": 59.706
+  },
+  {
+    "aptNm": "천산",
+    "dealAmount": "6,000",
+    "date": "2026-02-06",
+    "floor": 11,
+    "area": 59.706
+  }
+]

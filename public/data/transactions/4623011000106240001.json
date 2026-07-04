@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "대림동신",
+    "dealAmount": "16,400",
+    "date": "2026-06-19",
+    "floor": 11,
+    "area": 129.38
+  },
+  {
+    "aptNm": "대림동신",
+    "dealAmount": "13,900",
+    "date": "2026-05-17",
+    "floor": 15,
+    "area": 101.88
+  },
+  {
+    "aptNm": "대림동신",
+    "dealAmount": "12,500",
+    "date": "2026-05-15",
+    "floor": 12,
+    "area": 101.88
+  },
+  {
+    "aptNm": "한라그린",
+    "dealAmount": "7,500",
+    "date": "2026-04-24",
+    "floor": 6,
+    "area": 58.95
+  },
+  {
+    "aptNm": "한라그린",
+    "dealAmount": "14,500",
+    "date": "2026-04-20",
+    "floor": 1,
+    "area": 75.78
+  },
+  {
+    "aptNm": "대림동신",
+    "dealAmount": "13,900",
+    "date": "2026-04-11",
+    "floor": 10,
+    "area": 101.88
+  },
+  {
+    "aptNm": "대림동신",
+    "dealAmount": "16,800",
+    "date": "2026-03-27",
+    "floor": 15,
+    "area": 101.88
+  },
+  {
+    "aptNm": "대림동신",
+    "dealAmount": "14,500",
+    "date": "2026-03-19",
+    "floor": 1,
+    "area": 129.38
+  },
+  {
+    "aptNm": "대림동신",
+    "dealAmount": "15,000",
+    "date": "2026-02-28",
+    "floor": 12,
+    "area": 101.88
+  },
+  {
+    "aptNm": "대림동신",
+    "dealAmount": "16,500",
+    "date": "2026-02-03",
+    "floor": 12,
+    "area": 101.88
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "코아루",
+    "dealAmount": "15,500",
+    "date": "2026-04-20",
+    "floor": 6,
+    "area": 84.9788
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "18,500",
+    "date": "2026-04-20",
+    "floor": 13,
+    "area": 123.5314
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "13,600",
+    "date": "2026-04-18",
+    "floor": 3,
+    "area": 84.9788
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "17,800",
+    "date": "2026-04-16",
+    "floor": 13,
+    "area": 123.5314
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "15,200",
+    "date": "2026-03-26",
+    "floor": 14,
+    "area": 84.9788
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "14,800",
+    "date": "2026-02-23",
+    "floor": 3,
+    "area": 84.9788
+  },
+  {
+    "aptNm": "코아루",
+    "dealAmount": "19,800",
+    "date": "2026-02-20",
+    "floor": 5,
+    "area": 123.5314
+  }
+]

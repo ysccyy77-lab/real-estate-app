@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "푸른마을",
+    "dealAmount": "6,050",
+    "date": "2026-06-23",
+    "floor": 13,
+    "area": 73.32
+  },
+  {
+    "aptNm": "블리시움",
+    "dealAmount": "19,001",
+    "date": "2026-06-22",
+    "floor": 9,
+    "area": 45.229
+  },
+  {
+    "aptNm": "푸른마을",
+    "dealAmount": "9,500",
+    "date": "2026-06-02",
+    "floor": 11,
+    "area": 84.69
+  },
+  {
+    "aptNm": "푸른마을",
+    "dealAmount": "7,400",
+    "date": "2026-04-30",
+    "floor": 5,
+    "area": 76.77
+  },
+  {
+    "aptNm": "삼우",
+    "dealAmount": "16,000",
+    "date": "2026-04-28",
+    "floor": 5,
+    "area": 55.39
+  },
+  {
+    "aptNm": "푸른마을",
+    "dealAmount": "5,500",
+    "date": "2026-03-26",
+    "floor": 13,
+    "area": 76.77
+  },
+  {
+    "aptNm": "블리시움",
+    "dealAmount": "20,000",
+    "date": "2026-03-25",
+    "floor": 12,
+    "area": 45.229
+  },
+  {
+    "aptNm": "삼우",
+    "dealAmount": "12,800",
+    "date": "2026-03-10",
+    "floor": 5,
+    "area": 57.78
+  },
+  {
+    "aptNm": "푸른마을",
+    "dealAmount": "7,000",
+    "date": "2026-03-07",
+    "floor": 10,
+    "area": 78.69
+  },
+  {
+    "aptNm": "연희",
+    "dealAmount": "14,700",
+    "date": "2026-02-06",
+    "floor": 2,
+    "area": 44.73
+  },
+  {
+    "aptNm": "푸른마을",
+    "dealAmount": "7,300",
+    "date": "2026-02-03",
+    "floor": 5,
+    "area": 68.31
+  }
+]

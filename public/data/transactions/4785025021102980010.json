@@ -1,0 +1,65 @@
+[
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "19,450",
+    "date": "2026-06-18",
+    "floor": 13,
+    "area": 84.995
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "17,000",
+    "date": "2026-05-14",
+    "floor": 8,
+    "area": 84.995
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "9,600",
+    "date": "2026-04-20",
+    "floor": 8,
+    "area": 53.52
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "17,900",
+    "date": "2026-04-10",
+    "floor": 9,
+    "area": 72.2
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "11,550",
+    "date": "2026-04-04",
+    "floor": 2,
+    "area": 53.52
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "13,650",
+    "date": "2026-03-23",
+    "floor": 12,
+    "area": 72.2
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "14,800",
+    "date": "2026-03-16",
+    "floor": 1,
+    "area": 84.995
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "16,900",
+    "date": "2026-03-10",
+    "floor": 10,
+    "area": 84.995
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "11,000",
+    "date": "2026-03-03",
+    "floor": 6,
+    "area": 53.52
+  }
+]

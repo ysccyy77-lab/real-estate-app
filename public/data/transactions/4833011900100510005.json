@@ -1,0 +1,44 @@
+[
+  {
+    "aptNm": "새진흥7",
+    "dealAmount": "11,000",
+    "date": "2026-06-13",
+    "floor": 12,
+    "area": 74.38
+  },
+  {
+    "aptNm": "새진흥7",
+    "dealAmount": "10,000",
+    "date": "2026-04-17",
+    "floor": 2,
+    "area": 100.69
+  },
+  {
+    "aptNm": "남산미네르빌",
+    "dealAmount": "10,000",
+    "date": "2026-03-30",
+    "floor": 12,
+    "area": 53.735
+  },
+  {
+    "aptNm": "새진흥7",
+    "dealAmount": "5,500",
+    "date": "2026-03-10",
+    "floor": 6,
+    "area": 54.23
+  },
+  {
+    "aptNm": "새진흥7",
+    "dealAmount": "8,200",
+    "date": "2026-03-03",
+    "floor": 1,
+    "area": 74.38
+  },
+  {
+    "aptNm": "새진흥7",
+    "dealAmount": "10,000",
+    "date": "2026-02-28",
+    "floor": 7,
+    "area": 100.69
+  }
+]

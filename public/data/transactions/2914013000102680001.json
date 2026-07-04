@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "늘푸른동해",
+    "dealAmount": "2,200",
+    "date": "2026-06-01",
+    "floor": 4,
+    "area": 27.54
+  },
+  {
+    "aptNm": "늘푸른동해",
+    "dealAmount": "2,000",
+    "date": "2026-05-12",
+    "floor": 3,
+    "area": 27.54
+  },
+  {
+    "aptNm": "늘푸른동해",
+    "dealAmount": "2,200",
+    "date": "2026-04-22",
+    "floor": 5,
+    "area": 27.54
+  },
+  {
+    "aptNm": "늘푸른동해",
+    "dealAmount": "2,350",
+    "date": "2026-03-10",
+    "floor": 1,
+    "area": 27.54
+  }
+]

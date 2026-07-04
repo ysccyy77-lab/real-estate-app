@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "5,500",
+    "date": "2026-07-01",
+    "floor": 6,
+    "area": 59.79
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "6,000",
+    "date": "2026-06-15",
+    "floor": 16,
+    "area": 59.82
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "6,300",
+    "date": "2026-05-30",
+    "floor": 11,
+    "area": 59.79
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "6,800",
+    "date": "2026-05-30",
+    "floor": 4,
+    "area": 59.79
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "5,000",
+    "date": "2026-05-13",
+    "floor": 11,
+    "area": 59.79
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "6,500",
+    "date": "2026-03-30",
+    "floor": 7,
+    "area": 59.79
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "5,550",
+    "date": "2026-03-22",
+    "floor": 17,
+    "area": 59.79
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "6,600",
+    "date": "2026-03-08",
+    "floor": 7,
+    "area": 59.79
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "6,000",
+    "date": "2026-02-27",
+    "floor": 14,
+    "area": 59.82
+  },
+  {
+    "aptNm": "한일부곡1",
+    "dealAmount": "7,900",
+    "date": "2026-02-09",
+    "floor": 18,
+    "area": 59.79
+  }
+]

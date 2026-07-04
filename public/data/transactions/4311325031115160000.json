@@ -1,0 +1,135 @@
+[
+  {
+    "aptNm": "면목삼익아파트",
+    "dealAmount": "66,000",
+    "date": "2026-06-30",
+    "floor": 11,
+    "area": 84.99
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "20,000",
+    "date": "2026-06-20",
+    "floor": 12,
+    "area": 84.895
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "23,500",
+    "date": "2026-06-19",
+    "floor": 12,
+    "area": 84.895
+  },
+  {
+    "aptNm": "면목삼익아파트",
+    "dealAmount": "62,400",
+    "date": "2026-06-16",
+    "floor": 11,
+    "area": 59.5
+  },
+  {
+    "aptNm": "면목삼익아파트",
+    "dealAmount": "60,000",
+    "date": "2026-06-09",
+    "floor": 6,
+    "area": 59.5
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "20,000",
+    "date": "2026-06-08",
+    "floor": 6,
+    "area": 84.895
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "19,500",
+    "date": "2026-05-27",
+    "floor": 11,
+    "area": 84.895
+  },
+  {
+    "aptNm": "면목삼익아파트",
+    "dealAmount": "59,000",
+    "date": "2026-05-25",
+    "floor": 13,
+    "area": 59.5
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "14,000",
+    "date": "2026-05-17",
+    "floor": 2,
+    "area": 59.9825
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "21,000",
+    "date": "2026-04-23",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "24,800",
+    "date": "2026-04-20",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "15,000",
+    "date": "2026-04-18",
+    "floor": 1,
+    "area": 59.9825
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "30,700",
+    "date": "2026-04-15",
+    "floor": 14,
+    "area": 134.955
+  },
+  {
+    "aptNm": "면목삼익아파트",
+    "dealAmount": "59,000",
+    "date": "2026-03-17",
+    "floor": 20,
+    "area": 59.5
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "19,700",
+    "date": "2026-03-14",
+    "floor": 7,
+    "area": 84.895
+  },
+  {
+    "aptNm": "우방타운",
+    "dealAmount": "27,000",
+    "date": "2026-03-08",
+    "floor": 17,
+    "area": 134.955
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "19,900",
+    "date": "2026-02-25",
+    "floor": 12,
+    "area": 84.895
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "18,500",
+    "date": "2026-02-09",
+    "floor": 10,
+    "area": 73.13
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "20,600",
+    "date": "2026-02-01",
+    "floor": 6,
+    "area": 84.895
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "105,000",
+    "date": "2026-06-09",
+    "floor": 2,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "121,000",
+    "date": "2026-06-04",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "101,000",
+    "date": "2026-05-25",
+    "floor": 1,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "108,000",
+    "date": "2026-05-23",
+    "floor": 3,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "119,000",
+    "date": "2026-04-18",
+    "floor": 15,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "104,000",
+    "date": "2026-04-01",
+    "floor": 3,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "66,740",
+    "date": "2026-03-18",
+    "floor": 5,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "103,000",
+    "date": "2026-03-01",
+    "floor": 15,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "116,000",
+    "date": "2026-02-08",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "118,000",
+    "date": "2026-02-07",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
+    "aptNm": "보라매삼성",
+    "dealAmount": "105,000",
+    "date": "2026-02-04",
+    "floor": 8,
+    "area": 84.84
+  }
+]

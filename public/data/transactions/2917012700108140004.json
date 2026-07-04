@@ -1,0 +1,58 @@
+[
+  {
+    "aptNm": "기비골마을",
+    "dealAmount": "10,800",
+    "date": "2026-06-27",
+    "floor": 11,
+    "area": 44.87
+  },
+  {
+    "aptNm": "기비골마을",
+    "dealAmount": "11,000",
+    "date": "2026-06-26",
+    "floor": 10,
+    "area": 55.77
+  },
+  {
+    "aptNm": "기비골마을",
+    "dealAmount": "13,200",
+    "date": "2026-05-11",
+    "floor": 8,
+    "area": 55.77
+  },
+  {
+    "aptNm": "기비골마을",
+    "dealAmount": "11,000",
+    "date": "2026-05-07",
+    "floor": 5,
+    "area": 55.77
+  },
+  {
+    "aptNm": "기비골마을",
+    "dealAmount": "10,400",
+    "date": "2026-04-22",
+    "floor": 13,
+    "area": 44.87
+  },
+  {
+    "aptNm": "기비골마을",
+    "dealAmount": "10,000",
+    "date": "2026-04-21",
+    "floor": 6,
+    "area": 55.77
+  },
+  {
+    "aptNm": "기비골마을",
+    "dealAmount": "11,000",
+    "date": "2026-04-07",
+    "floor": 19,
+    "area": 44.87
+  },
+  {
+    "aptNm": "기비골마을",
+    "dealAmount": "9,450",
+    "date": "2026-03-30",
+    "floor": 20,
+    "area": 44.87
+  }
+]

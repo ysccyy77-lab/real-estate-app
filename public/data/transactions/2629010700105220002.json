@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "동일타운",
+    "dealAmount": "29,800",
+    "date": "2026-06-25",
+    "floor": 11,
+    "area": 125.08
+  },
+  {
+    "aptNm": "동일타운",
+    "dealAmount": "18,000",
+    "date": "2026-06-04",
+    "floor": 2,
+    "area": 67.44
+  },
+  {
+    "aptNm": "동일타운",
+    "dealAmount": "14,000",
+    "date": "2026-04-10",
+    "floor": 13,
+    "area": 76.62
+  },
+  {
+    "aptNm": "동일타운",
+    "dealAmount": "15,000",
+    "date": "2026-03-24",
+    "floor": 2,
+    "area": 67.44
+  },
+  {
+    "aptNm": "동일타운",
+    "dealAmount": "18,000",
+    "date": "2026-03-21",
+    "floor": 2,
+    "area": 67.44
+  },
+  {
+    "aptNm": "동일타운",
+    "dealAmount": "15,500",
+    "date": "2026-03-14",
+    "floor": 13,
+    "area": 67.44
+  },
+  {
+    "aptNm": "동일타운",
+    "dealAmount": "18,500",
+    "date": "2026-02-19",
+    "floor": 5,
+    "area": 75.61
+  }
+]

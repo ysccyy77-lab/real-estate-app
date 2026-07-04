@@ -1,0 +1,135 @@
+[
+  {
+    "aptNm": "용마동아",
+    "dealAmount": "70,000",
+    "date": "2026-05-27",
+    "floor": 13,
+    "area": 84.87
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "28,000",
+    "date": "2026-05-23",
+    "floor": 2,
+    "area": 166.535
+  },
+  {
+    "aptNm": "용마동아",
+    "dealAmount": "64,500",
+    "date": "2026-05-23",
+    "floor": 5,
+    "area": 84.87
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "18,000",
+    "date": "2026-05-07",
+    "floor": 10,
+    "area": 59.905
+  },
+  {
+    "aptNm": "용마동아",
+    "dealAmount": "60,000",
+    "date": "2026-05-06",
+    "floor": 13,
+    "area": 84.88
+  },
+  {
+    "aptNm": "킨텍스자이(1단지)",
+    "dealAmount": "47,000",
+    "date": "2026-04-26",
+    "floor": 3,
+    "area": 134.045
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "18,000",
+    "date": "2026-04-20",
+    "floor": 9,
+    "area": 59.905
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "16,000",
+    "date": "2026-04-17",
+    "floor": 9,
+    "area": 59.905
+  },
+  {
+    "aptNm": "용마동아",
+    "dealAmount": "66,000",
+    "date": "2026-03-22",
+    "floor": 8,
+    "area": 84.87
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "14,000",
+    "date": "2026-03-19",
+    "floor": 15,
+    "area": 59.905
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "15,000",
+    "date": "2026-03-19",
+    "floor": 5,
+    "area": 59.905
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "16,500",
+    "date": "2026-03-17",
+    "floor": 5,
+    "area": 59.905
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "26,500",
+    "date": "2026-03-10",
+    "floor": 2,
+    "area": 166.535
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "16,300",
+    "date": "2026-03-10",
+    "floor": 15,
+    "area": 59.905
+  },
+  {
+    "aptNm": "킨텍스자이(1단지)",
+    "dealAmount": "42,000",
+    "date": "2026-03-09",
+    "floor": 16,
+    "area": 163.459
+  },
+  {
+    "aptNm": "용마동아",
+    "dealAmount": "65,500",
+    "date": "2026-02-28",
+    "floor": 6,
+    "area": 84.88
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "15,400",
+    "date": "2026-02-27",
+    "floor": 13,
+    "area": 59.905
+  },
+  {
+    "aptNm": "용마동아",
+    "dealAmount": "63,500",
+    "date": "2026-02-14",
+    "floor": 6,
+    "area": 84.88
+  },
+  {
+    "aptNm": "부영3",
+    "dealAmount": "21,500",
+    "date": "2026-02-05",
+    "floor": 2,
+    "area": 84.88
+  }
+]

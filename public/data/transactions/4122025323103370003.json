@@ -1,0 +1,135 @@
+[
+  {
+    "aptNm": "우림",
+    "dealAmount": "7,000",
+    "date": "2026-06-27",
+    "floor": 12,
+    "area": 39.84
+  },
+  {
+    "aptNm": "동양부곡",
+    "dealAmount": "17,500",
+    "date": "2026-06-22",
+    "floor": 2,
+    "area": 69.72
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "10,700",
+    "date": "2026-06-18",
+    "floor": 10,
+    "area": 59.76
+  },
+  {
+    "aptNm": "동양부곡",
+    "dealAmount": "18,500",
+    "date": "2026-06-16",
+    "floor": 1,
+    "area": 69.72
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "6,300",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 39.84
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "8,500",
+    "date": "2026-05-14",
+    "floor": 13,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "9,000",
+    "date": "2026-05-06",
+    "floor": 18,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "10,400",
+    "date": "2026-05-04",
+    "floor": 14,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "8,800",
+    "date": "2026-04-15",
+    "floor": 11,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "10,000",
+    "date": "2026-04-14",
+    "floor": 4,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "7,300",
+    "date": "2026-04-09",
+    "floor": 6,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "11,000",
+    "date": "2026-03-25",
+    "floor": 8,
+    "area": 59.76
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "9,450",
+    "date": "2026-03-24",
+    "floor": 8,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "6,300",
+    "date": "2026-03-15",
+    "floor": 5,
+    "area": 39.84
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "7,500",
+    "date": "2026-03-13",
+    "floor": 15,
+    "area": 39.84
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "9,000",
+    "date": "2026-03-13",
+    "floor": 10,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "7,800",
+    "date": "2026-03-05",
+    "floor": 13,
+    "area": 39.84
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "7,400",
+    "date": "2026-02-23",
+    "floor": 11,
+    "area": 39.84
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "9,000",
+    "date": "2026-02-03",
+    "floor": 11,
+    "area": 39.84
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "aptNm": "보라맨션",
+    "dealAmount": "5,800",
+    "date": "2026-05-26",
+    "floor": 6,
+    "area": 58.83
+  },
+  {
+    "aptNm": "세풍",
+    "dealAmount": "12,000",
+    "date": "2026-05-04",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "보라맨션",
+    "dealAmount": "4,900",
+    "date": "2026-04-29",
+    "floor": 1,
+    "area": 58.74
+  },
+  {
+    "aptNm": "한효",
+    "dealAmount": "10,000",
+    "date": "2026-04-15",
+    "floor": 2,
+    "area": 84.51
+  },
+  {
+    "aptNm": "세풍",
+    "dealAmount": "9,000",
+    "date": "2026-04-09",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한효",
+    "dealAmount": "12,450",
+    "date": "2026-04-04",
+    "floor": 1,
+    "area": 84.51
+  },
+  {
+    "aptNm": "세풍",
+    "dealAmount": "9,000",
+    "date": "2026-03-26",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한효",
+    "dealAmount": "7,500",
+    "date": "2026-03-24",
+    "floor": 11,
+    "area": 59.84
+  },
+  {
+    "aptNm": "세풍",
+    "dealAmount": "13,750",
+    "date": "2026-03-21",
+    "floor": 7,
+    "area": 100.05
+  },
+  {
+    "aptNm": "세풍",
+    "dealAmount": "7,000",
+    "date": "2026-03-11",
+    "floor": 1,
+    "area": 59.88
+  },
+  {
+    "aptNm": "세풍",
+    "dealAmount": "8,000",
+    "date": "2026-03-06",
+    "floor": 14,
+    "area": 59.88
+  },
+  {
+    "aptNm": "세풍",
+    "dealAmount": "8,200",
+    "date": "2026-03-04",
+    "floor": 12,
+    "area": 59.88
+  },
+  {
+    "aptNm": "한효",
+    "dealAmount": "11,500",
+    "date": "2026-03-03",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "한효",
+    "dealAmount": "8,000",
+    "date": "2026-02-19",
+    "floor": 16,
+    "area": 59.84
+  },
+  {
+    "aptNm": "보라맨션",
+    "dealAmount": "9,000",
+    "date": "2026-02-12",
+    "floor": 5,
+    "area": 59.64
+  },
+  {
+    "aptNm": "한효",
+    "dealAmount": "7,100",
+    "date": "2026-02-04",
+    "floor": 13,
+    "area": 59.84
+  }
+]

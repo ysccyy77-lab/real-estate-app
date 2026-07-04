@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "신안2",
+    "dealAmount": "51,500",
+    "date": "2026-06-02",
+    "floor": 6,
+    "area": 171.69
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "33,000",
+    "date": "2026-05-31",
+    "floor": 4,
+    "area": 79.08
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "30,600",
+    "date": "2026-05-30",
+    "floor": 2,
+    "area": 62.52
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "37,000",
+    "date": "2026-05-21",
+    "floor": 2,
+    "area": 84.92
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "46,000",
+    "date": "2026-05-20",
+    "floor": 21,
+    "area": 171.69
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "44,000",
+    "date": "2026-05-15",
+    "floor": 1,
+    "area": 156.96
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "29,900",
+    "date": "2026-04-06",
+    "floor": 2,
+    "area": 62.52
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "43,200",
+    "date": "2026-03-21",
+    "floor": 9,
+    "area": 156.96
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "48,000",
+    "date": "2026-03-10",
+    "floor": 10,
+    "area": 171.69
+  },
+  {
+    "aptNm": "신안2",
+    "dealAmount": "38,000",
+    "date": "2026-03-10",
+    "floor": 17,
+    "area": 84.92
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "드리미아",
+    "dealAmount": "7,000",
+    "date": "2026-06-15",
+    "floor": 12,
+    "area": 19.193
+  },
+  {
+    "aptNm": "반포2차ApelBaum",
+    "dealAmount": "446,000",
+    "date": "2026-05-21",
+    "floor": 7,
+    "area": 243.3
+  },
+  {
+    "aptNm": "드리미아",
+    "dealAmount": "5,400",
+    "date": "2026-05-20",
+    "floor": 10,
+    "area": 18.7426
+  },
+  {
+    "aptNm": "드리미아",
+    "dealAmount": "6,300",
+    "date": "2026-04-27",
+    "floor": 10,
+    "area": 19.193
+  },
+  {
+    "aptNm": "드리미아",
+    "dealAmount": "6,500",
+    "date": "2026-02-03",
+    "floor": 9,
+    "area": 19.193
+  }
+]

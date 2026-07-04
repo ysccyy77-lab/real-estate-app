@@ -1,0 +1,72 @@
+[
+  {
+    "aptNm": "원동두산",
+    "dealAmount": "29,000",
+    "date": "2026-06-25",
+    "floor": 4,
+    "area": 84.73
+  },
+  {
+    "aptNm": "원동동아",
+    "dealAmount": "24,500",
+    "date": "2026-06-24",
+    "floor": 8,
+    "area": 74.25
+  },
+  {
+    "aptNm": "원동동아",
+    "dealAmount": "25,500",
+    "date": "2026-06-08",
+    "floor": 9,
+    "area": 84.73
+  },
+  {
+    "aptNm": "원동동아",
+    "dealAmount": "27,500",
+    "date": "2026-05-11",
+    "floor": 13,
+    "area": 84.73
+  },
+  {
+    "aptNm": "원동동아",
+    "dealAmount": "25,200",
+    "date": "2026-05-08",
+    "floor": 9,
+    "area": 74.25
+  },
+  {
+    "aptNm": "원동두산",
+    "dealAmount": "27,000",
+    "date": "2026-05-08",
+    "floor": 13,
+    "area": 84.73
+  },
+  {
+    "aptNm": "원동두산",
+    "dealAmount": "29,900",
+    "date": "2026-04-24",
+    "floor": 6,
+    "area": 84.73
+  },
+  {
+    "aptNm": "원동동아",
+    "dealAmount": "25,700",
+    "date": "2026-03-24",
+    "floor": 13,
+    "area": 74.25
+  },
+  {
+    "aptNm": "원동동아",
+    "dealAmount": "26,300",
+    "date": "2026-02-27",
+    "floor": 6,
+    "area": 74.25
+  },
+  {
+    "aptNm": "원동두산",
+    "dealAmount": "39,500",
+    "date": "2026-02-02",
+    "floor": 4,
+    "area": 129.72
+  }
+]

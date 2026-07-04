@@ -1,0 +1,121 @@
+[
+  {
+    "aptNm": "일산풍동에이스",
+    "dealAmount": "22,000",
+    "date": "2026-06-25",
+    "floor": 16,
+    "area": 59.71
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "61,000",
+    "date": "2026-06-24",
+    "floor": 1,
+    "area": 47.5
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "55,000",
+    "date": "2026-05-16",
+    "floor": 1,
+    "area": 47.5
+  },
+  {
+    "aptNm": "세원",
+    "dealAmount": "28,000",
+    "date": "2026-05-15",
+    "floor": 7,
+    "area": 133.35
+  },
+  {
+    "aptNm": "일산풍동에이스",
+    "dealAmount": "30,000",
+    "date": "2026-05-07",
+    "floor": 19,
+    "area": 59.71
+  },
+  {
+    "aptNm": "예건타워빌",
+    "dealAmount": "64,000",
+    "date": "2026-04-18",
+    "floor": 5,
+    "area": 80.73
+  },
+  {
+    "aptNm": "세원",
+    "dealAmount": "17,000",
+    "date": "2026-03-30",
+    "floor": 4,
+    "area": 59.5
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "55,900",
+    "date": "2026-03-27",
+    "floor": 2,
+    "area": 47.83
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "51,000",
+    "date": "2026-03-23",
+    "floor": 5,
+    "area": 47.5
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "52,500",
+    "date": "2026-03-13",
+    "floor": 5,
+    "area": 47.83
+  },
+  {
+    "aptNm": "일산풍동에이스",
+    "dealAmount": "40,500",
+    "date": "2026-03-07",
+    "floor": 24,
+    "area": 134.87
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "52,000",
+    "date": "2026-03-04",
+    "floor": 4,
+    "area": 47.5
+  },
+  {
+    "aptNm": "세원",
+    "dealAmount": "18,100",
+    "date": "2026-02-28",
+    "floor": 4,
+    "area": 59.5
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "50,000",
+    "date": "2026-02-06",
+    "floor": 6,
+    "area": 47.5
+  },
+  {
+    "aptNm": "일산풍동에이스",
+    "dealAmount": "25,100",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 59.71
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "50,000",
+    "date": "2026-02-05",
+    "floor": 5,
+    "area": 47.83
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "49,500",
+    "date": "2026-02-02",
+    "floor": 4,
+    "area": 47.5
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "aptNm": "대우3",
+    "dealAmount": "20,000",
+    "date": "2026-06-06",
+    "floor": 16,
+    "area": 84.7534
+  },
+  {
+    "aptNm": "대우3",
+    "dealAmount": "20,500",
+    "date": "2026-05-07",
+    "floor": 11,
+    "area": 84.7534
+  },
+  {
+    "aptNm": "대우3",
+    "dealAmount": "21,900",
+    "date": "2026-05-04",
+    "floor": 3,
+    "area": 84.7534
+  },
+  {
+    "aptNm": "대우3",
+    "dealAmount": "24,500",
+    "date": "2026-04-19",
+    "floor": 18,
+    "area": 84.7534
+  },
+  {
+    "aptNm": "대우3",
+    "dealAmount": "25,500",
+    "date": "2026-04-14",
+    "floor": 15,
+    "area": 84.7534
+  },
+  {
+    "aptNm": "대우3",
+    "dealAmount": "22,500",
+    "date": "2026-03-20",
+    "floor": 5,
+    "area": 84.7534
+  },
+  {
+    "aptNm": "대우3",
+    "dealAmount": "25,000",
+    "date": "2026-02-27",
+    "floor": 17,
+    "area": 107.612
+  }
+]

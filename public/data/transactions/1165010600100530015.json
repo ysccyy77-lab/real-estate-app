@@ -1,0 +1,30 @@
+[
+  {
+    "aptNm": "강변",
+    "dealAmount": "309,000",
+    "date": "2026-05-16",
+    "floor": 8,
+    "area": 84.53
+  },
+  {
+    "aptNm": "강변",
+    "dealAmount": "316,500",
+    "date": "2026-05-02",
+    "floor": 13,
+    "area": 84.53
+  },
+  {
+    "aptNm": "강변",
+    "dealAmount": "305,000",
+    "date": "2026-05-01",
+    "floor": 4,
+    "area": 84.53
+  },
+  {
+    "aptNm": "강변",
+    "dealAmount": "270,000",
+    "date": "2026-04-18",
+    "floor": 15,
+    "area": 66.29
+  }
+]

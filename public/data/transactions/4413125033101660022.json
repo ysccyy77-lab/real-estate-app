@@ -1,0 +1,37 @@
+[
+  {
+    "aptNm": "연합초원",
+    "dealAmount": "6,500",
+    "date": "2026-06-17",
+    "floor": 3,
+    "area": 53.82
+  },
+  {
+    "aptNm": "연합초원",
+    "dealAmount": "6,700",
+    "date": "2026-05-23",
+    "floor": 1,
+    "area": 59.49
+  },
+  {
+    "aptNm": "연합초원",
+    "dealAmount": "6,900",
+    "date": "2026-05-06",
+    "floor": 3,
+    "area": 53.82
+  },
+  {
+    "aptNm": "연합초원",
+    "dealAmount": "3,900",
+    "date": "2026-03-30",
+    "floor": 5,
+    "area": 53.82
+  },
+  {
+    "aptNm": "연합초원",
+    "dealAmount": "5,200",
+    "date": "2026-02-05",
+    "floor": 4,
+    "area": 59.49
+  }
+]
