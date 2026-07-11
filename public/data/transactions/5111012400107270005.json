@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "진흥",
+    "dealAmount": "16,000",
+    "date": "2026-07-07",
+    "floor": 11,
+    "area": 59.15
+  },
+  {
+    "aptNm": "진흥",
     "dealAmount": "17,150",
     "date": "2026-05-20",
     "floor": 4,

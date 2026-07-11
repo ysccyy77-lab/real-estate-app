@@ -1,10 +1,73 @@
 [
   {
     "aptNm": "율곡",
+    "dealAmount": "49,000",
+    "date": "2026-07-09",
+    "floor": 19,
+    "area": 51.66
+  },
+  {
+    "aptNm": "아야진라메르데시앙",
+    "dealAmount": "25,500",
+    "date": "2026-07-08",
+    "floor": 6,
+    "area": 59.9629
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "40,000",
+    "date": "2026-07-08",
+    "floor": 1,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "48,000",
+    "date": "2026-07-07",
+    "floor": 11,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "50,000",
+    "date": "2026-07-04",
+    "floor": 9,
+    "area": 58.46
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "47,000",
+    "date": "2026-07-03",
+    "floor": 19,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "44,700",
+    "date": "2026-07-03",
+    "floor": 24,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "44,000",
+    "date": "2026-07-02",
+    "floor": 20,
+    "area": 51.66
+  },
+  {
+    "aptNm": "율곡",
     "dealAmount": "46,000",
     "date": "2026-06-30",
     "floor": 5,
     "area": 51.66
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "75,000",
+    "date": "2026-06-30",
+    "floor": 5,
+    "area": 84.988
   },
   {
     "aptNm": "율곡",

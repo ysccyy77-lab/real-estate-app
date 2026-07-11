@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "신평삼익아파트",
+    "dealAmount": "13,000",
+    "date": "2026-07-04",
+    "floor": 1,
+    "area": 73.74
+  },
+  {
     "aptNm": "THE-푸른",
     "dealAmount": "9,400",
     "date": "2026-06-24",

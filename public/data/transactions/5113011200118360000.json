@@ -2,8 +2,22 @@
   {
     "aptNm": "백운3차",
     "dealAmount": "5,000",
+    "date": "2026-07-07",
+    "floor": 9,
+    "area": 40.83
+  },
+  {
+    "aptNm": "백운3차",
+    "dealAmount": "5,000",
     "date": "2026-07-03",
     "floor": 12,
+    "area": 49.29
+  },
+  {
+    "aptNm": "백운3차",
+    "dealAmount": "5,000",
+    "date": "2026-06-25",
+    "floor": 5,
     "area": 49.29
   },
   {

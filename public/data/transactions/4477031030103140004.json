@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "천산",
+    "dealAmount": "4,300",
+    "date": "2026-06-29",
+    "floor": 5,
+    "area": 59.706
+  },
+  {
+    "aptNm": "천산",
     "dealAmount": "6,000",
     "date": "2026-06-18",
     "floor": 4,

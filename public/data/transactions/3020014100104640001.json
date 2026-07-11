@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "엑스포",
+    "dealAmount": "58,000",
+    "date": "2026-07-10",
+    "floor": 9,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "64,000",
+    "date": "2026-07-08",
+    "floor": 17,
+    "area": 133.11
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "36,000",
+    "date": "2026-07-08",
+    "floor": 5,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "43,900",
+    "date": "2026-07-04",
+    "floor": 16,
+    "area": 84.173
+  },
+  {
+    "aptNm": "신답극동",
+    "dealAmount": "76,197",
+    "date": "2026-07-04",
+    "floor": 15,
+    "area": 46.53
+  },
+  {
+    "aptNm": "엑스포",
     "dealAmount": "52,800",
     "date": "2026-07-01",
     "floor": 17,

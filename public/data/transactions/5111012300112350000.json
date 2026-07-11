@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "신안풍림",
+    "dealAmount": "56,000",
+    "date": "2026-07-09",
+    "floor": 7,
+    "area": 134.04
+  },
+  {
+    "aptNm": "춘천퇴계 세영리첼아파트",
+    "dealAmount": "32,000",
+    "date": "2026-07-07",
+    "floor": 20,
+    "area": 72.794
+  },
+  {
+    "aptNm": "신안풍림",
+    "dealAmount": "52,500",
+    "date": "2026-07-06",
+    "floor": 2,
+    "area": 134.07
+  },
+  {
+    "aptNm": "일성",
+    "dealAmount": "11,900",
+    "date": "2026-07-01",
+    "floor": 19,
+    "area": 59.72
+  },
+  {
+    "aptNm": "일성",
+    "dealAmount": "11,500",
+    "date": "2026-06-30",
+    "floor": 10,
+    "area": 59.72
+  },
+  {
+    "aptNm": "신안풍림",
     "dealAmount": "49,500",
     "date": "2026-06-25",
     "floor": 12,

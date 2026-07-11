@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "강변",
+    "dealAmount": "74,500",
+    "date": "2026-07-06",
+    "floor": 17,
+    "area": 127.71
+  },
+  {
+    "aptNm": "신한토탈",
+    "dealAmount": "15,000",
+    "date": "2026-07-02",
+    "floor": 7,
+    "area": 59.654
+  },
+  {
+    "aptNm": "강변",
     "dealAmount": "72,000",
     "date": "2026-06-17",
     "floor": 11,

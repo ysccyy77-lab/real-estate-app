@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한강",
+    "dealAmount": "17,700",
+    "date": "2026-07-03",
+    "floor": 13,
+    "area": 59.92
+  },
+  {
+    "aptNm": "한강",
     "dealAmount": "15,000",
     "date": "2026-07-02",
     "floor": 8,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대한",
+    "dealAmount": "25,500",
+    "date": "2026-06-04",
+    "floor": 7,
+    "area": 59.92
+  },
+  {
+    "aptNm": "대한",
     "dealAmount": "27,000",
     "date": "2026-05-29",
     "floor": 8,

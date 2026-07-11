@@ -8,8 +8,36 @@
   },
   {
     "aptNm": "신월시영",
+    "dealAmount": "82,500",
+    "date": "2026-07-01",
+    "floor": 3,
+    "area": 59.49
+  },
+  {
+    "aptNm": "신월시영",
+    "dealAmount": "84,500",
+    "date": "2026-07-01",
+    "floor": 7,
+    "area": 59.49
+  },
+  {
+    "aptNm": "신월시영",
+    "dealAmount": "74,000",
+    "date": "2026-06-30",
+    "floor": 9,
+    "area": 50.67
+  },
+  {
+    "aptNm": "신월시영",
     "dealAmount": "80,500",
     "date": "2026-06-29",
+    "floor": 6,
+    "area": 59.49
+  },
+  {
+    "aptNm": "신월시영",
+    "dealAmount": "84,000",
+    "date": "2026-06-26",
     "floor": 6,
     "area": 59.49
   },

@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "광명",
+    "dealAmount": "9,000",
+    "date": "2026-07-09",
+    "floor": 5,
+    "area": 52.22
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "58,900",
+    "date": "2026-07-04",
+    "floor": 9,
+    "area": 84.91
+  },
+  {
+    "aptNm": "여월휴먼시아3단지",
+    "dealAmount": "73,300",
+    "date": "2026-07-01",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
     "aptNm": "논산인터불고코아루",
     "dealAmount": "29,000",
     "date": "2026-06-28",
     "floor": 10,
     "area": 84.9983
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "64,500",
+    "date": "2026-06-27",
+    "floor": 20,
+    "area": 59.73
   },
   {
     "aptNm": "현대",

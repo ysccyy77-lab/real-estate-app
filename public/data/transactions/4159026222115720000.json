@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "속초KCC스위첸",
+    "dealAmount": "26,500",
+    "date": "2026-07-07",
+    "floor": 2,
+    "area": 59.9027
+  },
+  {
+    "aptNm": "동광팰리스",
+    "dealAmount": "29,500",
+    "date": "2026-06-26",
+    "floor": 9,
+    "area": 25.9
+  },
+  {
+    "aptNm": "속초KCC스위첸",
     "dealAmount": "41,300",
     "date": "2026-06-24",
     "floor": 10,
@@ -19,6 +33,13 @@
     "date": "2026-06-23",
     "floor": 27,
     "area": 84.9762
+  },
+  {
+    "aptNm": "동광팰리스",
+    "dealAmount": "29,400",
+    "date": "2026-06-20",
+    "floor": 12,
+    "area": 27.98
   },
   {
     "aptNm": "속초KCC스위첸",

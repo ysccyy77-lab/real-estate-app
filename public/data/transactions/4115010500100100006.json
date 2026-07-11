@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "베르우스M",
+    "dealAmount": "15,500",
+    "date": "2026-07-06",
+    "floor": 20,
+    "area": 44.1614
+  },
+  {
+    "aptNm": "베르우스M",
     "dealAmount": "16,350",
     "date": "2026-02-13",
     "floor": 20,

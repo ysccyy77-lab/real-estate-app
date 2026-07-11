@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "에이스",
+    "dealAmount": "12,900",
+    "date": "2026-06-23",
+    "floor": 9,
+    "area": 76.78
+  },
+  {
+    "aptNm": "에이스",
     "dealAmount": "15,500",
     "date": "2026-04-09",
     "floor": 13,

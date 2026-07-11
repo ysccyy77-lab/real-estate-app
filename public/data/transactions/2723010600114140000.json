@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "건영1",
+    "dealAmount": "55,000",
+    "date": "2026-07-04",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "호매실엔루체(N'LUCE)",
+    "dealAmount": "59,900",
+    "date": "2026-07-03",
+    "floor": 2,
+    "area": 84.67
+  },
+  {
     "aptNm": "호매실엔루체(N'LUCE)",
     "dealAmount": "57,000",
     "date": "2026-06-26",

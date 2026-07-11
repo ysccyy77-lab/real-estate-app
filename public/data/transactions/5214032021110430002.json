@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "해담",
+    "dealAmount": "5,000",
+    "date": "2026-07-09",
+    "floor": 7,
+    "area": 49.68
+  },
+  {
+    "aptNm": "해담",
+    "dealAmount": "3,350",
+    "date": "2026-07-02",
+    "floor": 14,
+    "area": 39.96
+  },
+  {
+    "aptNm": "해담",
     "dealAmount": "4,400",
     "date": "2026-06-04",
     "floor": 6,

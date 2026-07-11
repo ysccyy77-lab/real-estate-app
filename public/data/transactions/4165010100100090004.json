@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "골든",
+    "dealAmount": "10,600",
+    "date": "2026-07-07",
+    "floor": 9,
+    "area": 84.24
+  },
+  {
+    "aptNm": "골든",
     "dealAmount": "9,700",
     "date": "2026-02-03",
     "floor": 10,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "본오",
+    "dealAmount": "13,800",
+    "date": "2026-07-04",
+    "floor": 9,
+    "area": 42.51
+  },
+  {
+    "aptNm": "본오",
+    "dealAmount": "13,000",
+    "date": "2026-06-22",
+    "floor": 6,
+    "area": 42.51
+  },
+  {
+    "aptNm": "본오",
     "dealAmount": "13,850",
     "date": "2026-06-15",
     "floor": 9,

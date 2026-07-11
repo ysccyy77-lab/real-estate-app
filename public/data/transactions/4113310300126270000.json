@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "동일하이빌",
+    "dealAmount": "35,000",
+    "date": "2026-07-05",
+    "floor": 10,
+    "area": 122.823
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "53,900",
+    "date": "2026-06-26",
+    "floor": 5,
+    "area": 68.85
+  },
+  {
+    "aptNm": "동일하이빌",
     "dealAmount": "32,800",
     "date": "2026-06-15",
     "floor": 8,

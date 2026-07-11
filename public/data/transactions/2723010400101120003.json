@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "예그린",
+    "dealAmount": "5,000",
+    "date": "2026-07-07",
+    "floor": 4,
+    "area": 47.01
+  },
+  {
+    "aptNm": "예그린",
     "dealAmount": "3,800",
     "date": "2026-07-02",
     "floor": 3,

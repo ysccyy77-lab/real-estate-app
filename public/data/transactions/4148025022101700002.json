@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "문산세성",
+    "dealAmount": "12,000",
+    "date": "2026-07-04",
+    "floor": 6,
+    "area": 59.85
+  },
+  {
+    "aptNm": "문산세성",
     "dealAmount": "14,200",
     "date": "2026-05-27",
     "floor": 2,

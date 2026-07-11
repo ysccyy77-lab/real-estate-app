@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "효행복마을",
+    "dealAmount": "6,300",
+    "date": "2026-07-07",
+    "floor": 2,
+    "area": 16.138
+  },
+  {
+    "aptNm": "효행복마을",
     "dealAmount": "6,200",
     "date": "2026-05-27",
     "floor": 2,

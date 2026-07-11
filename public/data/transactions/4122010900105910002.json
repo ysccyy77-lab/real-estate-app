@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "LIG아파트",
+    "dealAmount": "26,800",
+    "date": "2026-06-30",
+    "floor": 14,
+    "area": 99.96
+  },
+  {
+    "aptNm": "LIG아파트",
     "dealAmount": "24,900",
     "date": "2026-06-22",
     "floor": 7,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한강",
+    "dealAmount": "285,000",
+    "date": "2026-06-12",
+    "floor": 1,
+    "area": 84.53
+  },
+  {
+    "aptNm": "대명사이버아파트",
+    "dealAmount": "73,000",
+    "date": "2026-06-02",
+    "floor": 15,
+    "area": 59.84
+  },
+  {
+    "aptNm": "한강",
     "dealAmount": "299,000",
     "date": "2026-05-23",
     "floor": 4,

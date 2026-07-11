@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "선경",
+    "dealAmount": "48,000",
+    "date": "2026-06-30",
+    "floor": 5,
+    "area": 134.62
+  },
+  {
+    "aptNm": "선경",
     "dealAmount": "40,000",
     "date": "2026-06-20",
     "floor": 7,

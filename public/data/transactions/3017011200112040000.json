@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "녹원",
+    "dealAmount": "38,400",
+    "date": "2026-07-08",
+    "floor": 5,
+    "area": 59.54
+  },
+  {
+    "aptNm": "양산 평산 KCC스위첸",
+    "dealAmount": "34,300",
+    "date": "2026-07-05",
+    "floor": 27,
+    "area": 84.6948
+  },
+  {
+    "aptNm": "양산 평산 KCC스위첸",
+    "dealAmount": "34,500",
+    "date": "2026-07-03",
+    "floor": 20,
+    "area": 84.6948
+  },
+  {
+    "aptNm": "녹원",
+    "dealAmount": "37,500",
+    "date": "2026-07-03",
+    "floor": 6,
+    "area": 59.54
+  },
+  {
+    "aptNm": "삼성마을6단지",
+    "dealAmount": "39,000",
+    "date": "2026-06-29",
+    "floor": 11,
+    "area": 51.97
+  },
+  {
     "aptNm": "삼성마을6단지",
     "dealAmount": "44,000",
     "date": "2026-06-27",
     "floor": 8,
     "area": 59.98
+  },
+  {
+    "aptNm": "삼성마을6단지",
+    "dealAmount": "38,000",
+    "date": "2026-06-27",
+    "floor": 9,
+    "area": 51.73
   },
   {
     "aptNm": "녹원",
@@ -42,6 +84,13 @@
     "area": 84.92
   },
   {
+    "aptNm": "삼성마을6단지",
+    "dealAmount": "45,500",
+    "date": "2026-06-21",
+    "floor": 9,
+    "area": 59.98
+  },
+  {
     "aptNm": "녹원",
     "dealAmount": "38,500",
     "date": "2026-06-19",
@@ -61,6 +110,13 @@
     "date": "2026-06-18",
     "floor": 8,
     "area": 84.92
+  },
+  {
+    "aptNm": "녹원",
+    "dealAmount": "48,700",
+    "date": "2026-06-18",
+    "floor": 2,
+    "area": 84.6
   },
   {
     "aptNm": "성원",

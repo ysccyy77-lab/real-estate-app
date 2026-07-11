@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "장성현대",
+    "dealAmount": "10,800",
+    "date": "2026-06-27",
+    "floor": 1,
+    "area": 76.98
+  },
+  {
+    "aptNm": "장성현대",
     "dealAmount": "9,500",
     "date": "2026-06-10",
     "floor": 15,

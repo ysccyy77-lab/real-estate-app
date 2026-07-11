@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "동보",
+    "dealAmount": "28,800",
+    "date": "2026-07-06",
+    "floor": 10,
+    "area": 84.91
+  },
+  {
     "aptNm": "수암한라에이스빌",
     "dealAmount": "37,200",
     "date": "2026-07-02",
     "floor": 6,
     "area": 59.6521
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "29,500",
+    "date": "2026-06-26",
+    "floor": 14,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "26,400",
+    "date": "2026-06-25",
+    "floor": 8,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "31,500",
+    "date": "2026-06-24",
+    "floor": 15,
+    "area": 84.91
   },
   {
     "aptNm": "동보",

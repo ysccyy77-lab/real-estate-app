@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "신원",
+    "dealAmount": "58,000",
+    "date": "2026-06-25",
+    "floor": 19,
+    "area": 84.6
+  },
+  {
+    "aptNm": "삼일",
+    "dealAmount": "14,300",
+    "date": "2026-06-23",
+    "floor": 15,
+    "area": 84.05
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "56,300",
+    "date": "2026-06-22",
+    "floor": 20,
+    "area": 84.6
+  },
+  {
     "aptNm": "두레마을2차",
     "dealAmount": "16,000",
     "date": "2026-06-02",

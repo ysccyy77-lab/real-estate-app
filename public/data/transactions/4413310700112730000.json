@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "금호어울림",
+    "dealAmount": "63,000",
+    "date": "2026-07-06",
+    "floor": 10,
+    "area": 59.97
+  },
+  {
+    "aptNm": "상록수현대",
+    "dealAmount": "16,000",
+    "date": "2026-06-24",
+    "floor": 8,
+    "area": 84.41
+  },
+  {
+    "aptNm": "금호어울림",
     "dealAmount": "59,500",
     "date": "2026-06-15",
     "floor": 1,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "부천송내동양N'PART",
+    "dealAmount": "47,500",
+    "date": "2026-07-07",
+    "floor": 16,
+    "area": 84.88
+  },
+  {
+    "aptNm": "부천송내동양N'PART",
     "dealAmount": "45,500",
     "date": "2026-04-17",
     "floor": 5,

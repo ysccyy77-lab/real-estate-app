@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한신혜성",
+    "dealAmount": "19,500",
+    "date": "2026-07-03",
+    "floor": 1,
+    "area": 84.36
+  },
+  {
+    "aptNm": "한신혜성",
     "dealAmount": "12,800",
     "date": "2026-04-09",
     "floor": 24,

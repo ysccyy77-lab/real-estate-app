@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "어울림",
+    "dealAmount": "28,500",
+    "date": "2026-07-02",
+    "floor": 16,
+    "area": 59.85
+  },
+  {
+    "aptNm": "어울림",
     "dealAmount": "44,000",
     "date": "2026-06-27",
     "floor": 24,
     "area": 84.975
+  },
+  {
+    "aptNm": "어울림",
+    "dealAmount": "28,200",
+    "date": "2026-06-26",
+    "floor": 13,
+    "area": 59.85
   },
   {
     "aptNm": "어울림",

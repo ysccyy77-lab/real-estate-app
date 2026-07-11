@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한샘",
+    "dealAmount": "26,700",
+    "date": "2026-07-06",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한샘",
     "dealAmount": "22,000",
     "date": "2026-06-26",
     "floor": 17,

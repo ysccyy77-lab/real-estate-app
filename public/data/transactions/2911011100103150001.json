@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "송도SKVIEW",
+    "dealAmount": "68,000",
+    "date": "2026-07-08",
+    "floor": 30,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "73,000",
+    "date": "2026-07-06",
+    "floor": 35,
+    "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,800",
+    "date": "2026-07-04",
+    "floor": 19,
+    "area": 84.9753
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "69,800",
+    "date": "2026-06-30",
+    "floor": 37,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
     "dealAmount": "71,500",
     "date": "2026-06-27",
     "floor": 20,
@@ -26,6 +54,13 @@
     "date": "2026-06-19",
     "floor": 17,
     "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,500",
+    "date": "2026-06-19",
+    "floor": 6,
+    "area": 84.6541
   },
   {
     "aptNm": "유호",

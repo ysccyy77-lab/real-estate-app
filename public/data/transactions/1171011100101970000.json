@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대동청솔",
+    "dealAmount": "19,000",
+    "date": "2026-07-04",
+    "floor": 23,
+    "area": 85
+  },
+  {
+    "aptNm": "대동청솔",
     "dealAmount": "37,500",
     "date": "2026-07-01",
     "floor": 7,
@@ -32,6 +39,20 @@
     "dealAmount": "127,500",
     "date": "2026-06-17",
     "floor": 29,
+    "area": 151.2798
+  },
+  {
+    "aptNm": "GS하이츠자이",
+    "dealAmount": "86,500",
+    "date": "2026-06-09",
+    "floor": 30,
+    "area": 84.9016
+  },
+  {
+    "aptNm": "GS하이츠자이",
+    "dealAmount": "107,500",
+    "date": "2026-06-08",
+    "floor": 20,
     "area": 151.2798
   },
   {

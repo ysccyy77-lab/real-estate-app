@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "대동",
+    "dealAmount": "32,500",
+    "date": "2026-07-08",
+    "floor": 5,
+    "area": 51.75
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "28,500",
+    "date": "2026-07-07",
+    "floor": 4,
+    "area": 43.295
+  },
+  {
+    "aptNm": "대동",
     "dealAmount": "26,000",
     "date": "2026-06-28",
     "floor": 4,
     "area": 43.295
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "24,000",
+    "date": "2026-06-26",
+    "floor": 3,
+    "area": 40.445
   },
   {
     "aptNm": "울산옥현1주공",

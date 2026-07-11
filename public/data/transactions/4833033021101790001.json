@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "15,900",
+    "date": "2026-07-06",
+    "floor": 11,
+    "area": 52.38
+  },
+  {
     "aptNm": "늘해랑아파트",
     "dealAmount": "49,000",
     "date": "2026-06-25",
     "floor": 2,
     "area": 76.77
+  },
+  {
+    "aptNm": "한국",
+    "dealAmount": "39,500",
+    "date": "2026-06-20",
+    "floor": 20,
+    "area": 84.99
   },
   {
     "aptNm": "석탑,까치마을",

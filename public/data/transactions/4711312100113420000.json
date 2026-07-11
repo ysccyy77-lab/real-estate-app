@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "보성",
+    "dealAmount": "9,500",
+    "date": "2026-07-05",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
     "aptNm": "청송마을(현대2)",
     "dealAmount": "37,500",
     "date": "2026-06-24",
     "floor": 13,
     "area": 84.281
+  },
+  {
+    "aptNm": "보성",
+    "dealAmount": "22,300",
+    "date": "2026-06-16",
+    "floor": 1,
+    "area": 134.96
+  },
+  {
+    "aptNm": "반포써밋",
+    "dealAmount": "389,000",
+    "date": "2026-06-14",
+    "floor": 5,
+    "area": 84.9716
   },
   {
     "aptNm": "반포써밋",

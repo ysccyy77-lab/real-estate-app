@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신우",
+    "dealAmount": "35,500",
+    "date": "2026-06-26",
+    "floor": 18,
+    "area": 122.445
+  },
+  {
+    "aptNm": "신우",
     "dealAmount": "26,000",
     "date": "2026-06-19",
     "floor": 11,

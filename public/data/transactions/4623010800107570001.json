@@ -7,10 +7,31 @@
     "area": 84.57
   },
   {
+    "aptNm": "에코메트로7",
+    "dealAmount": "58,500",
+    "date": "2026-07-03",
+    "floor": 24,
+    "area": 84.992
+  },
+  {
+    "aptNm": "세아",
+    "dealAmount": "18,500",
+    "date": "2026-07-02",
+    "floor": 15,
+    "area": 58.22
+  },
+  {
     "aptNm": "세아",
     "dealAmount": "17,200",
     "date": "2026-07-01",
     "floor": 4,
+    "area": 58.22
+  },
+  {
+    "aptNm": "세아",
+    "dealAmount": "17,600",
+    "date": "2026-07-01",
+    "floor": 25,
     "area": 58.22
   },
   {

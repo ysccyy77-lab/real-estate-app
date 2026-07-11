@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신기주공",
+    "dealAmount": "6,400",
+    "date": "2026-07-04",
+    "floor": 11,
+    "area": 38.64
+  },
+  {
+    "aptNm": "신기주공",
     "dealAmount": "6,000",
     "date": "2026-06-26",
     "floor": 14,

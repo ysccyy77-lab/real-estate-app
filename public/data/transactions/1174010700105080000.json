@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "초읍대우",
+    "dealAmount": "20,400",
+    "date": "2026-07-10",
+    "floor": 17,
+    "area": 84.962
+  },
+  {
+    "aptNm": "배방자이",
+    "dealAmount": "26,000",
+    "date": "2026-07-07",
+    "floor": 8,
+    "area": 123.41
+  },
+  {
+    "aptNm": "신비마을",
+    "dealAmount": "14,500",
+    "date": "2026-07-05",
+    "floor": 9,
+    "area": 49.35
+  },
+  {
     "aptNm": "배방자이",
     "dealAmount": "19,700",
     "date": "2026-07-03",

@@ -2,6 +2,13 @@
   {
     "aptNm": "조일",
     "dealAmount": "1,000",
+    "date": "2026-07-07",
+    "floor": 3,
+    "area": 50.185
+  },
+  {
+    "aptNm": "조일",
+    "dealAmount": "1,000",
     "date": "2026-06-15",
     "floor": 2,
     "area": 50.185

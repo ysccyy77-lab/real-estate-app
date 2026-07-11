@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "공영푸른솔",
+    "dealAmount": "7,400",
+    "date": "2026-07-03",
+    "floor": 9,
+    "area": 49.98
+  },
+  {
+    "aptNm": "공영푸른솔",
     "dealAmount": "7,000",
     "date": "2026-06-13",
     "floor": 7,

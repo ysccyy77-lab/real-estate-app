@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "파라다이스빌",
+    "dealAmount": "32,000",
+    "date": "2026-07-10",
+    "floor": 3,
+    "area": 84.985
+  },
+  {
+    "aptNm": "삼진",
+    "dealAmount": "3,000",
+    "date": "2026-07-09",
+    "floor": 5,
+    "area": 52.15
+  },
+  {
+    "aptNm": "내안애양우",
+    "dealAmount": "55,500",
+    "date": "2026-07-08",
+    "floor": 19,
+    "area": 84.59
+  },
+  {
+    "aptNm": "내안애양우",
+    "dealAmount": "55,500",
+    "date": "2026-07-03",
+    "floor": 11,
+    "area": 84.59
+  },
+  {
+    "aptNm": "삼진",
+    "dealAmount": "3,000",
+    "date": "2026-07-03",
+    "floor": 5,
+    "area": 52.15
+  },
+  {
     "aptNm": "동신2차",
     "dealAmount": "17,400",
     "date": "2026-06-26",
     "floor": 11,
     "area": 84.91
+  },
+  {
+    "aptNm": "파라다이스빌",
+    "dealAmount": "25,100",
+    "date": "2026-06-20",
+    "floor": 1,
+    "area": 84.985
+  },
+  {
+    "aptNm": "옥수삼성",
+    "dealAmount": "214,000",
+    "date": "2026-06-18",
+    "floor": 2,
+    "area": 84.822
   },
   {
     "aptNm": "삼진",

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "무림",
+    "dealAmount": "39,500",
+    "date": "2026-07-04",
+    "floor": 4,
+    "area": 56.19
+  },
+  {
+    "aptNm": "마포푸르지오더센트럴",
+    "dealAmount": "85,000",
+    "date": "2026-07-04",
+    "floor": 17,
+    "area": 41.59
+  },
+  {
+    "aptNm": "무림",
     "dealAmount": "38,000",
     "date": "2026-06-12",
     "floor": 6,

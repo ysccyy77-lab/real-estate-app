@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "오포대성",
+    "dealAmount": "25,000",
+    "date": "2026-07-08",
+    "floor": 4,
+    "area": 84.81
+  },
+  {
+    "aptNm": "오포대성",
     "dealAmount": "21,400",
     "date": "2026-06-24",
     "floor": 1,

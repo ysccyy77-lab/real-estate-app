@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "학마을영남",
+    "dealAmount": "33,000",
+    "date": "2026-07-09",
+    "floor": 11,
+    "area": 59.94
+  },
+  {
+    "aptNm": "학마을서해",
+    "dealAmount": "29,000",
+    "date": "2026-07-08",
+    "floor": 2,
+    "area": 59.79
+  },
+  {
+    "aptNm": "학마을영남",
+    "dealAmount": "34,000",
+    "date": "2026-07-04",
+    "floor": 14,
+    "area": 59.94
+  },
+  {
+    "aptNm": "학마을서해",
+    "dealAmount": "10,500",
+    "date": "2026-06-30",
+    "floor": 5,
+    "area": 26.01
+  },
+  {
     "aptNm": "학마을서해",
     "dealAmount": "31,500",
     "date": "2026-06-28",

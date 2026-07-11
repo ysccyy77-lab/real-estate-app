@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "부용마크뷰",
+    "dealAmount": "12,500",
+    "date": "2026-07-09",
+    "floor": 4,
+    "area": 70.3683
+  },
+  {
+    "aptNm": "신미",
+    "dealAmount": "122,000",
+    "date": "2026-07-01",
+    "floor": 2,
+    "area": 57.56
+  },
+  {
     "aptNm": "고척LIG리가2차",
     "dealAmount": "90,000",
     "date": "2026-06-17",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "상아그린",
+    "dealAmount": "12,000",
+    "date": "2026-07-01",
+    "floor": 1,
+    "area": 59.95
+  },
+  {
+    "aptNm": "상아그린",
     "dealAmount": "9,000",
     "date": "2026-06-25",
     "floor": 3,

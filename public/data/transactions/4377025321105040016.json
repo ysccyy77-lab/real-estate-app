@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "풍산장미",
+    "dealAmount": "8,500",
+    "date": "2026-07-05",
+    "floor": 13,
+    "area": 59.88
+  },
+  {
+    "aptNm": "풍산장미",
     "dealAmount": "6,800",
     "date": "2026-06-05",
     "floor": 6,

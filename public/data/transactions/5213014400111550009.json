@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "현대백조",
+    "dealAmount": "7,200",
+    "date": "2026-07-03",
+    "floor": 1,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대백조",
+    "dealAmount": "6,500",
+    "date": "2026-06-27",
+    "floor": 14,
+    "area": 84.6
+  },
+  {
     "aptNm": "동신",
     "dealAmount": "6,900",
     "date": "2026-06-24",

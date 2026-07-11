@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "산호녹원맨션",
+    "dealAmount": "9,000",
+    "date": "2026-07-10",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "구서SKVIEW1단지",
+    "dealAmount": "91,000",
+    "date": "2026-07-03",
+    "floor": 6,
+    "area": 114.165
+  },
+  {
+    "aptNm": "후곡마을(동아10)",
+    "dealAmount": "77,000",
+    "date": "2026-07-01",
+    "floor": 11,
+    "area": 130.23
+  },
+  {
     "aptNm": "스위트드림아파트",
     "dealAmount": "42,000",
     "date": "2026-06-27",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "푸른맨션",
+    "dealAmount": "11,500",
+    "date": "2026-07-04",
+    "floor": 2,
+    "area": 84.87
+  },
+  {
+    "aptNm": "푸른맨션",
     "dealAmount": "8,000",
     "date": "2026-05-28",
     "floor": 8,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신화",
+    "dealAmount": "210,000",
+    "date": "2026-06-23",
+    "floor": 7,
+    "area": 57.33
+  },
+  {
+    "aptNm": "신화",
     "dealAmount": "211,000",
     "date": "2026-05-19",
     "floor": 6,

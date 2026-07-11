@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "대전둔곡우미린",
+    "dealAmount": "36,400",
+    "date": "2026-07-07",
+    "floor": 3,
+    "area": 68.5227
+  },
+  {
+    "aptNm": "DMC파인시티자이",
+    "dealAmount": "159,000",
+    "date": "2026-07-07",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "대전둔곡우미린",
+    "dealAmount": "43,500",
+    "date": "2026-07-05",
+    "floor": 16,
+    "area": 84.9541
+  },
+  {
+    "aptNm": "DMC파인시티자이",
+    "dealAmount": "147,000",
+    "date": "2026-07-01",
+    "floor": 24,
+    "area": 74.84
+  },
+  {
+    "aptNm": "대전둔곡우미린",
+    "dealAmount": "45,500",
+    "date": "2026-06-30",
+    "floor": 8,
+    "area": 84.946
+  },
+  {
+    "aptNm": "대전둔곡우미린",
+    "dealAmount": "46,000",
+    "date": "2026-06-26",
+    "floor": 4,
+    "area": 84.9465
+  },
+  {
+    "aptNm": "대전둔곡우미린",
+    "dealAmount": "34,800",
+    "date": "2026-06-26",
+    "floor": 24,
+    "area": 65.355
+  },
+  {
     "aptNm": "DMC한양",
     "dealAmount": "118,000",
     "date": "2026-06-25",

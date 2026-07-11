@@ -7,11 +7,25 @@
     "area": 69.63
   },
   {
+    "aptNm": "춘천해강",
+    "dealAmount": "5,500",
+    "date": "2026-07-03",
+    "floor": 1,
+    "area": 37.35
+  },
+  {
     "aptNm": "산호한양",
     "dealAmount": "10,250",
     "date": "2026-06-22",
     "floor": 13,
     "area": 59.82
+  },
+  {
+    "aptNm": "산호한양",
+    "dealAmount": "6,000",
+    "date": "2026-06-22",
+    "floor": 2,
+    "area": 36.18
   },
   {
     "aptNm": "흰돌마을(청구)",

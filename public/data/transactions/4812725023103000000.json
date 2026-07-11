@@ -1,10 +1,87 @@
 [
   {
+    "aptNm": "창원메트로시티석전",
+    "dealAmount": "22,000",
+    "date": "2026-07-10",
+    "floor": 26,
+    "area": 38.828
+  },
+  {
+    "aptNm": "효성아파트",
+    "dealAmount": "11,700",
+    "date": "2026-07-09",
+    "floor": 2,
+    "area": 45.32
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "97,500",
+    "date": "2026-07-07",
+    "floor": 6,
+    "area": 74.69
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "104,000",
+    "date": "2026-07-07",
+    "floor": 18,
+    "area": 84.97
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "100,500",
+    "date": "2026-07-04",
+    "floor": 16,
+    "area": 84.97
+  },
+  {
+    "aptNm": "창원메트로시티석전",
+    "dealAmount": "39,500",
+    "date": "2026-07-04",
+    "floor": 3,
+    "area": 59.6825
+  },
+  {
+    "aptNm": "강변한솔솔파크",
+    "dealAmount": "137,000",
+    "date": "2026-07-04",
+    "floor": 20,
+    "area": 84.97
+  },
+  {
+    "aptNm": "상아2차아파트",
+    "dealAmount": "67,700",
+    "date": "2026-07-03",
+    "floor": 12,
+    "area": 58.59
+  },
+  {
     "aptNm": "아양주공1",
     "dealAmount": "9,000",
     "date": "2026-07-02",
     "floor": 3,
     "area": 39.61
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "87,000",
+    "date": "2026-07-02",
+    "floor": 9,
+    "area": 59.94
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "89,500",
+    "date": "2026-07-02",
+    "floor": 1,
+    "area": 84.97
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "107,000",
+    "date": "2026-07-01",
+    "floor": 14,
+    "area": 84.97
   },
   {
     "aptNm": "매교역푸르지오SKVIEW",
@@ -29,10 +106,24 @@
   },
   {
     "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "86,000",
+    "date": "2026-06-27",
+    "floor": 7,
+    "area": 59.78
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
     "dealAmount": "104,700",
     "date": "2026-06-26",
     "floor": 5,
     "area": 84.97
+  },
+  {
+    "aptNm": "혁신도시엘에이치아파트8단지",
+    "dealAmount": "44,000",
+    "date": "2026-06-26",
+    "floor": 23,
+    "area": 59.96
   },
   {
     "aptNm": "창원메트로시티석전",
@@ -168,6 +259,13 @@
     "area": 59.6947
   },
   {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "84,000",
+    "date": "2026-06-16",
+    "floor": 10,
+    "area": 59.94
+  },
+  {
     "aptNm": "창원메트로시티석전",
     "dealAmount": "33,000",
     "date": "2026-06-15",
@@ -278,6 +376,20 @@
     "date": "2026-06-10",
     "floor": 18,
     "area": 59.6825
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "79,000",
+    "date": "2026-06-10",
+    "floor": 1,
+    "area": 74.69
+  },
+  {
+    "aptNm": "우만주공4단지",
+    "dealAmount": "31,000",
+    "date": "2026-06-10",
+    "floor": 10,
+    "area": 36.16
   },
   {
     "aptNm": "매교역푸르지오SKVIEW",

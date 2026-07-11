@@ -8,6 +8,13 @@
   },
   {
     "aptNm": "신라",
+    "dealAmount": "8,750",
+    "date": "2026-06-19",
+    "floor": 9,
+    "area": 49.68
+  },
+  {
+    "aptNm": "신라",
     "dealAmount": "10,100",
     "date": "2026-05-27",
     "floor": 8,

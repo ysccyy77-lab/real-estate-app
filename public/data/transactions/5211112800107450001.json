@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "현대에코르",
+    "dealAmount": "40,000",
+    "date": "2026-07-09",
+    "floor": 19,
+    "area": 84.75
+  },
+  {
+    "aptNm": "현대에코르",
+    "dealAmount": "48,800",
+    "date": "2026-07-08",
+    "floor": 18,
+    "area": 101.8
+  },
+  {
+    "aptNm": "현대에코르",
+    "dealAmount": "39,000",
+    "date": "2026-07-08",
+    "floor": 7,
+    "area": 84.75
+  },
+  {
+    "aptNm": "현대에코르",
     "dealAmount": "37,000",
     "date": "2026-07-01",
     "floor": 1,

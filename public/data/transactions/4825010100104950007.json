@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한덕타워",
+    "dealAmount": "8,800",
+    "date": "2026-07-05",
+    "floor": 8,
+    "area": 59.73
+  },
+  {
+    "aptNm": "한덕타워",
     "dealAmount": "10,000",
     "date": "2026-05-23",
     "floor": 7,

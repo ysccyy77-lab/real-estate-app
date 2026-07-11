@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "하나로",
+    "dealAmount": "22,500",
+    "date": "2026-07-09",
+    "floor": 6,
+    "area": 59.76
+  },
+  {
+    "aptNm": "하나로",
     "dealAmount": "22,400",
     "date": "2026-07-01",
     "floor": 2,

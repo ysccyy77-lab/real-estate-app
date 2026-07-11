@@ -1,9 +1,37 @@
 [
   {
+    "aptNm": "풍림2",
+    "dealAmount": "48,000",
+    "date": "2026-07-05",
+    "floor": 4,
+    "area": 84.22
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "91,500",
+    "date": "2026-07-04",
+    "floor": 24,
+    "area": 59.95
+  },
+  {
+    "aptNm": "삼도드림파크",
+    "dealAmount": "7,900",
+    "date": "2026-06-27",
+    "floor": 1,
+    "area": 50.3
+  },
+  {
     "aptNm": "현대",
     "dealAmount": "87,000",
     "date": "2026-06-26",
     "floor": 2,
+    "area": 59.95
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "88,700",
+    "date": "2026-06-25",
+    "floor": 7,
     "area": 59.95
   },
   {

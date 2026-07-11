@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한강동일스위트TheParkView1단지",
+    "dealAmount": "41,500",
+    "date": "2026-06-26",
+    "floor": 6,
+    "area": 84.8977
+  },
+  {
+    "aptNm": "한강동일스위트TheParkView1단지",
     "dealAmount": "45,100",
     "date": "2026-06-22",
     "floor": 19,

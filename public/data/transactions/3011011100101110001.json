@@ -7,11 +7,25 @@
     "area": 84.97
   },
   {
+    "aptNm": "주공2",
+    "dealAmount": "45,500",
+    "date": "2026-06-26",
+    "floor": 7,
+    "area": 74.79
+  },
+  {
     "aptNm": "유존",
     "dealAmount": "14,500",
     "date": "2026-06-24",
     "floor": 11,
     "area": 84.97
+  },
+  {
+    "aptNm": "유존",
+    "dealAmount": "4,100",
+    "date": "2026-06-24",
+    "floor": 2,
+    "area": 35.045
   },
   {
     "aptNm": "주공2",

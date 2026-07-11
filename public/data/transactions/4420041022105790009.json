@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경희학성",
+    "dealAmount": "4,100",
+    "date": "2026-07-06",
+    "floor": 8,
+    "area": 29.51
+  },
+  {
+    "aptNm": "경희학성",
     "dealAmount": "5,100",
     "date": "2026-06-11",
     "floor": 14,

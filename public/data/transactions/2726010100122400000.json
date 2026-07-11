@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "e편한세상범어",
+    "dealAmount": "76,500",
+    "date": "2026-07-06",
+    "floor": 21,
+    "area": 84.791
+  },
+  {
+    "aptNm": "e편한세상범어",
+    "dealAmount": "77,000",
+    "date": "2026-07-04",
+    "floor": 23,
+    "area": 84.791
+  },
+  {
+    "aptNm": "e편한세상범어",
+    "dealAmount": "77,700",
+    "date": "2026-06-27",
+    "floor": 19,
+    "area": 84.791
+  },
+  {
+    "aptNm": "e편한세상범어",
     "dealAmount": "75,300",
     "date": "2026-06-23",
     "floor": 8,

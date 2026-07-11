@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한진",
+    "dealAmount": "24,000",
+    "date": "2026-07-04",
+    "floor": 6,
+    "area": 61.16
+  },
+  {
+    "aptNm": "한진",
     "dealAmount": "18,000",
     "date": "2026-06-27",
     "floor": 10,

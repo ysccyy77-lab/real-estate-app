@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "창신황제타운",
+    "dealAmount": "5,100",
+    "date": "2026-07-09",
+    "floor": 6,
+    "area": 59.91
+  },
+  {
+    "aptNm": "창신황제타운",
+    "dealAmount": "5,450",
+    "date": "2026-06-29",
+    "floor": 8,
+    "area": 59.91
+  },
+  {
+    "aptNm": "우림필유",
+    "dealAmount": "10,800",
+    "date": "2026-06-26",
+    "floor": 12,
+    "area": 84.74
+  },
+  {
     "aptNm": "우림필유",
     "dealAmount": "7,300",
     "date": "2026-06-20",

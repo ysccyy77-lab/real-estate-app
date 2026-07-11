@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "삼익",
+    "dealAmount": "22,700",
+    "date": "2026-07-09",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "용산e편한세상",
+    "dealAmount": "240,000",
+    "date": "2026-06-24",
+    "floor": 10,
+    "area": 84.89
+  },
+  {
     "aptNm": "선산주공",
     "dealAmount": "5,000",
     "date": "2026-06-22",

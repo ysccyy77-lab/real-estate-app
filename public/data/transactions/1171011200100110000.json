@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "삼익2",
+    "dealAmount": "19,500",
+    "date": "2026-07-08",
+    "floor": 1,
+    "area": 123.9
+  },
+  {
+    "aptNm": "삼익2",
+    "dealAmount": "20,000",
+    "date": "2026-07-06",
+    "floor": 9,
+    "area": 146.85
+  },
+  {
+    "aptNm": "삼익2",
     "dealAmount": "20,000",
     "date": "2026-07-03",
     "floor": 9,
     "area": 146.85
+  },
+  {
+    "aptNm": "롯데캐슬프레미어",
+    "dealAmount": "410,000",
+    "date": "2026-07-02",
+    "floor": 20,
+    "area": 122.485
+  },
+  {
+    "aptNm": "삼익2",
+    "dealAmount": "15,500",
+    "date": "2026-06-30",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "장미2",
+    "dealAmount": "285,000",
+    "date": "2026-06-29",
+    "floor": 13,
+    "area": 71.2
   },
   {
     "aptNm": "현대백조",

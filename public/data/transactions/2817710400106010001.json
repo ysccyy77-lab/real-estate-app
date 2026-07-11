@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "대우2차아파트",
+    "dealAmount": "7,200",
+    "date": "2026-07-08",
+    "floor": 1,
+    "area": 48.84
+  },
+  {
+    "aptNm": "신도시쌍용",
+    "dealAmount": "24,200",
+    "date": "2026-07-07",
+    "floor": 2,
+    "area": 84.982
+  },
+  {
+    "aptNm": "대우2차아파트",
     "dealAmount": "9,500",
     "date": "2026-07-02",
     "floor": 9,
     "area": 48.84
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "27,500",
+    "date": "2026-07-02",
+    "floor": 7,
+    "area": 84.95
   },
   {
     "aptNm": "대우2차아파트",

@@ -1,9 +1,30 @@
 [
   {
     "aptNm": "우륵",
+    "dealAmount": "50,000",
+    "date": "2026-07-09",
+    "floor": 10,
+    "area": 58.46
+  },
+  {
+    "aptNm": "우륵",
+    "dealAmount": "48,000",
+    "date": "2026-07-02",
+    "floor": 13,
+    "area": 58.19
+  },
+  {
+    "aptNm": "우륵",
     "dealAmount": "44,800",
     "date": "2026-06-22",
     "floor": 6,
+    "area": 58.46
+  },
+  {
+    "aptNm": "우륵",
+    "dealAmount": "41,000",
+    "date": "2026-06-22",
+    "floor": 1,
     "area": 58.46
   },
   {

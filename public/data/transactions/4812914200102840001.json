@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한아름현대",
+    "dealAmount": "9,000",
+    "date": "2026-07-08",
+    "floor": 7,
+    "area": 71.115
+  },
+  {
+    "aptNm": "한아름현대",
     "dealAmount": "8,000",
     "date": "2026-06-07",
     "floor": 4,

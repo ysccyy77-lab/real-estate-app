@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대림힐타운",
+    "dealAmount": "10,100",
+    "date": "2026-07-09",
+    "floor": 11,
+    "area": 59.56
+  },
+  {
+    "aptNm": "서울",
+    "dealAmount": "540,000",
+    "date": "2026-06-29",
+    "floor": 1,
+    "area": 139.31
+  },
+  {
+    "aptNm": "대림힐타운",
     "dealAmount": "8,300",
     "date": "2026-06-07",
     "floor": 21,

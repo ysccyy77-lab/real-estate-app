@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대연극동StarClass",
+    "dealAmount": "30,800",
+    "date": "2026-07-07",
+    "floor": 15,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한진빌라",
+    "dealAmount": "20,000",
+    "date": "2026-07-04",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "대연극동StarClass",
     "dealAmount": "22,500",
     "date": "2026-07-03",
     "floor": 4,

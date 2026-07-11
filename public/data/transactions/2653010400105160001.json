@@ -8,6 +8,13 @@
   },
   {
     "aptNm": "삼화",
+    "dealAmount": "3,500",
+    "date": "2026-06-29",
+    "floor": 4,
+    "area": 50.85
+  },
+  {
+    "aptNm": "삼화",
     "dealAmount": "3,400",
     "date": "2026-05-13",
     "floor": 6,

@@ -8,6 +8,13 @@
   },
   {
     "aptNm": "미진1",
+    "dealAmount": "12,500",
+    "date": "2026-06-15",
+    "floor": 4,
+    "area": 78.12
+  },
+  {
+    "aptNm": "미진1",
     "dealAmount": "12,900",
     "date": "2026-06-14",
     "floor": 13,

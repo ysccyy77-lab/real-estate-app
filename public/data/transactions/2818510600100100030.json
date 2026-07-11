@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송도SK뷰센트럴",
+    "dealAmount": "88,000",
+    "date": "2026-07-02",
+    "floor": 23,
+    "area": 84.6566
+  },
+  {
+    "aptNm": "송도SK뷰센트럴",
     "dealAmount": "81,000",
     "date": "2026-06-21",
     "floor": 24,

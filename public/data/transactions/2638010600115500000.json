@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "몰운대",
+    "dealAmount": "11,800",
+    "date": "2026-07-06",
+    "floor": 17,
+    "area": 49.08
+  },
+  {
+    "aptNm": "몰운대",
+    "dealAmount": "9,600",
+    "date": "2026-07-03",
+    "floor": 5,
+    "area": 49.08
+  },
+  {
+    "aptNm": "몰운대",
+    "dealAmount": "11,000",
+    "date": "2026-07-02",
+    "floor": 22,
+    "area": 49.08
+  },
+  {
+    "aptNm": "한성필하우스아파트",
+    "dealAmount": "15,700",
+    "date": "2026-07-01",
+    "floor": 15,
+    "area": 59.9947
+  },
+  {
     "aptNm": "2단지주공",
     "dealAmount": "16,500",
     "date": "2026-06-30",
     "floor": 9,
     "area": 49.8
+  },
+  {
+    "aptNm": "몰운대",
+    "dealAmount": "9,200",
+    "date": "2026-06-30",
+    "floor": 7,
+    "area": 49.08
   },
   {
     "aptNm": "몰운대",

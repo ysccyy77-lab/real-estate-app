@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "상패주공",
+    "dealAmount": "6,200",
+    "date": "2026-07-05",
+    "floor": 2,
+    "area": 39.99
+  },
+  {
+    "aptNm": "상패주공",
+    "dealAmount": "5,900",
+    "date": "2026-07-05",
+    "floor": 5,
+    "area": 39.99
+  },
+  {
+    "aptNm": "상패주공",
+    "dealAmount": "8,400",
+    "date": "2026-07-02",
+    "floor": 12,
+    "area": 49.84
+  },
+  {
+    "aptNm": "상패주공",
     "dealAmount": "6,500",
     "date": "2026-06-24",
     "floor": 1,

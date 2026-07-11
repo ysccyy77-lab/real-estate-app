@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "양산2차e편한세상",
+    "dealAmount": "40,000",
+    "date": "2026-07-07",
+    "floor": 11,
+    "area": 118.2
+  },
+  {
+    "aptNm": "양산2차e편한세상",
+    "dealAmount": "23,350",
+    "date": "2026-07-04",
+    "floor": 11,
+    "area": 59.95
+  },
+  {
+    "aptNm": "양산2차e편한세상",
+    "dealAmount": "31,220",
+    "date": "2026-07-04",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "양산2차e편한세상",
     "dealAmount": "32,000",
     "date": "2026-06-29",
     "floor": 4,

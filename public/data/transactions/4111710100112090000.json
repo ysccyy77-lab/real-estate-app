@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "코아루",
+    "dealAmount": "22,000",
+    "date": "2026-07-09",
+    "floor": 13,
+    "area": 84.7156
+  },
+  {
+    "aptNm": "e편한세상수지",
+    "dealAmount": "171,000",
+    "date": "2026-07-07",
+    "floor": 27,
+    "area": 84.921
+  },
+  {
+    "aptNm": "코아루",
     "dealAmount": "20,000",
     "date": "2026-06-25",
     "floor": 13,

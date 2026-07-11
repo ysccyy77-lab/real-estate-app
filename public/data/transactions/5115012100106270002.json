@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대림임대",
+    "dealAmount": "6,800",
+    "date": "2026-07-06",
+    "floor": 5,
+    "area": 48.32
+  },
+  {
+    "aptNm": "대림임대",
     "dealAmount": "6,000",
     "date": "2026-06-19",
     "floor": 5,

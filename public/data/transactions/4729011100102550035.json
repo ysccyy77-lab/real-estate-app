@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한솔2차",
+    "dealAmount": "15,350",
+    "date": "2026-07-08",
+    "floor": 18,
+    "area": 59.92
+  },
+  {
+    "aptNm": "한솔2차",
+    "dealAmount": "12,700",
+    "date": "2026-06-30",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "한솔2차",
     "dealAmount": "23,200",
     "date": "2026-06-13",
     "floor": 14,

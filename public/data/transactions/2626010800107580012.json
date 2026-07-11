@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동래SKVIEW",
+    "dealAmount": "60,000",
+    "date": "2026-06-17",
+    "floor": 12,
+    "area": 84.7556
+  },
+  {
+    "aptNm": "동래SKVIEW",
     "dealAmount": "85,200",
     "date": "2026-05-05",
     "floor": 4,

@@ -1,10 +1,59 @@
 [
   {
     "aptNm": "현대1차",
+    "dealAmount": "37,500",
+    "date": "2026-07-07",
+    "floor": 12,
+    "area": 84.6
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "9,500",
+    "date": "2026-07-04",
+    "floor": 16,
+    "area": 49.92
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "39,000",
+    "date": "2026-07-03",
+    "floor": 12,
+    "area": 84.6
+  },
+  {
+    "aptNm": "일신",
+    "dealAmount": "5,950",
+    "date": "2026-06-30",
+    "floor": 2,
+    "area": 39.95
+  },
+  {
+    "aptNm": "현대1차",
     "dealAmount": "41,000",
     "date": "2026-06-25",
     "floor": 10,
     "area": 84.6
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "39,000",
+    "date": "2026-06-25",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한중",
+    "dealAmount": "7,200",
+    "date": "2026-06-25",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "33,500",
+    "date": "2026-06-23",
+    "floor": 8,
+    "area": 72.48
   },
   {
     "aptNm": "일신",

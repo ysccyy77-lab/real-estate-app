@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경포현대",
+    "dealAmount": "24,000",
+    "date": "2026-06-26",
+    "floor": 4,
+    "area": 84.915
+  },
+  {
+    "aptNm": "경포현대",
     "dealAmount": "23,300",
     "date": "2026-06-18",
     "floor": 4,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "서초현대",
+    "dealAmount": "175,000",
+    "date": "2026-06-12",
+    "floor": 6,
+    "area": 54.45
+  },
+  {
+    "aptNm": "서초현대",
+    "dealAmount": "162,000",
+    "date": "2026-06-06",
+    "floor": 4,
+    "area": 53.01
+  },
+  {
+    "aptNm": "서초현대",
     "dealAmount": "169,000",
     "date": "2026-05-25",
     "floor": 15,

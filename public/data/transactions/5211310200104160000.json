@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "우성",
+    "dealAmount": "11,950",
+    "date": "2026-07-04",
+    "floor": 14,
+    "area": 59.78
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,000",
+    "date": "2026-07-04",
+    "floor": 10,
+    "area": 59.78
+  },
+  {
+    "aptNm": "이천마장리젠시빌란트",
+    "dealAmount": "26,000",
+    "date": "2026-07-02",
+    "floor": 16,
+    "area": 57.1356
+  },
+  {
+    "aptNm": "우성",
     "dealAmount": "13,300",
     "date": "2026-07-01",
     "floor": 5,

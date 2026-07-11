@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "대동",
+    "dealAmount": "45,500",
+    "date": "2026-07-08",
+    "floor": 15,
+    "area": 84.942
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "33,800",
+    "date": "2026-07-08",
+    "floor": 21,
+    "area": 59.832
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "55,000",
+    "date": "2026-07-07",
+    "floor": 13,
+    "area": 164.7
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "42,000",
+    "date": "2026-07-07",
+    "floor": 2,
+    "area": 84.942
+  },
+  {
+    "aptNm": "대동",
     "dealAmount": "49,800",
     "date": "2026-06-29",
     "floor": 6,
@@ -54,6 +82,13 @@
     "date": "2026-06-19",
     "floor": 18,
     "area": 84.942
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "33,900",
+    "date": "2026-06-17",
+    "floor": 20,
+    "area": 59.832
   },
   {
     "aptNm": "산호2",

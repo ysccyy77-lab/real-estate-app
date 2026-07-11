@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼신현대",
+    "dealAmount": "35,000",
+    "date": "2026-07-04",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "삼신현대",
     "dealAmount": "31,500",
     "date": "2026-06-26",
     "floor": 3,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "두진",
+    "dealAmount": "18,400",
+    "date": "2026-07-02",
+    "floor": 11,
+    "area": 59.43
+  },
+  {
+    "aptNm": "두진",
     "dealAmount": "20,900",
     "date": "2026-06-01",
     "floor": 6,

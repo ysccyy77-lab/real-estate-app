@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "KH마이우스",
+    "dealAmount": "13,200",
+    "date": "2026-07-07",
+    "floor": 11,
+    "area": 31.98
+  },
+  {
+    "aptNm": "KH마이우스",
+    "dealAmount": "13,000",
+    "date": "2026-07-07",
+    "floor": 13,
+    "area": 31.98
+  },
+  {
     "aptNm": "지행역센트레빌파크뷰",
     "dealAmount": "39,400",
     "date": "2026-06-27",

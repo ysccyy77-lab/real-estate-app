@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "한성필하우스",
+    "dealAmount": "24,000",
+    "date": "2026-07-09",
+    "floor": 17,
+    "area": 76.0261
+  },
+  {
+    "aptNm": "테크노밸리EGthe11단지",
+    "dealAmount": "20,000",
+    "date": "2026-07-04",
+    "floor": 1,
+    "area": 79.9897
+  },
+  {
     "aptNm": "테크노밸리EGthe11단지",
     "dealAmount": "21,300",
     "date": "2026-06-30",

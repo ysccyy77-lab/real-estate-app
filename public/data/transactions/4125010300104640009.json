@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우성아파트",
+    "dealAmount": "9,800",
+    "date": "2026-06-22",
+    "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "우성아파트",
     "dealAmount": "9,500",
     "date": "2026-06-20",
     "floor": 13,

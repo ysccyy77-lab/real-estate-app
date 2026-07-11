@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현대3차",
+    "dealAmount": "40,400",
+    "date": "2026-07-05",
+    "floor": 12,
+    "area": 134.7
+  },
+  {
+    "aptNm": "현대3차",
     "dealAmount": "30,500",
     "date": "2026-06-26",
     "floor": 9,

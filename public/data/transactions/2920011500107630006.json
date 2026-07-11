@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "기린맨션",
+    "dealAmount": "5,100",
+    "date": "2026-06-25",
+    "floor": 1,
+    "area": 83.58
+  },
+  {
+    "aptNm": "기린맨션",
     "dealAmount": "4,000",
     "date": "2026-05-23",
     "floor": 4,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "청구2차",
+    "dealAmount": "94,000",
+    "date": "2026-07-03",
+    "floor": 2,
+    "area": 59.89
+  },
+  {
+    "aptNm": "삼산타운7단지",
+    "dealAmount": "67,500",
+    "date": "2026-07-01",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "삼성광장2",
+    "dealAmount": "160,000",
+    "date": "2026-06-30",
+    "floor": 14,
+    "area": 58.62
+  },
+  {
+    "aptNm": "청구2차",
     "dealAmount": "99,500",
     "date": "2026-06-16",
     "floor": 1,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "목천이수프라임",
+    "dealAmount": "5,600",
+    "date": "2026-07-01",
+    "floor": 3,
+    "area": 39.68
+  },
+  {
+    "aptNm": "목천이수프라임",
+    "dealAmount": "8,600",
+    "date": "2026-06-15",
+    "floor": 1,
+    "area": 55.1
+  },
+  {
+    "aptNm": "목천이수프라임",
     "dealAmount": "8,600",
     "date": "2026-06-05",
     "floor": 4,

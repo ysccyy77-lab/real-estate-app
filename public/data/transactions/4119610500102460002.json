@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "고강1차",
+    "dealAmount": "15,900",
+    "date": "2026-07-10",
+    "floor": 3,
+    "area": 47.7
+  },
+  {
+    "aptNm": "고강1차",
     "dealAmount": "15,000",
     "date": "2026-06-20",
     "floor": 2,

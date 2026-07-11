@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "크로바",
+    "dealAmount": "26,700",
+    "date": "2026-07-02",
+    "floor": 12,
+    "area": 84.925
+  },
+  {
+    "aptNm": "크로바",
     "dealAmount": "21,300",
     "date": "2026-06-16",
     "floor": 3,

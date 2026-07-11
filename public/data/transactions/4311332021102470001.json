@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "한울2",
+    "dealAmount": "8,500",
+    "date": "2026-07-06",
+    "floor": 11,
+    "area": 59.82
+  },
+  {
+    "aptNm": "한울2",
     "dealAmount": "5,600",
     "date": "2026-06-19",
     "floor": 13,
+    "area": 59.82
+  },
+  {
+    "aptNm": "한울2",
+    "dealAmount": "7,200",
+    "date": "2026-06-16",
+    "floor": 9,
     "area": 59.82
   },
   {

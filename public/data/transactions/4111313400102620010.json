@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "신미주",
+    "dealAmount": "26,500",
+    "date": "2026-07-04",
+    "floor": 11,
+    "area": 59.89
+  },
+  {
+    "aptNm": "신미주",
+    "dealAmount": "42,000",
+    "date": "2026-07-04",
+    "floor": 6,
+    "area": 98.25
+  },
+  {
+    "aptNm": "신미주",
+    "dealAmount": "38,000",
+    "date": "2026-07-04",
+    "floor": 13,
+    "area": 98.25
+  },
+  {
+    "aptNm": "신미주",
+    "dealAmount": "33,200",
+    "date": "2026-07-03",
+    "floor": 17,
+    "area": 83.99
+  },
+  {
+    "aptNm": "신미주",
+    "dealAmount": "40,700",
+    "date": "2026-07-02",
+    "floor": 10,
+    "area": 98.25
+  },
+  {
+    "aptNm": "신미주",
     "dealAmount": "31,000",
     "date": "2026-06-26",
     "floor": 6,

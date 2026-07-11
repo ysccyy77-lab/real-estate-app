@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "LH뜨란채아파트",
+    "dealAmount": "29,000",
+    "date": "2026-07-09",
+    "floor": 9,
+    "area": 59.98
+  },
+  {
+    "aptNm": "구로두산위브",
+    "dealAmount": "60,000",
+    "date": "2026-07-04",
+    "floor": 14,
+    "area": 36.88
+  },
+  {
+    "aptNm": "LH뜨란채아파트",
     "dealAmount": "31,000",
     "date": "2026-06-20",
     "floor": 18,

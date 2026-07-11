@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "초원부영",
+    "dealAmount": "79,700",
+    "date": "2026-07-04",
+    "floor": 4,
+    "area": 50
+  },
+  {
+    "aptNm": "초원부영",
+    "dealAmount": "45,000",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 37.85
+  },
+  {
+    "aptNm": "초원부영",
     "dealAmount": "90,800",
     "date": "2026-06-26",
     "floor": 6,
@@ -33,6 +47,13 @@
     "date": "2026-06-10",
     "floor": 2,
     "area": 50
+  },
+  {
+    "aptNm": "초원부영",
+    "dealAmount": "41,000",
+    "date": "2026-06-03",
+    "floor": 4,
+    "area": 37.85
   },
   {
     "aptNm": "초원부영",

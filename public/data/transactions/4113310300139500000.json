@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "삼익금광1차",
+    "dealAmount": "33,000",
+    "date": "2026-07-01",
+    "floor": 10,
+    "area": 34.05
+  },
+  {
+    "aptNm": "삼익금광1차",
+    "dealAmount": "31,800",
+    "date": "2026-07-01",
+    "floor": 5,
+    "area": 34.05
+  },
+  {
+    "aptNm": "삼익금광1차",
+    "dealAmount": "49,000",
+    "date": "2026-06-12",
+    "floor": 6,
+    "area": 44.01
+  },
+  {
+    "aptNm": "삼익금광1차",
     "dealAmount": "32,000",
     "date": "2026-06-03",
     "floor": 5,

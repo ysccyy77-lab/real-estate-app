@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "장미",
+    "dealAmount": "12,500",
+    "date": "2026-06-22",
+    "floor": 2,
+    "area": 59.91
+  },
+  {
+    "aptNm": "장미",
     "dealAmount": "12,800",
     "date": "2026-04-20",
     "floor": 12,

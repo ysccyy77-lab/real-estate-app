@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "서산동문동한라비발디",
+    "dealAmount": "33,600",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 109.29
+  },
+  {
+    "aptNm": "구일우성",
+    "dealAmount": "56,900",
+    "date": "2026-07-03",
+    "floor": 22,
+    "area": 59.44
+  },
+  {
+    "aptNm": "신트리1",
+    "dealAmount": "89,000",
+    "date": "2026-07-03",
+    "floor": 3,
+    "area": 49.95
+  },
+  {
+    "aptNm": "신트리1",
+    "dealAmount": "103,800",
+    "date": "2026-07-02",
+    "floor": 2,
+    "area": 59.73
+  },
+  {
+    "aptNm": "신트리1",
+    "dealAmount": "91,500",
+    "date": "2026-06-24",
+    "floor": 4,
+    "area": 49.95
+  },
+  {
     "aptNm": "구일우성",
     "dealAmount": "90,000",
     "date": "2026-06-15",

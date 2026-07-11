@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "진흥",
+    "dealAmount": "69,000",
+    "date": "2026-07-07",
+    "floor": 5,
+    "area": 78.02
+  },
+  {
+    "aptNm": "쌍용1",
+    "dealAmount": "26,000",
+    "date": "2026-07-06",
+    "floor": 20,
+    "area": 84.97
+  },
+  {
+    "aptNm": "신일엘리시움",
+    "dealAmount": "22,000",
+    "date": "2026-07-05",
+    "floor": 4,
+    "area": 50.498
+  },
+  {
+    "aptNm": "동해프라우드스위첸",
+    "dealAmount": "47,500",
+    "date": "2026-07-03",
+    "floor": 8,
+    "area": 84.8488
+  },
+  {
+    "aptNm": "신해블루지움",
+    "dealAmount": "6,700",
+    "date": "2026-07-03",
+    "floor": 24,
+    "area": 18.28
+  },
+  {
     "aptNm": "쌍용1",
     "dealAmount": "42,000",
     "date": "2026-06-25",
     "floor": 7,
     "area": 134.94
+  },
+  {
+    "aptNm": "밤섬경남아너스빌",
+    "dealAmount": "187,000",
+    "date": "2026-06-20",
+    "floor": 22,
+    "area": 84.83
   },
   {
     "aptNm": "신일엘리시움",

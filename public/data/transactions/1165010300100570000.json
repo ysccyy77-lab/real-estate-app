@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "주공1",
+    "dealAmount": "105,000",
+    "date": "2026-07-03",
+    "floor": 15,
+    "area": 84.75
+  },
+  {
+    "aptNm": "수성3가롯데캐슬",
+    "dealAmount": "89,000",
+    "date": "2026-07-02",
+    "floor": 7,
+    "area": 100.9486
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "107,000",
+    "date": "2026-06-27",
+    "floor": 7,
+    "area": 84.86
+  },
+  {
+    "aptNm": "주공2",
+    "dealAmount": "62,000",
+    "date": "2026-06-26",
+    "floor": 17,
+    "area": 39.98
+  },
+  {
     "aptNm": "주공2",
     "dealAmount": "90,000",
     "date": "2026-06-18",

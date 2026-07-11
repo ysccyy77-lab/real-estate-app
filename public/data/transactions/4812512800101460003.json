@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "정다운가",
+    "dealAmount": "5,500",
+    "date": "2026-07-04",
+    "floor": 8,
+    "area": 14.88
+  },
+  {
+    "aptNm": "정다운가",
+    "dealAmount": "5,500",
+    "date": "2026-07-03",
+    "floor": 8,
+    "area": 14.88
+  },
+  {
     "aptNm": "서광2",
     "dealAmount": "10,300",
     "date": "2026-05-18",

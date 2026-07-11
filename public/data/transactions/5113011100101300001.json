@@ -8,6 +8,20 @@
   },
   {
     "aptNm": "영풍",
+    "dealAmount": "59,500",
+    "date": "2026-06-27",
+    "floor": 1,
+    "area": 84.768
+  },
+  {
+    "aptNm": "효성청솔",
+    "dealAmount": "40,000",
+    "date": "2026-06-20",
+    "floor": 18,
+    "area": 59.77
+  },
+  {
+    "aptNm": "영풍",
     "dealAmount": "62,000",
     "date": "2026-06-13",
     "floor": 15,

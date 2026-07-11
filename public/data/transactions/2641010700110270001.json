@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "구서우성",
+    "dealAmount": "20,500",
+    "date": "2026-07-04",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "구서우성",
     "dealAmount": "18,300",
     "date": "2026-05-14",
     "floor": 8,

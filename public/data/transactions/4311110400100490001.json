@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "신추산",
+    "dealAmount": "7,200",
+    "date": "2026-07-08",
+    "floor": 8,
+    "area": 59.71
+  },
+  {
+    "aptNm": "신추산",
+    "dealAmount": "4,000",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 40.18
+  },
+  {
+    "aptNm": "현대프라자",
+    "dealAmount": "64,000",
+    "date": "2026-07-01",
+    "floor": 6,
+    "area": 68.06
+  },
+  {
     "aptNm": "현대프라자",
     "dealAmount": "62,500",
     "date": "2026-06-18",

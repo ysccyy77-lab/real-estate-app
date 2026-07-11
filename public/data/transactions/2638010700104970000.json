@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "대림2",
+    "dealAmount": "129,000",
+    "date": "2026-07-09",
+    "floor": 10,
+    "area": 84.73
+  },
+  {
+    "aptNm": "부산구평동한신휴플러스",
+    "dealAmount": "16,000",
+    "date": "2026-07-06",
+    "floor": 14,
+    "area": 59.7627
+  },
+  {
+    "aptNm": "홍익",
+    "dealAmount": "4,350",
+    "date": "2026-07-05",
+    "floor": 4,
+    "area": 33.15
+  },
+  {
+    "aptNm": "홍익",
+    "dealAmount": "5,500",
+    "date": "2026-07-05",
+    "floor": 6,
+    "area": 39.15
+  },
+  {
+    "aptNm": "부산구평동한신휴플러스",
+    "dealAmount": "24,700",
+    "date": "2026-07-04",
+    "floor": 18,
+    "area": 84.9936
+  },
+  {
+    "aptNm": "홍익",
+    "dealAmount": "4,500",
+    "date": "2026-07-02",
+    "floor": 5,
+    "area": 33.15
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "58,000",
+    "date": "2026-06-30",
+    "floor": 6,
+    "area": 141.6259
+  },
+  {
     "aptNm": "홍익",
     "dealAmount": "6,000",
     "date": "2026-06-26",

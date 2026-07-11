@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "보우",
+    "dealAmount": "16,000",
+    "date": "2026-06-18",
+    "floor": 13,
+    "area": 59.82
+  },
+  {
+    "aptNm": "보우",
     "dealAmount": "16,500",
     "date": "2026-05-12",
     "floor": 8,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "호원두산",
+    "dealAmount": "31,800",
+    "date": "2026-07-08",
+    "floor": 5,
+    "area": 84.66
+  },
+  {
+    "aptNm": "호원두산",
     "dealAmount": "22,500",
     "date": "2026-06-25",
     "floor": 3,

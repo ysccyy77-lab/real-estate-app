@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동산",
+    "dealAmount": "13,000",
+    "date": "2026-06-26",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "동산",
     "dealAmount": "12,400",
     "date": "2026-06-06",
     "floor": 9,

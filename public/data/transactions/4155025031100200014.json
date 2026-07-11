@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우림",
+    "dealAmount": "9,200",
+    "date": "2026-06-27",
+    "floor": 13,
+    "area": 41.28
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "10,000",
+    "date": "2026-06-19",
+    "floor": 1,
+    "area": 53.13
+  },
+  {
+    "aptNm": "우림",
     "dealAmount": "9,500",
     "date": "2026-06-17",
     "floor": 12,

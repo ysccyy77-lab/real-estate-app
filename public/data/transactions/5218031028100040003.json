@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "북면사원",
+    "dealAmount": "3,600",
+    "date": "2026-07-09",
+    "floor": 1,
+    "area": 43.78
+  },
+  {
+    "aptNm": "북면사원",
     "dealAmount": "3,000",
     "date": "2026-05-26",
     "floor": 5,

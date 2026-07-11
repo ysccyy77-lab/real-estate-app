@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "장암현대2",
+    "dealAmount": "33,500",
+    "date": "2026-06-30",
+    "floor": 2,
+    "area": 70.79
+  },
+  {
+    "aptNm": "장암현대2",
+    "dealAmount": "40,800",
+    "date": "2026-06-23",
+    "floor": 13,
+    "area": 82.34
+  },
+  {
+    "aptNm": "장암현대2",
+    "dealAmount": "35,800",
+    "date": "2026-06-17",
+    "floor": 16,
+    "area": 70.79
+  },
+  {
+    "aptNm": "장암현대2",
     "dealAmount": "34,500",
     "date": "2026-06-12",
     "floor": 6,

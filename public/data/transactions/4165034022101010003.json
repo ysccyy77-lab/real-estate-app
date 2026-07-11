@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송천신일",
+    "dealAmount": "15,700",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 59.9
+  },
+  {
+    "aptNm": "송천신일",
     "dealAmount": "19,300",
     "date": "2026-06-29",
     "floor": 9,

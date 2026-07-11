@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "인정프린스",
+    "dealAmount": "24,900",
+    "date": "2026-07-08",
+    "floor": 14,
+    "area": 60
+  },
+  {
+    "aptNm": "인정프린스",
     "dealAmount": "22,300",
     "date": "2026-07-03",
     "floor": 3,

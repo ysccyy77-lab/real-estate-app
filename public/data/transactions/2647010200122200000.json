@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "청주가경IPARK1차",
+    "dealAmount": "78,800",
+    "date": "2026-07-04",
+    "floor": 5,
+    "area": 98.81
+  },
+  {
+    "aptNm": "청주가경IPARK1차",
     "dealAmount": "47,700",
     "date": "2026-07-02",
     "floor": 8,
@@ -11,6 +18,13 @@
     "dealAmount": "69,500",
     "date": "2026-06-30",
     "floor": 17,
+    "area": 84.69
+  },
+  {
+    "aptNm": "청주가경IPARK1차",
+    "dealAmount": "69,900",
+    "date": "2026-06-27",
+    "floor": 10,
     "area": 84.69
   },
   {

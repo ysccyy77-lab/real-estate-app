@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "휴먼타운",
+    "dealAmount": "25,800",
+    "date": "2026-07-10",
+    "floor": 15,
+    "area": 84.89
+  },
+  {
+    "aptNm": "도량미소지움2단지",
+    "dealAmount": "17,500",
+    "date": "2026-07-07",
+    "floor": 6,
+    "area": 59.9836
+  },
+  {
+    "aptNm": "휴먼타운",
+    "dealAmount": "21,800",
+    "date": "2026-07-06",
+    "floor": 1,
+    "area": 84.89
+  },
+  {
+    "aptNm": "광교상떼빌파크뷰",
+    "dealAmount": "86,500",
+    "date": "2026-07-03",
+    "floor": 8,
+    "area": 106.52
+  },
+  {
+    "aptNm": "광교상떼빌파크뷰",
+    "dealAmount": "94,500",
+    "date": "2026-07-01",
+    "floor": 9,
+    "area": 106.52
+  },
+  {
+    "aptNm": "휴먼타운",
     "dealAmount": "26,000",
     "date": "2026-06-26",
     "floor": 7,

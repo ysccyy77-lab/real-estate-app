@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "선광로즈웰",
+    "dealAmount": "8,450",
+    "date": "2026-07-06",
+    "floor": 13,
+    "area": 46.015
+  },
+  {
+    "aptNm": "선광로즈웰",
+    "dealAmount": "5,800",
+    "date": "2026-07-06",
+    "floor": 6,
+    "area": 33.205
+  },
+  {
+    "aptNm": "선광로즈웰",
+    "dealAmount": "5,800",
+    "date": "2026-07-03",
+    "floor": 13,
+    "area": 33.205
+  },
+  {
+    "aptNm": "선광로즈웰",
     "dealAmount": "8,000",
     "date": "2026-06-07",
     "floor": 1,

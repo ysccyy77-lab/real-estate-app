@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "신일",
+    "dealAmount": "38,750",
+    "date": "2026-07-09",
+    "floor": 6,
+    "area": 59.92
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "38,000",
+    "date": "2026-07-04",
+    "floor": 11,
+    "area": 59.92
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "44,800",
+    "date": "2026-07-03",
+    "floor": 16,
+    "area": 84.89
+  },
+  {
     "aptNm": "인정멜로디",
     "dealAmount": "16,000",
     "date": "2026-06-29",
     "floor": 5,
     "area": 47.325
+  },
+  {
+    "aptNm": "예천이테크코아루",
+    "dealAmount": "20,300",
+    "date": "2026-06-23",
+    "floor": 7,
+    "area": 73.41
   },
   {
     "aptNm": "인정멜로디",

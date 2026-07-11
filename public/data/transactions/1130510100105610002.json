@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현대성우",
+    "dealAmount": "53,800",
+    "date": "2026-06-12",
+    "floor": 3,
+    "area": 59.4
+  },
+  {
+    "aptNm": "현대성우",
     "dealAmount": "61,000",
     "date": "2026-05-07",
     "floor": 17,

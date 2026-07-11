@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우민늘사랑",
+    "dealAmount": "6,000",
+    "date": "2026-07-04",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "우민늘사랑",
+    "dealAmount": "6,500",
+    "date": "2026-07-03",
+    "floor": 5,
+    "area": 54.6
+  },
+  {
+    "aptNm": "우민늘사랑",
     "dealAmount": "5,700",
     "date": "2026-06-23",
     "floor": 6,

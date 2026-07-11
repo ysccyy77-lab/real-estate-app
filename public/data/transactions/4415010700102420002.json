@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "배원청실",
+    "dealAmount": "9,500",
+    "date": "2026-07-05",
+    "floor": 7,
+    "area": 59.26
+  },
+  {
+    "aptNm": "배원청실",
     "dealAmount": "11,000",
     "date": "2026-06-22",
     "floor": 1,

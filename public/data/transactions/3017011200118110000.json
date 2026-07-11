@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "불당호반베르디움TheFirst",
+    "dealAmount": "49,000",
+    "date": "2026-07-05",
+    "floor": 5,
+    "area": 59.916
+  },
+  {
+    "aptNm": "불당호반베르디움TheFirst",
     "dealAmount": "66,500",
     "date": "2026-07-03",
     "floor": 16,
     "area": 84.8093
+  },
+  {
+    "aptNm": "청솔아파트",
+    "dealAmount": "59,000",
+    "date": "2026-07-03",
+    "floor": 13,
+    "area": 84.76
+  },
+  {
+    "aptNm": "불당호반베르디움TheFirst",
+    "dealAmount": "50,300",
+    "date": "2026-07-03",
+    "floor": 9,
+    "area": 59.916
   },
   {
     "aptNm": "불당호반베르디움TheFirst",
@@ -12,6 +33,13 @@
     "date": "2026-06-27",
     "floor": 14,
     "area": 59.916
+  },
+  {
+    "aptNm": "불당호반베르디움TheFirst",
+    "dealAmount": "71,000",
+    "date": "2026-06-25",
+    "floor": 2,
+    "area": 99.9759
   },
   {
     "aptNm": "불당호반베르디움TheFirst",

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "연산센터빌",
+    "dealAmount": "28,600",
+    "date": "2026-07-06",
+    "floor": 6,
+    "area": 84.87
+  },
+  {
+    "aptNm": "연산센터빌",
+    "dealAmount": "21,800",
+    "date": "2026-07-06",
+    "floor": 1,
+    "area": 59.86
+  },
+  {
+    "aptNm": "연산센터빌",
     "dealAmount": "29,200",
     "date": "2026-06-17",
     "floor": 19,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동덕현대",
+    "dealAmount": "20,000",
+    "date": "2026-06-17",
+    "floor": 7,
+    "area": 79.05
+  },
+  {
+    "aptNm": "동덕현대",
     "dealAmount": "19,000",
     "date": "2026-05-14",
     "floor": 4,

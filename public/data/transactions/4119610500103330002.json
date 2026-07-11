@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "삼두",
+    "dealAmount": "14,300",
+    "date": "2026-07-02",
+    "floor": 1,
+    "area": 44.91
+  },
+  {
+    "aptNm": "지원시티파크",
+    "dealAmount": "12,000",
+    "date": "2026-07-01",
+    "floor": 9,
+    "area": 42.67
+  },
+  {
+    "aptNm": "삼두",
     "dealAmount": "14,000",
     "date": "2026-05-26",
     "floor": 4,

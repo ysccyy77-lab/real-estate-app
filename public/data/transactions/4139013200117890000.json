@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "중문푸른마을",
+    "dealAmount": "20,000",
+    "date": "2026-07-07",
+    "floor": 4,
+    "area": 51.88
+  },
+  {
+    "aptNm": "중문푸른마을",
+    "dealAmount": "20,500",
+    "date": "2026-07-06",
+    "floor": 3,
+    "area": 51.88
+  },
+  {
+    "aptNm": "금강",
+    "dealAmount": "31,000",
+    "date": "2026-07-03",
+    "floor": 3,
+    "area": 84.84
+  },
+  {
+    "aptNm": "금강",
+    "dealAmount": "26,500",
+    "date": "2026-07-02",
+    "floor": 1,
+    "area": 84.84
+  },
+  {
     "aptNm": "금강",
     "dealAmount": "24,700",
     "date": "2026-06-17",

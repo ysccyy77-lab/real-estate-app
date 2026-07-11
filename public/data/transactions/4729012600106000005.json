@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "창신백조1",
+    "dealAmount": "4,500",
+    "date": "2026-06-30",
+    "floor": 2,
+    "area": 44.325
+  },
+  {
+    "aptNm": "창신백조1",
     "dealAmount": "3,400",
     "date": "2026-06-22",
     "floor": 5,

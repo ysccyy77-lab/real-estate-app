@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "뉴타운",
+    "dealAmount": "25,000",
+    "date": "2026-07-06",
+    "floor": 1,
+    "area": 164.37
+  },
+  {
+    "aptNm": "뉴타운",
+    "dealAmount": "11,100",
+    "date": "2026-07-04",
+    "floor": 5,
+    "area": 59.96
+  },
+  {
+    "aptNm": "뉴타운",
     "dealAmount": "13,700",
     "date": "2026-06-30",
     "floor": 2,

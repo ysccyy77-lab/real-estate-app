@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "두산2",
+    "dealAmount": "31,000",
+    "date": "2026-06-27",
+    "floor": 13,
+    "area": 84.87
+  },
+  {
+    "aptNm": "두산2",
     "dealAmount": "30,000",
     "date": "2026-05-21",
     "floor": 4,

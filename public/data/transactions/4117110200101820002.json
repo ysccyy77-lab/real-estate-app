@@ -15,9 +15,37 @@
   },
   {
     "aptNm": "석수e-편한세상",
+    "dealAmount": "78,500",
+    "date": "2026-06-24",
+    "floor": 24,
+    "area": 114.84
+  },
+  {
+    "aptNm": "석수e-편한세상",
     "dealAmount": "70,000",
     "date": "2026-06-23",
     "floor": 27,
+    "area": 114.84
+  },
+  {
+    "aptNm": "석수e-편한세상",
+    "dealAmount": "65,000",
+    "date": "2026-06-20",
+    "floor": 24,
+    "area": 60
+  },
+  {
+    "aptNm": "석수e-편한세상",
+    "dealAmount": "79,300",
+    "date": "2026-06-20",
+    "floor": 24,
+    "area": 114.84
+  },
+  {
+    "aptNm": "석수e-편한세상",
+    "dealAmount": "74,300",
+    "date": "2026-06-19",
+    "floor": 13,
     "area": 114.84
   },
   {

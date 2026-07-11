@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "백합",
+    "dealAmount": "38,100",
+    "date": "2026-07-09",
+    "floor": 7,
+    "area": 71.205
+  },
+  {
+    "aptNm": "백합",
     "dealAmount": "37,300",
     "date": "2026-06-23",
     "floor": 9,

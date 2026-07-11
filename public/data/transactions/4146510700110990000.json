@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "LH허브시티",
+    "dealAmount": "16,300",
+    "date": "2026-07-07",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "LH허브시티",
     "dealAmount": "16,000",
     "date": "2026-06-30",
     "floor": 11,

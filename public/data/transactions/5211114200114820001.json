@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서곡주공",
+    "dealAmount": "16,900",
+    "date": "2026-07-08",
+    "floor": 7,
+    "area": 59.89
+  },
+  {
+    "aptNm": "서곡주공",
     "dealAmount": "14,000",
     "date": "2026-06-13",
     "floor": 16,

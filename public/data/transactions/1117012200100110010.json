@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "용산KCC웰츠타워",
+    "dealAmount": "121,000",
+    "date": "2026-06-10",
+    "floor": 15,
+    "area": 84.03
+  },
+  {
+    "aptNm": "용산KCC웰츠타워",
     "dealAmount": "180,000",
     "date": "2026-06-06",
     "floor": 36,

@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "창원한양립스더퍼스트아파트",
+    "dealAmount": "27,000",
+    "date": "2026-07-09",
+    "floor": 19,
+    "area": 70.8945
+  },
+  {
+    "aptNm": "호매실GS아파트",
+    "dealAmount": "35,000",
+    "date": "2026-07-06",
+    "floor": 9,
+    "area": 59.775
+  },
+  {
+    "aptNm": "동창원IC하우스토리",
+    "dealAmount": "24,500",
+    "date": "2026-07-05",
+    "floor": 4,
+    "area": 126.6492
+  },
+  {
+    "aptNm": "DMC래미안클라시스",
+    "dealAmount": "125,000",
+    "date": "2026-07-03",
+    "floor": 7,
+    "area": 114.93
+  },
+  {
     "aptNm": "동창원IC하우스토리",
     "dealAmount": "16,800",
     "date": "2026-06-29",
     "floor": 8,
     "area": 84.9162
+  },
+  {
+    "aptNm": "호매실GS아파트",
+    "dealAmount": "36,000",
+    "date": "2026-06-27",
+    "floor": 18,
+    "area": 59.94
+  },
+  {
+    "aptNm": "호매실GS아파트",
+    "dealAmount": "35,000",
+    "date": "2026-06-26",
+    "floor": 19,
+    "area": 59.775
   },
   {
     "aptNm": "이문휘경지웰에스테이트",

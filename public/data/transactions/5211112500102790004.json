@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "은행마을",
+    "dealAmount": "5,500",
+    "date": "2026-06-27",
+    "floor": 6,
+    "area": 55.9675
+  },
+  {
+    "aptNm": "은행마을",
     "dealAmount": "6,300",
     "date": "2026-06-19",
     "floor": 3,

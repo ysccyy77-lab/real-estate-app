@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "세경",
+    "dealAmount": "4,850",
+    "date": "2026-07-05",
+    "floor": 2,
+    "area": 56.88
+  },
+  {
+    "aptNm": "세경",
     "dealAmount": "4,900",
     "date": "2026-05-20",
     "floor": 5,

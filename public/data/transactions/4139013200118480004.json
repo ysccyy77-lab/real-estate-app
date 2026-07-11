@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "진로",
+    "dealAmount": "21,400",
+    "date": "2026-07-03",
+    "floor": 2,
+    "area": 59.78
+  },
+  {
+    "aptNm": "진로",
     "dealAmount": "23,500",
     "date": "2026-06-12",
     "floor": 7,

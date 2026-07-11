@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "일립그린",
+    "dealAmount": "9,200",
+    "date": "2026-07-05",
+    "floor": 4,
+    "area": 59.67
+  },
+  {
+    "aptNm": "일립그린",
     "dealAmount": "15,800",
     "date": "2026-07-02",
     "floor": 5,

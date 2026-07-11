@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "마산만I'PARK",
+    "dealAmount": "69,500",
+    "date": "2026-07-10",
+    "floor": 16,
+    "area": 154.0417
+  },
+  {
+    "aptNm": "마산만I'PARK",
     "dealAmount": "49,000",
     "date": "2026-07-01",
     "floor": 2,
@@ -19,6 +26,13 @@
     "date": "2026-06-29",
     "floor": 29,
     "area": 154.0417
+  },
+  {
+    "aptNm": "양평한신",
+    "dealAmount": "134,500",
+    "date": "2026-06-27",
+    "floor": 16,
+    "area": 59.94
   },
   {
     "aptNm": "마산만I'PARK",

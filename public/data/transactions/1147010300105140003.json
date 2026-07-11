@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "해태",
+    "dealAmount": "57,000",
+    "date": "2026-07-09",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "해태",
     "dealAmount": "45,000",
     "date": "2026-06-02",
     "floor": 12,

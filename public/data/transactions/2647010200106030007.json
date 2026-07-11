@@ -2,6 +2,13 @@
   {
     "aptNm": "연산쌍용",
     "dealAmount": "32,500",
+    "date": "2026-07-07",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "연산쌍용",
+    "dealAmount": "32,500",
     "date": "2026-06-22",
     "floor": 12,
     "area": 84.97

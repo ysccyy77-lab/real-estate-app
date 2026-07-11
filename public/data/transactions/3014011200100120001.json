@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "사천한주빌라트",
+    "dealAmount": "12,300",
+    "date": "2026-07-10",
+    "floor": 2,
+    "area": 84.93
+  },
+  {
+    "aptNm": "목화",
+    "dealAmount": "16,000",
+    "date": "2026-07-04",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "사천한주빌라트",
     "dealAmount": "12,000",
     "date": "2026-06-22",
     "floor": 4,

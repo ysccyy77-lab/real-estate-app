@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼익뉴타운",
+    "dealAmount": "9,000",
+    "date": "2026-07-06",
+    "floor": 7,
+    "area": 46.21
+  },
+  {
+    "aptNm": "삼익뉴타운",
     "dealAmount": "10,000",
     "date": "2026-06-27",
     "floor": 8,

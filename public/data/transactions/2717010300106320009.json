@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "서대구KTX영무예다음",
+    "dealAmount": "41,400",
+    "date": "2026-07-02",
+    "floor": 26,
+    "area": 84.4481
+  },
+  {
+    "aptNm": "서대구KTX영무예다음",
+    "dealAmount": "29,500",
+    "date": "2026-06-22",
+    "floor": 2,
+    "area": 59.7832
+  },
+  {
+    "aptNm": "서대구KTX영무예다음",
     "dealAmount": "28,500",
     "date": "2026-06-15",
     "floor": 10,

@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "갑을아파트",
+    "dealAmount": "6,500",
+    "date": "2026-07-07",
+    "floor": 9,
+    "area": 49.92
+  },
+  {
+    "aptNm": "주공2",
+    "dealAmount": "15,000",
+    "date": "2026-07-04",
+    "floor": 4,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공2",
+    "dealAmount": "21,700",
+    "date": "2026-07-03",
+    "floor": 8,
+    "area": 79.07
+  },
+  {
+    "aptNm": "주공2",
+    "dealAmount": "11,400",
+    "date": "2026-07-02",
+    "floor": 9,
+    "area": 45.77
+  },
+  {
+    "aptNm": "시영",
+    "dealAmount": "4,500",
+    "date": "2026-06-30",
+    "floor": 5,
+    "area": 54.99
+  },
+  {
     "aptNm": "송정한신",
     "dealAmount": "10,400",
     "date": "2026-06-27",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대우2",
+    "dealAmount": "18,500",
+    "date": "2026-07-01",
+    "floor": 4,
+    "area": 84.984
+  },
+  {
+    "aptNm": "대우2",
     "dealAmount": "24,000",
     "date": "2026-06-27",
     "floor": 9,

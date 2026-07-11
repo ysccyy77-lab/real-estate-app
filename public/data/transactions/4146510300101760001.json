@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "풍원",
+    "dealAmount": "36,000",
+    "date": "2026-07-05",
+    "floor": 10,
+    "area": 76.96
+  },
+  {
     "aptNm": "심미",
     "dealAmount": "12,500",
     "date": "2026-06-21",
     "floor": 15,
     "area": 38.6106
+  },
+  {
+    "aptNm": "풍원",
+    "dealAmount": "37,500",
+    "date": "2026-06-18",
+    "floor": 5,
+    "area": 91.05
   },
   {
     "aptNm": "심미",

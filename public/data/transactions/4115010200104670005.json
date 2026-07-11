@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신도7",
+    "dealAmount": "29,000",
+    "date": "2026-07-04",
+    "floor": 4,
+    "area": 59.094
+  },
+  {
+    "aptNm": "신도7",
     "dealAmount": "31,800",
     "date": "2026-05-26",
     "floor": 12,
