@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "일성",
+    "dealAmount": "31,850",
+    "date": "2026-07-08",
+    "floor": 13,
+    "area": 58.8
+  },
+  {
+    "aptNm": "일성",
     "dealAmount": "32,700",
     "date": "2026-06-05",
     "floor": 11,

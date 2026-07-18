@@ -8,6 +8,20 @@
   },
   {
     "aptNm": "경남한신",
+    "dealAmount": "34,700",
+    "date": "2026-07-03",
+    "floor": 6,
+    "area": 84.95
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "15,000",
+    "date": "2026-06-30",
+    "floor": 14,
+    "area": 59.535
+  },
+  {
+    "aptNm": "경남한신",
     "dealAmount": "25,200",
     "date": "2026-06-26",
     "floor": 10,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신영지웰",
+    "dealAmount": "40,700",
+    "date": "2026-07-15",
+    "floor": 2,
+    "area": 84.787
+  },
+  {
+    "aptNm": "신영지웰",
+    "dealAmount": "46,000",
+    "date": "2026-07-10",
+    "floor": 9,
+    "area": 84.859
+  },
+  {
+    "aptNm": "신영지웰",
     "dealAmount": "45,800",
     "date": "2026-07-05",
     "floor": 7,

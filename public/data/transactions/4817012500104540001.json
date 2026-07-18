@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "목련",
+    "dealAmount": "13,500",
+    "date": "2026-07-12",
+    "floor": 4,
+    "area": 41.223
+  },
+  {
+    "aptNm": "목련",
     "dealAmount": "10,500",
     "date": "2026-06-29",
     "floor": 5,

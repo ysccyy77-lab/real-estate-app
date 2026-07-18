@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼정백조",
+    "dealAmount": "7,000",
+    "date": "2026-06-28",
+    "floor": 7,
+    "area": 59.73
+  },
+  {
+    "aptNm": "삼정백조",
     "dealAmount": "8,200",
     "date": "2026-06-10",
     "floor": 10,

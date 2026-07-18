@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "경남1",
+    "dealAmount": "52,000",
+    "date": "2026-07-13",
+    "floor": 4,
+    "area": 59.98
+  },
+  {
+    "aptNm": "경남1",
+    "dealAmount": "60,000",
+    "date": "2026-07-10",
+    "floor": 15,
+    "area": 59.92
+  },
+  {
+    "aptNm": "목동신시가지11",
+    "dealAmount": "189,000",
+    "date": "2026-07-09",
+    "floor": 5,
+    "area": 51.48
+  },
+  {
+    "aptNm": "경남1",
     "dealAmount": "65,500",
     "date": "2026-07-05",
     "floor": 18,

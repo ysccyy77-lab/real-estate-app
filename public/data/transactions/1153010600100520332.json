@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한효",
+    "dealAmount": "73,000",
+    "date": "2026-07-01",
+    "floor": 4,
+    "area": 69.87
+  },
+  {
+    "aptNm": "한효",
     "dealAmount": "77,000",
     "date": "2026-06-11",
     "floor": 5,

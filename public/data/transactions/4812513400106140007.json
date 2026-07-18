@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "월영동아",
+    "dealAmount": "18,250",
+    "date": "2026-07-13",
+    "floor": 17,
+    "area": 59.526
+  },
+  {
+    "aptNm": "월영동아",
+    "dealAmount": "18,300",
+    "date": "2026-07-11",
+    "floor": 12,
+    "area": 84.64
+  },
+  {
+    "aptNm": "월영동아",
     "dealAmount": "20,800",
     "date": "2026-06-08",
     "floor": 8,

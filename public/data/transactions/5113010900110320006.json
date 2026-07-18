@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼천리1",
+    "dealAmount": "15,200",
+    "date": "2026-07-16",
+    "floor": 13,
+    "area": 133.8
+  },
+  {
+    "aptNm": "삼천리1",
     "dealAmount": "6,000",
     "date": "2026-06-20",
     "floor": 1,

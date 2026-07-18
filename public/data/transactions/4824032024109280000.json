@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "현대1",
+    "dealAmount": "53,000",
+    "date": "2026-07-16",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "사천흥한에르가",
+    "dealAmount": "21,500",
+    "date": "2026-07-15",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "51,500",
+    "date": "2026-07-12",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "현대1",
     "dealAmount": "53,500",
     "date": "2026-07-07",
     "floor": 6,
     "area": 84.97
+  },
+  {
+    "aptNm": "용산2우방타운",
+    "dealAmount": "16,900",
+    "date": "2026-07-07",
+    "floor": 15,
+    "area": 59.43
   },
   {
     "aptNm": "극동스타클래스센트럴",

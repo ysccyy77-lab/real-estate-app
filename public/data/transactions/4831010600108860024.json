@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼도하이츠",
+    "dealAmount": "6,000",
+    "date": "2026-07-07",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "삼도하이츠",
     "dealAmount": "8,000",
     "date": "2026-06-08",
     "floor": 12,

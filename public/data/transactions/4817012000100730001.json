@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "하대주공",
+    "dealAmount": "8,500",
+    "date": "2026-07-16",
+    "floor": 5,
+    "area": 44.3
+  },
+  {
+    "aptNm": "부성한울",
+    "dealAmount": "17,500",
+    "date": "2026-07-16",
+    "floor": 1,
+    "area": 59.8524
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "36,000",
+    "date": "2026-07-14",
+    "floor": 21,
+    "area": 115.456
+  },
+  {
+    "aptNm": "하대주공",
     "dealAmount": "6,500",
     "date": "2026-06-22",
     "floor": 3,

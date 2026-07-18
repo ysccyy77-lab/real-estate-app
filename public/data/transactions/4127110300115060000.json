@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "진로",
+    "dealAmount": "26,100",
+    "date": "2026-07-12",
+    "floor": 1,
+    "area": 99.81
+  },
+  {
+    "aptNm": "본오",
+    "dealAmount": "10,500",
+    "date": "2026-07-10",
+    "floor": 15,
+    "area": 38.13
+  },
+  {
+    "aptNm": "진로",
+    "dealAmount": "29,500",
+    "date": "2026-07-06",
+    "floor": 1,
+    "area": 134.88
+  },
+  {
     "aptNm": "본오",
     "dealAmount": "13,800",
     "date": "2026-07-04",

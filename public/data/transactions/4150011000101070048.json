@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "풍산",
+    "dealAmount": "10,300",
+    "date": "2026-07-15",
+    "floor": 15,
+    "area": 45.9
+  },
+  {
+    "aptNm": "풍산",
+    "dealAmount": "12,000",
+    "date": "2026-07-13",
+    "floor": 11,
+    "area": 45.9
+  },
+  {
+    "aptNm": "풍산",
     "dealAmount": "13,000",
     "date": "2026-07-02",
     "floor": 10,

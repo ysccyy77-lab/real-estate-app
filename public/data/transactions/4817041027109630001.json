@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "세륭(가~마동)",
+    "dealAmount": "2,000",
+    "date": "2026-07-15",
+    "floor": 5,
+    "area": 46.62
+  },
+  {
+    "aptNm": "고현주공",
+    "dealAmount": "9,110",
+    "date": "2026-07-15",
+    "floor": 5,
+    "area": 46.68
+  },
+  {
+    "aptNm": "고현주공",
+    "dealAmount": "7,580",
+    "date": "2026-07-13",
+    "floor": 1,
+    "area": 39.69
+  },
+  {
     "aptNm": "고현주공",
     "dealAmount": "4,500",
     "date": "2026-07-09",

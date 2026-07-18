@@ -1,10 +1,66 @@
 [
   {
     "aptNm": "창원메트로시티석전",
+    "dealAmount": "61,500",
+    "date": "2026-07-12",
+    "floor": 21,
+    "area": 84.9952
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "107,500",
+    "date": "2026-07-11",
+    "floor": 6,
+    "area": 84.97
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "99,000",
+    "date": "2026-07-11",
+    "floor": 10,
+    "area": 74.94
+  },
+  {
+    "aptNm": "창원메트로시티석전",
     "dealAmount": "22,000",
     "date": "2026-07-10",
     "floor": 26,
     "area": 38.828
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "96,000",
+    "date": "2026-07-10",
+    "floor": 15,
+    "area": 74.94
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "105,000",
+    "date": "2026-07-10",
+    "floor": 16,
+    "area": 84.97
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "91,000",
+    "date": "2026-07-10",
+    "floor": 11,
+    "area": 59.88
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "6,950",
+    "date": "2026-07-10",
+    "floor": 6,
+    "area": 59.79
+  },
+  {
+    "aptNm": "상아2차아파트",
+    "dealAmount": "80,800",
+    "date": "2026-07-10",
+    "floor": 5,
+    "area": 84.99
   },
   {
     "aptNm": "효성아파트",
@@ -12,6 +68,20 @@
     "date": "2026-07-09",
     "floor": 2,
     "area": 45.32
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "83,000",
+    "date": "2026-07-08",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "88,700",
+    "date": "2026-07-08",
+    "floor": 2,
+    "area": 84.97
   },
   {
     "aptNm": "매교역푸르지오SKVIEW",
@@ -26,6 +96,27 @@
     "date": "2026-07-07",
     "floor": 18,
     "area": 84.97
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "98,000",
+    "date": "2026-07-06",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "우만주공4단지",
+    "dealAmount": "29,500",
+    "date": "2026-07-05",
+    "floor": 2,
+    "area": 36.34
+  },
+  {
+    "aptNm": "혁신도시엘에이치아파트8단지",
+    "dealAmount": "40,000",
+    "date": "2026-07-05",
+    "floor": 19,
+    "area": 59.96
   },
   {
     "aptNm": "매교역푸르지오SKVIEW",
@@ -49,11 +140,32 @@
     "area": 84.97
   },
   {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "89,000",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 59.94
+  },
+  {
+    "aptNm": "혁신도시엘에이치아파트8단지",
+    "dealAmount": "40,500",
+    "date": "2026-07-04",
+    "floor": 19,
+    "area": 59.97
+  },
+  {
     "aptNm": "상아2차아파트",
     "dealAmount": "67,700",
     "date": "2026-07-03",
     "floor": 12,
     "area": 58.59
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "96,000",
+    "date": "2026-07-03",
+    "floor": 10,
+    "area": 74.69
   },
   {
     "aptNm": "아양주공1",
@@ -84,6 +196,20 @@
     "area": 84.97
   },
   {
+    "aptNm": "우만주공4단지",
+    "dealAmount": "40,500",
+    "date": "2026-07-01",
+    "floor": 8,
+    "area": 41.3
+  },
+  {
+    "aptNm": "서광교파크스위첸",
+    "dealAmount": "66,500",
+    "date": "2026-06-30",
+    "floor": 14,
+    "area": 52.6886
+  },
+  {
     "aptNm": "매교역푸르지오SKVIEW",
     "dealAmount": "96,000",
     "date": "2026-06-29",
@@ -110,6 +236,13 @@
     "date": "2026-06-27",
     "floor": 7,
     "area": 59.78
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "82,000",
+    "date": "2026-06-27",
+    "floor": 2,
+    "area": 59.94
   },
   {
     "aptNm": "매교역푸르지오SKVIEW",
@@ -210,6 +343,13 @@
     "area": 42.93
   },
   {
+    "aptNm": "우만주공4단지",
+    "dealAmount": "48,000",
+    "date": "2026-06-20",
+    "floor": 13,
+    "area": 49.94
+  },
+  {
     "aptNm": "매교역푸르지오SKVIEW",
     "dealAmount": "99,000",
     "date": "2026-06-19",
@@ -271,6 +411,13 @@
     "date": "2026-06-15",
     "floor": 23,
     "area": 51.5654
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "99,000",
+    "date": "2026-06-15",
+    "floor": 15,
+    "area": 84.97
   },
   {
     "aptNm": "우만주공4단지",
@@ -390,6 +537,13 @@
     "date": "2026-06-10",
     "floor": 10,
     "area": 36.16
+  },
+  {
+    "aptNm": "매교역푸르지오SKVIEW",
+    "dealAmount": "85,000",
+    "date": "2026-06-10",
+    "floor": 13,
+    "area": 59.94
   },
   {
     "aptNm": "매교역푸르지오SKVIEW",

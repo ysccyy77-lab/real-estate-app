@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "센트럴뷰",
+    "dealAmount": "46,000",
+    "date": "2026-07-14",
+    "floor": 6,
+    "area": 84.76
+  },
+  {
+    "aptNm": "안성공도KCC스위첸",
+    "dealAmount": "25,900",
+    "date": "2026-07-13",
+    "floor": 2,
+    "area": 84.992
+  },
+  {
+    "aptNm": "안성공도KCC스위첸",
+    "dealAmount": "42,000",
+    "date": "2026-07-13",
+    "floor": 10,
+    "area": 171.005
+  },
+  {
+    "aptNm": "센트럴뷰",
+    "dealAmount": "36,000",
+    "date": "2026-07-13",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
     "aptNm": "열매마을5단지(운암)",
     "dealAmount": "67,200",
     "date": "2026-06-28",

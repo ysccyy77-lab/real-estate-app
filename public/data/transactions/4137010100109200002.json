@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "주공2단지",
+    "dealAmount": "33,400",
+    "date": "2026-07-10",
+    "floor": 11,
+    "area": 84.34
+  },
+  {
+    "aptNm": "주공2단지",
+    "dealAmount": "30,600",
+    "date": "2026-07-09",
+    "floor": 21,
+    "area": 84.34
+  },
+  {
+    "aptNm": "주공2단지",
     "dealAmount": "35,500",
     "date": "2026-06-20",
     "floor": 9,

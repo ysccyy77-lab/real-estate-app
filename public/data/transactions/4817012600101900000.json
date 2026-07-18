@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "신성미소지움1차",
+    "dealAmount": "20,500",
+    "date": "2026-07-16",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "중화산동광진",
+    "dealAmount": "16,950",
+    "date": "2026-07-15",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "THE에이치",
+    "dealAmount": "16,000",
+    "date": "2026-07-10",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
     "aptNm": "삼익소월",
     "dealAmount": "24,500",
     "date": "2026-07-01",

@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "목련우성",
+    "dealAmount": "92,000",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 56.7
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "10,600",
+    "date": "2026-07-11",
+    "floor": 22,
+    "area": 49.915
+  },
+  {
+    "aptNm": "목련우성",
+    "dealAmount": "98,000",
+    "date": "2026-07-09",
+    "floor": 7,
+    "area": 56.7
+  },
+  {
+    "aptNm": "목련우성",
+    "dealAmount": "90,000",
+    "date": "2026-07-02",
+    "floor": 9,
+    "area": 56.7
+  },
+  {
+    "aptNm": "목련우성",
     "dealAmount": "78,000",
     "date": "2026-07-01",
     "floor": 11,
     "area": 50.73
+  },
+  {
+    "aptNm": "목련우성",
+    "dealAmount": "90,000",
+    "date": "2026-06-25",
+    "floor": 14,
+    "area": 56.7
   },
   {
     "aptNm": "목련우성",

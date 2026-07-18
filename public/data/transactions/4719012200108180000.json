@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "147,200",
+    "date": "2026-07-07",
+    "floor": 15,
+    "area": 84.91
+  },
+  {
     "aptNm": "한라비발디",
     "dealAmount": "24,000",
     "date": "2026-07-04",
@@ -15,10 +22,24 @@
   },
   {
     "aptNm": "한라비발디",
+    "dealAmount": "26,400",
+    "date": "2026-06-30",
+    "floor": 13,
+    "area": 84.989
+  },
+  {
+    "aptNm": "한라비발디",
     "dealAmount": "26,800",
     "date": "2026-06-29",
     "floor": 10,
     "area": 84.973
+  },
+  {
+    "aptNm": "수성롯데캐슬THEFIRST",
+    "dealAmount": "77,000",
+    "date": "2026-06-27",
+    "floor": 2,
+    "area": 84.9746
   },
   {
     "aptNm": "현대",

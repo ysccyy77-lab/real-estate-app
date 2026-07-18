@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동보",
+    "dealAmount": "32,000",
+    "date": "2026-07-08",
+    "floor": 19,
+    "area": 84.91
+  },
+  {
+    "aptNm": "동보",
     "dealAmount": "28,800",
     "date": "2026-07-06",
     "floor": 10,

@@ -2,6 +2,20 @@
   {
     "aptNm": "진영이진캐스빌",
     "dealAmount": "24,000",
+    "date": "2026-07-15",
+    "floor": 1,
+    "area": 70.809
+  },
+  {
+    "aptNm": "센텀KCC스위첸",
+    "dealAmount": "70,000",
+    "date": "2026-07-14",
+    "floor": 24,
+    "area": 84.91
+  },
+  {
+    "aptNm": "진영이진캐스빌",
+    "dealAmount": "24,000",
     "date": "2026-07-04",
     "floor": 7,
     "area": 70.6685

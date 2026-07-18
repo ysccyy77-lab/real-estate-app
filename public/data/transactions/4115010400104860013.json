@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "벽산조합",
+    "dealAmount": "24,850",
+    "date": "2026-07-11",
+    "floor": 19,
+    "area": 84.96
+  },
+  {
+    "aptNm": "벽산조합",
     "dealAmount": "27,000",
     "date": "2026-06-16",
     "floor": 9,

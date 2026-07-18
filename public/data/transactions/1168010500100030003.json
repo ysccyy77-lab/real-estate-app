@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성거벽산",
+    "dealAmount": "14,200",
+    "date": "2026-07-11",
+    "floor": 10,
+    "area": 71.81
+  },
+  {
+    "aptNm": "성거벽산",
     "dealAmount": "11,500",
     "date": "2026-06-13",
     "floor": 8,

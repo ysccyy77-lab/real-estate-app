@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "괴정 K스타파크",
+    "dealAmount": "22,000",
+    "date": "2026-07-15",
+    "floor": 6,
+    "area": 59.5399
+  },
+  {
+    "aptNm": "구로두산위브",
+    "dealAmount": "56,000",
+    "date": "2026-07-14",
+    "floor": 12,
+    "area": 36.88
+  },
+  {
+    "aptNm": "LH뜨란채아파트",
+    "dealAmount": "20,800",
+    "date": "2026-07-10",
+    "floor": 22,
+    "area": 49.94
+  },
+  {
     "aptNm": "LH뜨란채아파트",
     "dealAmount": "29,000",
     "date": "2026-07-09",

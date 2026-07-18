@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "7,000",
+    "date": "2026-07-14",
+    "floor": 5,
+    "area": 67.77
+  },
+  {
+    "aptNm": "일동",
+    "dealAmount": "39,000",
+    "date": "2026-07-11",
+    "floor": 3,
+    "area": 50.99
+  },
+  {
+    "aptNm": "우암센스뷰",
+    "dealAmount": "24,000",
+    "date": "2026-07-10",
+    "floor": 15,
+    "area": 84.794
+  },
+  {
     "aptNm": "일동",
     "dealAmount": "46,000",
     "date": "2026-07-08",

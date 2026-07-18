@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "DMC센트럴자이(2단지)",
+    "dealAmount": "162,700",
+    "date": "2026-07-18",
+    "floor": 16,
+    "area": 74.78
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "154,500",
+    "date": "2026-07-08",
+    "floor": 1,
+    "area": 114.46
+  },
+  {
+    "aptNm": "DMC센트럴자이(1단지)",
+    "dealAmount": "180,000",
+    "date": "2026-07-08",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "DMC센트럴자이(3단지)",
+    "dealAmount": "170,000",
+    "date": "2026-07-07",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "DMC센트럴자이(2단지)",
     "dealAmount": "161,000",
     "date": "2026-07-01",
     "floor": 15,

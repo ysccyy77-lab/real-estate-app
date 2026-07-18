@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "금호타운",
+    "dealAmount": "26,800",
+    "date": "2026-07-11",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "금호타운",
     "dealAmount": "26,500",
     "date": "2026-06-19",
     "floor": 7,

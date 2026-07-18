@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "음성SKVIEW",
+    "dealAmount": "12,400",
+    "date": "2026-07-14",
+    "floor": 15,
+    "area": 84.8624
+  },
+  {
+    "aptNm": "음성SKVIEW",
     "dealAmount": "12,200",
     "date": "2026-07-01",
     "floor": 13,

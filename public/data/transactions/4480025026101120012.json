@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대우아파트",
+    "dealAmount": "4,900",
+    "date": "2026-07-11",
+    "floor": 3,
+    "area": 59.46
+  },
+  {
+    "aptNm": "대우아파트",
+    "dealAmount": "8,400",
+    "date": "2026-07-08",
+    "floor": 17,
+    "area": 84.975
+  },
+  {
+    "aptNm": "대우아파트",
     "dealAmount": "6,500",
     "date": "2026-02-28",
     "floor": 6,

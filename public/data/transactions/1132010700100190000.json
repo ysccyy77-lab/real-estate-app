@@ -8,6 +8,34 @@
   },
   {
     "aptNm": "잠실엘스",
+    "dealAmount": "347,500",
+    "date": "2026-07-04",
+    "floor": 21,
+    "area": 84.8
+  },
+  {
+    "aptNm": "잠실엘스",
+    "dealAmount": "330,000",
+    "date": "2026-07-01",
+    "floor": 2,
+    "area": 84.8
+  },
+  {
+    "aptNm": "주공4단지",
+    "dealAmount": "14,000",
+    "date": "2026-06-29",
+    "floor": 11,
+    "area": 59.99
+  },
+  {
+    "aptNm": "잠실엘스",
+    "dealAmount": "300,000",
+    "date": "2026-06-27",
+    "floor": 16,
+    "area": 59.96
+  },
+  {
+    "aptNm": "잠실엘스",
     "dealAmount": "330,000",
     "date": "2026-06-24",
     "floor": 14,

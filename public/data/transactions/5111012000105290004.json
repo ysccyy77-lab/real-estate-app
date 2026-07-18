@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "에리트",
+    "dealAmount": "10,000",
+    "date": "2026-07-13",
+    "floor": 4,
+    "area": 63.396
+  },
+  {
+    "aptNm": "에리트",
     "dealAmount": "8,400",
     "date": "2026-07-04",
     "floor": 3,

@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "삼익목화2",
+    "dealAmount": "14,500",
+    "date": "2026-07-13",
+    "floor": 4,
+    "area": 59.915
+  },
+  {
+    "aptNm": "미성",
+    "dealAmount": "85,000",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 84.94
+  },
+  {
+    "aptNm": "힐스테이트세운센트럴2단지",
+    "dealAmount": "90,000",
+    "date": "2026-07-11",
+    "floor": 9,
+    "area": 45.9844
+  },
+  {
+    "aptNm": "미성",
+    "dealAmount": "94,700",
+    "date": "2026-07-06",
+    "floor": 9,
+    "area": 84.94
+  },
+  {
+    "aptNm": "극동상록수",
+    "dealAmount": "78,000",
+    "date": "2026-07-02",
+    "floor": 7,
+    "area": 84.96
+  },
+  {
+    "aptNm": "극동상록수",
+    "dealAmount": "93,000",
+    "date": "2026-07-01",
+    "floor": 1,
+    "area": 59.91
+  },
+  {
     "aptNm": "진보설래임",
     "dealAmount": "20,000",
     "date": "2026-06-21",

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "삼익2",
+    "dealAmount": "13,800",
+    "date": "2026-07-12",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "영진부영1",
+    "dealAmount": "15,500",
+    "date": "2026-07-09",
+    "floor": 7,
+    "area": 59.987
+  },
+  {
+    "aptNm": "삼익2",
     "dealAmount": "19,500",
     "date": "2026-07-08",
     "floor": 1,
@@ -42,11 +56,25 @@
     "area": 71.2
   },
   {
+    "aptNm": "장미2",
+    "dealAmount": "328,000",
+    "date": "2026-06-26",
+    "floor": 7,
+    "area": 82.45
+  },
+  {
     "aptNm": "현대백조",
     "dealAmount": "168,500",
     "date": "2026-06-23",
     "floor": 13,
     "area": 78.59
+  },
+  {
+    "aptNm": "장미2",
+    "dealAmount": "300,000",
+    "date": "2026-06-19",
+    "floor": 7,
+    "area": 71.2
   },
   {
     "aptNm": "장미2",

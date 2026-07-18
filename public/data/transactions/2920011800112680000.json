@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "송천주공",
+    "dealAmount": "17,200",
+    "date": "2026-07-12",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "고암오네뜨",
+    "dealAmount": "26,200",
+    "date": "2026-07-10",
+    "floor": 14,
+    "area": 59.9689
+  },
+  {
+    "aptNm": "송천주공",
     "dealAmount": "20,300",
     "date": "2026-07-07",
     "floor": 2,

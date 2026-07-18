@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "금호아파트",
+    "dealAmount": "18,000",
+    "date": "2026-07-11",
+    "floor": 9,
+    "area": 70.378
+  },
+  {
+    "aptNm": "금호아파트",
+    "dealAmount": "17,500",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 83
+  },
+  {
+    "aptNm": "금호아파트",
     "dealAmount": "9,800",
     "date": "2026-06-25",
     "floor": 13,

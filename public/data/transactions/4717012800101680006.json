@@ -8,6 +8,13 @@
   },
   {
     "aptNm": "대원타운",
+    "dealAmount": "15,000",
+    "date": "2026-06-18",
+    "floor": 5,
+    "area": 149.94
+  },
+  {
+    "aptNm": "대원타운",
     "dealAmount": "8,500",
     "date": "2026-06-08",
     "floor": 4,

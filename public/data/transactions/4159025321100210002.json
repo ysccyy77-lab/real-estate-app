@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "브라운스톤",
+    "dealAmount": "70,000",
+    "date": "2026-07-15",
+    "floor": 6,
+    "area": 58.24
+  },
+  {
+    "aptNm": "삼일",
+    "dealAmount": "21,000",
+    "date": "2026-07-11",
+    "floor": 16,
+    "area": 84.96
+  },
+  {
+    "aptNm": "브라운스톤",
     "dealAmount": "50,000",
     "date": "2026-06-22",
     "floor": 14,

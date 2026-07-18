@@ -2,6 +2,20 @@
   {
     "aptNm": "신일",
     "dealAmount": "26,000",
+    "date": "2026-07-10",
+    "floor": 2,
+    "area": 59.988
+  },
+  {
+    "aptNm": "강동큐브",
+    "dealAmount": "10,000",
+    "date": "2026-07-07",
+    "floor": 19,
+    "area": 12.49
+  },
+  {
+    "aptNm": "신일",
+    "dealAmount": "26,000",
     "date": "2026-06-23",
     "floor": 10,
     "area": 59.988

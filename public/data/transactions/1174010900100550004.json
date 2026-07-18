@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신일유토빌",
+    "dealAmount": "58,000",
+    "date": "2026-07-12",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "신일유토빌",
+    "dealAmount": "56,500",
+    "date": "2026-07-06",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "신일유토빌",
     "dealAmount": "54,500",
     "date": "2026-07-01",
     "floor": 6,

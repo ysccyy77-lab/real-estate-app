@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "삼천리",
+    "dealAmount": "14,000",
+    "date": "2026-07-11",
+    "floor": 2,
+    "area": 41.884
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "13,500",
+    "date": "2026-07-10",
+    "floor": 1,
+    "area": 41.884
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "11,250",
+    "date": "2026-06-28",
+    "floor": 2,
+    "area": 35.712
+  },
+  {
+    "aptNm": "삼천리",
     "dealAmount": "13,500",
     "date": "2026-06-25",
     "floor": 4,

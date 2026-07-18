@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "대곡한양",
+    "dealAmount": "10,000",
+    "date": "2026-07-14",
+    "floor": 5,
+    "area": 84.78
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "72,000",
+    "date": "2026-07-11",
+    "floor": 13,
+    "area": 84.6541
+  },
+  {
     "aptNm": "송도SKVIEW",
     "dealAmount": "68,000",
     "date": "2026-07-08",
@@ -33,6 +47,13 @@
     "date": "2026-06-27",
     "floor": 20,
     "area": 84.6541
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "68,000",
+    "date": "2026-06-26",
+    "floor": 8,
+    "area": 84.9753
   },
   {
     "aptNm": "송도SKVIEW",

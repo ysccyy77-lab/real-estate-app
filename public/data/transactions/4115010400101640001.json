@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신곡현대",
+    "dealAmount": "14,200",
+    "date": "2026-07-14",
+    "floor": 10,
+    "area": 49.32
+  },
+  {
+    "aptNm": "신곡현대",
+    "dealAmount": "16,000",
+    "date": "2026-07-09",
+    "floor": 14,
+    "area": 60
+  },
+  {
+    "aptNm": "신곡현대",
     "dealAmount": "16,800",
     "date": "2026-06-29",
     "floor": 15,

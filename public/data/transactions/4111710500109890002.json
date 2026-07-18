@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현대",
+    "dealAmount": "119,000",
+    "date": "2026-06-29",
+    "floor": 10,
+    "area": 134.76
+  },
+  {
+    "aptNm": "현대",
     "dealAmount": "119,500",
     "date": "2026-06-27",
     "floor": 15,

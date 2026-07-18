@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "한빛",
+    "dealAmount": "41,400",
+    "date": "2026-07-11",
+    "floor": 15,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "66,400",
+    "date": "2026-07-11",
+    "floor": 10,
+    "area": 142.69
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "62,300",
+    "date": "2026-07-11",
+    "floor": 17,
+    "area": 142.69
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "40,000",
+    "date": "2026-07-07",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한빛",
     "dealAmount": "37,800",
     "date": "2026-07-06",
     "floor": 4,
     "area": 84.93
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "100,000",
+    "date": "2026-07-02",
+    "floor": 5,
+    "area": 84.96
   },
   {
     "aptNm": "이매촌(삼환)",

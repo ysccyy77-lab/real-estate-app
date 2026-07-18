@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "갈현현대",
+    "dealAmount": "56,500",
+    "date": "2026-07-15",
+    "floor": 14,
+    "area": 84.83
+  },
+  {
+    "aptNm": "남양반월타운",
+    "dealAmount": "9,200",
+    "date": "2026-07-13",
+    "floor": 16,
+    "area": 59.88
+  },
+  {
+    "aptNm": "갈현현대",
     "dealAmount": "46,000",
     "date": "2026-07-05",
     "floor": 10,

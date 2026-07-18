@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "은아",
+    "dealAmount": "25,900",
+    "date": "2026-07-11",
+    "floor": 3,
+    "area": 49.83
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "25,500",
+    "date": "2026-07-10",
+    "floor": 5,
+    "area": 49.83
+  },
+  {
+    "aptNm": "은아",
     "dealAmount": "25,800",
     "date": "2026-06-30",
     "floor": 1,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동부골든",
+    "dealAmount": "55,100",
+    "date": "2026-07-14",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "동부골든",
     "dealAmount": "57,500",
     "date": "2026-07-09",
     "floor": 3,

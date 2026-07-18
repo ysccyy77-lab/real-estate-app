@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신안모란",
+    "dealAmount": "59,000",
+    "date": "2026-07-11",
+    "floor": 6,
+    "area": 66.16
+  },
+  {
+    "aptNm": "신안모란",
     "dealAmount": "60,000",
     "date": "2026-06-27",
     "floor": 12,

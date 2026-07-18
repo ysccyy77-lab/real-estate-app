@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "리버나인RIVERNINE",
+    "dealAmount": "112,500",
+    "date": "2026-07-09",
+    "floor": 6,
+    "area": 74.95
+  },
+  {
+    "aptNm": "리버나인RIVERNINE",
+    "dealAmount": "115,000",
+    "date": "2026-07-04",
+    "floor": 5,
+    "area": 74.95
+  },
+  {
+    "aptNm": "리버나인RIVERNINE",
+    "dealAmount": "121,000",
+    "date": "2026-07-04",
+    "floor": 19,
+    "area": 84.89
+  },
+  {
+    "aptNm": "리버나인RIVERNINE",
+    "dealAmount": "122,700",
+    "date": "2026-07-03",
+    "floor": 22,
+    "area": 84.89
+  },
+  {
     "aptNm": "부영E그린",
     "dealAmount": "23,000",
     "date": "2026-06-28",
@@ -12,6 +40,13 @@
     "date": "2026-06-25",
     "floor": 5,
     "area": 52.38
+  },
+  {
+    "aptNm": "리버나인RIVERNINE",
+    "dealAmount": "111,000",
+    "date": "2026-06-25",
+    "floor": 6,
+    "area": 84.97
   },
   {
     "aptNm": "부영E그린",

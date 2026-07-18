@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "래미안슈르",
+    "dealAmount": "175,000",
+    "date": "2026-07-11",
+    "floor": 22,
+    "area": 84.961
+  },
+  {
+    "aptNm": "꿈의숲롯데캐슬",
+    "dealAmount": "104,600",
+    "date": "2026-07-09",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "아남1",
+    "dealAmount": "120,000",
+    "date": "2026-07-03",
+    "floor": 3,
+    "area": 84.9
+  },
+  {
+    "aptNm": "꿈의숲롯데캐슬",
+    "dealAmount": "105,000",
+    "date": "2026-07-02",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "아남1",
+    "dealAmount": "128,500",
+    "date": "2026-07-01",
+    "floor": 14,
+    "area": 84.9
+  },
+  {
+    "aptNm": "꿈의숲롯데캐슬",
+    "dealAmount": "104,000",
+    "date": "2026-06-27",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
     "aptNm": "롯데",
     "dealAmount": "31,500",
     "date": "2026-06-24",
     "floor": 6,
     "area": 129.85
+  },
+  {
+    "aptNm": "성원3차",
+    "dealAmount": "7,300",
+    "date": "2026-06-24",
+    "floor": 4,
+    "area": 59.94
   },
   {
     "aptNm": "주공",
@@ -19,6 +68,13 @@
     "date": "2026-06-18",
     "floor": 6,
     "area": 84.98
+  },
+  {
+    "aptNm": "아남1",
+    "dealAmount": "119,000",
+    "date": "2026-06-18",
+    "floor": 10,
+    "area": 84.9
   },
   {
     "aptNm": "롯데",

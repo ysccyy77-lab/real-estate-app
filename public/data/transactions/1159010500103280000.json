@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "청광플러스원",
+    "dealAmount": "44,500",
+    "date": "2026-07-13",
+    "floor": 4,
+    "area": 84.91
+  },
+  {
+    "aptNm": "방주아파트",
+    "dealAmount": "16,500",
+    "date": "2026-07-10",
+    "floor": 4,
+    "area": 59.67
+  },
+  {
+    "aptNm": "동성로SK리더스뷰",
+    "dealAmount": "61,500",
+    "date": "2026-07-09",
+    "floor": 35,
+    "area": 84.99
+  },
+  {
     "aptNm": "동성로SK리더스뷰",
     "dealAmount": "61,500",
     "date": "2026-07-03",

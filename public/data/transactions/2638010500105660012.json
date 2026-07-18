@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "국제마마",
+    "dealAmount": "6,800",
+    "date": "2026-07-13",
+    "floor": 3,
+    "area": 65.385
+  },
+  {
+    "aptNm": "국제마마",
+    "dealAmount": "9,000",
+    "date": "2026-06-16",
+    "floor": 15,
+    "area": 79.055
+  },
+  {
+    "aptNm": "국제마마",
     "dealAmount": "8,900",
     "date": "2026-06-03",
     "floor": 6,

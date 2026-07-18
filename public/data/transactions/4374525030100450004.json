@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "청도",
+    "dealAmount": "14,100",
+    "date": "2026-07-09",
+    "floor": 6,
+    "area": 59.88
+  },
+  {
+    "aptNm": "청도",
     "dealAmount": "14,000",
     "date": "2026-06-19",
     "floor": 8,

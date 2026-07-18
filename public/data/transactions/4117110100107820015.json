@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "유일보노빌",
+    "dealAmount": "8,400",
+    "date": "2026-07-11",
+    "floor": 10,
+    "area": 16.22
+  },
+  {
+    "aptNm": "유일보노빌",
     "dealAmount": "9,400",
     "date": "2026-03-03",
     "floor": 9,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "강부3차",
+    "dealAmount": "7,000",
+    "date": "2026-07-11",
+    "floor": 7,
+    "area": 58.71
+  },
+  {
+    "aptNm": "강부3차",
     "dealAmount": "3,400",
     "date": "2026-06-29",
     "floor": 12,

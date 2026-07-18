@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "고려3",
+    "dealAmount": "19,700",
+    "date": "2026-07-12",
+    "floor": 12,
+    "area": 84.97
+  },
+  {
+    "aptNm": "고려3",
     "dealAmount": "27,000",
     "date": "2026-05-07",
     "floor": 2,

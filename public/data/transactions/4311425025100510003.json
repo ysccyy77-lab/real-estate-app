@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우창진주2",
+    "dealAmount": "6,700",
+    "date": "2026-07-14",
+    "floor": 3,
+    "area": 59.73
+  },
+  {
+    "aptNm": "우창진주2",
     "dealAmount": "7,450",
     "date": "2026-05-17",
     "floor": 13,

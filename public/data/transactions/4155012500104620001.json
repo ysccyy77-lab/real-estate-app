@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "태영",
+    "dealAmount": "14,900",
+    "date": "2026-06-28",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "태영",
     "dealAmount": "16,400",
     "date": "2026-05-02",
     "floor": 15,

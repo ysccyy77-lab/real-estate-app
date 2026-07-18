@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "도시타워",
+    "dealAmount": "6,000",
+    "date": "2026-07-13",
+    "floor": 4,
+    "area": 44.6
+  },
+  {
+    "aptNm": "도시타워",
     "dealAmount": "11,500",
     "date": "2026-06-02",
     "floor": 10,

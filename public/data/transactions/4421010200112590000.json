@@ -28,11 +28,25 @@
     "area": 59.73
   },
   {
+    "aptNm": "구일우성",
+    "dealAmount": "83,500",
+    "date": "2026-07-01",
+    "floor": 8,
+    "area": 84.49
+  },
+  {
     "aptNm": "신트리1",
     "dealAmount": "91,500",
     "date": "2026-06-24",
     "floor": 4,
     "area": 49.95
+  },
+  {
+    "aptNm": "구일우성",
+    "dealAmount": "59,950",
+    "date": "2026-06-16",
+    "floor": 10,
+    "area": 59.44
   },
   {
     "aptNm": "구일우성",

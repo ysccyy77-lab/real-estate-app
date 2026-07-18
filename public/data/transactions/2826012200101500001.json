@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "웅비",
+    "dealAmount": "13,900",
+    "date": "2026-07-14",
+    "floor": 1,
+    "area": 45.54
+  },
+  {
+    "aptNm": "웅비",
     "dealAmount": "14,500",
     "date": "2026-07-03",
     "floor": 2,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "관저더샵",
+    "dealAmount": "52,200",
+    "date": "2026-07-14",
+    "floor": 11,
+    "area": 84.882
+  },
+  {
+    "aptNm": "관저더샵",
+    "dealAmount": "52,300",
+    "date": "2026-07-14",
+    "floor": 12,
+    "area": 84.882
+  },
+  {
+    "aptNm": "관저더샵",
     "dealAmount": "46,000",
     "date": "2026-07-06",
     "floor": 3,

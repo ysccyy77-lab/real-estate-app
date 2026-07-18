@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "성도",
+    "dealAmount": "13,550",
+    "date": "2026-07-13",
+    "floor": 5,
+    "area": 59.7
+  },
+  {
+    "aptNm": "성도",
+    "dealAmount": "14,100",
+    "date": "2026-07-12",
+    "floor": 2,
+    "area": 59.7
+  },
+  {
+    "aptNm": "성도",
+    "dealAmount": "14,700",
+    "date": "2026-07-11",
+    "floor": 14,
+    "area": 59.7
+  },
+  {
+    "aptNm": "관악산현대홈타운",
+    "dealAmount": "76,500",
+    "date": "2026-07-11",
+    "floor": 7,
+    "area": 84.404
+  },
+  {
     "aptNm": "새릉골풍림",
     "dealAmount": "81,500",
     "date": "2026-06-30",

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "소사에스케이뷰",
+    "dealAmount": "53,700",
+    "date": "2026-07-11",
+    "floor": 8,
+    "area": 84.9841
+  },
+  {
+    "aptNm": "문촌마을15단지부영",
+    "dealAmount": "22,800",
+    "date": "2026-07-09",
+    "floor": 1,
+    "area": 40.27
+  },
+  {
+    "aptNm": "종암2차SKVIEW",
+    "dealAmount": "119,500",
+    "date": "2026-07-05",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "소사에스케이뷰",
     "dealAmount": "59,500",
     "date": "2026-07-04",
     "floor": 14,

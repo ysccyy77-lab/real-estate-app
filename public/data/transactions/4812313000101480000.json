@@ -8,6 +8,20 @@
   },
   {
     "aptNm": "무궁화",
+    "dealAmount": "34,500",
+    "date": "2026-07-07",
+    "floor": 2,
+    "area": 51.57
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "32,500",
+    "date": "2026-07-04",
+    "floor": 5,
+    "area": 51.57
+  },
+  {
+    "aptNm": "무궁화",
     "dealAmount": "34,000",
     "date": "2026-06-01",
     "floor": 3,

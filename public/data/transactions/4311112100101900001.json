@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "아산코아루",
+    "dealAmount": "13,500",
+    "date": "2026-07-10",
+    "floor": 6,
+    "area": 84.9418
+  },
+  {
+    "aptNm": "홍은모드니",
+    "dealAmount": "5,700",
+    "date": "2026-07-08",
+    "floor": 8,
+    "area": 53.86
+  },
+  {
+    "aptNm": "아산코아루",
     "dealAmount": "12,900",
     "date": "2026-07-02",
     "floor": 8,

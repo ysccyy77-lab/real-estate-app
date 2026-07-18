@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "15,200",
+    "date": "2026-07-14",
+    "floor": 1,
+    "area": 52.38
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "18,500",
+    "date": "2026-07-14",
+    "floor": 11,
+    "area": 63.99
+  },
+  {
+    "aptNm": "직산부영",
+    "dealAmount": "9,550",
+    "date": "2026-07-14",
+    "floor": 6,
+    "area": 59.76
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "23,000",
+    "date": "2026-07-13",
+    "floor": 8,
+    "area": 79.27
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "13,800",
+    "date": "2026-07-10",
+    "floor": 4,
+    "area": 52.38
+  },
+  {
     "aptNm": "직산부영",
     "dealAmount": "7,000",
     "date": "2026-07-07",
@@ -39,6 +74,13 @@
     "dealAmount": "59,500",
     "date": "2026-06-24",
     "floor": 15,
+    "area": 45.55
+  },
+  {
+    "aptNm": "당산대우",
+    "dealAmount": "58,500",
+    "date": "2026-06-22",
+    "floor": 13,
     "area": 45.55
   },
   {

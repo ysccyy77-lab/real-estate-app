@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "창신이수",
+    "dealAmount": "97,000",
+    "date": "2026-07-10",
+    "floor": 17,
+    "area": 84.5
+  },
+  {
+    "aptNm": "창신이수",
     "dealAmount": "89,000",
     "date": "2026-06-18",
     "floor": 2,

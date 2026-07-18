@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경희",
+    "dealAmount": "11,600",
+    "date": "2026-07-11",
+    "floor": 2,
+    "area": 59.9
+  },
+  {
+    "aptNm": "경희",
     "dealAmount": "11,500",
     "date": "2026-06-10",
     "floor": 6,

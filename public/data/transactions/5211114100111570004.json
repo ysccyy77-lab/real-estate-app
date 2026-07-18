@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "전주효자SKLeadersVIEW",
+    "dealAmount": "44,500",
+    "date": "2026-07-16",
+    "floor": 18,
+    "area": 84.98
+  },
+  {
+    "aptNm": "전주효자SKLeadersVIEW",
     "dealAmount": "42,300",
     "date": "2026-07-10",
     "floor": 7,
@@ -19,6 +26,13 @@
     "date": "2026-07-01",
     "floor": 21,
     "area": 84.91
+  },
+  {
+    "aptNm": "전주효자SKLeadersVIEW",
+    "dealAmount": "38,000",
+    "date": "2026-06-26",
+    "floor": 6,
+    "area": 84.98
   },
   {
     "aptNm": "전주효자SKLeadersVIEW",

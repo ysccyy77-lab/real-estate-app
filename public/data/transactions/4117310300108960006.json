@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "초원부영",
+    "dealAmount": "51,000",
+    "date": "2026-07-10",
+    "floor": 14,
+    "area": 37.85
+  },
+  {
+    "aptNm": "초원부영",
     "dealAmount": "79,700",
     "date": "2026-07-04",
     "floor": 4,

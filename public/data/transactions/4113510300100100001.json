@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "현대I-PARK2",
+    "dealAmount": "250,000",
+    "date": "2026-07-10",
+    "floor": 18,
+    "area": 162.01
+  },
+  {
     "aptNm": "수안",
     "dealAmount": "25,400",
     "date": "2026-06-22",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "거산",
+    "dealAmount": "27,700",
+    "date": "2026-07-08",
+    "floor": 2,
+    "area": 55.26
+  },
+  {
+    "aptNm": "거산",
     "dealAmount": "39,000",
     "date": "2026-07-02",
     "floor": 4,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신안약수",
+    "dealAmount": "68,500",
+    "date": "2026-06-25",
+    "floor": 1,
+    "area": 68
+  },
+  {
+    "aptNm": "신안약수",
     "dealAmount": "77,800",
     "date": "2026-06-22",
     "floor": 10,

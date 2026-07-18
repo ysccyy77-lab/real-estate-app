@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "고덕국제신도시대광로제비앙THEART",
+    "dealAmount": "53,900",
+    "date": "2026-07-15",
+    "floor": 19,
+    "area": 84.9254
+  },
+  {
+    "aptNm": "고덕국제신도시대광로제비앙THEART",
+    "dealAmount": "52,000",
+    "date": "2026-07-11",
+    "floor": 11,
+    "area": 84.9656
+  },
+  {
+    "aptNm": "고덕국제신도시대광로제비앙THEART",
     "dealAmount": "51,000",
     "date": "2026-07-07",
     "floor": 6,
@@ -32,6 +46,13 @@
     "dealAmount": "50,600",
     "date": "2026-06-23",
     "floor": 6,
+    "area": 84.9656
+  },
+  {
+    "aptNm": "고덕국제신도시대광로제비앙THEART",
+    "dealAmount": "54,000",
+    "date": "2026-06-10",
+    "floor": 8,
     "area": 84.9656
   },
   {

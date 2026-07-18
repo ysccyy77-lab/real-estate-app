@@ -2,6 +2,20 @@
   {
     "aptNm": "한웅인터빌",
     "dealAmount": "6,500",
+    "date": "2026-07-15",
+    "floor": 8,
+    "area": 31.87
+  },
+  {
+    "aptNm": "한웅인터빌",
+    "dealAmount": "5,300",
+    "date": "2026-07-15",
+    "floor": 13,
+    "area": 26.25
+  },
+  {
+    "aptNm": "한웅인터빌",
+    "dealAmount": "6,500",
     "date": "2026-06-22",
     "floor": 9,
     "area": 33.15

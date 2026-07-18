@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "주공8",
+    "dealAmount": "65,500",
+    "date": "2026-07-09",
+    "floor": 6,
+    "area": 49.72
+  },
+  {
     "aptNm": "통영성원(1동2동)",
     "dealAmount": "4,000",
     "date": "2026-06-29",
     "floor": 7,
     "area": 39.75
+  },
+  {
+    "aptNm": "주공8",
+    "dealAmount": "61,600",
+    "date": "2026-06-22",
+    "floor": 15,
+    "area": 49.72
   },
   {
     "aptNm": "주공8",

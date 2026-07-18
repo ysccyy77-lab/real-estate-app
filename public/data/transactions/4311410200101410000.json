@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "현대(2차)",
+    "dealAmount": "18,700",
+    "date": "2026-07-13",
+    "floor": 8,
+    "area": 59.97
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "29,500",
+    "date": "2026-07-11",
+    "floor": 1,
+    "area": 59.4
+  },
+  {
+    "aptNm": "영우예인촌",
+    "dealAmount": "3,450",
+    "date": "2026-07-11",
+    "floor": 4,
+    "area": 30.31
+  },
+  {
+    "aptNm": "현대(2차)",
     "dealAmount": "16,200",
     "date": "2026-07-08",
     "floor": 1,

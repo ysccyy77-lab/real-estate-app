@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "주연",
+    "dealAmount": "6,800",
+    "date": "2026-07-10",
+    "floor": 5,
+    "area": 59.95
+  },
+  {
+    "aptNm": "주연",
     "dealAmount": "7,200",
     "date": "2026-06-01",
     "floor": 4,

@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "16,500",
+    "date": "2026-07-14",
+    "floor": 10,
+    "area": 68.1307
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,300",
+    "date": "2026-07-14",
+    "floor": 8,
+    "area": 59.9328
+  },
+  {
+    "aptNm": "협성·DS엘리시안",
+    "dealAmount": "13,500",
+    "date": "2026-07-13",
+    "floor": 6,
+    "area": 59.9931
+  },
+  {
+    "aptNm": "복사골아파트",
+    "dealAmount": "38,800",
+    "date": "2026-07-10",
+    "floor": 4,
+    "area": 56.58
+  },
+  {
     "aptNm": "대신리치빌",
     "dealAmount": "26,500",
     "date": "2026-07-09",
     "floor": 8,
     "area": 84.4275
+  },
+  {
+    "aptNm": "협성휴포레강북",
+    "dealAmount": "33,800",
+    "date": "2026-07-09",
+    "floor": 10,
+    "area": 72.9702
   },
   {
     "aptNm": "협성휴포레강북",

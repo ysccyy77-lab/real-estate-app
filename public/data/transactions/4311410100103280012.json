@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우암세원",
+    "dealAmount": "7,100",
+    "date": "2026-07-15",
+    "floor": 5,
+    "area": 41.02
+  },
+  {
+    "aptNm": "우암세원",
     "dealAmount": "6,700",
     "date": "2026-06-25",
     "floor": 11,

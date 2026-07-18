@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "샛별",
+    "dealAmount": "44,900",
+    "date": "2026-07-13",
+    "floor": 10,
+    "area": 84.78
+  },
+  {
+    "aptNm": "샛별",
     "dealAmount": "32,800",
     "date": "2026-05-30",
     "floor": 2,

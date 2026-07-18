@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "초원한양",
+    "dealAmount": "83,000",
+    "date": "2026-06-28",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "초원한양",
     "dealAmount": "103,500",
     "date": "2026-06-22",
     "floor": 11,

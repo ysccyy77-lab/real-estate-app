@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "시범한양",
+    "dealAmount": "125,000",
+    "date": "2026-07-10",
+    "floor": 14,
+    "area": 35.1
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "126,500",
+    "date": "2026-07-06",
+    "floor": 11,
+    "area": 35.1
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "99,000",
+    "date": "2026-07-01",
+    "floor": 5,
+    "area": 28.71
+  },
+  {
     "aptNm": "청솔아파트8",
     "dealAmount": "81,000",
     "date": "2026-06-22",
     "floor": 6,
     "area": 84.65
+  },
+  {
+    "aptNm": "청솔아파트8",
+    "dealAmount": "86,000",
+    "date": "2026-06-15",
+    "floor": 12,
+    "area": 84.83
+  },
+  {
+    "aptNm": "당산푸르지오",
+    "dealAmount": "166,000",
+    "date": "2026-06-13",
+    "floor": 20,
+    "area": 59.7
   },
   {
     "aptNm": "시범한양",

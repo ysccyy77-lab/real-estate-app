@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현대그린",
+    "dealAmount": "6,150",
+    "date": "2026-07-14",
+    "floor": 2,
+    "area": 44.457
+  },
+  {
+    "aptNm": "현대그린",
     "dealAmount": "10,743",
     "date": "2026-06-26",
     "floor": 4,

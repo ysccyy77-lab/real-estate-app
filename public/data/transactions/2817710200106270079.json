@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대림",
+    "dealAmount": "25,250",
+    "date": "2026-07-13",
+    "floor": 13,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대림",
     "dealAmount": "25,500",
     "date": "2026-05-23",
     "floor": 11,

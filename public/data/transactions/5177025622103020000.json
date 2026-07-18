@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "황실타운",
+    "dealAmount": "38,800",
+    "date": "2026-07-13",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "천일은곡",
+    "dealAmount": "7,000",
+    "date": "2026-07-11",
+    "floor": 1,
+    "area": 59.739
+  },
+  {
+    "aptNm": "황실타운",
+    "dealAmount": "45,400",
+    "date": "2026-07-10",
+    "floor": 13,
+    "area": 84.93
+  },
+  {
+    "aptNm": "혁신도시엘에이치아파트9단지",
+    "dealAmount": "45,000",
+    "date": "2026-07-05",
+    "floor": 18,
+    "area": 59.97
+  },
+  {
+    "aptNm": "황실타운",
     "dealAmount": "35,800",
     "date": "2026-07-04",
     "floor": 9,

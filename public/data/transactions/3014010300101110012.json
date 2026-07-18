@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "금호한사랑",
+    "dealAmount": "22,900",
+    "date": "2026-07-11",
+    "floor": 14,
+    "area": 59.76
+  },
+  {
+    "aptNm": "금호한사랑",
+    "dealAmount": "28,500",
+    "date": "2026-07-11",
+    "floor": 11,
+    "area": 84.92
+  },
+  {
+    "aptNm": "금호한사랑",
     "dealAmount": "32,500",
     "date": "2026-07-06",
     "floor": 7,

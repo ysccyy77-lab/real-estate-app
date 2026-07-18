@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "안락현대",
+    "dealAmount": "30,800",
+    "date": "2026-07-07",
+    "floor": 9,
+    "area": 77.85
+  },
+  {
+    "aptNm": "안락현대",
     "dealAmount": "25,000",
     "date": "2026-06-17",
     "floor": 10,

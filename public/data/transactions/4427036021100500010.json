@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "순성중명",
+    "dealAmount": "3,600",
+    "date": "2026-07-09",
+    "floor": 2,
+    "area": 59.34
+  },
+  {
+    "aptNm": "순성중명",
     "dealAmount": "4,750",
     "date": "2026-06-14",
     "floor": 4,

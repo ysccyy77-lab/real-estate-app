@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "반도보라빌",
+    "dealAmount": "63,000",
+    "date": "2026-07-14",
+    "floor": 15,
+    "area": 84.9073
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "89,000",
+    "date": "2026-07-13",
+    "floor": 14,
+    "area": 84.957
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "84,700",
+    "date": "2026-07-12",
+    "floor": 10,
+    "area": 84.893
+  },
+  {
+    "aptNm": "금호2차",
+    "dealAmount": "24,500",
+    "date": "2026-07-11",
+    "floor": 2,
+    "area": 134.43
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "86,000",
+    "date": "2026-07-10",
+    "floor": 30,
+    "area": 84.957
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "72,000",
+    "date": "2026-07-08",
+    "floor": 25,
+    "area": 59.952
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "83,000",
+    "date": "2026-07-06",
+    "floor": 35,
+    "area": 84.911
+  },
+  {
     "aptNm": "의정부고산대방노블랜드에듀파크아파트",
     "dealAmount": "53,500",
     "date": "2026-07-05",
@@ -19,6 +68,13 @@
     "date": "2026-07-04",
     "floor": 20,
     "area": 59.929
+  },
+  {
+    "aptNm": "의정부고산대방노블랜드에듀파크아파트",
+    "dealAmount": "61,800",
+    "date": "2026-07-04",
+    "floor": 14,
+    "area": 84.9932
   },
   {
     "aptNm": "수원 SK SKY VIEW",
@@ -42,6 +98,13 @@
     "area": 122.766
   },
   {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "86,000",
+    "date": "2026-07-01",
+    "floor": 10,
+    "area": 84.911
+  },
+  {
     "aptNm": "반도보라빌",
     "dealAmount": "68,000",
     "date": "2026-06-30",
@@ -56,11 +119,25 @@
     "area": 71.6967
   },
   {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "87,500",
+    "date": "2026-06-29",
+    "floor": 16,
+    "area": 84.911
+  },
+  {
     "aptNm": "금호2차",
     "dealAmount": "20,900",
     "date": "2026-06-28",
     "floor": 8,
     "area": 84.6
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "68,700",
+    "date": "2026-06-28",
+    "floor": 4,
+    "area": 59.929
   },
   {
     "aptNm": "수원 SK SKY VIEW",

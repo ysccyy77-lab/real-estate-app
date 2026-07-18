@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성호",
+    "dealAmount": "12,200",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 59.76
+  },
+  {
+    "aptNm": "성호",
     "dealAmount": "11,500",
     "date": "2026-06-27",
     "floor": 13,

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "두산3",
+    "dealAmount": "24,600",
+    "date": "2026-07-15",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
+    "aptNm": "두산3",
+    "dealAmount": "24,600",
+    "date": "2026-07-13",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
     "aptNm": "금호",
     "dealAmount": "50,900",
     "date": "2026-07-10",
@@ -7,11 +21,25 @@
     "area": 59.96
   },
   {
+    "aptNm": "한솔",
+    "dealAmount": "15,500",
+    "date": "2026-07-10",
+    "floor": 4,
+    "area": 83.36
+  },
+  {
     "aptNm": "두산3",
     "dealAmount": "17,500",
     "date": "2026-07-08",
     "floor": 2,
     "area": 84.84
+  },
+  {
+    "aptNm": "강선마을5단지(동부,건영)",
+    "dealAmount": "63,000",
+    "date": "2026-07-05",
+    "floor": 13,
+    "area": 133.74
   },
   {
     "aptNm": "금호",

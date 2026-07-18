@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "송현1주공",
+    "dealAmount": "12,180",
+    "date": "2026-07-14",
+    "floor": 1,
+    "area": 49.22
+  },
+  {
+    "aptNm": "세양청마루",
+    "dealAmount": "25,500",
+    "date": "2026-07-12",
+    "floor": 7,
+    "area": 122.8136
+  },
+  {
+    "aptNm": "송현1주공",
+    "dealAmount": "8,300",
+    "date": "2026-07-08",
+    "floor": 1,
+    "area": 40.45
+  },
+  {
+    "aptNm": "송현1주공",
     "dealAmount": "11,000",
     "date": "2026-06-29",
     "floor": 2,

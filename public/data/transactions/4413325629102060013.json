@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우성8차",
+    "dealAmount": "6,000",
+    "date": "2026-07-01",
+    "floor": 1,
+    "area": 49.71
+  },
+  {
+    "aptNm": "우성8차",
     "dealAmount": "6,400",
     "date": "2026-06-16",
     "floor": 7,

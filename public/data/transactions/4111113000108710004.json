@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "백설 에듀빌",
+    "dealAmount": "54,000",
+    "date": "2026-06-20",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "백설 에듀빌",
+    "dealAmount": "59,000",
+    "date": "2026-06-20",
+    "floor": 22,
+    "area": 84.96
+  },
+  {
+    "aptNm": "백설 에듀빌",
     "dealAmount": "57,200",
     "date": "2026-06-16",
     "floor": 17,

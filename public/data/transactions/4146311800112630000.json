@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "신우",
+    "dealAmount": "42,300",
+    "date": "2026-07-15",
+    "floor": 2,
+    "area": 84.93
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "11,100",
+    "date": "2026-07-14",
+    "floor": 3,
+    "area": 59.86
+  },
+  {
+    "aptNm": "신우",
+    "dealAmount": "36,000",
+    "date": "2026-07-12",
+    "floor": 1,
+    "area": 74.61
+  },
+  {
+    "aptNm": "율량효성2",
+    "dealAmount": "10,500",
+    "date": "2026-07-11",
+    "floor": 8,
+    "area": 45.28
+  },
+  {
+    "aptNm": "신우",
     "dealAmount": "33,800",
     "date": "2026-07-09",
     "floor": 1,

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "SKVIEW",
+    "dealAmount": "123,000",
+    "date": "2026-07-11",
+    "floor": 24,
+    "area": 84.99
+  },
+  {
+    "aptNm": "SKVIEW",
+    "dealAmount": "130,000",
+    "date": "2026-07-07",
+    "floor": 19,
+    "area": 84.96
+  },
+  {
     "aptNm": "수영협성르네상스타운",
     "dealAmount": "72,500",
     "date": "2026-04-01",

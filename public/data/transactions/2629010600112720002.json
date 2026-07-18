@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "에덴타운",
+    "dealAmount": "24,000",
+    "date": "2026-07-15",
+    "floor": 5,
+    "area": 84.86
+  },
+  {
+    "aptNm": "에덴타운",
     "dealAmount": "27,300",
     "date": "2026-06-25",
     "floor": 7,

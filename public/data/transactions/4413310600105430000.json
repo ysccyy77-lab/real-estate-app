@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "36,000",
+    "date": "2026-07-13",
+    "floor": 9,
+    "area": 84.615
+  },
+  {
+    "aptNm": "옥계에덴",
+    "dealAmount": "7,050",
+    "date": "2026-07-09",
+    "floor": 9,
+    "area": 60
+  },
+  {
     "aptNm": "덕정역서희스타힐스에듀포레뷰",
     "dealAmount": "40,500",
     "date": "2026-07-06",
@@ -39,6 +53,20 @@
     "dealAmount": "8,700",
     "date": "2026-06-29",
     "floor": 8,
+    "area": 60
+  },
+  {
+    "aptNm": "옥계에덴",
+    "dealAmount": "5,500",
+    "date": "2026-06-28",
+    "floor": 4,
+    "area": 60
+  },
+  {
+    "aptNm": "옥계에덴",
+    "dealAmount": "9,100",
+    "date": "2026-06-28",
+    "floor": 10,
     "area": 60
   },
   {

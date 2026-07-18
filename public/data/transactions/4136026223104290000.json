@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "수림2차",
+    "dealAmount": "13,000",
+    "date": "2026-07-09",
+    "floor": 6,
+    "area": 59.47
+  },
+  {
+    "aptNm": "수림2차",
     "dealAmount": "18,700",
     "date": "2026-07-04",
     "floor": 12,

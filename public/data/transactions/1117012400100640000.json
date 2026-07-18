@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "쌍용",
+    "dealAmount": "98,000",
+    "date": "2026-07-11",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "100,800",
+    "date": "2026-07-11",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "힐데스하임",
+    "dealAmount": "54,000",
+    "date": "2026-07-10",
+    "floor": 13,
+    "area": 42.24
+  },
+  {
+    "aptNm": "쌍용",
     "dealAmount": "102,000",
     "date": "2026-07-06",
     "floor": 12,

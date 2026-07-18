@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "센텀대림",
+    "dealAmount": "24,000",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "센텀대림",
+    "dealAmount": "34,000",
+    "date": "2026-07-11",
+    "floor": 12,
+    "area": 84.98
+  },
+  {
+    "aptNm": "센텀대림",
     "dealAmount": "27,300",
     "date": "2026-07-07",
     "floor": 14,

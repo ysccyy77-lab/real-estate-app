@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한우리2",
+    "dealAmount": "13,100",
+    "date": "2026-07-15",
+    "floor": 13,
+    "area": 59.865
+  },
+  {
+    "aptNm": "한우리2",
+    "dealAmount": "12,500",
+    "date": "2026-07-13",
+    "floor": 2,
+    "area": 59.865
+  },
+  {
+    "aptNm": "한우리2",
     "dealAmount": "11,000",
     "date": "2026-07-04",
     "floor": 3,

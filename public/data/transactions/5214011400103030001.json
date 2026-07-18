@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "모현현대2차",
+    "dealAmount": "14,500",
+    "date": "2026-07-15",
+    "floor": 6,
+    "area": 84.74
+  },
+  {
+    "aptNm": "모현현대2차",
+    "dealAmount": "9,000",
+    "date": "2026-07-14",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "모현현대2차",
     "dealAmount": "11,050",
     "date": "2026-07-06",
     "floor": 11,

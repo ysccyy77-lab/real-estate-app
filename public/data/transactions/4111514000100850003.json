@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우만R타워",
+    "dealAmount": "9,500",
+    "date": "2026-07-11",
+    "floor": 13,
+    "area": 18.42
+  },
+  {
+    "aptNm": "우만R타워",
     "dealAmount": "8,000",
     "date": "2026-03-05",
     "floor": 14,

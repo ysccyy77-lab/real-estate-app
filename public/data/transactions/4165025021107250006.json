@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송천마을",
+    "dealAmount": "22,000",
+    "date": "2026-07-02",
+    "floor": 8,
+    "area": 75.99
+  },
+  {
+    "aptNm": "송천마을",
     "dealAmount": "21,000",
     "date": "2026-06-11",
     "floor": 18,

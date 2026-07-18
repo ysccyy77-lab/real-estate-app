@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "선경1",
+    "dealAmount": "34,700",
+    "date": "2026-07-14",
+    "floor": 14,
+    "area": 59.335
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "17,600",
+    "date": "2026-07-11",
+    "floor": 13,
+    "area": 84.99
+  },
+  {
     "aptNm": "우성",
     "dealAmount": "12,200",
     "date": "2026-07-03",

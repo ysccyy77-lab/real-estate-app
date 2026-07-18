@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "주공5차",
+    "dealAmount": "6,300",
+    "date": "2026-07-13",
+    "floor": 10,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공5차",
     "dealAmount": "6,000",
     "date": "2026-07-01",
     "floor": 8,

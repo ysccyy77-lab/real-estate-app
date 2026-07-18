@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우리마을",
+    "dealAmount": "14,300",
+    "date": "2026-07-06",
+    "floor": 3,
+    "area": 49.447
+  },
+  {
+    "aptNm": "우리마을",
     "dealAmount": "20,900",
     "date": "2026-06-18",
     "floor": 7,

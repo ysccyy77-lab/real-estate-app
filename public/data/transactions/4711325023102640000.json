@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신흥SKVIEW",
+    "dealAmount": "41,500",
+    "date": "2026-07-14",
+    "floor": 18,
+    "area": 59.9682
+  },
+  {
+    "aptNm": "신흥SKVIEW",
     "dealAmount": "58,400",
     "date": "2026-07-04",
     "floor": 14,
@@ -19,6 +26,13 @@
     "date": "2026-07-04",
     "floor": 2,
     "area": 59.9682
+  },
+  {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "52,000",
+    "date": "2026-07-03",
+    "floor": 9,
+    "area": 74.9383
   },
   {
     "aptNm": "신흥SKVIEW",
@@ -53,6 +67,13 @@
     "dealAmount": "56,000",
     "date": "2026-06-25",
     "floor": 14,
+    "area": 84.9717
+  },
+  {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "53,300",
+    "date": "2026-06-24",
+    "floor": 2,
     "area": 84.9717
   },
   {

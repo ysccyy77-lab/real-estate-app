@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "관악성원",
+    "dealAmount": "39,500",
+    "date": "2026-07-11",
+    "floor": 9,
+    "area": 33.735
+  },
+  {
+    "aptNm": "관악성원",
     "dealAmount": "52,000",
     "date": "2026-07-02",
     "floor": 5,

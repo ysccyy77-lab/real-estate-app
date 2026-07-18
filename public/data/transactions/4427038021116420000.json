@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "당진신평LIG리가",
+    "dealAmount": "13,100",
+    "date": "2026-07-11",
+    "floor": 13,
+    "area": 84.997
+  },
+  {
+    "aptNm": "당진신평LIG리가",
     "dealAmount": "13,600",
     "date": "2026-07-03",
     "floor": 9,

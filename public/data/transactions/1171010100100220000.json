@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "성원2차",
+    "dealAmount": "27,700",
+    "date": "2026-07-13",
+    "floor": 17,
+    "area": 84.92
+  },
+  {
+    "aptNm": "성원2차",
+    "dealAmount": "29,100",
+    "date": "2026-07-10",
+    "floor": 7,
+    "area": 84.92
+  },
+  {
+    "aptNm": "리센츠",
+    "dealAmount": "350,000",
+    "date": "2026-07-03",
+    "floor": 26,
+    "area": 84.99
+  },
+  {
+    "aptNm": "성원2차",
     "dealAmount": "28,000",
     "date": "2026-06-30",
     "floor": 11,
     "area": 84.92
+  },
+  {
+    "aptNm": "리센츠",
+    "dealAmount": "304,000",
+    "date": "2026-06-30",
+    "floor": 23,
+    "area": 59.99
   },
   {
     "aptNm": "리센츠",
@@ -21,11 +49,25 @@
     "area": 84.99
   },
   {
+    "aptNm": "성원2차",
+    "dealAmount": "23,000",
+    "date": "2026-06-29",
+    "floor": 2,
+    "area": 84.92
+  },
+  {
     "aptNm": "신동아(22)",
     "dealAmount": "133,000",
     "date": "2026-06-27",
     "floor": 2,
     "area": 35.73
+  },
+  {
+    "aptNm": "리센츠",
+    "dealAmount": "156,000",
+    "date": "2026-06-25",
+    "floor": 27,
+    "area": 27.68
   },
   {
     "aptNm": "리센츠",

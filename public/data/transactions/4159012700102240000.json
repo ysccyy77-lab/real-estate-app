@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "아진",
+    "dealAmount": "4,630",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 39.66
+  },
+  {
+    "aptNm": "옥명대우(2차)",
+    "dealAmount": "13,900",
+    "date": "2026-07-08",
+    "floor": 4,
+    "area": 124.836
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "49,500",
+    "date": "2026-07-07",
+    "floor": 9,
+    "area": 60.26
+  },
+  {
+    "aptNm": "옥명대우(2차)",
+    "dealAmount": "8,900",
+    "date": "2026-07-06",
+    "floor": 3,
+    "area": 74.92
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "58,900",
+    "date": "2026-07-04",
+    "floor": 4,
+    "area": 84.69
+  },
+  {
+    "aptNm": "논공삼주",
+    "dealAmount": "3,000",
+    "date": "2026-07-01",
+    "floor": 2,
+    "area": 43.83
+  },
+  {
     "aptNm": "부흥",
     "dealAmount": "5,300",
     "date": "2026-06-26",

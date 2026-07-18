@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "두산푸른솔",
+    "dealAmount": "18,000",
+    "date": "2026-07-11",
+    "floor": 8,
+    "area": 83.12
+  },
+  {
+    "aptNm": "두산푸른솔",
+    "dealAmount": "16,550",
+    "date": "2026-07-08",
+    "floor": 9,
+    "area": 84.48
+  },
+  {
+    "aptNm": "두산푸른솔",
     "dealAmount": "15,150",
     "date": "2026-04-15",
     "floor": 2,

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "한라",
+    "dealAmount": "16,700",
+    "date": "2026-07-14",
+    "floor": 6,
+    "area": 59.7
+  },
+  {
+    "aptNm": "오송경남아너스빌",
+    "dealAmount": "31,800",
+    "date": "2026-07-13",
+    "floor": 11,
+    "area": 84.91
+  },
+  {
+    "aptNm": "한라",
+    "dealAmount": "17,100",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 59.7
+  },
+  {
     "aptNm": "홍천오드카운티",
     "dealAmount": "22,000",
     "date": "2026-07-06",

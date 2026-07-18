@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "회천파밀리에더퍼스트",
+    "dealAmount": "41,800",
+    "date": "2026-07-11",
+    "floor": 4,
+    "area": 74.97
+  },
+  {
+    "aptNm": "뉴그린1",
+    "dealAmount": "14,800",
+    "date": "2026-07-11",
+    "floor": 4,
+    "area": 59.76
+  },
+  {
+    "aptNm": "이편한세상금정산",
+    "dealAmount": "41,800",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 84.9144
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "49,000",
+    "date": "2026-07-11",
+    "floor": 14,
+    "area": 51.998
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "58,700",
+    "date": "2026-07-11",
+    "floor": 20,
+    "area": 59.975
+  },
+  {
     "aptNm": "유블레스랜드마크47",
     "dealAmount": "35,500",
     "date": "2026-07-10",
     "floor": 24,
     "area": 84.4386
+  },
+  {
+    "aptNm": "뉴그린1",
+    "dealAmount": "11,700",
+    "date": "2026-07-10",
+    "floor": 15,
+    "area": 54.9
+  },
+  {
+    "aptNm": "서산센트럴코아루아파트",
+    "dealAmount": "27,900",
+    "date": "2026-07-10",
+    "floor": 11,
+    "area": 74.989
   },
   {
     "aptNm": "회천파밀리에더퍼스트",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "라이프",
+    "dealAmount": "49,000",
+    "date": "2026-07-15",
+    "floor": 7,
+    "area": 59.13
+  },
+  {
+    "aptNm": "라이프",
     "dealAmount": "68,000",
     "date": "2026-07-07",
     "floor": 13,

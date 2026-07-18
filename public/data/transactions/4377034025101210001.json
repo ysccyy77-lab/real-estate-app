@@ -15,6 +15,13 @@
   },
   {
     "aptNm": "홍익",
+    "dealAmount": "12,000",
+    "date": "2026-06-18",
+    "floor": 6,
+    "area": 59.78
+  },
+  {
+    "aptNm": "홍익",
     "dealAmount": "8,500",
     "date": "2026-05-30",
     "floor": 4,

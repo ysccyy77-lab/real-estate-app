@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "미르마을",
+    "dealAmount": "29,200",
+    "date": "2026-07-11",
+    "floor": 6,
+    "area": 59.78
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "39,400",
+    "date": "2026-07-11",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "미르마을",
     "dealAmount": "39,250",
     "date": "2026-07-04",
     "floor": 8,

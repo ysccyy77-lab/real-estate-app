@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현대2차",
+    "dealAmount": "23,000",
+    "date": "2026-07-10",
+    "floor": 4,
+    "area": 44.24
+  },
+  {
+    "aptNm": "현대2차",
     "dealAmount": "55,000",
     "date": "2026-07-04",
     "floor": 4,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "학잠보성",
+    "dealAmount": "10,700",
+    "date": "2026-07-01",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "원미동풍림",
+    "dealAmount": "52,000",
+    "date": "2026-06-29",
+    "floor": 16,
+    "area": 84.744
+  },
+  {
+    "aptNm": "학잠보성",
     "dealAmount": "7,500",
     "date": "2026-06-23",
     "floor": 6,

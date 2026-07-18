@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "부송우남",
+    "dealAmount": "8,900",
+    "date": "2026-07-14",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "부송우남",
     "dealAmount": "6,500",
     "date": "2026-07-05",
     "floor": 2,

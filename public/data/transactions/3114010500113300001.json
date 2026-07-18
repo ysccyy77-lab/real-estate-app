@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "삼산선경",
+    "dealAmount": "37,000",
+    "date": "2026-07-15",
+    "floor": 21,
+    "area": 84.975
+  },
+  {
+    "aptNm": "삼산선경",
+    "dealAmount": "31,500",
+    "date": "2026-07-13",
+    "floor": 14,
+    "area": 73.8
+  },
+  {
+    "aptNm": "삼산선경",
     "dealAmount": "32,800",
     "date": "2026-06-26",
     "floor": 22,
