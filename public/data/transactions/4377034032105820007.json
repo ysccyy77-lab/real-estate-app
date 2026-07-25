@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "산수화",
+    "dealAmount": "5,150",
+    "date": "2026-07-16",
+    "floor": 1,
+    "area": 48.664
+  },
+  {
+    "aptNm": "산수화",
     "dealAmount": "5,000",
     "date": "2026-07-14",
     "floor": 2,
     "area": 48.664
+  },
+  {
+    "aptNm": "산수화",
+    "dealAmount": "5,200",
+    "date": "2026-07-14",
+    "floor": 15,
+    "area": 48.664
+  },
+  {
+    "aptNm": "산수화",
+    "dealAmount": "5,400",
+    "date": "2026-07-09",
+    "floor": 12,
+    "area": 48.664
+  },
+  {
+    "aptNm": "산수화",
+    "dealAmount": "9,200",
+    "date": "2026-06-29",
+    "floor": 13,
+    "area": 59.961
   },
   {
     "aptNm": "산수화",

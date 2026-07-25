@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "삼성장미",
+    "dealAmount": "80,000",
+    "date": "2026-07-23",
+    "floor": 2,
+    "area": 101.82
+  },
+  {
+    "aptNm": "거제자이",
+    "dealAmount": "24,900",
+    "date": "2026-07-22",
+    "floor": 6,
+    "area": 84.654
+  },
+  {
+    "aptNm": "거제자이",
+    "dealAmount": "27,000",
+    "date": "2026-07-21",
+    "floor": 20,
+    "area": 84.654
+  },
+  {
+    "aptNm": "거제자이",
+    "dealAmount": "24,900",
+    "date": "2026-07-15",
+    "floor": 6,
+    "area": 84.654
+  },
+  {
     "aptNm": "거제자이",
     "dealAmount": "29,000",
     "date": "2026-07-14",
@@ -35,11 +63,25 @@
     "area": 132.75
   },
   {
+    "aptNm": "삼성장미",
+    "dealAmount": "79,700",
+    "date": "2026-06-26",
+    "floor": 15,
+    "area": 101.7
+  },
+  {
     "aptNm": "거제자이",
     "dealAmount": "29,000",
     "date": "2026-06-24",
     "floor": 5,
     "area": 104.817
+  },
+  {
+    "aptNm": "삼성장미",
+    "dealAmount": "80,750",
+    "date": "2026-06-21",
+    "floor": 23,
+    "area": 101.82
   },
   {
     "aptNm": "거제자이",

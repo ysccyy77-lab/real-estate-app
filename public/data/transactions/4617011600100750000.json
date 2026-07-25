@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "적성-1",
+    "dealAmount": "18,000",
+    "date": "2026-07-21",
+    "floor": 3,
+    "area": 53.88
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "12,000",
+    "date": "2026-07-21",
+    "floor": 15,
+    "area": 59.91
+  },
+  {
+    "aptNm": "21세기",
+    "dealAmount": "10,550",
+    "date": "2026-07-20",
+    "floor": 6,
+    "area": 59.5672
+  },
+  {
+    "aptNm": "주공4",
+    "dealAmount": "7,400",
+    "date": "2026-07-14",
+    "floor": 3,
+    "area": 41.3
+  },
+  {
     "aptNm": "주공4",
     "dealAmount": "12,100",
     "date": "2026-07-07",

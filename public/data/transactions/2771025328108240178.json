@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "평광현대3",
+    "dealAmount": "6,800",
+    "date": "2026-07-21",
+    "floor": 1,
+    "area": 54.69
+  },
+  {
+    "aptNm": "평광현대3",
     "dealAmount": "4,500",
     "date": "2026-05-18",
     "floor": 3,

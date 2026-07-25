@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "리버나인RIVERNINE",
+    "dealAmount": "88,000",
+    "date": "2026-07-20",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "부영E그린",
+    "dealAmount": "25,000",
+    "date": "2026-07-20",
+    "floor": 5,
+    "area": 84.9916
+  },
+  {
+    "aptNm": "리버나인RIVERNINE",
     "dealAmount": "112,500",
     "date": "2026-07-09",
     "floor": 6,

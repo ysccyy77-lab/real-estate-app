@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "샘들내",
+    "dealAmount": "3,000",
+    "date": "2026-07-23",
+    "floor": 9,
+    "area": 49.915
+  },
+  {
+    "aptNm": "샘들내",
     "dealAmount": "4,000",
     "date": "2026-04-09",
     "floor": 8,

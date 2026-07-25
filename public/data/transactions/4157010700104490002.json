@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼용",
+    "dealAmount": "24,800",
+    "date": "2026-07-07",
+    "floor": 8,
+    "area": 59.975
+  },
+  {
+    "aptNm": "삼용",
     "dealAmount": "29,000",
     "date": "2026-06-02",
     "floor": 16,

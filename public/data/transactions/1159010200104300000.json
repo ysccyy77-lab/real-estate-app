@@ -8,6 +8,20 @@
   },
   {
     "aptNm": "우성3",
+    "dealAmount": "42,000",
+    "date": "2026-07-11",
+    "floor": 10,
+    "area": 73.05
+  },
+  {
+    "aptNm": "퇴계우성",
+    "dealAmount": "24,500",
+    "date": "2026-07-10",
+    "floor": 9,
+    "area": 84.933
+  },
+  {
+    "aptNm": "우성3",
     "dealAmount": "42,200",
     "date": "2026-07-04",
     "floor": 5,

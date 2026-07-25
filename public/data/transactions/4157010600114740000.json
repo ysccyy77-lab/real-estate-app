@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "대림경동아파트",
+    "dealAmount": "100,000",
+    "date": "2026-07-22",
+    "floor": 10,
+    "area": 131.4
+  },
+  {
     "aptNm": "SKVIEW",
     "dealAmount": "41,000",
     "date": "2026-07-10",

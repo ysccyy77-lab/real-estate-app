@@ -2,6 +2,20 @@
   {
     "aptNm": "정원",
     "dealAmount": "11,000",
+    "date": "2026-07-18",
+    "floor": 10,
+    "area": 59.8
+  },
+  {
+    "aptNm": "침산화성타운",
+    "dealAmount": "23,000",
+    "date": "2026-07-11",
+    "floor": 17,
+    "area": 85
+  },
+  {
+    "aptNm": "정원",
+    "dealAmount": "11,000",
     "date": "2026-07-07",
     "floor": 1,
     "area": 84.98

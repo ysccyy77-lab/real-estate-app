@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "하이스타운3차",
+    "dealAmount": "8,120",
+    "date": "2026-07-23",
+    "floor": 4,
+    "area": 41.42
+  },
+  {
+    "aptNm": "단양태양드림빌",
+    "dealAmount": "6,250",
+    "date": "2026-07-21",
+    "floor": 16,
+    "area": 50.4
+  },
+  {
+    "aptNm": "단양태양드림빌",
+    "dealAmount": "5,300",
+    "date": "2026-07-20",
+    "floor": 1,
+    "area": 50.4
+  },
+  {
     "aptNm": "단양태양드림빌",
     "dealAmount": "4,700",
     "date": "2026-07-11",
     "floor": 10,
     "area": 42.36
+  },
+  {
+    "aptNm": "단양태양드림빌",
+    "dealAmount": "6,500",
+    "date": "2026-07-01",
+    "floor": 5,
+    "area": 57.42
   },
   {
     "aptNm": "단양태양드림빌",

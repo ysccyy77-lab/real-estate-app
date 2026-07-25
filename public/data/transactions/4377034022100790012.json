@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "대소한양2차",
+    "dealAmount": "4,850",
+    "date": "2026-07-22",
+    "floor": 1,
+    "area": 51.99
+  },
+  {
+    "aptNm": "대소한양2차",
+    "dealAmount": "7,000",
+    "date": "2026-07-21",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대소한양2차",
+    "dealAmount": "5,300",
+    "date": "2026-07-19",
+    "floor": 5,
+    "area": 39.84
+  },
+  {
+    "aptNm": "대소한양2차",
     "dealAmount": "6,500",
     "date": "2026-06-08",
     "floor": 2,

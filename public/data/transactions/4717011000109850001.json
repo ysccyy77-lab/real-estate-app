@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "용상1주공",
+    "dealAmount": "3,200",
+    "date": "2026-07-17",
+    "floor": 5,
+    "area": 35.638
+  },
+  {
+    "aptNm": "거성에이플101동",
+    "dealAmount": "38,300",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 83.4
+  },
+  {
+    "aptNm": "용상1주공",
     "dealAmount": "6,200",
     "date": "2026-06-12",
     "floor": 1,

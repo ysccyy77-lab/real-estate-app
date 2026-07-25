@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "계룡2",
+    "dealAmount": "29,850",
+    "date": "2026-07-21",
+    "floor": 8,
+    "area": 84.91
+  },
+  {
+    "aptNm": "계룡2",
     "dealAmount": "24,800",
     "date": "2026-07-07",
     "floor": 9,

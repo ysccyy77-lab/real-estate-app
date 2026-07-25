@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "천마타운",
+    "dealAmount": "36,000",
+    "date": "2026-07-19",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "수원권선한솔",
+    "dealAmount": "39,700",
+    "date": "2026-07-17",
+    "floor": 14,
+    "area": 84.834
+  },
+  {
+    "aptNm": "우성1",
+    "dealAmount": "149,000",
+    "date": "2026-07-15",
+    "floor": 5,
+    "area": 59.91
+  },
+  {
+    "aptNm": "대우1",
+    "dealAmount": "38,000",
+    "date": "2026-07-15",
+    "floor": 14,
+    "area": 101.76
+  },
+  {
     "aptNm": "푸른마을",
     "dealAmount": "30,500",
     "date": "2026-07-12",

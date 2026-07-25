@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "덕소쌍용",
+    "dealAmount": "49,700",
+    "date": "2026-07-09",
+    "floor": 1,
+    "area": 84.139
+  },
+  {
+    "aptNm": "덕소쌍용",
     "dealAmount": "51,000",
     "date": "2026-07-08",
     "floor": 7,

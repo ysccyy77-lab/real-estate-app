@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "금강KCC",
+    "dealAmount": "155,000",
+    "date": "2026-07-19",
+    "floor": 10,
+    "area": 84.95
+  },
+  {
+    "aptNm": "삼송스타클래스",
+    "dealAmount": "75,000",
+    "date": "2026-07-18",
+    "floor": 3,
+    "area": 84.98
+  },
+  {
+    "aptNm": "중화산동현대",
+    "dealAmount": "19,500",
+    "date": "2026-07-18",
+    "floor": 10,
+    "area": 59.92
+  },
+  {
     "aptNm": "도담마을아이파크",
     "dealAmount": "71,000",
     "date": "2026-07-04",

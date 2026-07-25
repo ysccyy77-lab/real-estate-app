@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "운암네오미아",
+    "dealAmount": "50,000",
+    "date": "2026-07-22",
+    "floor": 6,
+    "area": 100
+  },
+  {
+    "aptNm": "운암네오미아",
+    "dealAmount": "49,500",
+    "date": "2026-07-21",
+    "floor": 7,
+    "area": 84.45
+  },
+  {
+    "aptNm": "운암네오미아",
+    "dealAmount": "49,400",
+    "date": "2026-07-21",
+    "floor": 10,
+    "area": 84.45
+  },
+  {
+    "aptNm": "남목현대",
+    "dealAmount": "5,900",
+    "date": "2026-07-21",
+    "floor": 7,
+    "area": 50.1
+  },
+  {
+    "aptNm": "운암네오미아",
+    "dealAmount": "48,000",
+    "date": "2026-07-17",
+    "floor": 9,
+    "area": 84.45
+  },
+  {
+    "aptNm": "주공(9단지)",
+    "dealAmount": "42,000",
+    "date": "2026-07-13",
+    "floor": 14,
+    "area": 75.24
+  },
+  {
     "aptNm": "남목현대",
     "dealAmount": "6,400",
     "date": "2026-07-11",
@@ -11,6 +53,20 @@
     "dealAmount": "174,000",
     "date": "2026-07-10",
     "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "위례롯데캐슬",
+    "dealAmount": "166,000",
+    "date": "2026-07-10",
+    "floor": 4,
+    "area": 84.98
+  },
+  {
+    "aptNm": "위례롯데캐슬",
+    "dealAmount": "164,000",
+    "date": "2026-07-06",
+    "floor": 2,
     "area": 84.98
   },
   {

@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "초원",
+    "dealAmount": "32,500",
+    "date": "2026-07-23",
+    "floor": 2,
+    "area": 59.89
+  },
+  {
+    "aptNm": "초원",
+    "dealAmount": "32,700",
+    "date": "2026-07-23",
+    "floor": 8,
+    "area": 59.89
+  },
+  {
+    "aptNm": "영천대동다숲",
+    "dealAmount": "18,900",
+    "date": "2026-07-16",
+    "floor": 2,
+    "area": 84.9752
+  },
+  {
+    "aptNm": "초원",
+    "dealAmount": "34,500",
+    "date": "2026-07-13",
+    "floor": 5,
+    "area": 59.89
+  },
+  {
+    "aptNm": "초원",
+    "dealAmount": "34,200",
+    "date": "2026-07-12",
+    "floor": 8,
+    "area": 59.89
+  },
+  {
+    "aptNm": "초원",
+    "dealAmount": "35,950",
+    "date": "2026-07-11",
+    "floor": 13,
+    "area": 59.89
+  },
+  {
     "aptNm": "현광",
     "dealAmount": "11,700",
     "date": "2026-07-07",

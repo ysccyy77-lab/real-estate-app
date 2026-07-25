@@ -1,5 +1,68 @@
 [
   {
+    "aptNm": "e편한세상용인한숲시티2단지",
+    "dealAmount": "42,900",
+    "date": "2026-07-23",
+    "floor": 10,
+    "area": 84.658
+  },
+  {
+    "aptNm": "양주옥정LH엘리프",
+    "dealAmount": "26,000",
+    "date": "2026-07-22",
+    "floor": 5,
+    "area": 51.98
+  },
+  {
+    "aptNm": "e편한세상용인한숲시티2단지",
+    "dealAmount": "34,800",
+    "date": "2026-07-22",
+    "floor": 8,
+    "area": 59.709
+  },
+  {
+    "aptNm": "의정부고산대방노블랜드에듀파크아파트",
+    "dealAmount": "54,000",
+    "date": "2026-07-22",
+    "floor": 17,
+    "area": 84.9632
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "76,000",
+    "date": "2026-07-21",
+    "floor": 31,
+    "area": 59.952
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "88,300",
+    "date": "2026-07-21",
+    "floor": 36,
+    "area": 84.893
+  },
+  {
+    "aptNm": "유나이티드",
+    "dealAmount": "12,000",
+    "date": "2026-07-21",
+    "floor": 6,
+    "area": 42.75
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "73,500",
+    "date": "2026-07-17",
+    "floor": 36,
+    "area": 59.929
+  },
+  {
+    "aptNm": "의정부고산대방노블랜드에듀파크아파트",
+    "dealAmount": "52,500",
+    "date": "2026-07-17",
+    "floor": 23,
+    "area": 74.4005
+  },
+  {
     "aptNm": "반도보라빌",
     "dealAmount": "63,000",
     "date": "2026-07-14",
@@ -78,6 +141,20 @@
   },
   {
     "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "80,000",
+    "date": "2026-07-04",
+    "floor": 1,
+    "area": 84.893
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "88,500",
+    "date": "2026-07-04",
+    "floor": 28,
+    "area": 84.911
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
     "dealAmount": "74,000",
     "date": "2026-07-03",
     "floor": 19,
@@ -103,6 +180,13 @@
     "date": "2026-07-01",
     "floor": 10,
     "area": 84.911
+  },
+  {
+    "aptNm": "양주옥정LH엘리프",
+    "dealAmount": "32,000",
+    "date": "2026-07-01",
+    "floor": 21,
+    "area": 59.85
   },
   {
     "aptNm": "반도보라빌",

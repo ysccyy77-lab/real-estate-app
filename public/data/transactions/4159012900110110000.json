@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "소사벌리더스하임",
+    "dealAmount": "31,650",
+    "date": "2026-07-21",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "더샵인천스카이타워1단지",
+    "dealAmount": "48,800",
+    "date": "2026-07-20",
+    "floor": 7,
+    "area": 74.9643
+  },
+  {
+    "aptNm": "소사벌리더스하임",
+    "dealAmount": "30,000",
+    "date": "2026-07-19",
+    "floor": 20,
+    "area": 84.97
+  },
+  {
+    "aptNm": "소사벌리더스하임",
     "dealAmount": "30,500",
     "date": "2026-07-09",
     "floor": 21,
@@ -12,6 +33,13 @@
     "date": "2026-07-06",
     "floor": 48,
     "area": 84.9353
+  },
+  {
+    "aptNm": "도래울센트럴파크(CentralPark)",
+    "dealAmount": "67,000",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 59.74
   },
   {
     "aptNm": "도래울센트럴파크(CentralPark)",

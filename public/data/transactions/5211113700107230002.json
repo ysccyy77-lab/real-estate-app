@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신일강변",
+    "dealAmount": "16,000",
+    "date": "2026-07-20",
+    "floor": 5,
+    "area": 59.98
+  },
+  {
+    "aptNm": "신일강변",
     "dealAmount": "17,600",
     "date": "2026-07-04",
     "floor": 6,

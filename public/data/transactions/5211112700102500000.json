@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "내안애양우",
+    "dealAmount": "51,800",
+    "date": "2026-07-17",
+    "floor": 6,
+    "area": 84.59
+  },
+  {
     "aptNm": "삼진",
     "dealAmount": "4,000",
     "date": "2026-07-15",
     "floor": 2,
     "area": 52.15
+  },
+  {
+    "aptNm": "신동아파밀리에",
+    "dealAmount": "191,000",
+    "date": "2026-07-15",
+    "floor": 6,
+    "area": 84.55
   },
   {
     "aptNm": "파라다이스빌",

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "종우",
+    "dealAmount": "2,400",
+    "date": "2026-07-21",
+    "floor": 4,
+    "area": 54.36
+  },
+  {
+    "aptNm": "DMC센트럴아이파크",
+    "dealAmount": "151,000",
+    "date": "2026-07-17",
+    "floor": 15,
+    "area": 84.97
+  },
+  {
+    "aptNm": "DMC센트럴아이파크",
+    "dealAmount": "144,500",
+    "date": "2026-07-13",
+    "floor": 12,
+    "area": 84.95
+  },
+  {
     "aptNm": "DMC센트럴아이파크",
     "dealAmount": "125,000",
     "date": "2026-07-03",

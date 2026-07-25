@@ -7,11 +7,25 @@
     "area": 101.8809
   },
   {
+    "aptNm": "럭키",
+    "dealAmount": "67,000",
+    "date": "2026-07-11",
+    "floor": 15,
+    "area": 59.98
+  },
+  {
     "aptNm": "현진에버빌",
     "dealAmount": "21,700",
     "date": "2026-07-09",
     "floor": 1,
     "area": 101.98
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "70,000",
+    "date": "2026-07-08",
+    "floor": 9,
+    "area": 56.11
   },
   {
     "aptNm": "당진원당이안",

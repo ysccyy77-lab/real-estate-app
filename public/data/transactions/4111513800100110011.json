@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "성원쌍떼빌",
+    "dealAmount": "31,000",
+    "date": "2026-07-20",
+    "floor": 1,
+    "area": 71.45
+  },
+  {
+    "aptNm": "성원쌍떼빌",
+    "dealAmount": "41,400",
+    "date": "2026-07-09",
+    "floor": 9,
+    "area": 84.48
+  },
+  {
+    "aptNm": "성원쌍떼빌",
     "dealAmount": "30,000",
     "date": "2026-07-07",
     "floor": 7,

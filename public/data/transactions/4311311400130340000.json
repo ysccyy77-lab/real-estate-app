@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "하복대삼일",
+    "dealAmount": "19,000",
+    "date": "2026-07-24",
+    "floor": 3,
+    "area": 84.9
+  },
+  {
+    "aptNm": "하복대삼일",
     "dealAmount": "22,400",
     "date": "2026-06-09",
     "floor": 4,

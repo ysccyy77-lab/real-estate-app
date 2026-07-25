@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우창",
+    "dealAmount": "142,000",
+    "date": "2026-07-05",
+    "floor": 6,
+    "area": 66.82
+  },
+  {
+    "aptNm": "우창",
+    "dealAmount": "137,000",
+    "date": "2026-07-03",
+    "floor": 10,
+    "area": 62.84
+  },
+  {
+    "aptNm": "우창",
     "dealAmount": "133,500",
     "date": "2026-05-06",
     "floor": 6,

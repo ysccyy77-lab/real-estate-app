@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "코모도에스테이트",
+    "dealAmount": "4,500",
+    "date": "2026-07-22",
+    "floor": 9,
+    "area": 22.8
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "18,000",
+    "date": "2026-07-20",
+    "floor": 5,
+    "area": 84.95
+  },
+  {
+    "aptNm": "코모도에스테이트",
     "dealAmount": "7,500",
     "date": "2026-07-03",
     "floor": 8,

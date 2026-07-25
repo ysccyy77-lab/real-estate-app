@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "황송마을",
+    "dealAmount": "54,500",
+    "date": "2026-07-17",
+    "floor": 14,
+    "area": 49.98
+  },
+  {
+    "aptNm": "황송마을",
     "dealAmount": "54,000",
     "date": "2026-07-11",
     "floor": 2,

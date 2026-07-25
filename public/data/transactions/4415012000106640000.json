@@ -1,9 +1,86 @@
 [
   {
+    "aptNm": "풍림아파트",
+    "dealAmount": "82,000",
+    "date": "2026-07-21",
+    "floor": 7,
+    "area": 59.76
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "46,470",
+    "date": "2026-07-20",
+    "floor": 2,
+    "area": 59.9934
+  },
+  {
+    "aptNm": "주공그린빌10단지",
+    "dealAmount": "45,000",
+    "date": "2026-07-17",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "한화꿈에그린1차",
+    "dealAmount": "35,900",
+    "date": "2026-07-16",
+    "floor": 15,
+    "area": 84.93
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "59,500",
+    "date": "2026-07-16",
+    "floor": 24,
+    "area": 84.9974
+  },
+  {
+    "aptNm": "주공5차",
+    "dealAmount": "17,500",
+    "date": "2026-07-16",
+    "floor": 5,
+    "area": 51.88
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "60,000",
+    "date": "2026-07-15",
+    "floor": 26,
+    "area": 84.9974
+  },
+  {
     "aptNm": "인천 SK Sky VIEW",
     "dealAmount": "53,800",
     "date": "2026-07-13",
     "floor": 2,
+    "area": 84.9974
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "54,500",
+    "date": "2026-07-13",
+    "floor": 1,
+    "area": 84.9801
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "48,000",
+    "date": "2026-07-13",
+    "floor": 21,
+    "area": 59.9936
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "65,500",
+    "date": "2026-07-11",
+    "floor": 9,
+    "area": 109.2162
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "57,300",
+    "date": "2026-07-11",
+    "floor": 5,
     "area": 84.9974
   },
   {
@@ -46,6 +123,13 @@
     "dealAmount": "80,000",
     "date": "2026-07-07",
     "floor": 6,
+    "area": 59.76
+  },
+  {
+    "aptNm": "동아아파트",
+    "dealAmount": "76,000",
+    "date": "2026-07-06",
+    "floor": 13,
     "area": 59.76
   },
   {
@@ -110,6 +194,13 @@
     "date": "2026-06-29",
     "floor": 16,
     "area": 59.912
+  },
+  {
+    "aptNm": "삼익아파트",
+    "dealAmount": "71,800",
+    "date": "2026-06-29",
+    "floor": 4,
+    "area": 59.76
   },
   {
     "aptNm": "양평역센트럴시티",

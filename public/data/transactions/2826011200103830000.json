@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "진잠타운",
+    "dealAmount": "9,400",
+    "date": "2026-07-19",
+    "floor": 6,
+    "area": 39.84
+  },
+  {
+    "aptNm": "진잠타운",
+    "dealAmount": "16,400",
+    "date": "2026-07-14",
+    "floor": 10,
+    "area": 59.996
+  },
+  {
+    "aptNm": "진잠타운",
     "dealAmount": "18,000",
     "date": "2026-07-13",
     "floor": 14,

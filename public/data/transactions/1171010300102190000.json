@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "동신",
+    "dealAmount": "84,800",
+    "date": "2026-07-17",
+    "floor": 1,
+    "area": 84.78
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "93,000",
+    "date": "2026-07-16",
+    "floor": 23,
+    "area": 84.78
+  },
+  {
+    "aptNm": "미성",
+    "dealAmount": "153,000",
+    "date": "2026-07-15",
+    "floor": 8,
+    "area": 63.39
+  },
+  {
     "aptNm": "신흥빌리지",
     "dealAmount": "12,350",
     "date": "2026-07-02",

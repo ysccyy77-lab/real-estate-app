@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신환",
+    "dealAmount": "41,800",
+    "date": "2026-07-24",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "거제아주현진에버빌",
+    "dealAmount": "14,000",
+    "date": "2026-07-17",
+    "floor": 5,
+    "area": 84.993
+  },
+  {
+    "aptNm": "신환",
     "dealAmount": "27,500",
     "date": "2026-07-10",
     "floor": 11,

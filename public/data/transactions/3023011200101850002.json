@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "다사랑",
+    "dealAmount": "11,500",
+    "date": "2026-07-21",
+    "floor": 4,
+    "area": 49.86
+  },
+  {
+    "aptNm": "다사랑",
     "dealAmount": "13,500",
     "date": "2026-06-25",
     "floor": 11,

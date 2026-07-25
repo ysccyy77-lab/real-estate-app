@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대아",
+    "dealAmount": "12,000",
+    "date": "2026-07-24",
+    "floor": 8,
+    "area": 84.29
+  },
+  {
+    "aptNm": "경남타운101",
+    "dealAmount": "4,650",
+    "date": "2026-07-20",
+    "floor": 1,
+    "area": 69.1
+  },
+  {
+    "aptNm": "대아",
     "dealAmount": "11,500",
     "date": "2026-07-10",
     "floor": 8,

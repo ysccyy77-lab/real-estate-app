@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "남흥",
+    "dealAmount": "9,000",
+    "date": "2026-07-18",
+    "floor": 6,
+    "area": 77.21
+  },
+  {
+    "aptNm": "혜동타워",
+    "dealAmount": "5,000",
+    "date": "2026-07-15",
+    "floor": 9,
+    "area": 25.4
+  },
+  {
+    "aptNm": "남흥",
     "dealAmount": "16,800",
     "date": "2026-04-03",
     "floor": 2,

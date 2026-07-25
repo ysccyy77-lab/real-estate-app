@@ -1,5 +1,75 @@
 [
   {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "74,800",
+    "date": "2026-07-23",
+    "floor": 15,
+    "area": 84.9825
+  },
+  {
+    "aptNm": "이편한세상금정산",
+    "dealAmount": "42,500",
+    "date": "2026-07-22",
+    "floor": 23,
+    "area": 84.9144
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "75,000",
+    "date": "2026-07-22",
+    "floor": 22,
+    "area": 84.9825
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "49,000",
+    "date": "2026-07-22",
+    "floor": 12,
+    "area": 51.998
+  },
+  {
+    "aptNm": "이편한세상금정산",
+    "dealAmount": "42,300",
+    "date": "2026-07-21",
+    "floor": 1,
+    "area": 84.9378
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "59,900",
+    "date": "2026-07-21",
+    "floor": 13,
+    "area": 59.975
+  },
+  {
+    "aptNm": "이편한세상금정산",
+    "dealAmount": "44,500",
+    "date": "2026-07-18",
+    "floor": 21,
+    "area": 84.9144
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "56,500",
+    "date": "2026-07-16",
+    "floor": 8,
+    "area": 59.975
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "66,700",
+    "date": "2026-07-15",
+    "floor": 17,
+    "area": 74.6086
+  },
+  {
+    "aptNm": "유블레스랜드마크47",
+    "dealAmount": "36,000",
+    "date": "2026-07-12",
+    "floor": 28,
+    "area": 84.4386
+  },
+  {
     "aptNm": "회천파밀리에더퍼스트",
     "dealAmount": "41,800",
     "date": "2026-07-11",
@@ -56,6 +126,20 @@
     "area": 74.989
   },
   {
+    "aptNm": "남광하우스토리",
+    "dealAmount": "42,500",
+    "date": "2026-07-10",
+    "floor": 14,
+    "area": 84.97
+  },
+  {
+    "aptNm": "화목",
+    "dealAmount": "24,000",
+    "date": "2026-07-10",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
     "aptNm": "회천파밀리에더퍼스트",
     "dealAmount": "47,900",
     "date": "2026-07-06",
@@ -96,6 +180,13 @@
     "date": "2026-07-04",
     "floor": 4,
     "area": 74.9298
+  },
+  {
+    "aptNm": "서산센트럴코아루아파트",
+    "dealAmount": "26,700",
+    "date": "2026-07-04",
+    "floor": 7,
+    "area": 74.2216
   },
   {
     "aptNm": "부평SKVIEW해모로",
@@ -159,6 +250,13 @@
     "date": "2026-06-26",
     "floor": 10,
     "area": 84.9378
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "56,000",
+    "date": "2026-06-26",
+    "floor": 17,
+    "area": 59.975
   },
   {
     "aptNm": "회천파밀리에더퍼스트",

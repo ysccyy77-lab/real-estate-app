@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "진양상가",
+    "dealAmount": "93,000",
+    "date": "2026-06-21",
+    "floor": 16,
+    "area": 107.9
+  },
+  {
+    "aptNm": "진양상가",
     "dealAmount": "60,000",
     "date": "2026-05-03",
     "floor": 9,

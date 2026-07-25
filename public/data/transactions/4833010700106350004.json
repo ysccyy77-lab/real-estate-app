@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "녹원",
+    "dealAmount": "5,500",
+    "date": "2026-07-19",
+    "floor": 15,
+    "area": 49.8
+  },
+  {
+    "aptNm": "녹원",
     "dealAmount": "6,200",
     "date": "2026-05-23",
     "floor": 7,

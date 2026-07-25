@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "관악부영4",
+    "dealAmount": "81,000",
+    "date": "2026-07-17",
+    "floor": 22,
+    "area": 59.44
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "83,000",
+    "date": "2026-07-11",
+    "floor": 9,
+    "area": 59.44
+  },
+  {
+    "aptNm": "관악부영4",
+    "dealAmount": "90,000",
+    "date": "2026-07-09",
+    "floor": 15,
+    "area": 84.63
+  },
+  {
+    "aptNm": "관악부영4",
     "dealAmount": "71,000",
     "date": "2026-07-04",
     "floor": 1,

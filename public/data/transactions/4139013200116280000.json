@@ -29,6 +29,13 @@
   },
   {
     "aptNm": "유천",
+    "dealAmount": "32,000",
+    "date": "2026-07-01",
+    "floor": 2,
+    "area": 84.72
+  },
+  {
+    "aptNm": "유천",
     "dealAmount": "22,000",
     "date": "2026-06-30",
     "floor": 6,

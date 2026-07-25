@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대연SKVIEWHills(2단지)",
+    "dealAmount": "10,900",
+    "date": "2026-07-07",
+    "floor": 18,
+    "area": 19.8197
+  },
+  {
+    "aptNm": "대연SKVIEWHills(2단지)",
     "dealAmount": "10,800",
     "date": "2026-07-06",
     "floor": 5,

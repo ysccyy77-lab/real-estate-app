@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "주공5",
+    "dealAmount": "114,000",
+    "date": "2026-07-20",
+    "floor": 4,
+    "area": 76.51
+  },
+  {
+    "aptNm": "주공5",
     "dealAmount": "52,800",
     "date": "2026-07-08",
     "floor": 15,
     "area": 44.52
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "51,800",
+    "date": "2026-07-06",
+    "floor": 12,
+    "area": 44.52
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "45,000",
+    "date": "2026-07-04",
+    "floor": 4,
+    "area": 38.64
   },
   {
     "aptNm": "힐링엘가",

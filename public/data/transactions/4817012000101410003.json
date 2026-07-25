@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "한보힐타워",
+    "dealAmount": "7,050",
+    "date": "2026-07-09",
+    "floor": 8,
+    "area": 59.88
+  },
+  {
+    "aptNm": "한보힐타워",
     "dealAmount": "9,000",
     "date": "2026-07-01",
     "floor": 16,
     "area": 59.88
+  },
+  {
+    "aptNm": "대우아파트",
+    "dealAmount": "10,800",
+    "date": "2026-06-30",
+    "floor": 2,
+    "area": 49.86
   },
   {
     "aptNm": "한보힐타워",

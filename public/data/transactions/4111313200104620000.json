@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "삼환",
+    "dealAmount": "51,500",
+    "date": "2026-07-24",
+    "floor": 2,
+    "area": 73.62
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "55,000",
+    "date": "2026-07-23",
+    "floor": 8,
+    "area": 73.62
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "54,650",
+    "date": "2026-07-18",
+    "floor": 14,
+    "area": 73.62
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "52,000",
+    "date": "2026-07-17",
+    "floor": 11,
+    "area": 73.62
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "57,000",
+    "date": "2026-07-15",
+    "floor": 14,
+    "area": 84.9
+  },
+  {
+    "aptNm": "삼환",
     "dealAmount": "40,800",
     "date": "2026-07-14",
     "floor": 5,
@@ -12,6 +47,13 @@
     "date": "2026-07-14",
     "floor": 9,
     "area": 64.38
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "41,000",
+    "date": "2026-07-14",
+    "floor": 4,
+    "area": 54.66
   },
   {
     "aptNm": "삼환",
@@ -152,6 +194,13 @@
     "date": "2026-06-29",
     "floor": 4,
     "area": 84.91
+  },
+  {
+    "aptNm": "신촌숲아이파크",
+    "dealAmount": "244,500",
+    "date": "2026-06-29",
+    "floor": 5,
+    "area": 84.932
   },
   {
     "aptNm": "삼환",

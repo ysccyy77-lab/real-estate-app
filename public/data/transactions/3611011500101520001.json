@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대림두레",
+    "dealAmount": "28,000",
+    "date": "2026-07-17",
+    "floor": 1,
+    "area": 84.945
+  },
+  {
+    "aptNm": "삼호(A~D동)",
+    "dealAmount": "7,700",
+    "date": "2026-07-16",
+    "floor": 3,
+    "area": 84.096
+  },
+  {
+    "aptNm": "대림두레",
     "dealAmount": "26,000",
     "date": "2026-07-11",
     "floor": 13,

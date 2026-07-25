@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "신천자이",
+    "dealAmount": "39,300",
+    "date": "2026-07-23",
+    "floor": 17,
+    "area": 76.51
+  },
+  {
+    "aptNm": "불당이안",
+    "dealAmount": "52,000",
+    "date": "2026-07-21",
+    "floor": 16,
+    "area": 84.92
+  },
+  {
+    "aptNm": "신천자이",
+    "dealAmount": "37,700",
+    "date": "2026-07-15",
+    "floor": 9,
+    "area": 76.51
+  },
+  {
     "aptNm": "불당이안",
     "dealAmount": "52,750",
     "date": "2026-07-11",

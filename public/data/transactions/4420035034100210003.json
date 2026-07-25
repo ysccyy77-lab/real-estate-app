@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "초원그린타운",
+    "dealAmount": "4,250",
+    "date": "2026-07-20",
+    "floor": 4,
+    "area": 39.27
+  },
+  {
+    "aptNm": "초원그린타운",
+    "dealAmount": "4,500",
+    "date": "2026-07-17",
+    "floor": 8,
+    "area": 39.27
+  },
+  {
+    "aptNm": "초원그린타운",
+    "dealAmount": "4,700",
+    "date": "2026-07-15",
+    "floor": 11,
+    "area": 39.27
+  },
+  {
+    "aptNm": "초원그린타운",
+    "dealAmount": "5,000",
+    "date": "2026-07-13",
+    "floor": 15,
+    "area": 39.27
+  },
+  {
+    "aptNm": "초원그린타운",
     "dealAmount": "4,500",
     "date": "2026-07-04",
     "floor": 15,

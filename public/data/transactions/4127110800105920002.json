@@ -2,6 +2,13 @@
   {
     "aptNm": "안산현대1",
     "dealAmount": "21,000",
+    "date": "2026-07-18",
+    "floor": 1,
+    "area": 35.28
+  },
+  {
+    "aptNm": "안산현대1",
+    "dealAmount": "21,000",
     "date": "2026-07-06",
     "floor": 2,
     "area": 35.28

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "은하",
+    "dealAmount": "5,250",
+    "date": "2026-07-24",
+    "floor": 5,
+    "area": 46.92
+  },
+  {
+    "aptNm": "은하",
     "dealAmount": "7,000",
     "date": "2026-07-14",
     "floor": 3,

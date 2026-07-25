@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "산일전원APT",
+    "dealAmount": "5,000",
+    "date": "2026-07-18",
+    "floor": 18,
+    "area": 37.08
+  },
+  {
+    "aptNm": "산일전원APT",
     "dealAmount": "7,000",
     "date": "2026-04-06",
     "floor": 11,

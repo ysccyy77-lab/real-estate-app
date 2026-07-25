@@ -1,8 +1,71 @@
 [
   {
     "aptNm": "주공(1단지)",
+    "dealAmount": "42,500",
+    "date": "2026-07-21",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "27,000",
+    "date": "2026-07-21",
+    "floor": 4,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "59,900",
+    "date": "2026-07-20",
+    "floor": 9,
+    "area": 74.16
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "50,500",
+    "date": "2026-07-20",
+    "floor": 1,
+    "area": 74.16
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "58,000",
+    "date": "2026-07-20",
+    "floor": 6,
+    "area": 74.91
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "27,000",
+    "date": "2026-07-20",
+    "floor": 8,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "50,000",
+    "date": "2026-07-17",
+    "floor": 5,
+    "area": 58.65
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "30,000",
+    "date": "2026-07-17",
+    "floor": 4,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
     "dealAmount": "27,000",
     "date": "2026-07-15",
+    "floor": 8,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "28,500",
+    "date": "2026-07-13",
     "floor": 8,
     "area": 41.85
   },
@@ -11,6 +74,20 @@
     "dealAmount": "50,000",
     "date": "2026-07-12",
     "floor": 4,
+    "area": 66.6
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "26,500",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "53,000",
+    "date": "2026-07-10",
+    "floor": 12,
     "area": 66.6
   },
   {

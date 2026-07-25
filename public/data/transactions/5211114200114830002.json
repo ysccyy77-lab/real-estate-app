@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서곡두산",
+    "dealAmount": "25,700",
+    "date": "2026-07-03",
+    "floor": 6,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서곡두산",
     "dealAmount": "28,000",
     "date": "2026-06-06",
     "floor": 16,

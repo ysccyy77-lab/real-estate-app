@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "태봉우성2",
+    "dealAmount": "12,300",
+    "date": "2026-06-29",
+    "floor": 9,
+    "area": 84.72
+  },
+  {
+    "aptNm": "태봉우성2",
+    "dealAmount": "9,600",
+    "date": "2026-06-28",
+    "floor": 11,
+    "area": 73.29
+  },
+  {
+    "aptNm": "태봉우성2",
     "dealAmount": "10,500",
     "date": "2026-06-10",
     "floor": 8,

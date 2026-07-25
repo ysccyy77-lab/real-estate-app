@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "중흥S-클래스",
+    "dealAmount": "31,000",
+    "date": "2026-07-22",
+    "floor": 13,
+    "area": 84.805
+  },
+  {
+    "aptNm": "중흥S-클래스",
+    "dealAmount": "32,000",
+    "date": "2026-07-17",
+    "floor": 1,
+    "area": 84.805
+  },
+  {
+    "aptNm": "중흥S-클래스",
     "dealAmount": "31,300",
     "date": "2026-07-06",
     "floor": 5,

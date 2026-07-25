@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대공원I'PARK(2단지)",
+    "dealAmount": "28,500",
+    "date": "2026-07-21",
+    "floor": 6,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대공원I'PARK(2단지)",
     "dealAmount": "27,000",
     "date": "2026-07-01",
     "floor": 9,

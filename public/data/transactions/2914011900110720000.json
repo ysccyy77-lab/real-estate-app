@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "KCC스위첸",
+    "dealAmount": "74,900",
+    "date": "2026-07-22",
+    "floor": 6,
+    "area": 100.376
+  },
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "72,900",
+    "date": "2026-07-08",
+    "floor": 5,
+    "area": 100.376
+  },
+  {
+    "aptNm": "KCC스위첸",
+    "dealAmount": "85,000",
+    "date": "2026-07-07",
+    "floor": 9,
+    "area": 129.9575
+  },
+  {
+    "aptNm": "KCC스위첸",
     "dealAmount": "78,750",
     "date": "2026-06-19",
     "floor": 25,

@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "주은청설",
+    "dealAmount": "9,800",
+    "date": "2026-07-20",
+    "floor": 4,
+    "area": 49.53
+  },
+  {
+    "aptNm": "주은청설",
+    "dealAmount": "11,800",
+    "date": "2026-07-20",
+    "floor": 7,
+    "area": 59.73
+  },
+  {
+    "aptNm": "주은청설",
+    "dealAmount": "7,500",
+    "date": "2026-07-18",
+    "floor": 9,
+    "area": 39.75
+  },
+  {
+    "aptNm": "주은청설",
+    "dealAmount": "8,200",
+    "date": "2026-07-06",
+    "floor": 8,
+    "area": 39.75
+  },
+  {
+    "aptNm": "주은청설",
     "dealAmount": "7,400",
     "date": "2026-07-03",
     "floor": 1,

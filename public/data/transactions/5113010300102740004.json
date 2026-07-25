@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "월드피아",
+    "dealAmount": "9,750",
+    "date": "2026-07-06",
+    "floor": 8,
+    "area": 59.9375
+  },
+  {
+    "aptNm": "월드피아",
     "dealAmount": "8,900",
     "date": "2026-06-20",
     "floor": 9,

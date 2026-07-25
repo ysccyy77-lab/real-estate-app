@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "성원",
+    "dealAmount": "45,000",
+    "date": "2026-07-18",
+    "floor": 13,
+    "area": 84.96
+  },
+  {
+    "aptNm": "역촌센트레빌",
+    "dealAmount": "75,000",
+    "date": "2026-07-17",
+    "floor": 8,
+    "area": 84.89
+  },
+  {
+    "aptNm": "성원",
     "dealAmount": "47,000",
     "date": "2026-07-11",
     "floor": 18,
     "area": 84.96
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "116,000",
+    "date": "2026-07-10",
+    "floor": 12,
+    "area": 84.9
   },
   {
     "aptNm": "진해자이",

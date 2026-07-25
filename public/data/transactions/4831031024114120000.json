@@ -8,6 +8,20 @@
   },
   {
     "aptNm": "동부",
+    "dealAmount": "64,200",
+    "date": "2026-07-04",
+    "floor": 15,
+    "area": 83.6
+  },
+  {
+    "aptNm": "거제코아루파크드림",
+    "dealAmount": "18,000",
+    "date": "2026-06-28",
+    "floor": 27,
+    "area": 84.9073
+  },
+  {
+    "aptNm": "동부",
     "dealAmount": "69,000",
     "date": "2026-06-23",
     "floor": 4,

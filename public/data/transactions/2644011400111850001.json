@@ -2,6 +2,27 @@
   {
     "aptNm": "권선삼성",
     "dealAmount": "30,500",
+    "date": "2026-07-22",
+    "floor": 8,
+    "area": 49.14
+  },
+  {
+    "aptNm": "지사과학삼정그린코아",
+    "dealAmount": "13,200",
+    "date": "2026-07-22",
+    "floor": 5,
+    "area": 59.9971
+  },
+  {
+    "aptNm": "권선삼성",
+    "dealAmount": "31,000",
+    "date": "2026-07-21",
+    "floor": 10,
+    "area": 49.14
+  },
+  {
+    "aptNm": "권선삼성",
+    "dealAmount": "30,500",
     "date": "2026-07-01",
     "floor": 5,
     "area": 49.14

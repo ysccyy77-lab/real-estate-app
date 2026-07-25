@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "교동코아루",
+    "dealAmount": "9,000",
+    "date": "2026-07-21",
+    "floor": 12,
+    "area": 60
+  },
+  {
+    "aptNm": "석천",
+    "dealAmount": "22,000",
+    "date": "2026-07-18",
+    "floor": 6,
+    "area": 103.17
+  },
+  {
     "aptNm": "동신진주",
     "dealAmount": "5,600",
     "date": "2026-06-13",

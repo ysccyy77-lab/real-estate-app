@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "세종2",
+    "dealAmount": "25,000",
+    "date": "2026-07-21",
+    "floor": 9,
+    "area": 59.88
+  },
+  {
+    "aptNm": "세종2",
     "dealAmount": "37,800",
     "date": "2026-05-18",
     "floor": 5,

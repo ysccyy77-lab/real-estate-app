@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "무학",
+    "dealAmount": "47,500",
+    "date": "2026-07-20",
+    "floor": 2,
+    "area": 56.43
+  },
+  {
+    "aptNm": "무학",
     "dealAmount": "46,800",
     "date": "2026-07-02",
     "floor": 2,

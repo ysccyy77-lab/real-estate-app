@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "기산현대",
+    "dealAmount": "10,500",
+    "date": "2026-07-24",
+    "floor": 5,
+    "area": 59.372
+  },
+  {
+    "aptNm": "기산현대",
     "dealAmount": "9,600",
     "date": "2026-03-28",
     "floor": 4,

@@ -1,9 +1,30 @@
 [
   {
+    "aptNm": "그린타운(1)",
+    "dealAmount": "12,000",
+    "date": "2026-07-20",
+    "floor": 2,
+    "area": 49.58
+  },
+  {
     "aptNm": "삼환",
     "dealAmount": "131,000",
     "date": "2026-07-11",
     "floor": 11,
+    "area": 59.53
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "135,000",
+    "date": "2026-07-09",
+    "floor": 6,
+    "area": 84.84
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "128,000",
+    "date": "2026-07-08",
+    "floor": 9,
     "area": 59.53
   },
   {

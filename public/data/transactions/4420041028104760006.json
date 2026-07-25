@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "아산한미금강",
+    "dealAmount": "4,900",
+    "date": "2026-07-23",
+    "floor": 1,
+    "area": 59.34
+  },
+  {
+    "aptNm": "아산한미금강",
+    "dealAmount": "4,400",
+    "date": "2026-07-16",
+    "floor": 2,
+    "area": 49.8
+  },
+  {
+    "aptNm": "아산한미금강",
     "dealAmount": "4,200",
     "date": "2026-07-03",
     "floor": 10,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "동래3차SKVIEW",
+    "dealAmount": "59,000",
+    "date": "2026-07-21",
+    "floor": 32,
+    "area": 84.881
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "30,500",
+    "date": "2026-07-14",
+    "floor": 8,
+    "area": 84.88
+  },
+  {
+    "aptNm": "동래3차SKVIEW",
     "dealAmount": "55,500",
     "date": "2026-07-11",
     "floor": 12,

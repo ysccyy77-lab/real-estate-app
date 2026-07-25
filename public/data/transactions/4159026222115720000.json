@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "속초KCC스위첸",
+    "dealAmount": "35,800",
+    "date": "2026-07-12",
+    "floor": 1,
+    "area": 84.9762
+  },
+  {
+    "aptNm": "속초KCC스위첸",
     "dealAmount": "26,500",
     "date": "2026-07-07",
     "floor": 2,

@@ -1,10 +1,59 @@
 [
   {
     "aptNm": "청주가경IPARK1차",
+    "dealAmount": "48,500",
+    "date": "2026-07-18",
+    "floor": 26,
+    "area": 59.81
+  },
+  {
+    "aptNm": "청주가경IPARK1차",
+    "dealAmount": "45,500",
+    "date": "2026-07-17",
+    "floor": 2,
+    "area": 59.81
+  },
+  {
+    "aptNm": "청주가경IPARK1차",
+    "dealAmount": "91,000",
+    "date": "2026-07-17",
+    "floor": 14,
+    "area": 112.54
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "41,000",
+    "date": "2026-07-14",
+    "floor": 9,
+    "area": 69.08
+  },
+  {
+    "aptNm": "엠디",
+    "dealAmount": "110,000",
+    "date": "2026-07-11",
+    "floor": 5,
+    "area": 84.87
+  },
+  {
+    "aptNm": "엠디",
+    "dealAmount": "106,000",
+    "date": "2026-07-10",
+    "floor": 11,
+    "area": 84.87
+  },
+  {
+    "aptNm": "청주가경IPARK1차",
     "dealAmount": "78,800",
     "date": "2026-07-04",
     "floor": 5,
     "area": 98.81
+  },
+  {
+    "aptNm": "엠디",
+    "dealAmount": "110,000",
+    "date": "2026-07-04",
+    "floor": 6,
+    "area": 84.87
   },
   {
     "aptNm": "청주가경IPARK1차",
@@ -26,6 +75,13 @@
     "date": "2026-06-27",
     "floor": 10,
     "area": 84.69
+  },
+  {
+    "aptNm": "엠디",
+    "dealAmount": "90,000",
+    "date": "2026-06-26",
+    "floor": 5,
+    "area": 84.87
   },
   {
     "aptNm": "청주가경IPARK1차",

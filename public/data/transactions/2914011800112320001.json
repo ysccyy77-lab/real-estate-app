@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "로뎀시티",
+    "dealAmount": "7,100",
+    "date": "2026-07-16",
+    "floor": 8,
+    "area": 37.6903
+  },
+  {
+    "aptNm": "로뎀시티",
     "dealAmount": "7,200",
     "date": "2026-05-31",
     "floor": 8,

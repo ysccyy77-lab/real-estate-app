@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "영도대원",
+    "dealAmount": "19,000",
+    "date": "2026-07-21",
+    "floor": 11,
+    "area": 78.01
+  },
+  {
+    "aptNm": "영도대원",
     "dealAmount": "35,500",
     "date": "2026-07-07",
     "floor": 7,

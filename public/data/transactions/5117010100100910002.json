@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "부평IPARK",
+    "dealAmount": "60,000",
+    "date": "2026-07-11",
+    "floor": 8,
+    "area": 69.28
+  },
+  {
+    "aptNm": "부평IPARK",
+    "dealAmount": "61,000",
+    "date": "2026-07-02",
+    "floor": 33,
+    "area": 69.28
+  },
+  {
+    "aptNm": "부평IPARK",
     "dealAmount": "58,000",
     "date": "2026-06-26",
     "floor": 16,

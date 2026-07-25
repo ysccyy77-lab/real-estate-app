@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "서신동신일",
+    "dealAmount": "16,000",
+    "date": "2026-07-20",
+    "floor": 5,
+    "area": 59.98
+  },
+  {
+    "aptNm": "목동성원",
+    "dealAmount": "153,000",
+    "date": "2026-07-17",
+    "floor": 1,
+    "area": 84.94
+  },
+  {
+    "aptNm": "서신동신일",
+    "dealAmount": "16,900",
+    "date": "2026-07-17",
+    "floor": 6,
+    "area": 59.98
+  },
+  {
+    "aptNm": "서신동신일",
     "dealAmount": "17,700",
     "date": "2026-07-15",
     "floor": 13,

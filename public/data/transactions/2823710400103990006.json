@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "광명",
+    "dealAmount": "23,000",
+    "date": "2026-07-17",
+    "floor": 19,
+    "area": 73.125
+  },
+  {
+    "aptNm": "광명",
     "dealAmount": "18,600",
     "date": "2026-05-12",
     "floor": 18,

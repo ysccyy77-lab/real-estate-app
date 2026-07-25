@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "SKVIEW",
+    "dealAmount": "28,000",
+    "date": "2026-07-21",
+    "floor": 11,
+    "area": 59.91
+  },
+  {
+    "aptNm": "SKVIEW",
+    "dealAmount": "26,500",
+    "date": "2026-07-16",
+    "floor": 4,
+    "area": 59.99
+  },
+  {
+    "aptNm": "SKVIEW",
     "dealAmount": "24,750",
     "date": "2026-07-08",
     "floor": 8,

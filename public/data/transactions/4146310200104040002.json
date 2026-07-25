@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "광도푸른",
+    "dealAmount": "6,400",
+    "date": "2026-07-20",
+    "floor": 13,
+    "area": 30.1875
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "50,000",
+    "date": "2026-06-30",
+    "floor": 11,
+    "area": 84.7
+  },
+  {
+    "aptNm": "광도푸른",
     "dealAmount": "9,250",
     "date": "2026-06-13",
     "floor": 14,

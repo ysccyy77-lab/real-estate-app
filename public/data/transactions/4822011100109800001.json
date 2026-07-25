@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "더뷰",
+    "dealAmount": "12,500",
+    "date": "2026-07-23",
+    "floor": 14,
+    "area": 41.6363
+  },
+  {
+    "aptNm": "더뷰",
+    "dealAmount": "10,900",
+    "date": "2026-07-20",
+    "floor": 8,
+    "area": 44.516
+  },
+  {
+    "aptNm": "더뷰",
     "dealAmount": "13,500",
     "date": "2026-07-13",
     "floor": 10,

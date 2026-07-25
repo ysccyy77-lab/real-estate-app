@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "황전범어타운",
+    "dealAmount": "14,800",
+    "date": "2026-07-23",
+    "floor": 8,
+    "area": 88.98
+  },
+  {
+    "aptNm": "SCIENCETOWN",
+    "dealAmount": "30,000",
+    "date": "2026-07-16",
+    "floor": 27,
+    "area": 70.3303
+  },
+  {
     "aptNm": "대우푸르지오3차",
     "dealAmount": "33,800",
     "date": "2026-07-14",

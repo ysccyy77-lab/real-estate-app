@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "신동아",
+    "dealAmount": "14,750",
+    "date": "2026-07-20",
+    "floor": 8,
+    "area": 72.78
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "18,000",
+    "date": "2026-07-19",
+    "floor": 5,
+    "area": 72.33
+  },
+  {
+    "aptNm": "휴먼빌",
+    "dealAmount": "26,900",
+    "date": "2026-07-17",
+    "floor": 19,
+    "area": 84.95
+  },
+  {
+    "aptNm": "휴먼빌",
+    "dealAmount": "20,000",
+    "date": "2026-07-17",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "휴먼빌",
+    "dealAmount": "26,300",
+    "date": "2026-07-15",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신동아",
     "dealAmount": "16,250",
     "date": "2026-07-14",
     "floor": 10,

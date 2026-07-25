@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "하나",
+    "dealAmount": "29,000",
+    "date": "2026-07-08",
+    "floor": 4,
+    "area": 104.45
+  },
+  {
+    "aptNm": "하나",
     "dealAmount": "19,000",
     "date": "2026-06-26",
     "floor": 2,

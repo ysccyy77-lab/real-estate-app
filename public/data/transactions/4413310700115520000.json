@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "무거나노",
+    "dealAmount": "24,800",
+    "date": "2026-07-20",
+    "floor": 6,
+    "area": 84.75
+  },
+  {
+    "aptNm": "월봉현대",
+    "dealAmount": "35,000",
+    "date": "2026-07-16",
+    "floor": 8,
+    "area": 178.08
+  },
+  {
+    "aptNm": "무거나노",
     "dealAmount": "22,000",
     "date": "2026-07-13",
     "floor": 7,

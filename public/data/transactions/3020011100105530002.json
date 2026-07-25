@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "CJ나인파크",
+    "dealAmount": "70,000",
+    "date": "2026-06-28",
+    "floor": 15,
+    "area": 170.728
+  },
+  {
+    "aptNm": "CJ나인파크",
     "dealAmount": "61,500",
     "date": "2026-06-25",
     "floor": 15,

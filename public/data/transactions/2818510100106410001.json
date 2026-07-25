@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "늘푸른",
+    "dealAmount": "8,800",
+    "date": "2026-07-21",
+    "floor": 16,
+    "area": 40.716
+  },
+  {
+    "aptNm": "늘푸른",
+    "dealAmount": "12,200",
+    "date": "2026-07-21",
+    "floor": 6,
+    "area": 51.096
+  },
+  {
+    "aptNm": "늘푸른",
+    "dealAmount": "16,700",
+    "date": "2026-07-18",
+    "floor": 18,
+    "area": 59.976
+  },
+  {
     "aptNm": "유성캠퍼스타워-I",
     "dealAmount": "3,300",
     "date": "2026-07-07",

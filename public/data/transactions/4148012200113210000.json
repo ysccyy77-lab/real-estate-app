@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "벽산1",
+    "dealAmount": "50,300",
+    "date": "2026-07-22",
+    "floor": 14,
+    "area": 59.73
+  },
+  {
+    "aptNm": "벽산1",
+    "dealAmount": "82,000",
+    "date": "2026-07-17",
+    "floor": 8,
+    "area": 134.95
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "52,000",
+    "date": "2026-07-16",
+    "floor": 1,
+    "area": 97.265
+  },
+  {
+    "aptNm": "벽산1",
+    "dealAmount": "80,000",
+    "date": "2026-07-14",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "벽산1",
+    "dealAmount": "83,500",
+    "date": "2026-07-13",
+    "floor": 17,
+    "area": 134.95
+  },
+  {
     "aptNm": "대림",
     "dealAmount": "61,000",
     "date": "2026-07-02",

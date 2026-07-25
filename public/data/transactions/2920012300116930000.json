@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "국제산장",
+    "dealAmount": "44,000",
+    "date": "2026-07-18",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "국제산장",
     "dealAmount": "42,600",
     "date": "2026-07-03",
     "floor": 7,

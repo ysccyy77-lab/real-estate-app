@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "별메마을",
+    "dealAmount": "9,500",
+    "date": "2026-07-23",
+    "floor": 6,
+    "area": 58.14
+  },
+  {
+    "aptNm": "별메마을",
+    "dealAmount": "14,500",
+    "date": "2026-07-22",
+    "floor": 4,
+    "area": 58.14
+  },
+  {
+    "aptNm": "별메마을",
+    "dealAmount": "14,200",
+    "date": "2026-07-18",
+    "floor": 8,
+    "area": 58.14
+  },
+  {
+    "aptNm": "별메마을",
+    "dealAmount": "12,500",
+    "date": "2026-07-17",
+    "floor": 11,
+    "area": 49.67
+  },
+  {
+    "aptNm": "별메마을",
+    "dealAmount": "10,900",
+    "date": "2026-07-08",
+    "floor": 1,
+    "area": 58.14
+  },
+  {
+    "aptNm": "별메마을",
     "dealAmount": "10,350",
     "date": "2026-06-30",
     "floor": 13,

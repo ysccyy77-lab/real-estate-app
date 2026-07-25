@@ -15,6 +15,13 @@
   },
   {
     "aptNm": "신원",
+    "dealAmount": "43,900",
+    "date": "2026-06-23",
+    "floor": 5,
+    "area": 59.96
+  },
+  {
+    "aptNm": "신원",
     "dealAmount": "56,300",
     "date": "2026-06-22",
     "floor": 20,

@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "현대2",
+    "dealAmount": "65,000",
+    "date": "2026-07-17",
+    "floor": 15,
+    "area": 84.83
+  },
+  {
     "aptNm": "성원남산3차",
     "dealAmount": "8,600",
     "date": "2026-07-14",
     "floor": 5,
     "area": 47.97
+  },
+  {
+    "aptNm": "현대2",
+    "dealAmount": "57,000",
+    "date": "2026-07-13",
+    "floor": 1,
+    "area": 84.83
   },
   {
     "aptNm": "녹양힐스테이트",

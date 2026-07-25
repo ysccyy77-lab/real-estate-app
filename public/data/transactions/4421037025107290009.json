@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "음암마을",
+    "dealAmount": "3,700",
+    "date": "2026-07-21",
+    "floor": 5,
+    "area": 59.55
+  },
+  {
+    "aptNm": "음암마을",
     "dealAmount": "4,000",
     "date": "2026-06-16",
     "floor": 3,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "라페온빌II",
+    "dealAmount": "5,500",
+    "date": "2026-06-24",
+    "floor": 8,
+    "area": 18.27
+  },
+  {
+    "aptNm": "라페온빌II",
     "dealAmount": "7,300",
     "date": "2026-06-20",
     "floor": 12,

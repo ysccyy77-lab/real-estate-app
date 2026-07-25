@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "어울림마을",
+    "dealAmount": "41,000",
+    "date": "2026-07-19",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "어울림마을",
+    "dealAmount": "46,000",
+    "date": "2026-07-17",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "어울림마을",
+    "dealAmount": "43,500",
+    "date": "2026-07-14",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "어울림마을",
     "dealAmount": "42,000",
     "date": "2026-07-11",
     "floor": 1,

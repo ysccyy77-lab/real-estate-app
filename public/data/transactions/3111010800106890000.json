@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우정I'PARK",
+    "dealAmount": "65,000",
+    "date": "2026-07-21",
+    "floor": 23,
+    "area": 125.5478
+  },
+  {
+    "aptNm": "우정I'PARK",
     "dealAmount": "74,000",
     "date": "2026-07-15",
     "floor": 14,

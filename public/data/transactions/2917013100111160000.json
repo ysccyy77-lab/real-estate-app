@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "두운힐스",
+    "dealAmount": "6,500",
+    "date": "2026-07-23",
+    "floor": 9,
+    "area": 38.14
+  },
+  {
+    "aptNm": "리첸시아중동",
+    "dealAmount": "97,000",
+    "date": "2026-07-16",
+    "floor": 35,
+    "area": 117.38
+  },
+  {
+    "aptNm": "평택the#",
+    "dealAmount": "39,000",
+    "date": "2026-07-14",
+    "floor": 14,
+    "area": 105.49
+  },
+  {
     "aptNm": "샘마을우방",
     "dealAmount": "130,000",
     "date": "2026-07-03",

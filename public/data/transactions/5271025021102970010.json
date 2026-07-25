@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대영1",
+    "dealAmount": "4,100",
+    "date": "2026-07-22",
+    "floor": 4,
+    "area": 42.12
+  },
+  {
+    "aptNm": "대영1",
+    "dealAmount": "3,600",
+    "date": "2026-07-21",
+    "floor": 16,
+    "area": 42.12
+  },
+  {
+    "aptNm": "대영1",
     "dealAmount": "3,800",
     "date": "2026-07-08",
     "floor": 11,

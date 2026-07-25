@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "대구금강아파트",
+    "dealAmount": "15,000",
+    "date": "2026-07-21",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대2차",
+    "dealAmount": "56,000",
+    "date": "2026-07-20",
+    "floor": 14,
+    "area": 84.78
+  },
+  {
+    "aptNm": "현대2차",
+    "dealAmount": "46,500",
+    "date": "2026-07-18",
+    "floor": 8,
+    "area": 69.84
+  },
+  {
+    "aptNm": "현대2차",
+    "dealAmount": "22,500",
+    "date": "2026-07-17",
+    "floor": 1,
+    "area": 44.24
+  },
+  {
     "aptNm": "현대2차",
     "dealAmount": "23,000",
     "date": "2026-07-10",

@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "삼우궁전",
+    "dealAmount": "4,300",
+    "date": "2026-07-20",
+    "floor": 13,
+    "area": 59.925
+  },
+  {
+    "aptNm": "산호옥마을",
+    "dealAmount": "14,800",
+    "date": "2026-07-19",
+    "floor": 12,
+    "area": 84.723
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "38,000",
+    "date": "2026-07-17",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
     "aptNm": "한중",
     "dealAmount": "6,800",
     "date": "2026-07-16",
     "floor": 1,
     "area": 59.94
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "55,000",
+    "date": "2026-07-16",
+    "floor": 2,
+    "area": 146.24
   },
   {
     "aptNm": "일신",
@@ -54,6 +82,13 @@
     "date": "2026-06-30",
     "floor": 2,
     "area": 39.95
+  },
+  {
+    "aptNm": "현대1차",
+    "dealAmount": "39,000",
+    "date": "2026-06-29",
+    "floor": 2,
+    "area": 84.6
   },
   {
     "aptNm": "현대1차",

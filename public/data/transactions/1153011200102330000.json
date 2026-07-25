@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "대경강남타운",
+    "dealAmount": "7,900",
+    "date": "2026-07-18",
+    "floor": 3,
+    "area": 33.6
+  },
+  {
+    "aptNm": "주공6",
+    "dealAmount": "8,300",
+    "date": "2026-07-17",
+    "floor": 15,
+    "area": 38.64
+  },
+  {
+    "aptNm": "주공6",
+    "dealAmount": "10,100",
+    "date": "2026-07-14",
+    "floor": 11,
+    "area": 38.64
+  },
+  {
+    "aptNm": "대경강남타운",
     "dealAmount": "13,100",
     "date": "2026-07-06",
     "floor": 2,

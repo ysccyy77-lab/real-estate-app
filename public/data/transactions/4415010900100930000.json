@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "동성",
+    "dealAmount": "13,500",
+    "date": "2026-07-20",
+    "floor": 17,
+    "area": 49.5
+  },
+  {
+    "aptNm": "동성",
     "dealAmount": "15,000",
     "date": "2026-07-16",
     "floor": 10,
     "area": 49.5
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "77,000",
+    "date": "2026-07-16",
+    "floor": 5,
+    "area": 84.78
   },
   {
     "aptNm": "은아",
@@ -54,6 +68,13 @@
     "date": "2026-07-06",
     "floor": 1,
     "area": 84.93
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "81,000",
+    "date": "2026-07-05",
+    "floor": 1,
+    "area": 84.78
   },
   {
     "aptNm": "동성",

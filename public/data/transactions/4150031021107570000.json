@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "교동청솔2차",
+    "dealAmount": "10,800",
+    "date": "2026-07-21",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "학익SKVIEW",
+    "dealAmount": "42,000",
+    "date": "2026-07-20",
+    "floor": 20,
+    "area": 59.9482
+  },
+  {
+    "aptNm": "학익SKVIEW",
+    "dealAmount": "43,000",
+    "date": "2026-07-17",
+    "floor": 5,
+    "area": 59.9482
+  },
+  {
     "aptNm": "하이젠시티",
     "dealAmount": "9,000",
     "date": "2026-07-16",
@@ -49,11 +70,32 @@
     "area": 33.3
   },
   {
+    "aptNm": "교동청솔2차",
+    "dealAmount": "9,080",
+    "date": "2026-07-13",
+    "floor": 13,
+    "area": 59.85
+  },
+  {
     "aptNm": "불당아이파크",
     "dealAmount": "38,500",
     "date": "2026-07-08",
     "floor": 9,
     "area": 84.95
+  },
+  {
+    "aptNm": "의정부민락푸르지오",
+    "dealAmount": "45,200",
+    "date": "2026-07-08",
+    "floor": 23,
+    "area": 84.937
+  },
+  {
+    "aptNm": "학익SKVIEW",
+    "dealAmount": "45,300",
+    "date": "2026-07-08",
+    "floor": 25,
+    "area": 59.9482
   },
   {
     "aptNm": "의정부민락푸르지오",

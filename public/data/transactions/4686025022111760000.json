@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "수영SKVIEW1단지",
+    "dealAmount": "54,900",
+    "date": "2026-07-18",
+    "floor": 19,
+    "area": 59.9694
+  },
+  {
+    "aptNm": "수영SKVIEW1단지",
     "dealAmount": "54,500",
     "date": "2026-07-16",
     "floor": 17,
     "area": 59.9694
+  },
+  {
+    "aptNm": "두산위브더제니스양산",
+    "dealAmount": "21,000",
+    "date": "2026-07-14",
+    "floor": 20,
+    "area": 59.5283
   },
   {
     "aptNm": "수영SKVIEW1단지",

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "마산만I'PARK",
+    "dealAmount": "62,500",
+    "date": "2026-07-20",
+    "floor": 3,
+    "area": 154.0417
+  },
+  {
+    "aptNm": "마산만I'PARK",
+    "dealAmount": "47,800",
+    "date": "2026-07-15",
+    "floor": 33,
+    "area": 84.9493
+  },
+  {
+    "aptNm": "마산만I'PARK",
+    "dealAmount": "44,500",
+    "date": "2026-07-11",
+    "floor": 27,
+    "area": 84.9607
+  },
+  {
+    "aptNm": "마산만I'PARK",
     "dealAmount": "69,500",
     "date": "2026-07-10",
     "floor": 16,
@@ -166,6 +187,13 @@
     "date": "2026-05-07",
     "floor": 6,
     "area": 84.87
+  },
+  {
+    "aptNm": "롯데캐슬천지인",
+    "dealAmount": "120,000",
+    "date": "2026-05-06",
+    "floor": 30,
+    "area": 112.54
   },
   {
     "aptNm": "마산만I'PARK",

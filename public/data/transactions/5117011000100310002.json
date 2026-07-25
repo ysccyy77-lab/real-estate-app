@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "삼화미성",
+    "dealAmount": "5,500",
+    "date": "2026-07-15",
+    "floor": 5,
+    "area": 58.83
+  },
+  {
+    "aptNm": "백산",
+    "dealAmount": "37,000",
+    "date": "2026-07-09",
+    "floor": 1,
+    "area": 65.88
+  },
+  {
     "aptNm": "백산",
     "dealAmount": "35,000",
     "date": "2026-06-26",

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "서희스타힐스",
+    "dealAmount": "22,900",
+    "date": "2026-07-18",
+    "floor": 2,
+    "area": 84.53
+  },
+  {
+    "aptNm": "서천클래시움",
+    "dealAmount": "25,500",
+    "date": "2026-07-16",
+    "floor": 5,
+    "area": 84.941
+  },
+  {
+    "aptNm": "신원1차",
+    "dealAmount": "30,000",
+    "date": "2026-07-15",
+    "floor": 16,
+    "area": 84.73
+  },
+  {
+    "aptNm": "서희스타힐스",
     "dealAmount": "19,500",
     "date": "2026-07-11",
     "floor": 13,

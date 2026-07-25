@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "주공",
+    "dealAmount": "6,200",
+    "date": "2026-07-20",
+    "floor": 4,
+    "area": 39.3
+  },
+  {
+    "aptNm": "꿈의숲푸르지오",
+    "dealAmount": "100,500",
+    "date": "2026-07-17",
+    "floor": 2,
+    "area": 84.73
+  },
+  {
     "aptNm": "성원",
     "dealAmount": "35,000",
     "date": "2026-07-10",

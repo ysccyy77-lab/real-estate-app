@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "효성",
+    "dealAmount": "3,500",
+    "date": "2026-07-24",
+    "floor": 2,
+    "area": 27.29
+  },
+  {
+    "aptNm": "대성현대",
+    "dealAmount": "8,500",
+    "date": "2026-07-22",
+    "floor": 4,
+    "area": 54.09
+  },
+  {
     "aptNm": "옥산삼산타운",
     "dealAmount": "8,200",
     "date": "2026-07-14",

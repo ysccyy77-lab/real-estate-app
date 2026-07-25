@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우주",
+    "dealAmount": "4,000",
+    "date": "2026-07-22",
+    "floor": 5,
+    "area": 50.64
+  },
+  {
+    "aptNm": "우주",
     "dealAmount": "5,000",
     "date": "2026-05-19",
     "floor": 4,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "을지맨션",
+    "dealAmount": "90,000",
+    "date": "2026-07-04",
+    "floor": 5,
+    "area": 79.902
+  },
+  {
+    "aptNm": "을지맨션",
     "dealAmount": "90,500",
     "date": "2026-05-13",
     "floor": 4,

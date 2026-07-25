@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "군자주공14",
+    "dealAmount": "17,500",
+    "date": "2026-07-23",
+    "floor": 2,
+    "area": 39.61
+  },
+  {
+    "aptNm": "부영1차",
+    "dealAmount": "21,000",
+    "date": "2026-07-20",
+    "floor": 2,
+    "area": 81.1563
+  },
+  {
+    "aptNm": "부영1차",
+    "dealAmount": "17,500",
+    "date": "2026-07-18",
+    "floor": 16,
+    "area": 60.2153
+  },
+  {
+    "aptNm": "부영1차",
+    "dealAmount": "20,200",
+    "date": "2026-07-18",
+    "floor": 5,
+    "area": 60.2153
+  },
+  {
     "aptNm": "부영1차",
     "dealAmount": "14,500",
     "date": "2026-07-13",
     "floor": 2,
     "area": 60.2153
+  },
+  {
+    "aptNm": "군자주공14",
+    "dealAmount": "17,500",
+    "date": "2026-06-28",
+    "floor": 5,
+    "area": 39.61
   },
   {
     "aptNm": "군자주공14",

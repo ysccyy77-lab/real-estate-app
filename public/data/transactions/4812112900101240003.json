@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대동차룡",
+    "dealAmount": "15,800",
+    "date": "2026-06-30",
+    "floor": 6,
+    "area": 49.98
+  },
+  {
+    "aptNm": "대동차룡",
     "dealAmount": "15,900",
     "date": "2026-05-27",
     "floor": 2,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "호매실엔루체(N'LUCE)",
+    "dealAmount": "58,000",
+    "date": "2026-07-18",
+    "floor": 18,
+    "area": 84.91
+  },
+  {
+    "aptNm": "호매실엔루체(N'LUCE)",
+    "dealAmount": "54,300",
+    "date": "2026-07-15",
+    "floor": 12,
+    "area": 84.49
+  },
+  {
+    "aptNm": "호매실엔루체(N'LUCE)",
     "dealAmount": "59,900",
     "date": "2026-07-13",
     "floor": 15,

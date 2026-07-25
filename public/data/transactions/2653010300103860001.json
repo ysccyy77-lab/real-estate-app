@@ -7,6 +7,20 @@
     "area": 84.9099
   },
   {
+    "aptNm": "동산",
+    "dealAmount": "4,800",
+    "date": "2026-07-03",
+    "floor": 3,
+    "area": 49.17
+  },
+  {
+    "aptNm": "동산",
+    "dealAmount": "5,000",
+    "date": "2026-07-03",
+    "floor": 4,
+    "area": 49.17
+  },
+  {
     "aptNm": "힐스테이트석수",
     "dealAmount": "75,000",
     "date": "2026-06-27",

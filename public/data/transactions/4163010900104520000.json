@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "새한",
+    "dealAmount": "5,400",
+    "date": "2026-07-23",
+    "floor": 1,
+    "area": 59.76
+  },
+  {
+    "aptNm": "제천",
+    "dealAmount": "15,650",
+    "date": "2026-07-16",
+    "floor": 1,
+    "area": 107.55
+  },
+  {
     "aptNm": "호매실신미주",
     "dealAmount": "31,000",
     "date": "2026-07-09",
