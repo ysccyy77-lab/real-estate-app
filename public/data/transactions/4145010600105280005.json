@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "백송한신",
+    "dealAmount": "58,500",
+    "date": "2026-07-30",
+    "floor": 12,
+    "area": 49.98
+  },
+  {
+    "aptNm": "백송한신",
+    "dealAmount": "56,000",
+    "date": "2026-07-17",
+    "floor": 17,
+    "area": 49.98
+  },
+  {
+    "aptNm": "백송한신",
     "dealAmount": "51,000",
     "date": "2026-07-12",
     "floor": 13,

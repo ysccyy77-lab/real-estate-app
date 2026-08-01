@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "동산",
+    "dealAmount": "6,500",
+    "date": "2026-07-30",
+    "floor": 3,
+    "area": 47.13
+  },
+  {
+    "aptNm": "단일(A단지)",
+    "dealAmount": "5,000",
+    "date": "2026-07-17",
+    "floor": 3,
+    "area": 59.4
+  },
+  {
+    "aptNm": "단일(A단지)",
+    "dealAmount": "5,000",
+    "date": "2026-07-11",
+    "floor": 4,
+    "area": 84.33
+  },
+  {
     "aptNm": "리치빌",
     "dealAmount": "14,300",
     "date": "2026-07-02",

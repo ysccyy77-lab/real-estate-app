@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "세연상가",
+    "dealAmount": "8,300",
+    "date": "2026-07-31",
+    "floor": 8,
+    "area": 70.35
+  },
+  {
+    "aptNm": "대한",
+    "dealAmount": "7,300",
+    "date": "2026-07-24",
+    "floor": 2,
+    "area": 59.88
+  },
+  {
     "aptNm": "파크타운(서안)",
     "dealAmount": "230,000",
     "date": "2026-07-14",
     "floor": 8,
     "area": 101.91
+  },
+  {
+    "aptNm": "파크타운(서안)",
+    "dealAmount": "219,000",
+    "date": "2026-07-14",
+    "floor": 8,
+    "area": 84.6
+  },
+  {
+    "aptNm": "파크타운(서안)",
+    "dealAmount": "152,500",
+    "date": "2026-07-11",
+    "floor": 20,
+    "area": 59.32
   },
   {
     "aptNm": "은하",

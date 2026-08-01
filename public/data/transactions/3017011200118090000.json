@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "국화한신",
+    "dealAmount": "105,000",
+    "date": "2026-07-27",
+    "floor": 2,
+    "area": 165.6
+  },
+  {
+    "aptNm": "국화동성",
+    "dealAmount": "43,000",
+    "date": "2026-07-24",
+    "floor": 7,
+    "area": 77.34
+  },
+  {
+    "aptNm": "국화라이프",
+    "dealAmount": "77,000",
+    "date": "2026-07-20",
+    "floor": 9,
+    "area": 114.28
+  },
+  {
     "aptNm": "국화동성",
     "dealAmount": "57,000",
     "date": "2026-07-14",

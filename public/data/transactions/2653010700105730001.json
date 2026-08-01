@@ -1,9 +1,30 @@
 [
   {
     "aptNm": "주공그린빌",
+    "dealAmount": "28,500",
+    "date": "2026-07-28",
+    "floor": 1,
+    "area": 84.9
+  },
+  {
+    "aptNm": "반도보라타운",
+    "dealAmount": "20,000",
+    "date": "2026-07-14",
+    "floor": 5,
+    "area": 84.9
+  },
+  {
+    "aptNm": "주공그린빌",
     "dealAmount": "19,600",
     "date": "2026-07-13",
     "floor": 1,
+    "area": 59.27
+  },
+  {
+    "aptNm": "주공그린빌",
+    "dealAmount": "21,500",
+    "date": "2026-07-11",
+    "floor": 13,
     "area": 59.27
   },
   {
@@ -25,6 +46,13 @@
     "dealAmount": "24,300",
     "date": "2026-07-04",
     "floor": 16,
+    "area": 84.9
+  },
+  {
+    "aptNm": "반도보라타운",
+    "dealAmount": "16,000",
+    "date": "2026-07-03",
+    "floor": 17,
     "area": 84.9
   },
   {

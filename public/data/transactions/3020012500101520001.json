@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대림두레",
+    "dealAmount": "30,000",
+    "date": "2026-07-31",
+    "floor": 4,
+    "area": 84.945
+  },
+  {
+    "aptNm": "대림두레",
+    "dealAmount": "17,000",
+    "date": "2026-07-21",
+    "floor": 2,
+    "area": 71.685
+  },
+  {
+    "aptNm": "대림두레",
     "dealAmount": "28,000",
     "date": "2026-07-17",
     "floor": 1,

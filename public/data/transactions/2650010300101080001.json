@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "인정프린스",
+    "dealAmount": "16,300",
+    "date": "2026-07-31",
+    "floor": 2,
+    "area": 49.08
+  },
+  {
+    "aptNm": "해강그린",
+    "dealAmount": "8,000",
+    "date": "2026-07-25",
+    "floor": 9,
+    "area": 84.36
+  },
+  {
+    "aptNm": "인정프린스",
     "dealAmount": "17,000",
     "date": "2026-07-24",
     "floor": 5,

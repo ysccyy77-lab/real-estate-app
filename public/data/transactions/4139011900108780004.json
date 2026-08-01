@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "데코빌",
+    "dealAmount": "12,000",
+    "date": "2026-07-25",
+    "floor": 11,
+    "area": 41.6
+  },
+  {
+    "aptNm": "데코빌",
     "dealAmount": "13,800",
     "date": "2026-07-20",
     "floor": 11,

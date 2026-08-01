@@ -1,9 +1,37 @@
 [
   {
     "aptNm": "대자연마을",
+    "dealAmount": "39,000",
+    "date": "2026-07-29",
+    "floor": 13,
+    "area": 99.99
+  },
+  {
+    "aptNm": "대자연마을",
+    "dealAmount": "46,500",
+    "date": "2026-07-27",
+    "floor": 5,
+    "area": 92.78
+  },
+  {
+    "aptNm": "광명메이루즈",
+    "dealAmount": "22,000",
+    "date": "2026-07-24",
+    "floor": 10,
+    "area": 84.9641
+  },
+  {
+    "aptNm": "대자연마을",
     "dealAmount": "39,900",
     "date": "2026-07-22",
     "floor": 8,
+    "area": 99.99
+  },
+  {
+    "aptNm": "대자연마을",
+    "dealAmount": "39,500",
+    "date": "2026-07-18",
+    "floor": 11,
     "area": 99.99
   },
   {

@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "건영아모리움",
+    "dealAmount": "31,500",
+    "date": "2026-07-29",
+    "floor": 24,
+    "area": 78.466
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,600",
+    "date": "2026-07-27",
+    "floor": 6,
+    "area": 49.89
+  },
+  {
+    "aptNm": "한밭우성",
+    "dealAmount": "23,100",
+    "date": "2026-07-25",
+    "floor": 8,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "16,000",
+    "date": "2026-07-25",
+    "floor": 1,
+    "area": 59.97
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,500",
+    "date": "2026-07-24",
+    "floor": 15,
+    "area": 49.89
+  },
+  {
     "aptNm": "한밭우성",
     "dealAmount": "18,500",
     "date": "2026-07-15",

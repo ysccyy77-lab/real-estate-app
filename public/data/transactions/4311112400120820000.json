@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "소라",
+    "dealAmount": "11,300",
+    "date": "2026-07-30",
+    "floor": 4,
+    "area": 59.7
+  },
+  {
+    "aptNm": "소라",
     "dealAmount": "15,600",
     "date": "2026-07-16",
     "floor": 8,

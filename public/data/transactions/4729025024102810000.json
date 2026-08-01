@@ -1,10 +1,59 @@
 [
   {
     "aptNm": "동아",
+    "dealAmount": "18,800",
+    "date": "2026-07-30",
+    "floor": 10,
+    "area": 84.865
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "30,800",
+    "date": "2026-07-27",
+    "floor": 11,
+    "area": 59.88
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "29,500",
+    "date": "2026-07-24",
+    "floor": 6,
+    "area": 59.88
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "30,000",
+    "date": "2026-07-24",
+    "floor": 11,
+    "area": 59.88
+  },
+  {
+    "aptNm": "천왕연지타운2단지",
+    "dealAmount": "82,500",
+    "date": "2026-07-18",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "천왕연지타운2단지",
+    "dealAmount": "81,000",
+    "date": "2026-07-18",
+    "floor": 7,
+    "area": 84.97
+  },
+  {
+    "aptNm": "동아",
     "dealAmount": "8,100",
     "date": "2026-07-17",
     "floor": 13,
     "area": 59.67
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "21,800",
+    "date": "2026-07-16",
+    "floor": 4,
+    "area": 43.2
   },
   {
     "aptNm": "세대넥스빌",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한스빌",
+    "dealAmount": "2,300",
+    "date": "2026-07-30",
+    "floor": 2,
+    "area": 26.4673
+  },
+  {
+    "aptNm": "한스빌",
     "dealAmount": "2,400",
     "date": "2026-07-04",
     "floor": 14,

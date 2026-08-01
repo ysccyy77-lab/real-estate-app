@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "하망동화성",
+    "dealAmount": "4,800",
+    "date": "2026-07-28",
+    "floor": 5,
+    "area": 59.84
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "11,800",
+    "date": "2026-07-27",
+    "floor": 8,
+    "area": 59.91
+  },
+  {
+    "aptNm": "태평양",
+    "dealAmount": "13,700",
+    "date": "2026-07-25",
+    "floor": 17,
+    "area": 63.27
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "11,000",
+    "date": "2026-07-22",
+    "floor": 17,
+    "area": 59.91
+  },
+  {
     "aptNm": "적성-1",
     "dealAmount": "18,000",
     "date": "2026-07-21",

@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "성원",
+    "dealAmount": "33,700",
+    "date": "2026-07-31",
+    "floor": 8,
+    "area": 59.53
+  },
+  {
+    "aptNm": "꿈의숲푸르지오",
+    "dealAmount": "98,500",
+    "date": "2026-07-29",
+    "floor": 1,
+    "area": 59.65
+  },
+  {
+    "aptNm": "동아2",
+    "dealAmount": "10,500",
+    "date": "2026-07-27",
+    "floor": 1,
+    "area": 51.32
+  },
+  {
+    "aptNm": "동아2",
+    "dealAmount": "18,000",
+    "date": "2026-07-22",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
     "aptNm": "주공",
     "dealAmount": "6,200",
     "date": "2026-07-20",

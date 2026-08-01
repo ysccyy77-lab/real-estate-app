@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "유성1",
+    "dealAmount": "6,500",
+    "date": "2026-07-29",
+    "floor": 2,
+    "area": 57.15
+  },
+  {
+    "aptNm": "레인보우",
+    "dealAmount": "26,000",
+    "date": "2026-07-27",
+    "floor": 7,
+    "area": 84.5187
+  },
+  {
     "aptNm": "리버나인RIVERNINE",
     "dealAmount": "88,000",
     "date": "2026-07-20",

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "한라비발디",
+    "dealAmount": "23,650",
+    "date": "2026-07-30",
+    "floor": 5,
+    "area": 84.996
+  },
+  {
+    "aptNm": "수성롯데캐슬THEFIRST",
+    "dealAmount": "89,400",
+    "date": "2026-07-26",
+    "floor": 5,
+    "area": 99.9069
+  },
+  {
+    "aptNm": "수성롯데캐슬THEFIRST",
+    "dealAmount": "71,000",
+    "date": "2026-07-17",
+    "floor": 17,
+    "area": 76.2186
+  },
+  {
     "aptNm": "코오롱하늘채",
     "dealAmount": "20,000",
     "date": "2026-07-14",

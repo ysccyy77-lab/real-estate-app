@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한아름",
+    "dealAmount": "15,000",
+    "date": "2026-07-13",
+    "floor": 4,
+    "area": 48.96
+  },
+  {
+    "aptNm": "한아름",
     "dealAmount": "16,900",
     "date": "2026-06-22",
     "floor": 2,

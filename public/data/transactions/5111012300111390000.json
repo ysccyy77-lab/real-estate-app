@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "초록",
+    "dealAmount": "85,000",
+    "date": "2026-07-23",
+    "floor": 6,
+    "area": 49.77
+  },
+  {
+    "aptNm": "초록",
     "dealAmount": "105,000",
     "date": "2026-07-20",
     "floor": 11,
     "area": 84.07
+  },
+  {
+    "aptNm": "사당자이",
+    "dealAmount": "122,800",
+    "date": "2026-07-16",
+    "floor": 10,
+    "area": 59.89
   },
   {
     "aptNm": "초록",

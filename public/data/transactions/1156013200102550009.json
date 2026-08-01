@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신길AK푸르지오",
+    "dealAmount": "88,000",
+    "date": "2026-07-26",
+    "floor": 18,
+    "area": 49.4666
+  },
+  {
+    "aptNm": "신길AK푸르지오",
     "dealAmount": "84,400",
     "date": "2026-05-28",
     "floor": 10,

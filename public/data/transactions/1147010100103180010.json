@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "광진산업",
+    "dealAmount": "14,500",
+    "date": "2026-07-30",
+    "floor": 1,
+    "area": 59.9887
+  },
+  {
+    "aptNm": "광진산업",
     "dealAmount": "9,500",
     "date": "2026-06-24",
     "floor": 5,

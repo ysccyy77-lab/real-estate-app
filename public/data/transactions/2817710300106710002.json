@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "영남",
+    "dealAmount": "11,000",
+    "date": "2026-07-09",
+    "floor": 2,
+    "area": 54.27
+  },
+  {
+    "aptNm": "영남",
     "dealAmount": "10,000",
     "date": "2026-05-23",
     "floor": 5,

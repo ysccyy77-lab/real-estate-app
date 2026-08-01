@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "이안강릉타운",
+    "dealAmount": "26,000",
+    "date": "2026-07-29",
+    "floor": 10,
+    "area": 84.7
+  },
+  {
+    "aptNm": "성도대자연",
+    "dealAmount": "5,450",
+    "date": "2026-07-29",
+    "floor": 10,
+    "area": 59.84
+  },
+  {
+    "aptNm": "성도대자연",
+    "dealAmount": "7,000",
+    "date": "2026-07-27",
+    "floor": 13,
+    "area": 84.72
+  },
+  {
     "aptNm": "정릉푸른마을동아",
     "dealAmount": "72,800",
     "date": "2026-07-12",
     "floor": 8,
     "area": 59.94
+  },
+  {
+    "aptNm": "이안강릉타운",
+    "dealAmount": "28,000",
+    "date": "2026-07-10",
+    "floor": 12,
+    "area": 84.7
   },
   {
     "aptNm": "성도대자연",

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "동아",
+    "dealAmount": "20,000",
+    "date": "2026-07-29",
+    "floor": 10,
+    "area": 102
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "20,000",
+    "date": "2026-07-28",
+    "floor": 10,
+    "area": 102
+  },
+  {
     "aptNm": "황성주공2차",
     "dealAmount": "13,000",
     "date": "2026-07-20",

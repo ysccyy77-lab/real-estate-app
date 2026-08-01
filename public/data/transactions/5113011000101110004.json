@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신익무지개",
+    "dealAmount": "2,800",
+    "date": "2026-07-26",
+    "floor": 5,
+    "area": 40.56
+  },
+  {
+    "aptNm": "신익무지개",
     "dealAmount": "6,300",
     "date": "2026-07-10",
     "floor": 1,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "칠원동성",
+    "dealAmount": "13,300",
+    "date": "2026-07-16",
+    "floor": 9,
+    "area": 84.5359
+  },
+  {
+    "aptNm": "칠원동성",
     "dealAmount": "6,300",
     "date": "2026-06-25",
     "floor": 1,

@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "덕일",
+    "dealAmount": "10,300",
+    "date": "2026-07-30",
+    "floor": 1,
+    "area": 49.61
+  },
+  {
+    "aptNm": "덕소쌍용",
+    "dealAmount": "58,000",
+    "date": "2026-07-29",
+    "floor": 1,
+    "area": 134.919
+  },
+  {
+    "aptNm": "거제아주KCC스위첸",
+    "dealAmount": "22,000",
+    "date": "2026-07-21",
+    "floor": 15,
+    "area": 84.9084
+  },
+  {
+    "aptNm": "덕소쌍용",
+    "dealAmount": "49,500",
+    "date": "2026-07-20",
+    "floor": 18,
+    "area": 84.139
+  },
+  {
+    "aptNm": "덕소쌍용",
+    "dealAmount": "70,500",
+    "date": "2026-07-20",
+    "floor": 20,
+    "area": 134.919
+  },
+  {
     "aptNm": "덕소쌍용",
     "dealAmount": "49,700",
     "date": "2026-07-09",

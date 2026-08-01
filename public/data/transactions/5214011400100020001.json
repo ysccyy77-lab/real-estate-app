@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "종로센트레빌",
+    "dealAmount": "110,000",
+    "date": "2026-07-27",
+    "floor": 6,
+    "area": 59.92
+  },
+  {
+    "aptNm": "종로센트레빌",
     "dealAmount": "125,000",
     "date": "2026-07-17",
     "floor": 2,
     "area": 84.92
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "12,000",
+    "date": "2026-06-30",
+    "floor": 11,
+    "area": 76.93
   },
   {
     "aptNm": "한진",

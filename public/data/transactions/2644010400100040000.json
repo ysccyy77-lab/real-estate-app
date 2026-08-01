@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "주공",
+    "dealAmount": "3,900",
+    "date": "2026-07-30",
+    "floor": 2,
+    "area": 41.99
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "6,300",
+    "date": "2026-07-25",
+    "floor": 1,
+    "area": 59.3
+  },
+  {
+    "aptNm": "대구금강맨션2차",
+    "dealAmount": "19,250",
+    "date": "2026-07-24",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "주공",
     "dealAmount": "4,000",
     "date": "2026-07-23",
     "floor": 4,
@@ -82,6 +103,13 @@
     "date": "2026-07-01",
     "floor": 4,
     "area": 59.973
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "20,800",
+    "date": "2026-06-28",
+    "floor": 12,
+    "area": 71.625
   },
   {
     "aptNm": "꿈의숲롯데캐슬",

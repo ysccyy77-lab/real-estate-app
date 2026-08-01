@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "월드",
+    "dealAmount": "25,000",
+    "date": "2026-07-08",
+    "floor": 6,
+    "area": 59.935
+  },
+  {
+    "aptNm": "월드",
     "dealAmount": "21,500",
     "date": "2026-06-12",
     "floor": 2,

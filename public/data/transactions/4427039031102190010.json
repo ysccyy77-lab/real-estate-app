@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송산중명",
+    "dealAmount": "6,200",
+    "date": "2026-07-06",
+    "floor": 8,
+    "area": 59.34
+  },
+  {
+    "aptNm": "송산중명",
     "dealAmount": "6,700",
     "date": "2026-06-26",
     "floor": 7,

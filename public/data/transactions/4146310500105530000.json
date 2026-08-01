@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "브라운스톤부평",
+    "dealAmount": "47,500",
+    "date": "2026-07-31",
+    "floor": 15,
+    "area": 59.99
+  },
+  {
+    "aptNm": "브라운스톤부평",
+    "dealAmount": "57,500",
+    "date": "2026-07-27",
+    "floor": 10,
+    "area": 72.9841
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "33,000",
+    "date": "2026-07-26",
+    "floor": 20,
+    "area": 74.77
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "38,600",
+    "date": "2026-07-25",
+    "floor": 6,
+    "area": 84.88
+  },
+  {
+    "aptNm": "브라운스톤부평",
     "dealAmount": "46,800",
     "date": "2026-07-22",
     "floor": 8,

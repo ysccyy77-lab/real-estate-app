@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "청주SKVIEW자이",
+    "dealAmount": "38,500",
+    "date": "2026-07-18",
+    "floor": 5,
+    "area": 59.9784
+  },
+  {
+    "aptNm": "청주SKVIEW자이",
     "dealAmount": "50,500",
     "date": "2026-07-15",
     "floor": 19,
+    "area": 84.9695
+  },
+  {
+    "aptNm": "청주SKVIEW자이",
+    "dealAmount": "53,500",
+    "date": "2026-07-15",
+    "floor": 14,
     "area": 84.9695
   },
   {
@@ -208,6 +222,13 @@
     "date": "2026-05-06",
     "floor": 4,
     "area": 59.991
+  },
+  {
+    "aptNm": "낙원스카이뷰",
+    "dealAmount": "53,000",
+    "date": "2026-05-06",
+    "floor": 5,
+    "area": 84.36
   },
   {
     "aptNm": "청주SKVIEW자이",

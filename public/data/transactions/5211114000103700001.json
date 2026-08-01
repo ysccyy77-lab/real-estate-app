@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "성안청구타운",
+    "dealAmount": "14,300",
+    "date": "2026-07-29",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성안청구타운",
+    "dealAmount": "16,200",
+    "date": "2026-07-29",
+    "floor": 6,
+    "area": 74.8
+  },
+  {
+    "aptNm": "성안청구타운",
     "dealAmount": "14,800",
     "date": "2026-07-19",
     "floor": 1,

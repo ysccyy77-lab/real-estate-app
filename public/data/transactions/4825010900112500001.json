@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "뜨란채",
+    "dealAmount": "16,200",
+    "date": "2026-07-29",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "뜨란채",
+    "dealAmount": "12,600",
+    "date": "2026-07-29",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "뜨란채",
     "dealAmount": "12,650",
     "date": "2026-07-11",
     "floor": 4,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "M-City",
+    "dealAmount": "11,500",
+    "date": "2026-07-31",
+    "floor": 5,
+    "area": 30.72
+  },
+  {
+    "aptNm": "M-City",
+    "dealAmount": "7,300",
+    "date": "2026-07-23",
+    "floor": 10,
+    "area": 19.39
+  },
+  {
+    "aptNm": "M-City",
     "dealAmount": "6,800",
     "date": "2026-06-24",
     "floor": 6,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "진달래",
+    "dealAmount": "42,000",
+    "date": "2026-07-29",
+    "floor": 10,
+    "area": 84.57
+  },
+  {
+    "aptNm": "진달래",
+    "dealAmount": "30,000",
+    "date": "2026-07-24",
+    "floor": 2,
+    "area": 60.72
+  },
+  {
+    "aptNm": "호반써밋송도",
+    "dealAmount": "65,500",
+    "date": "2026-07-23",
+    "floor": 9,
+    "area": 84.8714
+  },
+  {
+    "aptNm": "진달래",
     "dealAmount": "41,800",
     "date": "2026-07-15",
     "floor": 14,

@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "한양2",
+    "dealAmount": "37,000",
+    "date": "2026-07-30",
+    "floor": 5,
+    "area": 48.96
+  },
+  {
+    "aptNm": "세종리젠시빌",
+    "dealAmount": "26,000",
+    "date": "2026-07-25",
+    "floor": 14,
+    "area": 59.82
+  },
+  {
+    "aptNm": "한양2",
+    "dealAmount": "24,700",
+    "date": "2026-07-24",
+    "floor": 5,
+    "area": 35.1
+  },
+  {
+    "aptNm": "한양2",
+    "dealAmount": "43,500",
+    "date": "2026-07-23",
+    "floor": 13,
+    "area": 59.67
+  },
+  {
+    "aptNm": "한양2",
+    "dealAmount": "23,950",
+    "date": "2026-07-23",
+    "floor": 5,
+    "area": 35.1
+  },
+  {
     "aptNm": "해운동성",
     "dealAmount": "14,200",
     "date": "2026-07-19",
@@ -19,6 +54,13 @@
     "date": "2026-07-13",
     "floor": 1,
     "area": 35.1
+  },
+  {
+    "aptNm": "해운동성",
+    "dealAmount": "13,500",
+    "date": "2026-07-09",
+    "floor": 11,
+    "area": 53.075
   },
   {
     "aptNm": "한양2",

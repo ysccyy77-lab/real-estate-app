@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "덕소주공3",
+    "dealAmount": "56,000",
+    "date": "2026-07-25",
+    "floor": 19,
+    "area": 84.79
+  },
+  {
+    "aptNm": "덕소주공3",
+    "dealAmount": "40,700",
+    "date": "2026-07-22",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "덕소주공3",
+    "dealAmount": "57,000",
+    "date": "2026-07-22",
+    "floor": 12,
+    "area": 84.79
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "5,600",
+    "date": "2026-07-20",
+    "floor": 2,
+    "area": 49.31
+  },
+  {
     "aptNm": "쌍용",
     "dealAmount": "6,400",
     "date": "2026-07-17",
@@ -11,6 +39,13 @@
     "dealAmount": "41,000",
     "date": "2026-07-16",
     "floor": 11,
+    "area": 59.99
+  },
+  {
+    "aptNm": "덕소주공3",
+    "dealAmount": "45,000",
+    "date": "2026-07-16",
+    "floor": 5,
     "area": 59.99
   },
   {

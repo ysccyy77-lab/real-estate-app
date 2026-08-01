@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "몰운대",
+    "dealAmount": "11,500",
+    "date": "2026-07-29",
+    "floor": 17,
+    "area": 49.08
+  },
+  {
+    "aptNm": "2단지주공",
+    "dealAmount": "15,000",
+    "date": "2026-07-29",
+    "floor": 22,
+    "area": 49.8
+  },
+  {
+    "aptNm": "몰운대",
+    "dealAmount": "9,900",
+    "date": "2026-07-28",
+    "floor": 7,
+    "area": 49.08
+  },
+  {
     "aptNm": "2단지주공",
     "dealAmount": "21,100",
     "date": "2026-07-09",

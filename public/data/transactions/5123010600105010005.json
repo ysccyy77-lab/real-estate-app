@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동부",
+    "dealAmount": "24,000",
+    "date": "2026-07-10",
+    "floor": 1,
+    "area": 117.31
+  },
+  {
+    "aptNm": "동부",
     "dealAmount": "10,450",
     "date": "2026-07-07",
     "floor": 10,

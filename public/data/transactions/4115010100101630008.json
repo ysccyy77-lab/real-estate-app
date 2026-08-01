@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "베르우스",
+    "dealAmount": "18,500",
+    "date": "2026-07-25",
+    "floor": 9,
+    "area": 39.54
+  },
+  {
+    "aptNm": "베르우스",
     "dealAmount": "18,100",
     "date": "2026-07-07",
     "floor": 13,

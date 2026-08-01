@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "매호청구하이츠빌",
+    "dealAmount": "16,500",
+    "date": "2026-07-25",
+    "floor": 1,
+    "area": 60
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "32,000",
+    "date": "2026-07-21",
+    "floor": 17,
+    "area": 59.99
+  },
+  {
     "aptNm": "신성",
     "dealAmount": "33,800",
     "date": "2026-06-20",

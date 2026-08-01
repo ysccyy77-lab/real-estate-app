@@ -7,6 +7,13 @@
     "area": 84.658
   },
   {
+    "aptNm": "반도보라빌",
+    "dealAmount": "61,500",
+    "date": "2026-07-23",
+    "floor": 10,
+    "area": 84.9073
+  },
+  {
     "aptNm": "양주옥정LH엘리프",
     "dealAmount": "26,000",
     "date": "2026-07-22",
@@ -26,6 +33,13 @@
     "date": "2026-07-22",
     "floor": 17,
     "area": 84.9632
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "86,000",
+    "date": "2026-07-22",
+    "floor": 11,
+    "area": 84.911
   },
   {
     "aptNm": "수원 SK SKY VIEW",
@@ -49,6 +63,13 @@
     "area": 42.75
   },
   {
+    "aptNm": "양주옥정LH엘리프",
+    "dealAmount": "31,500",
+    "date": "2026-07-21",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
     "aptNm": "수원 SK SKY VIEW",
     "dealAmount": "73,500",
     "date": "2026-07-17",
@@ -67,6 +88,13 @@
     "dealAmount": "63,000",
     "date": "2026-07-14",
     "floor": 15,
+    "area": 84.9073
+  },
+  {
+    "aptNm": "반도보라빌",
+    "dealAmount": "60,000",
+    "date": "2026-07-14",
+    "floor": 18,
     "area": 84.9073
   },
   {
@@ -155,6 +183,13 @@
   },
   {
     "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "72,000",
+    "date": "2026-07-04",
+    "floor": 26,
+    "area": 59.952
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
     "dealAmount": "74,000",
     "date": "2026-07-03",
     "floor": 19,
@@ -166,6 +201,13 @@
     "date": "2026-07-02",
     "floor": 10,
     "area": 59.82
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "73,000",
+    "date": "2026-07-02",
+    "floor": 24,
+    "area": 59.952
   },
   {
     "aptNm": "수원 SK SKY VIEW",

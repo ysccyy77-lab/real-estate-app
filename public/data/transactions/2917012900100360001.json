@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "주은청설",
+    "dealAmount": "8,200",
+    "date": "2026-07-30",
+    "floor": 5,
+    "area": 39.75
+  },
+  {
+    "aptNm": "주은청설",
     "dealAmount": "9,800",
     "date": "2026-07-20",
     "floor": 4,

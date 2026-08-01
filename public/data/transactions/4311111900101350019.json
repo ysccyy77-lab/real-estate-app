@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "두산하이츠",
+    "dealAmount": "1,950",
+    "date": "2026-07-30",
+    "floor": 13,
+    "area": 22.93
+  },
+  {
+    "aptNm": "두산하이츠",
     "dealAmount": "3,000",
     "date": "2026-07-14",
     "floor": 4,

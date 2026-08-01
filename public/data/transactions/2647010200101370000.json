@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "효성2차",
+    "dealAmount": "3,500",
+    "date": "2026-07-25",
+    "floor": 2,
+    "area": 27.27
+  },
+  {
     "aptNm": "경남",
     "dealAmount": "19,300",
     "date": "2026-07-10",
     "floor": 15,
     "area": 73.82
+  },
+  {
+    "aptNm": "인정프린스",
+    "dealAmount": "25,000",
+    "date": "2026-07-03",
+    "floor": 4,
+    "area": 84.72
   },
   {
     "aptNm": "인정프린스",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "중부팬더",
+    "dealAmount": "19,000",
+    "date": "2026-07-27",
+    "floor": 3,
+    "area": 130.04
+  },
+  {
+    "aptNm": "중부팬더",
     "dealAmount": "10,700",
     "date": "2026-07-05",
     "floor": 1,

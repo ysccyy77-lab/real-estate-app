@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "로얄임대",
+    "dealAmount": "2,600",
+    "date": "2026-07-20",
+    "floor": 5,
+    "area": 43.361
+  },
+  {
+    "aptNm": "로얄임대",
     "dealAmount": "3,850",
     "date": "2026-06-24",
     "floor": 4,

@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "에일린의뜰1차",
+    "dealAmount": "56,500",
+    "date": "2026-07-31",
+    "floor": 11,
+    "area": 84.9646
+  },
+  {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "58,400",
+    "date": "2026-07-29",
+    "floor": 25,
+    "area": 84.9717
+  },
+  {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "41,500",
+    "date": "2026-07-27",
+    "floor": 28,
+    "area": 59.9649
+  },
+  {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "40,700",
+    "date": "2026-07-27",
+    "floor": 20,
+    "area": 59.9649
+  },
+  {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "41,300",
+    "date": "2026-07-25",
+    "floor": 27,
+    "area": 59.9682
+  },
+  {
+    "aptNm": "에일린의뜰1차",
+    "dealAmount": "56,500",
+    "date": "2026-07-25",
+    "floor": 11,
+    "area": 84.9646
+  },
+  {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "40,800",
+    "date": "2026-07-23",
+    "floor": 30,
+    "area": 59.9649
+  },
+  {
     "aptNm": "신흥SKVIEW",
     "dealAmount": "41,500",
     "date": "2026-07-14",

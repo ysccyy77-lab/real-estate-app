@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "산격청구2",
+    "dealAmount": "15,500",
+    "date": "2026-07-06",
+    "floor": 9,
+    "area": 84.47
+  },
+  {
+    "aptNm": "산격청구2",
     "dealAmount": "9,000",
     "date": "2026-04-20",
     "floor": 2,

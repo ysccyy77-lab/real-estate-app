@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "K-town",
+    "dealAmount": "7,700",
+    "date": "2026-07-22",
+    "floor": 13,
+    "area": 23.3496
+  },
+  {
+    "aptNm": "K-town",
     "dealAmount": "6,100",
     "date": "2026-06-17",
     "floor": 13,

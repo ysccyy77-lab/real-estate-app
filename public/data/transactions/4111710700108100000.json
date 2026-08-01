@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "신창",
+    "dealAmount": "44,500",
+    "date": "2026-07-29",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "신창",
+    "dealAmount": "42,000",
+    "date": "2026-07-28",
+    "floor": 2,
+    "area": 59.4
+  },
+  {
+    "aptNm": "금곡9단지주공",
+    "dealAmount": "5,500",
+    "date": "2026-07-25",
+    "floor": 13,
+    "area": 39.43
+  },
+  {
+    "aptNm": "신창",
     "dealAmount": "47,000",
     "date": "2026-07-22",
     "floor": 8,

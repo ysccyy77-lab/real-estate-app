@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "매화",
+    "dealAmount": "46,500",
+    "date": "2026-07-27",
+    "floor": 8,
+    "area": 84.78
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "116,000",
+    "date": "2026-07-25",
+    "floor": 7,
+    "area": 84.03
+  },
+  {
     "aptNm": "힐스빌",
     "dealAmount": "41,000",
     "date": "2026-07-03",

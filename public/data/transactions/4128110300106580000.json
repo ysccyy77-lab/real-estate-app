@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "해동마을유승한내들",
+    "dealAmount": "31,500",
+    "date": "2026-07-25",
+    "floor": 5,
+    "area": 84.9645
+  },
+  {
     "aptNm": "은어송마을1단지(풍림아이원)",
     "dealAmount": "30,800",
     "date": "2026-07-24",
     "floor": 21,
     "area": 84.9427
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "50,800",
+    "date": "2026-07-23",
+    "floor": 5,
+    "area": 59.91
   },
   {
     "aptNm": "DMC한강숲중흥S-CLASS",

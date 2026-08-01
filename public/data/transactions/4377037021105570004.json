@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "부강",
+    "dealAmount": "10,300",
+    "date": "2026-07-28",
+    "floor": 6,
+    "area": 84.835
+  },
+  {
+    "aptNm": "부강",
+    "dealAmount": "8,600",
+    "date": "2026-07-25",
+    "floor": 6,
+    "area": 59.9
+  },
+  {
+    "aptNm": "부강",
     "dealAmount": "7,300",
     "date": "2026-07-14",
     "floor": 15,

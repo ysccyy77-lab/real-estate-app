@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "진접한일",
+    "dealAmount": "21,000",
+    "date": "2026-07-31",
+    "floor": 8,
+    "area": 60
+  },
+  {
+    "aptNm": "진접한일",
     "dealAmount": "25,500",
     "date": "2026-07-24",
     "floor": 10,

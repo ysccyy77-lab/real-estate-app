@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "인향",
+    "dealAmount": "18,700",
+    "date": "2026-07-25",
+    "floor": 11,
+    "area": 84.95
+  },
+  {
+    "aptNm": "인향",
     "dealAmount": "18,500",
     "date": "2026-04-28",
     "floor": 6,

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "쌍용",
+    "dealAmount": "31,800",
+    "date": "2026-07-24",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "27,800",
+    "date": "2026-07-24",
+    "floor": 12,
+    "area": 59.8
+  },
+  {
     "aptNm": "삼마TOP-Class(간석탑클래스)",
     "dealAmount": "27,900",
     "date": "2026-05-20",

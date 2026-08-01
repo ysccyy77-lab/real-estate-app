@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "오크팰리스",
+    "dealAmount": "40,500",
+    "date": "2026-07-25",
+    "floor": 5,
+    "area": 53.2
+  },
+  {
+    "aptNm": "오크팰리스",
     "dealAmount": "39,000",
     "date": "2026-07-16",
     "floor": 7,

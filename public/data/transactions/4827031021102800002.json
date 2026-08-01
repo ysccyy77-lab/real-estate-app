@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "남양송정",
+    "dealAmount": "12,000",
+    "date": "2026-07-16",
+    "floor": 1,
+    "area": 76.74
+  },
+  {
+    "aptNm": "남양송정",
     "dealAmount": "10,440",
     "date": "2026-07-15",
     "floor": 3,

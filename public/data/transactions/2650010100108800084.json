@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "망미한신",
+    "dealAmount": "24,500",
+    "date": "2026-07-30",
+    "floor": 11,
+    "area": 84.44
+  },
+  {
+    "aptNm": "망미한신",
     "dealAmount": "40,000",
     "date": "2026-05-08",
     "floor": 8,

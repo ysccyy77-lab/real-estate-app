@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "장암주공5",
+    "dealAmount": "21,700",
+    "date": "2026-07-30",
+    "floor": 14,
+    "area": 49.76
+  },
+  {
+    "aptNm": "장암주공5",
+    "dealAmount": "20,500",
+    "date": "2026-07-26",
+    "floor": 11,
+    "area": 49.76
+  },
+  {
+    "aptNm": "장암주공5",
     "dealAmount": "21,200",
     "date": "2026-07-22",
     "floor": 18,
     "area": 49.76
+  },
+  {
+    "aptNm": "장암주공5",
+    "dealAmount": "23,200",
+    "date": "2026-07-21",
+    "floor": 4,
+    "area": 49.73
   },
   {
     "aptNm": "장암주공5",

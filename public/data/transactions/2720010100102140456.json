@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "강변타운",
+    "dealAmount": "15,400",
+    "date": "2026-07-25",
+    "floor": 2,
+    "area": 52.23
+  },
+  {
+    "aptNm": "강변타운",
     "dealAmount": "14,800",
     "date": "2026-06-30",
     "floor": 5,

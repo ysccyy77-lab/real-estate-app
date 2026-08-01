@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "SKVIEW1단지",
+    "dealAmount": "32,700",
+    "date": "2026-07-21",
+    "floor": 14,
+    "area": 140.1
+  },
+  {
+    "aptNm": "SKVIEW1단지",
     "dealAmount": "26,000",
     "date": "2026-06-26",
     "floor": 11,

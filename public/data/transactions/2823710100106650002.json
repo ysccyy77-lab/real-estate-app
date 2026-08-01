@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현대아트",
+    "dealAmount": "10,800",
+    "date": "2026-07-20",
+    "floor": 7,
+    "area": 75.12
+  },
+  {
+    "aptNm": "현대아트",
     "dealAmount": "11,000",
     "date": "2026-04-01",
     "floor": 10,

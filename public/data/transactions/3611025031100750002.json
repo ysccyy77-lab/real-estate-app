@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "인덕원대우",
+    "dealAmount": "111,700",
+    "date": "2026-07-22",
+    "floor": 17,
+    "area": 60
+  },
+  {
+    "aptNm": "인덕원대우",
+    "dealAmount": "120,000",
+    "date": "2026-07-21",
+    "floor": 22,
+    "area": 84.96
+  },
+  {
+    "aptNm": "인덕원대우",
     "dealAmount": "108,500",
     "date": "2026-07-11",
     "floor": 1,

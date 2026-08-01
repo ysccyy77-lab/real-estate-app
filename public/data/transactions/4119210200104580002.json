@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "다온하브",
+    "dealAmount": "9,000",
+    "date": "2026-07-06",
+    "floor": 10,
+    "area": 17.077
+  },
+  {
+    "aptNm": "다온하브",
     "dealAmount": "8,100",
     "date": "2026-06-17",
     "floor": 13,

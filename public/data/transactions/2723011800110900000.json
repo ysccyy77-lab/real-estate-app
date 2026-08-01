@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "인평창신",
+    "dealAmount": "5,100",
+    "date": "2026-07-25",
+    "floor": 7,
+    "area": 59.93
+  },
+  {
+    "aptNm": "인평창신",
     "dealAmount": "7,000",
     "date": "2026-07-14",
     "floor": 5,

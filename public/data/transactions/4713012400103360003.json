@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우주타운",
+    "dealAmount": "13,200",
+    "date": "2026-07-24",
+    "floor": 3,
+    "area": 92.82
+  },
+  {
+    "aptNm": "우주타운",
     "dealAmount": "10,500",
     "date": "2026-06-03",
     "floor": 2,

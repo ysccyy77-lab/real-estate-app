@@ -2,6 +2,27 @@
   {
     "aptNm": "호수마을풍림",
     "dealAmount": "47,000",
+    "date": "2026-07-29",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "호수마을풍림",
+    "dealAmount": "51,700",
+    "date": "2026-07-28",
+    "floor": 2,
+    "area": 118.96
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "7,400",
+    "date": "2026-07-25",
+    "floor": 5,
+    "area": 40.92
+  },
+  {
+    "aptNm": "호수마을풍림",
+    "dealAmount": "47,000",
     "date": "2026-07-23",
     "floor": 6,
     "area": 84.96
@@ -26,6 +47,20 @@
     "date": "2026-07-20",
     "floor": 17,
     "area": 113.83
+  },
+  {
+    "aptNm": "e편한세상",
+    "dealAmount": "71,000",
+    "date": "2026-07-16",
+    "floor": 6,
+    "area": 84.978
+  },
+  {
+    "aptNm": "정광",
+    "dealAmount": "9,000",
+    "date": "2026-07-16",
+    "floor": 2,
+    "area": 40.92
   },
   {
     "aptNm": "오송상록롯데캐슬",

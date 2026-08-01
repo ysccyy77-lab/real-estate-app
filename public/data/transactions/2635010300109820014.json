@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신동아",
+    "dealAmount": "18,000",
+    "date": "2026-07-24",
+    "floor": 13,
+    "area": 59.78
+  },
+  {
+    "aptNm": "신동아",
     "dealAmount": "14,200",
     "date": "2026-07-17",
     "floor": 2,

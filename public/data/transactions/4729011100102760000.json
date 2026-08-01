@@ -7,6 +7,20 @@
     "area": 84.9623
   },
   {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "37,800",
+    "date": "2026-07-24",
+    "floor": 15,
+    "area": 74.958
+  },
+  {
+    "aptNm": "e-좋은아침",
+    "dealAmount": "30,500",
+    "date": "2026-07-22",
+    "floor": 9,
+    "area": 58.31
+  },
+  {
     "aptNm": "그린맨션3차",
     "dealAmount": "20,000",
     "date": "2026-07-15",
@@ -40,6 +54,13 @@
     "date": "2026-07-08",
     "floor": 14,
     "area": 133.87
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "24,700",
+    "date": "2026-07-07",
+    "floor": 8,
+    "area": 110.97
   },
   {
     "aptNm": "정평역하늘채RIVERPARK",

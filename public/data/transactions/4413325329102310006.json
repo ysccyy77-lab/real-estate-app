@@ -2,6 +2,13 @@
   {
     "aptNm": "하늘빛",
     "dealAmount": "7,000",
+    "date": "2026-07-25",
+    "floor": 5,
+    "area": 59.35
+  },
+  {
+    "aptNm": "하늘빛",
+    "dealAmount": "7,000",
     "date": "2026-07-01",
     "floor": 3,
     "area": 59.35

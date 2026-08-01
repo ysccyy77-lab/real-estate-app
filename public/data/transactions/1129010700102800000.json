@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "극동상록수",
+    "dealAmount": "123,800",
+    "date": "2026-07-25",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "미성",
+    "dealAmount": "73,000",
+    "date": "2026-07-25",
+    "floor": 7,
+    "area": 57.97
+  },
+  {
+    "aptNm": "명지파크",
+    "dealAmount": "4,620",
+    "date": "2026-07-21",
+    "floor": 5,
+    "area": 43.65
+  },
+  {
     "aptNm": "삼익목화2",
     "dealAmount": "14,500",
     "date": "2026-07-13",
     "floor": 4,
     "area": 59.915
+  },
+  {
+    "aptNm": "천왕연지타운1단지",
+    "dealAmount": "89,000",
+    "date": "2026-07-12",
+    "floor": 1,
+    "area": 84.98
   },
   {
     "aptNm": "미성",
@@ -21,11 +49,25 @@
     "area": 45.9844
   },
   {
+    "aptNm": "천왕연지타운1단지",
+    "dealAmount": "70,000",
+    "date": "2026-07-08",
+    "floor": 1,
+    "area": 59.97
+  },
+  {
     "aptNm": "미성",
     "dealAmount": "94,700",
     "date": "2026-07-06",
     "floor": 9,
     "area": 84.94
+  },
+  {
+    "aptNm": "극동상록수",
+    "dealAmount": "106,500",
+    "date": "2026-07-04",
+    "floor": 14,
+    "area": 59.91
   },
   {
     "aptNm": "극동상록수",

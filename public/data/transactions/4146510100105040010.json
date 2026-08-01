@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "수지에듀파크(SUJI-EDUPARK)",
+    "dealAmount": "90,000",
+    "date": "2026-07-24",
+    "floor": 1,
+    "area": 150.03
+  },
+  {
+    "aptNm": "수지에듀파크(SUJI-EDUPARK)",
     "dealAmount": "92,500",
     "date": "2026-07-22",
     "floor": 20,

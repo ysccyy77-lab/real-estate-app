@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "대림타운",
+    "dealAmount": "22,500",
+    "date": "2026-07-31",
+    "floor": 8,
+    "area": 59.8
+  },
+  {
+    "aptNm": "대림타운",
+    "dealAmount": "19,000",
+    "date": "2026-07-30",
+    "floor": 6,
+    "area": 59.8
+  },
+  {
+    "aptNm": "대림타운",
+    "dealAmount": "25,000",
+    "date": "2026-07-29",
+    "floor": 13,
+    "area": 59.8
+  },
+  {
+    "aptNm": "대림타운",
     "dealAmount": "21,300",
     "date": "2026-07-24",
     "floor": 11,

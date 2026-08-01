@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한라",
+    "dealAmount": "10,000",
+    "date": "2026-07-28",
+    "floor": 2,
+    "area": 49.86
+  },
+  {
+    "aptNm": "한라",
     "dealAmount": "9,030",
     "date": "2026-06-16",
     "floor": 6,

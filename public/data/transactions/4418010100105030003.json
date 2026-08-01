@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "흥화",
+    "dealAmount": "9,800",
+    "date": "2026-07-23",
+    "floor": 10,
+    "area": 59.92
+  },
+  {
+    "aptNm": "흥화",
     "dealAmount": "9,300",
     "date": "2026-07-20",
     "floor": 10,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우성",
+    "dealAmount": "153,000",
+    "date": "2026-07-28",
+    "floor": 5,
+    "area": 54.72
+  },
+  {
+    "aptNm": "우성",
     "dealAmount": "155,000",
     "date": "2026-07-17",
     "floor": 5,
@@ -21,11 +28,25 @@
     "area": 59.88
   },
   {
+    "aptNm": "현대",
+    "dealAmount": "167,980",
+    "date": "2026-07-15",
+    "floor": 20,
+    "area": 114.9
+  },
+  {
     "aptNm": "우미타운",
     "dealAmount": "8,400",
     "date": "2026-07-13",
     "floor": 3,
     "area": 59.88
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "171,980",
+    "date": "2026-07-09",
+    "floor": 18,
+    "area": 114.9
   },
   {
     "aptNm": "주공",

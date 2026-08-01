@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "주공4단지",
+    "dealAmount": "48,000",
+    "date": "2026-07-23",
+    "floor": 15,
+    "area": 49.94
+  },
+  {
+    "aptNm": "주공4단지",
+    "dealAmount": "69,000",
+    "date": "2026-07-23",
+    "floor": 11,
+    "area": 84.79
+  },
+  {
     "aptNm": "양지",
     "dealAmount": "18,500",
     "date": "2026-07-22",
     "floor": 1,
     "area": 84.9
+  },
+  {
+    "aptNm": "양지",
+    "dealAmount": "17,000",
+    "date": "2026-07-19",
+    "floor": 5,
+    "area": 59.52
   },
   {
     "aptNm": "주공4단지",

@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "벽산이-메타폴리스",
+    "dealAmount": "34,800",
+    "date": "2026-07-29",
+    "floor": 12,
+    "area": 84.42
+  },
+  {
     "aptNm": "한주맨션",
     "dealAmount": "8,900",
     "date": "2026-07-20",
     "floor": 2,
     "area": 68.31
+  },
+  {
+    "aptNm": "월성개나리",
+    "dealAmount": "7,800",
+    "date": "2026-07-15",
+    "floor": 8,
+    "area": 67.05
   },
   {
     "aptNm": "홍익",

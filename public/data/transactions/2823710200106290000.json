@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "성주스위트M",
+    "dealAmount": "29,000",
+    "date": "2026-07-29",
+    "floor": 28,
+    "area": 84.737
+  },
+  {
+    "aptNm": "금능현대",
+    "dealAmount": "14,400",
+    "date": "2026-07-26",
+    "floor": 11,
+    "area": 59.985
+  },
+  {
     "aptNm": "대호아파트",
     "dealAmount": "58,500",
     "date": "2026-07-18",
     "floor": 11,
     "area": 59.7
+  },
+  {
+    "aptNm": "두산위브",
+    "dealAmount": "80,000",
+    "date": "2026-07-18",
+    "floor": 18,
+    "area": 59.81
   },
   {
     "aptNm": "보람레이크더하임",

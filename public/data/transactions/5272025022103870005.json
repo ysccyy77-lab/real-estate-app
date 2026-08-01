@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대아월랑",
+    "dealAmount": "9,000",
+    "date": "2026-07-25",
+    "floor": 13,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대아월랑",
     "dealAmount": "8,500",
     "date": "2026-07-16",
     "floor": 15,

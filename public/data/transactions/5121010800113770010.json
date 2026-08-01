@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "진덕설악",
+    "dealAmount": "7,000",
+    "date": "2026-07-25",
+    "floor": 1,
+    "area": 46.04
+  },
+  {
+    "aptNm": "진덕설악",
     "dealAmount": "8,500",
     "date": "2026-04-24",
     "floor": 4,

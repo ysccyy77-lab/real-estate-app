@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "성원",
+    "dealAmount": "8,050",
+    "date": "2026-07-29",
+    "floor": 18,
+    "area": 59.982
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "8,300",
+    "date": "2026-07-24",
+    "floor": 17,
+    "area": 59.982
+  },
+  {
+    "aptNm": "스마트뷰",
+    "dealAmount": "38,000",
+    "date": "2026-07-24",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "백조현대",
+    "dealAmount": "63,400",
+    "date": "2026-07-21",
+    "floor": 4,
+    "area": 49.98
+  },
+  {
     "aptNm": "백조현대",
     "dealAmount": "63,000",
     "date": "2026-07-20",

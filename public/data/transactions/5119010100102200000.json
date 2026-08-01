@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "미래빌5단지",
+    "dealAmount": "17,000",
+    "date": "2026-07-28",
+    "floor": 10,
+    "area": 59.42
+  },
+  {
     "aptNm": "동부",
     "dealAmount": "25,350",
     "date": "2026-07-23",
@@ -14,11 +21,32 @@
     "area": 84.84
   },
   {
+    "aptNm": "동부",
+    "dealAmount": "24,000",
+    "date": "2026-07-23",
+    "floor": 15,
+    "area": 84.995
+  },
+  {
+    "aptNm": "미래빌5단지",
+    "dealAmount": "16,750",
+    "date": "2026-07-23",
+    "floor": 10,
+    "area": 59.42
+  },
+  {
     "aptNm": "롯데",
     "dealAmount": "22,900",
     "date": "2026-07-22",
     "floor": 9,
     "area": 71.93
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "27,000",
+    "date": "2026-07-21",
+    "floor": 10,
+    "area": 84.99
   },
   {
     "aptNm": "롯데",

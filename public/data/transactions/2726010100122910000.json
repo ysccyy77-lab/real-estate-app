@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "수성범어W",
+    "dealAmount": "173,000",
+    "date": "2026-07-28",
+    "floor": 13,
+    "area": 84.9974
+  },
+  {
+    "aptNm": "수성범어W",
+    "dealAmount": "177,000",
+    "date": "2026-07-16",
+    "floor": 54,
+    "area": 84.9974
+  },
+  {
+    "aptNm": "수성범어W",
     "dealAmount": "170,000",
     "date": "2026-06-22",
     "floor": 20,

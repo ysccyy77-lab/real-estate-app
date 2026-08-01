@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "다대푸른",
+    "dealAmount": "10,500",
+    "date": "2026-07-21",
+    "floor": 14,
+    "area": 48.51
+  },
+  {
+    "aptNm": "다대푸른",
     "dealAmount": "8,800",
     "date": "2026-06-30",
     "floor": 11,

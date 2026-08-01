@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "화서성일",
+    "dealAmount": "26,500",
+    "date": "2026-07-27",
+    "floor": 2,
+    "area": 49.83
+  },
+  {
+    "aptNm": "화서성일",
+    "dealAmount": "29,000",
+    "date": "2026-07-25",
+    "floor": 4,
+    "area": 49.83
+  },
+  {
     "aptNm": "롯데우성",
     "dealAmount": "137,800",
     "date": "2026-07-11",
     "floor": 11,
     "area": 101.88
+  },
+  {
+    "aptNm": "롯데우성",
+    "dealAmount": "142,000",
+    "date": "2026-07-11",
+    "floor": 8,
+    "area": 115.26
+  },
+  {
+    "aptNm": "대림e편한세상",
+    "dealAmount": "69,000",
+    "date": "2026-07-10",
+    "floor": 15,
+    "area": 84.84
+  },
+  {
+    "aptNm": "화서성일",
+    "dealAmount": "28,000",
+    "date": "2026-07-08",
+    "floor": 4,
+    "area": 47.79
+  },
+  {
+    "aptNm": "화서성일",
+    "dealAmount": "26,000",
+    "date": "2026-07-06",
+    "floor": 5,
+    "area": 47.79
   },
   {
     "aptNm": "화서성일",

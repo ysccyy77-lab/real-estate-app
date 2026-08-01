@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "주공2",
+    "dealAmount": "14,800",
+    "date": "2026-07-21",
+    "floor": 2,
+    "area": 61.77
+  },
+  {
+    "aptNm": "주공2",
     "dealAmount": "11,300",
     "date": "2026-07-13",
     "floor": 1,

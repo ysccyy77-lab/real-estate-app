@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "안강에덴타운",
+    "dealAmount": "2,500",
+    "date": "2026-07-27",
+    "floor": 4,
+    "area": 40
+  },
+  {
+    "aptNm": "안강에덴타운",
     "dealAmount": "3,300",
     "date": "2026-06-29",
     "floor": 3,

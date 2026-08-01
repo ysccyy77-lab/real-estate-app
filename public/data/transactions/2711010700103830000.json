@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "신명진달래1",
+    "dealAmount": "12,500",
+    "date": "2026-07-27",
+    "floor": 2,
+    "area": 48.24
+  },
+  {
     "aptNm": "진잠타운",
     "dealAmount": "9,400",
     "date": "2026-07-19",
     "floor": 6,
     "area": 39.84
+  },
+  {
+    "aptNm": "삼덕청아람",
+    "dealAmount": "41,000",
+    "date": "2026-07-16",
+    "floor": 18,
+    "area": 59.989
   },
   {
     "aptNm": "진잠타운",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대아",
+    "dealAmount": "22,700",
+    "date": "2026-07-21",
+    "floor": 9,
+    "area": 84.91
+  },
+  {
+    "aptNm": "대아",
     "dealAmount": "16,800",
     "date": "2026-07-02",
     "floor": 9,

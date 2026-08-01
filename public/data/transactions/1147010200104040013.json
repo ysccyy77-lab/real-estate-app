@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신평마을",
+    "dealAmount": "5,450",
+    "date": "2026-07-03",
+    "floor": 10,
+    "area": 38.52
+  },
+  {
+    "aptNm": "신평마을",
     "dealAmount": "5,300",
     "date": "2026-06-27",
     "floor": 2,

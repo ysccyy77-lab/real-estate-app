@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "G밸리소홈",
+    "dealAmount": "12,800",
+    "date": "2026-07-25",
+    "floor": 10,
+    "area": 16.1
+  },
+  {
+    "aptNm": "G밸리소홈",
     "dealAmount": "13,500",
     "date": "2026-06-23",
     "floor": 14,

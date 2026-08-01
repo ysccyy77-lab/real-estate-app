@@ -1,9 +1,37 @@
 [
   {
+    "aptNm": "힐스테이트 평택 1차",
+    "dealAmount": "38,000",
+    "date": "2026-07-29",
+    "floor": 17,
+    "area": 84.87
+  },
+  {
+    "aptNm": "신안인스빌",
+    "dealAmount": "134,500",
+    "date": "2026-07-25",
+    "floor": 13,
+    "area": 84.3282
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "110,000",
+    "date": "2026-07-20",
+    "floor": 10,
+    "area": 59.76
+  },
+  {
     "aptNm": "신원",
     "dealAmount": "57,700",
     "date": "2026-07-17",
     "floor": 18,
+    "area": 84.12
+  },
+  {
+    "aptNm": "신원",
+    "dealAmount": "55,500",
+    "date": "2026-07-15",
+    "floor": 14,
     "area": 84.12
   },
   {

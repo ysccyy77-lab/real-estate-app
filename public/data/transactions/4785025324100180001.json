@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "금오현대",
+    "dealAmount": "5,450",
+    "date": "2026-07-30",
+    "floor": 3,
+    "area": 59.89
+  },
+  {
+    "aptNm": "금오현대",
     "dealAmount": "5,800",
     "date": "2026-06-21",
     "floor": 6,
