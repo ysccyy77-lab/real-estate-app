@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "뉴비치",
+    "dealAmount": "93,500",
+    "date": "2026-08-03",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "운천동거성하모니",
+    "dealAmount": "8,000",
+    "date": "2026-07-30",
+    "floor": 8,
+    "area": 40.7145
+  },
+  {
+    "aptNm": "뉴비치",
     "dealAmount": "160,000",
     "date": "2026-07-15",
     "floor": 7,

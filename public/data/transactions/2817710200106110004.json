@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서해",
+    "dealAmount": "23,000",
+    "date": "2026-08-10",
+    "floor": 11,
+    "area": 84.92
+  },
+  {
+    "aptNm": "서해",
     "dealAmount": "16,000",
     "date": "2026-06-26",
     "floor": 7,

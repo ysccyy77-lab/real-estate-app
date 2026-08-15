@@ -1,8 +1,29 @@
 [
   {
     "aptNm": "삼영",
+    "dealAmount": "3,450",
+    "date": "2026-08-07",
+    "floor": 5,
+    "area": 42.12
+  },
+  {
+    "aptNm": "삼영",
+    "dealAmount": "3,000",
+    "date": "2026-08-06",
+    "floor": 1,
+    "area": 42.12
+  },
+  {
+    "aptNm": "삼영",
     "dealAmount": "3,000",
     "date": "2026-07-24",
+    "floor": 1,
+    "area": 42.12
+  },
+  {
+    "aptNm": "삼영",
+    "dealAmount": "3,800",
+    "date": "2026-05-09",
     "floor": 1,
     "area": 42.12
   }

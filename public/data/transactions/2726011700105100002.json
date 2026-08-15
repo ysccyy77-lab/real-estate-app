@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "절영아파트(208동-214동)",
+    "dealAmount": "9,000",
+    "date": "2026-08-13",
+    "floor": 2,
+    "area": 46.27
+  },
+  {
+    "aptNm": "3RU-City",
+    "dealAmount": "17,200",
+    "date": "2026-08-13",
+    "floor": 10,
+    "area": 16.84
+  },
+  {
     "aptNm": "3RU-City",
     "dealAmount": "16,321",
     "date": "2026-07-27",

@@ -1,5 +1,61 @@
 [
   {
+    "aptNm": "수성월드메르디앙",
+    "dealAmount": "46,500",
+    "date": "2026-08-10",
+    "floor": 14,
+    "area": 84.8075
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "12,800",
+    "date": "2026-08-08",
+    "floor": 1,
+    "area": 59.469
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "15,500",
+    "date": "2026-08-06",
+    "floor": 10,
+    "area": 59.469
+  },
+  {
+    "aptNm": "어진마을",
+    "dealAmount": "24,300",
+    "date": "2026-08-05",
+    "floor": 16,
+    "area": 59.44
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "12,400",
+    "date": "2026-08-02",
+    "floor": 14,
+    "area": 49.2911
+  },
+  {
+    "aptNm": "어진마을",
+    "dealAmount": "24,300",
+    "date": "2026-07-31",
+    "floor": 18,
+    "area": 59.44
+  },
+  {
+    "aptNm": "어진마을",
+    "dealAmount": "25,300",
+    "date": "2026-07-31",
+    "floor": 16,
+    "area": 59.44
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "28,500",
+    "date": "2026-07-31",
+    "floor": 11,
+    "area": 84.4
+  },
+  {
     "aptNm": "주공2",
     "dealAmount": "7,000",
     "date": "2026-07-26",
@@ -47,6 +103,13 @@
     "date": "2026-07-14",
     "floor": 6,
     "area": 59.92
+  },
+  {
+    "aptNm": "어진마을",
+    "dealAmount": "28,000",
+    "date": "2026-07-12",
+    "floor": 4,
+    "area": 84.97
   },
   {
     "aptNm": "수성월드메르디앙",

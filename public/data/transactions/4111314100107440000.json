@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "부강",
+    "dealAmount": "3,700",
+    "date": "2026-08-05",
+    "floor": 9,
+    "area": 24.4
+  },
+  {
+    "aptNm": "한국1",
+    "dealAmount": "19,500",
+    "date": "2026-07-31",
+    "floor": 14,
+    "area": 59.99
+  },
+  {
+    "aptNm": "풍호주공",
+    "dealAmount": "8,400",
+    "date": "2026-07-31",
+    "floor": 1,
+    "area": 47.01
+  },
+  {
     "aptNm": "건영장미아파트",
     "dealAmount": "72,000",
     "date": "2026-07-21",

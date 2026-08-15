@@ -2,6 +2,27 @@
   {
     "aptNm": "안락현대",
     "dealAmount": "30,800",
+    "date": "2026-08-03",
+    "floor": 6,
+    "area": 77.85
+  },
+  {
+    "aptNm": "안락현대",
+    "dealAmount": "34,600",
+    "date": "2026-07-29",
+    "floor": 6,
+    "area": 84.83
+  },
+  {
+    "aptNm": "안락현대",
+    "dealAmount": "24,000",
+    "date": "2026-07-25",
+    "floor": 16,
+    "area": 59.87
+  },
+  {
+    "aptNm": "안락현대",
+    "dealAmount": "30,800",
     "date": "2026-07-07",
     "floor": 9,
     "area": 77.85

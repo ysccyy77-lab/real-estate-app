@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "금용",
+    "dealAmount": "8,500",
+    "date": "2026-08-03",
+    "floor": 10,
+    "area": 59.91
+  },
+  {
+    "aptNm": "금용",
     "dealAmount": "23,000",
     "date": "2026-05-22",
     "floor": 5,

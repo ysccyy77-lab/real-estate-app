@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "아산테크노밸리EGthe13단지",
+    "dealAmount": "19,000",
+    "date": "2026-08-13",
+    "floor": 12,
+    "area": 72.345
+  },
+  {
+    "aptNm": "아산테크노밸리EGthe13단지",
+    "dealAmount": "20,500",
+    "date": "2026-08-08",
+    "floor": 16,
+    "area": 72.345
+  },
+  {
+    "aptNm": "아산테크노밸리EGthe13단지",
     "dealAmount": "20,700",
     "date": "2026-07-31",
     "floor": 20,

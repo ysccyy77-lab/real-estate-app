@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "인화동제이파크",
+    "dealAmount": "19,200",
+    "date": "2026-08-12",
+    "floor": 5,
+    "area": 84.973
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "43,000",
+    "date": "2026-08-06",
+    "floor": 10,
+    "area": 56.7
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "24,000",
+    "date": "2026-07-31",
+    "floor": 10,
+    "area": 141.98
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "55,000",
+    "date": "2026-07-30",
+    "floor": 10,
+    "area": 84.66
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "30,000",
+    "date": "2026-07-30",
+    "floor": 11,
+    "area": 44.55
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "18,900",
+    "date": "2026-07-28",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
     "aptNm": "현대1",
     "dealAmount": "29,300",
     "date": "2026-07-27",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대림한숲원",
+    "dealAmount": "3,150",
+    "date": "2026-07-30",
+    "floor": 2,
+    "area": 24.57
+  },
+  {
+    "aptNm": "대림한숲원",
     "dealAmount": "3,300",
     "date": "2026-07-26",
     "floor": 4,

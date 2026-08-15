@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "홍은미성",
+    "dealAmount": "54,400",
+    "date": "2026-07-18",
+    "floor": 9,
+    "area": 83.61
+  },
+  {
+    "aptNm": "홍은미성",
     "dealAmount": "55,000",
     "date": "2026-07-14",
     "floor": 12,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성원2",
+    "dealAmount": "85,500",
+    "date": "2026-07-15",
+    "floor": 17,
+    "area": 59.9
+  },
+  {
+    "aptNm": "성원2",
     "dealAmount": "75,000",
     "date": "2026-07-13",
     "floor": 10,

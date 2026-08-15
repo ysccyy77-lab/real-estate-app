@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "거성",
+    "dealAmount": "24,600",
+    "date": "2026-08-12",
+    "floor": 6,
+    "area": 84.9
+  },
+  {
+    "aptNm": "경남",
+    "dealAmount": "139,200",
+    "date": "2026-07-29",
+    "floor": 3,
+    "area": 114.97
+  },
+  {
     "aptNm": "경남",
     "dealAmount": "115,000",
     "date": "2026-07-25",

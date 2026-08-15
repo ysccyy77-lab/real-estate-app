@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "석탑",
+    "dealAmount": "6,300",
+    "date": "2026-07-29",
+    "floor": 1,
+    "area": 58.185
+  },
+  {
+    "aptNm": "석탑",
     "dealAmount": "5,200",
     "date": "2026-05-08",
     "floor": 5,

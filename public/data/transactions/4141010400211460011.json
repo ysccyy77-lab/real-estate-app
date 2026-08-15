@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "우륵",
+    "dealAmount": "53,000",
+    "date": "2026-08-11",
+    "floor": 14,
+    "area": 58.46
+  },
+  {
+    "aptNm": "우륵",
+    "dealAmount": "55,000",
+    "date": "2026-07-31",
+    "floor": 8,
+    "area": 58.71
+  },
+  {
+    "aptNm": "우륵",
+    "dealAmount": "56,000",
+    "date": "2026-07-31",
+    "floor": 22,
+    "area": 58.71
+  },
+  {
+    "aptNm": "우륵",
+    "dealAmount": "55,000",
+    "date": "2026-07-27",
+    "floor": 9,
+    "area": 58.46
+  },
+  {
+    "aptNm": "우륵",
+    "dealAmount": "52,500",
+    "date": "2026-07-25",
+    "floor": 15,
+    "area": 58.46
+  },
+  {
+    "aptNm": "우륵",
     "dealAmount": "55,000",
     "date": "2026-07-21",
     "floor": 8,

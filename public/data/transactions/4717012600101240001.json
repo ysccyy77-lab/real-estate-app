@@ -1,6 +1,62 @@
 [
   {
     "aptNm": "극동",
+    "dealAmount": "17,200",
+    "date": "2026-08-14",
+    "floor": 4,
+    "area": 59.34
+  },
+  {
+    "aptNm": "창원무동센텀파라디아",
+    "dealAmount": "18,800",
+    "date": "2026-08-10",
+    "floor": 6,
+    "area": 59.9932
+  },
+  {
+    "aptNm": "삼호맨션",
+    "dealAmount": "18,500",
+    "date": "2026-08-10",
+    "floor": 7,
+    "area": 77.31
+  },
+  {
+    "aptNm": "현대(124-1)",
+    "dealAmount": "25,500",
+    "date": "2026-08-07",
+    "floor": 17,
+    "area": 59.4
+  },
+  {
+    "aptNm": "현대(124-1)",
+    "dealAmount": "25,800",
+    "date": "2026-08-07",
+    "floor": 15,
+    "area": 59.4
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "13,800",
+    "date": "2026-08-05",
+    "floor": 2,
+    "area": 59.34
+  },
+  {
+    "aptNm": "창원무동센텀파라디아",
+    "dealAmount": "18,400",
+    "date": "2026-08-05",
+    "floor": 9,
+    "area": 59.9932
+  },
+  {
+    "aptNm": "현대(124-1)",
+    "dealAmount": "27,000",
+    "date": "2026-08-03",
+    "floor": 13,
+    "area": 59.4
+  },
+  {
+    "aptNm": "극동",
     "dealAmount": "25,900",
     "date": "2026-07-31",
     "floor": 16,

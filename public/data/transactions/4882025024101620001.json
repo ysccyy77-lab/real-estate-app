@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "정림무지개",
+    "dealAmount": "4,350",
+    "date": "2026-08-10",
+    "floor": 5,
+    "area": 65.17
+  },
+  {
+    "aptNm": "명승명가",
+    "dealAmount": "19,500",
+    "date": "2026-08-04",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "정림무지개",
     "dealAmount": "9,300",
     "date": "2026-07-15",
     "floor": 10,

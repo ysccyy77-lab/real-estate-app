@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "에덴",
+    "dealAmount": "4,500",
+    "date": "2026-08-14",
+    "floor": 14,
+    "area": 60
+  },
+  {
+    "aptNm": "에덴",
+    "dealAmount": "3,700",
+    "date": "2026-08-12",
+    "floor": 13,
+    "area": 60
+  },
+  {
+    "aptNm": "에덴",
+    "dealAmount": "4,500",
+    "date": "2026-08-03",
+    "floor": 14,
+    "area": 60
+  },
+  {
+    "aptNm": "에덴",
     "dealAmount": "5,500",
     "date": "2026-07-18",
     "floor": 9,
@@ -75,6 +96,13 @@
     "date": "2026-06-08",
     "floor": 5,
     "area": 75.11
+  },
+  {
+    "aptNm": "삼성푸른아파트",
+    "dealAmount": "38,000",
+    "date": "2026-06-08",
+    "floor": 5,
+    "area": 111.815
   },
   {
     "aptNm": "삼성푸른아파트",

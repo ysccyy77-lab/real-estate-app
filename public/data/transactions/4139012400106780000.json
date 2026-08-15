@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "리벤티움",
+    "dealAmount": "42,000",
+    "date": "2026-07-31",
+    "floor": 6,
+    "area": 59.95
+  },
+  {
+    "aptNm": "리벤티움",
     "dealAmount": "43,000",
     "date": "2026-07-27",
     "floor": 10,

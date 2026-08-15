@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "용마한신",
+    "dealAmount": "38,500",
+    "date": "2026-08-03",
+    "floor": 13,
+    "area": 35.44
+  },
+  {
+    "aptNm": "용마한신",
+    "dealAmount": "64,500",
+    "date": "2026-08-01",
+    "floor": 8,
+    "area": 59.22
+  },
+  {
+    "aptNm": "용마한신",
+    "dealAmount": "37,000",
+    "date": "2026-07-31",
+    "floor": 8,
+    "area": 35.44
+  },
+  {
+    "aptNm": "용마한신",
     "dealAmount": "34,500",
     "date": "2026-07-29",
     "floor": 1,

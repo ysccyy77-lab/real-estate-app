@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신성",
+    "dealAmount": "51,000",
+    "date": "2026-08-08",
+    "floor": 9,
+    "area": 84.974
+  },
+  {
+    "aptNm": "대신푸른마을",
+    "dealAmount": "19,000",
+    "date": "2026-08-07",
+    "floor": 6,
+    "area": 84.42
+  },
+  {
+    "aptNm": "신성",
     "dealAmount": "31,500",
     "date": "2026-07-16",
     "floor": 9,

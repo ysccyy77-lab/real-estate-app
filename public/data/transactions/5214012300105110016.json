@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동남로얄",
+    "dealAmount": "2,950",
+    "date": "2026-07-30",
+    "floor": 5,
+    "area": 50.76
+  },
+  {
+    "aptNm": "동남로얄",
     "dealAmount": "4,500",
     "date": "2026-07-27",
     "floor": 5,

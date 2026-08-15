@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "청구하이츠",
+    "dealAmount": "8,500",
+    "date": "2026-08-07",
+    "floor": 3,
+    "area": 59.99
+  },
+  {
+    "aptNm": "청구하이츠",
     "dealAmount": "14,000",
     "date": "2026-07-21",
     "floor": 7,

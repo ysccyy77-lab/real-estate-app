@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "설악2",
+    "dealAmount": "33,000",
+    "date": "2026-08-08",
+    "floor": 19,
+    "area": 49.89
+  },
+  {
+    "aptNm": "설악2",
     "dealAmount": "31,700",
     "date": "2026-07-28",
     "floor": 6,
+    "area": 49.89
+  },
+  {
+    "aptNm": "설악2",
+    "dealAmount": "32,800",
+    "date": "2026-07-25",
+    "floor": 9,
     "area": 49.89
   },
   {

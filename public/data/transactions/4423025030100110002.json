@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "보성리버맨션",
+    "dealAmount": "7,500",
+    "date": "2026-07-30",
+    "floor": 2,
+    "area": 59.595
+  },
+  {
     "aptNm": "충무",
     "dealAmount": "59,000",
     "date": "2026-07-28",
     "floor": 6,
     "area": 54.18
+  },
+  {
+    "aptNm": "보성리버맨션",
+    "dealAmount": "7,900",
+    "date": "2026-07-16",
+    "floor": 5,
+    "area": 84.99
   },
   {
     "aptNm": "보성리버맨션",

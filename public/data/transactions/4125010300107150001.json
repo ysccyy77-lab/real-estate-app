@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "서재자이",
+    "dealAmount": "29,000",
+    "date": "2026-08-14",
+    "floor": 11,
+    "area": 84.95
+  },
+  {
+    "aptNm": "서재자이",
+    "dealAmount": "32,000",
+    "date": "2026-08-07",
+    "floor": 11,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서재자이",
     "dealAmount": "29,300",
     "date": "2026-07-14",
     "floor": 19,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "공감대",
+    "dealAmount": "71,000",
+    "date": "2026-08-01",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "공감대",
     "dealAmount": "63,000",
     "date": "2026-07-23",
     "floor": 7,

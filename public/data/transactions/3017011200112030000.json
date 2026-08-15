@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "은하수",
+    "dealAmount": "34,000",
+    "date": "2026-08-11",
+    "floor": 5,
+    "area": 59.74
+  },
+  {
+    "aptNm": "은하수",
+    "dealAmount": "33,800",
+    "date": "2026-08-01",
+    "floor": 5,
+    "area": 59.74
+  },
+  {
+    "aptNm": "용인수지동도센트리움",
+    "dealAmount": "39,700",
+    "date": "2026-07-28",
+    "floor": 5,
+    "area": 37.339
+  },
+  {
+    "aptNm": "은하수",
     "dealAmount": "28,000",
     "date": "2026-07-25",
     "floor": 1,
     "area": 59.74
+  },
+  {
+    "aptNm": "용인수지동도센트리움",
+    "dealAmount": "47,000",
+    "date": "2026-07-25",
+    "floor": 10,
+    "area": 42.108
   },
   {
     "aptNm": "은하수",

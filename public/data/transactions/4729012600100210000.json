@@ -1,9 +1,44 @@
 [
   {
+    "aptNm": "주문진서희스타힐스아파트",
+    "dealAmount": "21,000",
+    "date": "2026-08-12",
+    "floor": 7,
+    "area": 59.8411
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "37,200",
+    "date": "2026-07-31",
+    "floor": 21,
+    "area": 59.94
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "50,500",
+    "date": "2026-07-30",
+    "floor": 5,
+    "area": 84.63
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "50,500",
+    "date": "2026-07-30",
+    "floor": 6,
+    "area": 84.63
+  },
+  {
     "aptNm": "진달래(LG)",
     "dealAmount": "31,000",
     "date": "2026-07-29",
     "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "35,800",
+    "date": "2026-07-29",
+    "floor": 14,
     "area": 59.94
   },
   {
@@ -12,6 +47,13 @@
     "date": "2026-07-25",
     "floor": 8,
     "area": 119.0504
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "36,000",
+    "date": "2026-07-25",
+    "floor": 16,
+    "area": 59.94
   },
   {
     "aptNm": "진달래(LG)",
@@ -25,6 +67,20 @@
     "dealAmount": "43,000",
     "date": "2026-07-18",
     "floor": 1,
+    "area": 84.63
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "54,900",
+    "date": "2026-07-13",
+    "floor": 17,
+    "area": 101.95
+  },
+  {
+    "aptNm": "진달래(LG)",
+    "dealAmount": "45,900",
+    "date": "2026-07-11",
+    "floor": 19,
     "area": 84.63
   },
   {

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신라송림",
+    "dealAmount": "10,500",
+    "date": "2026-07-30",
+    "floor": 10,
+    "area": 59.935
+  },
+  {
+    "aptNm": "신라송림",
     "dealAmount": "9,300",
     "date": "2026-06-28",
     "floor": 4,

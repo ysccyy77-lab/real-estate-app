@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "두산위브",
+    "dealAmount": "19,000",
+    "date": "2026-08-06",
+    "floor": 13,
+    "area": 84.9815
+  },
+  {
+    "aptNm": "한사랑",
+    "dealAmount": "32,500",
+    "date": "2026-07-25",
+    "floor": 19,
+    "area": 84.36
+  },
+  {
+    "aptNm": "산호그린4",
+    "dealAmount": "8,400",
+    "date": "2026-07-22",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "두산위브",
     "dealAmount": "28,500",
     "date": "2026-07-19",
     "floor": 13,

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "삼익3",
+    "dealAmount": "52,800",
+    "date": "2026-08-14",
+    "floor": 16,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼익3",
+    "dealAmount": "46,300",
+    "date": "2026-08-11",
+    "floor": 5,
+    "area": 84.97
+  },
+  {
+    "aptNm": "삼익3",
+    "dealAmount": "32,000",
+    "date": "2026-07-29",
+    "floor": 1,
+    "area": 59.34
+  },
+  {
     "aptNm": "세중세미클래식",
     "dealAmount": "8,300",
     "date": "2026-07-20",

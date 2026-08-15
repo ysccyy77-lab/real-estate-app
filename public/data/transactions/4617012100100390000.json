@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "미르마을",
+    "dealAmount": "37,200",
+    "date": "2026-08-12",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "미르마을",
+    "dealAmount": "30,800",
+    "date": "2026-08-05",
+    "floor": 13,
+    "area": 59.97
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "141,000",
+    "date": "2026-08-05",
+    "floor": 3,
+    "area": 80.01
+  },
+  {
+    "aptNm": "희홍밸러-뷰",
+    "dealAmount": "9,050",
+    "date": "2026-08-03",
+    "floor": 1,
+    "area": 56.0499
+  },
+  {
+    "aptNm": "미르마을",
     "dealAmount": "37,000",
     "date": "2026-07-31",
     "floor": 5,
     "area": 76.77
+  },
+  {
+    "aptNm": "샛별마을(삼부)",
+    "dealAmount": "158,000",
+    "date": "2026-07-27",
+    "floor": 3,
+    "area": 59.82
   },
   {
     "aptNm": "미르마을",
@@ -28,11 +63,25 @@
     "area": 56.0499
   },
   {
+    "aptNm": "현대1",
+    "dealAmount": "148,800",
+    "date": "2026-07-22",
+    "floor": 3,
+    "area": 80.01
+  },
+  {
     "aptNm": "미르마을",
     "dealAmount": "32,400",
     "date": "2026-07-20",
     "floor": 17,
     "area": 59.78
+  },
+  {
+    "aptNm": "궁전그린파크빌라",
+    "dealAmount": "16,500",
+    "date": "2026-07-20",
+    "floor": 5,
+    "area": 78.95
   },
   {
     "aptNm": "미르마을",

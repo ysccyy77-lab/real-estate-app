@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서곡현대",
+    "dealAmount": "32,800",
+    "date": "2026-07-30",
+    "floor": 3,
+    "area": 99.98
+  },
+  {
+    "aptNm": "서곡현대",
     "dealAmount": "39,300",
     "date": "2026-07-11",
     "floor": 15,

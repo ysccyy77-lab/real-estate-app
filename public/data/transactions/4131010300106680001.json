@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "오산세마e편한세상",
+    "dealAmount": "62,000",
+    "date": "2026-08-13",
+    "floor": 15,
+    "area": 172.734
+  },
+  {
+    "aptNm": "오산세마e편한세상",
+    "dealAmount": "46,000",
+    "date": "2026-08-11",
+    "floor": 9,
+    "area": 84.845
+  },
+  {
+    "aptNm": "오산세마e편한세상",
+    "dealAmount": "52,500",
+    "date": "2026-08-10",
+    "floor": 12,
+    "area": 121.696
+  },
+  {
+    "aptNm": "오산세마e편한세상",
+    "dealAmount": "44,500",
+    "date": "2026-08-07",
+    "floor": 3,
+    "area": 84.845
+  },
+  {
+    "aptNm": "주공6",
+    "dealAmount": "76,500",
+    "date": "2026-08-02",
+    "floor": 18,
+    "area": 59.76
+  },
+  {
+    "aptNm": "오산세마e편한세상",
+    "dealAmount": "42,700",
+    "date": "2026-08-01",
+    "floor": 9,
+    "area": 84.845
+  },
+  {
+    "aptNm": "오산세마e편한세상",
+    "dealAmount": "44,500",
+    "date": "2026-07-31",
+    "floor": 7,
+    "area": 84.845
+  },
+  {
+    "aptNm": "오산세마e편한세상",
     "dealAmount": "49,000",
     "date": "2026-07-29",
     "floor": 6,

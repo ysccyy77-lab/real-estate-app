@@ -2,7 +2,28 @@
   {
     "aptNm": "진주문산파란채",
     "dealAmount": "24,500",
+    "date": "2026-07-29",
+    "floor": 6,
+    "area": 84.8829
+  },
+  {
+    "aptNm": "달서SKVIEW",
+    "dealAmount": "66,800",
+    "date": "2026-07-27",
+    "floor": 26,
+    "area": 84.9446
+  },
+  {
+    "aptNm": "진주문산파란채",
+    "dealAmount": "24,500",
     "date": "2026-07-22",
+    "floor": 4,
+    "area": 84.8829
+  },
+  {
+    "aptNm": "진주문산파란채",
+    "dealAmount": "24,300",
+    "date": "2026-07-20",
     "floor": 4,
     "area": 84.8829
   },

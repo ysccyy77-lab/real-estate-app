@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "용마",
+    "dealAmount": "4,300",
+    "date": "2026-08-05",
+    "floor": 13,
+    "area": 36.77
+  },
+  {
+    "aptNm": "용마",
+    "dealAmount": "3,100",
+    "date": "2026-08-04",
+    "floor": 15,
+    "area": 36.77
+  },
+  {
+    "aptNm": "용마",
     "dealAmount": "8,500",
     "date": "2026-07-20",
     "floor": 10,

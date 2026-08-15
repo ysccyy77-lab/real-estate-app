@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "혜동타워",
+    "dealAmount": "6,200",
+    "date": "2026-07-31",
+    "floor": 8,
+    "area": 37.12
+  },
+  {
+    "aptNm": "혜동타워",
     "dealAmount": "5,200",
     "date": "2026-07-28",
     "floor": 4,

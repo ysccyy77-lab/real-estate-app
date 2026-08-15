@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "수정강변타운",
+    "dealAmount": "25,500",
+    "date": "2026-08-10",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "수정강변타운",
+    "dealAmount": "37,900",
+    "date": "2026-08-08",
+    "floor": 13,
+    "area": 84.34
+  },
+  {
+    "aptNm": "수정강변타운",
+    "dealAmount": "47,000",
+    "date": "2026-08-07",
+    "floor": 11,
+    "area": 84.34
+  },
+  {
+    "aptNm": "수정강변타운",
+    "dealAmount": "28,000",
+    "date": "2026-08-07",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "수정강변타운",
+    "dealAmount": "23,700",
+    "date": "2026-08-01",
+    "floor": 9,
+    "area": 49.82
+  },
+  {
+    "aptNm": "수정강변타운",
+    "dealAmount": "39,000",
+    "date": "2026-07-31",
+    "floor": 13,
+    "area": 84.34
+  },
+  {
+    "aptNm": "수정강변타운",
+    "dealAmount": "27,000",
+    "date": "2026-07-25",
+    "floor": 17,
+    "area": 59.4
+  },
+  {
+    "aptNm": "수정강변타운",
     "dealAmount": "37,000",
     "date": "2026-07-24",
     "floor": 5,

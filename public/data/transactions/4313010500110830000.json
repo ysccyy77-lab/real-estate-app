@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "남산주공1",
+    "dealAmount": "6,000",
+    "date": "2026-08-07",
+    "floor": 1,
+    "area": 38.52
+  },
+  {
+    "aptNm": "남산주공1",
     "dealAmount": "7,500",
     "date": "2026-07-29",
     "floor": 4,
     "area": 38.52
+  },
+  {
+    "aptNm": "더프라임시티",
+    "dealAmount": "7,300",
+    "date": "2026-07-29",
+    "floor": 11,
+    "area": 18.0295
   },
   {
     "aptNm": "신현대",

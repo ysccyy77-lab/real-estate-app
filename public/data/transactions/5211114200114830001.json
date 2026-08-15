@@ -1,9 +1,65 @@
 [
   {
     "aptNm": "청솔",
+    "dealAmount": "10,200",
+    "date": "2026-08-13",
+    "floor": 5,
+    "area": 54.78
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "11,000",
+    "date": "2026-08-08",
+    "floor": 9,
+    "area": 54.78
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "11,700",
+    "date": "2026-08-01",
+    "floor": 6,
+    "area": 54.78
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "11,200",
+    "date": "2026-07-31",
+    "floor": 9,
+    "area": 54.78
+  },
+  {
+    "aptNm": "청솔",
     "dealAmount": "10,300",
     "date": "2026-07-30",
     "floor": 11,
+    "area": 54.78
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "10,300",
+    "date": "2026-07-30",
+    "floor": 4,
+    "area": 54.78
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "10,400",
+    "date": "2026-07-20",
+    "floor": 14,
+    "area": 54.78
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "10,800",
+    "date": "2026-07-16",
+    "floor": 13,
+    "area": 54.78
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "10,800",
+    "date": "2026-07-10",
+    "floor": 6,
     "area": 54.78
   },
   {

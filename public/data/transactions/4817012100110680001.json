@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "동부",
+    "dealAmount": "15,000",
+    "date": "2026-08-08",
+    "floor": 5,
+    "area": 84.961
+  },
+  {
+    "aptNm": "동일스위트",
+    "dealAmount": "29,000",
+    "date": "2026-07-30",
+    "floor": 18,
+    "area": 84.9164
+  },
+  {
+    "aptNm": "동부",
     "dealAmount": "28,000",
     "date": "2026-07-28",
     "floor": 12,

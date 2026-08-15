@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "삼익",
+    "dealAmount": "47,200",
+    "date": "2026-08-11",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "12,000",
+    "date": "2026-08-11",
+    "floor": 2,
+    "area": 39.69
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "38,000",
+    "date": "2026-07-30",
+    "floor": 4,
+    "area": 49.76
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "47,400",
+    "date": "2026-07-25",
+    "floor": 3,
+    "area": 59.96
+  },
+  {
+    "aptNm": "목련마을SK",
+    "dealAmount": "78,700",
+    "date": "2026-07-24",
+    "floor": 12,
+    "area": 59.93
+  },
+  {
+    "aptNm": "삼익",
     "dealAmount": "47,000",
     "date": "2026-07-20",
     "floor": 2,
@@ -12,6 +47,13 @@
     "date": "2026-07-18",
     "floor": 4,
     "area": 196.7425
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "31,500",
+    "date": "2026-07-18",
+    "floor": 1,
+    "area": 39.93
   },
   {
     "aptNm": "삼익",
@@ -33,6 +75,13 @@
     "date": "2026-07-13",
     "floor": 8,
     "area": 122.01
+  },
+  {
+    "aptNm": "골든캐슬",
+    "dealAmount": "37,000",
+    "date": "2026-07-07",
+    "floor": 2,
+    "area": 145.2659
   },
   {
     "aptNm": "삼익",

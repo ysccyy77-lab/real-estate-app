@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "행남",
+    "dealAmount": "11,000",
+    "date": "2026-07-31",
+    "floor": 1,
+    "area": 79.83
+  },
+  {
+    "aptNm": "행남",
     "dealAmount": "5,700",
     "date": "2026-06-23",
     "floor": 5,

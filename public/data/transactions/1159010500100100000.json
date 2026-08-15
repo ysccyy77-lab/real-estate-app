@@ -1,5 +1,75 @@
 [
   {
+    "aptNm": "코오롱하늘채1차아파트",
+    "dealAmount": "17,400",
+    "date": "2026-08-06",
+    "floor": 19,
+    "area": 71.886
+  },
+  {
+    "aptNm": "유천현대아파트",
+    "dealAmount": "28,800",
+    "date": "2026-08-06",
+    "floor": 15,
+    "area": 84.945
+  },
+  {
+    "aptNm": "유천현대아파트",
+    "dealAmount": "27,000",
+    "date": "2026-08-05",
+    "floor": 6,
+    "area": 84.945
+  },
+  {
+    "aptNm": "노블파크",
+    "dealAmount": "59,000",
+    "date": "2026-08-04",
+    "floor": 7,
+    "area": 75.98
+  },
+  {
+    "aptNm": "노블파크",
+    "dealAmount": "59,000",
+    "date": "2026-08-04",
+    "floor": 18,
+    "area": 75.98
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "113,500",
+    "date": "2026-08-04",
+    "floor": 9,
+    "area": 134.97
+  },
+  {
+    "aptNm": "전농SK",
+    "dealAmount": "112,000",
+    "date": "2026-08-01",
+    "floor": 19,
+    "area": 59.34
+  },
+  {
+    "aptNm": "유천현대아파트",
+    "dealAmount": "32,000",
+    "date": "2026-07-31",
+    "floor": 12,
+    "area": 129.73
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "103,000",
+    "date": "2026-07-31",
+    "floor": 4,
+    "area": 59.97
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "100,000",
+    "date": "2026-07-31",
+    "floor": 14,
+    "area": 59.97
+  },
+  {
     "aptNm": "노블파크",
     "dealAmount": "59,700",
     "date": "2026-07-30",
@@ -7,11 +77,46 @@
     "area": 84.95
   },
   {
+    "aptNm": "노블파크",
+    "dealAmount": "67,500",
+    "date": "2026-07-29",
+    "floor": 13,
+    "area": 84.95
+  },
+  {
+    "aptNm": "유천현대아파트",
+    "dealAmount": "31,000",
+    "date": "2026-07-29",
+    "floor": 11,
+    "area": 84.945
+  },
+  {
+    "aptNm": "전농SK",
+    "dealAmount": "107,000",
+    "date": "2026-07-28",
+    "floor": 9,
+    "area": 59.34
+  },
+  {
     "aptNm": "전농SK",
     "dealAmount": "125,000",
     "date": "2026-07-27",
     "floor": 14,
     "area": 84.95
+  },
+  {
+    "aptNm": "유천현대아파트",
+    "dealAmount": "24,250",
+    "date": "2026-07-26",
+    "floor": 5,
+    "area": 84.945
+  },
+  {
+    "aptNm": "유천현대아파트",
+    "dealAmount": "23,500",
+    "date": "2026-07-26",
+    "floor": 1,
+    "area": 84.945
   },
   {
     "aptNm": "코오롱하늘채1차아파트",
@@ -28,11 +133,39 @@
     "area": 114.3
   },
   {
+    "aptNm": "과천위버필드",
+    "dealAmount": "253,000",
+    "date": "2026-07-25",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "전농SK",
+    "dealAmount": "116,500",
+    "date": "2026-07-25",
+    "floor": 10,
+    "area": 59.96
+  },
+  {
     "aptNm": "노블파크",
     "dealAmount": "68,000",
     "date": "2026-07-24",
     "floor": 11,
     "area": 84.95
+  },
+  {
+    "aptNm": "전농SK",
+    "dealAmount": "129,500",
+    "date": "2026-07-24",
+    "floor": 15,
+    "area": 114.3
+  },
+  {
+    "aptNm": "과천위버필드",
+    "dealAmount": "210,000",
+    "date": "2026-07-23",
+    "floor": 13,
+    "area": 59.94
   },
   {
     "aptNm": "두산",
@@ -42,6 +175,13 @@
     "area": 59.97
   },
   {
+    "aptNm": "옥산주공",
+    "dealAmount": "9,100",
+    "date": "2026-07-20",
+    "floor": 2,
+    "area": 38.52
+  },
+  {
     "aptNm": "코오롱하늘채1차아파트",
     "dealAmount": "17,500",
     "date": "2026-07-19",
@@ -49,11 +189,32 @@
     "area": 84.959
   },
   {
+    "aptNm": "유천현대아파트",
+    "dealAmount": "29,000",
+    "date": "2026-07-18",
+    "floor": 4,
+    "area": 129.73
+  },
+  {
+    "aptNm": "반포푸르지오",
+    "dealAmount": "340,000",
+    "date": "2026-07-17",
+    "floor": 6,
+    "area": 84.82
+  },
+  {
     "aptNm": "과천위버필드",
     "dealAmount": "252,500",
     "date": "2026-07-16",
     "floor": 23,
     "area": 84.98
+  },
+  {
+    "aptNm": "전농SK",
+    "dealAmount": "127,000",
+    "date": "2026-07-13",
+    "floor": 12,
+    "area": 114.3
   },
   {
     "aptNm": "코오롱하늘채1차아파트",
@@ -117,6 +278,13 @@
     "date": "2026-07-08",
     "floor": 15,
     "area": 84.72
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "98,000",
+    "date": "2026-07-08",
+    "floor": 21,
+    "area": 59.97
   },
   {
     "aptNm": "성도",

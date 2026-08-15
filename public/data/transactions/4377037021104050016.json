@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "드림타워",
+    "dealAmount": "5,000",
+    "date": "2026-08-03",
+    "floor": 5,
+    "area": 39.744
+  },
+  {
+    "aptNm": "드림타워",
     "dealAmount": "5,500",
     "date": "2026-05-19",
     "floor": 12,

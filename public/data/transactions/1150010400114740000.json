@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "SKVIEW",
+    "dealAmount": "38,450",
+    "date": "2026-08-11",
+    "floor": 12,
+    "area": 84.3198
+  },
+  {
+    "aptNm": "SKVIEW",
+    "dealAmount": "39,500",
+    "date": "2026-08-07",
+    "floor": 15,
+    "area": 84.3198
+  },
+  {
     "aptNm": "풍년마을(건영)",
     "dealAmount": "30,000",
     "date": "2026-07-29",
@@ -21,6 +35,13 @@
     "area": 84.39
   },
   {
+    "aptNm": "한양은하",
+    "dealAmount": "15,500",
+    "date": "2026-07-17",
+    "floor": 2,
+    "area": 55.8
+  },
+  {
     "aptNm": "SKVIEW",
     "dealAmount": "41,000",
     "date": "2026-07-10",
@@ -40,6 +61,13 @@
     "date": "2026-07-03",
     "floor": 26,
     "area": 84.9863
+  },
+  {
+    "aptNm": "대림경동아파트",
+    "dealAmount": "155,000",
+    "date": "2026-07-03",
+    "floor": 14,
+    "area": 131.4
   },
   {
     "aptNm": "풍년마을(건영)",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "별메마을",
+    "dealAmount": "10,700",
+    "date": "2026-08-01",
+    "floor": 11,
+    "area": 59.76
+  },
+  {
+    "aptNm": "별메마을",
     "dealAmount": "9,500",
     "date": "2026-07-23",
     "floor": 6,

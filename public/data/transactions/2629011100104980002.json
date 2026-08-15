@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "현대2",
+    "dealAmount": "20,000",
+    "date": "2026-07-30",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "한강로얄",
+    "dealAmount": "165,000",
+    "date": "2026-07-16",
+    "floor": 5,
+    "area": 123.39
+  },
+  {
+    "aptNm": "현대2",
     "dealAmount": "22,500",
     "date": "2026-05-22",
     "floor": 19,

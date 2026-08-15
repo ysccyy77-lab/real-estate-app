@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "수정",
+    "dealAmount": "3,750",
+    "date": "2026-08-12",
+    "floor": 1,
+    "area": 27.96
+  },
+  {
+    "aptNm": "수정",
+    "dealAmount": "3,750",
+    "date": "2026-08-12",
+    "floor": 2,
+    "area": 27.96
+  },
+  {
+    "aptNm": "아이콘스타센트럴",
+    "dealAmount": "11,250",
+    "date": "2026-08-10",
+    "floor": 21,
+    "area": 22.868
+  },
+  {
+    "aptNm": "수정",
+    "dealAmount": "7,800",
+    "date": "2026-08-03",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "수정",
     "dealAmount": "6,500",
     "date": "2026-07-12",
     "floor": 3,

@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "석동주공",
+    "dealAmount": "9,300",
+    "date": "2026-08-11",
+    "floor": 5,
+    "area": 42.48
+  },
+  {
     "aptNm": "세경1",
     "dealAmount": "5,900",
     "date": "2026-07-27",
     "floor": 2,
     "area": 55.26
+  },
+  {
+    "aptNm": "삼성래미안",
+    "dealAmount": "88,000",
+    "date": "2026-07-21",
+    "floor": 17,
+    "area": 79.2856
   },
   {
     "aptNm": "삼성래미안",

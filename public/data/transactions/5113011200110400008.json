@@ -9,6 +9,13 @@
   {
     "aptNm": "대흥2",
     "dealAmount": "7,500",
+    "date": "2026-07-13",
+    "floor": 13,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대흥2",
+    "dealAmount": "7,500",
     "date": "2026-06-15",
     "floor": 8,
     "area": 59.94

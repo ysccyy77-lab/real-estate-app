@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동래벽산",
+    "dealAmount": "28,400",
+    "date": "2026-08-10",
+    "floor": 1,
+    "area": 84.9
+  },
+  {
+    "aptNm": "동래벽산",
     "dealAmount": "31,500",
     "date": "2026-05-25",
     "floor": 2,

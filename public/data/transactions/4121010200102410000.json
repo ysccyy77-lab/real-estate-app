@@ -1,10 +1,52 @@
 [
   {
     "aptNm": "삼익1",
+    "dealAmount": "23,400",
+    "date": "2026-08-14",
+    "floor": 1,
+    "area": 59.4
+  },
+  {
+    "aptNm": "주공13",
+    "dealAmount": "192,000",
+    "date": "2026-07-31",
+    "floor": 4,
+    "area": 121.26
+  },
+  {
+    "aptNm": "주공13",
+    "dealAmount": "142,000",
+    "date": "2026-07-31",
+    "floor": 2,
+    "area": 73.08
+  },
+  {
+    "aptNm": "주공13",
+    "dealAmount": "133,000",
+    "date": "2026-07-27",
+    "floor": 15,
+    "area": 121.26
+  },
+  {
+    "aptNm": "삼익1",
     "dealAmount": "27,500",
     "date": "2026-07-24",
     "floor": 8,
     "area": 59.4
+  },
+  {
+    "aptNm": "한양수자인에듀힐즈",
+    "dealAmount": "84,900",
+    "date": "2026-07-23",
+    "floor": 10,
+    "area": 76.9519
+  },
+  {
+    "aptNm": "주공13",
+    "dealAmount": "148,000",
+    "date": "2026-07-20",
+    "floor": 2,
+    "area": 73.09
   },
   {
     "aptNm": "삼익1",

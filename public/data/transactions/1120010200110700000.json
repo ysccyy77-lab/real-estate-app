@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "센트라스",
+    "dealAmount": "243,000",
+    "date": "2026-08-01",
+    "floor": 26,
+    "area": 84.77
+  },
+  {
+    "aptNm": "센트라스",
+    "dealAmount": "245,000",
+    "date": "2026-07-31",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "센트라스",
+    "dealAmount": "216,000",
+    "date": "2026-07-24",
+    "floor": 16,
+    "area": 59.94
+  },
+  {
+    "aptNm": "센트라스",
     "dealAmount": "198,000",
     "date": "2026-07-21",
     "floor": 16,

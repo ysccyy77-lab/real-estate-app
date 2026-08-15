@@ -1,9 +1,44 @@
 [
   {
+    "aptNm": "시티하우스",
+    "dealAmount": "20,500",
+    "date": "2026-08-05",
+    "floor": 2,
+    "area": 19.9
+  },
+  {
     "aptNm": "욱일",
     "dealAmount": "25,000",
     "date": "2026-07-31",
     "floor": 15,
+    "area": 84.16
+  },
+  {
+    "aptNm": "욱일",
+    "dealAmount": "26,000",
+    "date": "2026-07-30",
+    "floor": 15,
+    "area": 84.16
+  },
+  {
+    "aptNm": "욱일",
+    "dealAmount": "26,700",
+    "date": "2026-07-25",
+    "floor": 15,
+    "area": 84.16
+  },
+  {
+    "aptNm": "욱일",
+    "dealAmount": "26,700",
+    "date": "2026-07-14",
+    "floor": 4,
+    "area": 84.16
+  },
+  {
+    "aptNm": "욱일",
+    "dealAmount": "27,800",
+    "date": "2026-07-13",
+    "floor": 10,
     "area": 84.16
   },
   {

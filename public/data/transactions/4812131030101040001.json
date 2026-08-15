@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "센스빌",
+    "dealAmount": "14,300",
+    "date": "2026-08-13",
+    "floor": 2,
+    "area": 51.49
+  },
+  {
+    "aptNm": "센스빌",
+    "dealAmount": "14,200",
+    "date": "2026-08-12",
+    "floor": 3,
+    "area": 51.74
+  },
+  {
+    "aptNm": "종암에스케이",
+    "dealAmount": "94,500",
+    "date": "2026-08-08",
+    "floor": 23,
+    "area": 59.04
+  },
+  {
+    "aptNm": "종암에스케이",
+    "dealAmount": "98,000",
+    "date": "2026-08-03",
+    "floor": 13,
+    "area": 59.04
+  },
+  {
+    "aptNm": "창원무동STX칸1차",
+    "dealAmount": "17,500",
+    "date": "2026-07-31",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "센스빌",
     "dealAmount": "15,000",
     "date": "2026-07-28",
     "floor": 13,
@@ -33,6 +68,13 @@
     "date": "2026-07-22",
     "floor": 20,
     "area": 84.99
+  },
+  {
+    "aptNm": "센스빌",
+    "dealAmount": "22,500",
+    "date": "2026-07-22",
+    "floor": 15,
+    "area": 84.8
   },
   {
     "aptNm": "종암에스케이",

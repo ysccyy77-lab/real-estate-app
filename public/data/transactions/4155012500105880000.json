@@ -1,10 +1,59 @@
 [
   {
     "aptNm": "포레미엘더파크",
+    "dealAmount": "45,800",
+    "date": "2026-08-09",
+    "floor": 17,
+    "area": 55.93
+  },
+  {
+    "aptNm": "포레미엘더파크",
+    "dealAmount": "47,800",
+    "date": "2026-08-07",
+    "floor": 14,
+    "area": 55.4
+  },
+  {
+    "aptNm": "포레미엘더파크",
+    "dealAmount": "44,700",
+    "date": "2026-08-05",
+    "floor": 4,
+    "area": 55.93
+  },
+  {
+    "aptNm": "포레미엘더파크",
+    "dealAmount": "45,400",
+    "date": "2026-08-04",
+    "floor": 12,
+    "area": 55.93
+  },
+  {
+    "aptNm": "포레미엘더파크",
+    "dealAmount": "45,500",
+    "date": "2026-08-01",
+    "floor": 12,
+    "area": 55.93
+  },
+  {
+    "aptNm": "반도보라빌",
+    "dealAmount": "35,000",
+    "date": "2026-07-31",
+    "floor": 15,
+    "area": 71.6577
+  },
+  {
+    "aptNm": "포레미엘더파크",
     "dealAmount": "47,700",
     "date": "2026-07-27",
     "floor": 5,
     "area": 55.86
+  },
+  {
+    "aptNm": "주공4",
+    "dealAmount": "52,500",
+    "date": "2026-07-27",
+    "floor": 11,
+    "area": 83.52
   },
   {
     "aptNm": "주공4",

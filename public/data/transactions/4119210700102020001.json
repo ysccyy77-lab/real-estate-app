@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "내당시영",
+    "dealAmount": "19,500",
+    "date": "2026-07-10",
+    "floor": 1,
+    "area": 56.23
+  },
+  {
+    "aptNm": "내당시영",
     "dealAmount": "16,000",
     "date": "2026-07-08",
     "floor": 1,

@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "비사벌",
+    "dealAmount": "30,000",
+    "date": "2026-08-10",
+    "floor": 6,
+    "area": 108.03
+  },
+  {
+    "aptNm": "비사벌",
     "dealAmount": "32,800",
     "date": "2026-07-27",
     "floor": 12,
+    "area": 108.03
+  },
+  {
+    "aptNm": "비사벌",
+    "dealAmount": "32,300",
+    "date": "2026-07-24",
+    "floor": 10,
     "area": 108.03
   },
   {

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "유등탑스빌",
+    "dealAmount": "6,050",
+    "date": "2026-08-11",
+    "floor": 6,
+    "area": 35.31
+  },
+  {
+    "aptNm": "유등탑스빌",
+    "dealAmount": "6,000",
+    "date": "2026-07-31",
+    "floor": 2,
+    "area": 35.31
+  },
+  {
+    "aptNm": "유등탑스빌",
+    "dealAmount": "8,850",
+    "date": "2026-07-22",
+    "floor": 13,
+    "area": 40.03
+  },
+  {
+    "aptNm": "유등탑스빌",
     "dealAmount": "9,400",
     "date": "2026-06-25",
     "floor": 9,

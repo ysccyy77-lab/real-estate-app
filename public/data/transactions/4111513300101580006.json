@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "문화맨션",
+    "dealAmount": "32,700",
+    "date": "2026-07-30",
+    "floor": 2,
+    "area": 64.1
+  },
+  {
+    "aptNm": "문화맨션",
     "dealAmount": "31,500",
     "date": "2026-06-08",
     "floor": 9,

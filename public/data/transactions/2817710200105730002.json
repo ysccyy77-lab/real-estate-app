@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "용현대우",
+    "dealAmount": "29,000",
+    "date": "2026-08-11",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "평광현대4",
+    "dealAmount": "3,400",
+    "date": "2026-08-06",
+    "floor": 6,
+    "area": 50.74
+  },
+  {
+    "aptNm": "용현대우",
     "dealAmount": "30,250",
     "date": "2026-07-20",
     "floor": 20,

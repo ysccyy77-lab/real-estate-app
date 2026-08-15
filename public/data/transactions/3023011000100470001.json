@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "화목타운",
+    "dealAmount": "53,500",
+    "date": "2026-08-05",
+    "floor": 9,
+    "area": 84.24
+  },
+  {
+    "aptNm": "대원",
+    "dealAmount": "94,800",
+    "date": "2026-07-22",
+    "floor": 5,
+    "area": 58.37
+  },
+  {
+    "aptNm": "화목타운",
     "dealAmount": "54,000",
     "date": "2026-07-11",
     "floor": 10,

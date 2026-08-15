@@ -1,10 +1,52 @@
 [
   {
     "aptNm": "시범한양",
+    "dealAmount": "99,000",
+    "date": "2026-07-28",
+    "floor": 5,
+    "area": 28.71
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "99,000",
+    "date": "2026-07-28",
+    "floor": 6,
+    "area": 28.71
+  },
+  {
+    "aptNm": "시범한양",
     "dealAmount": "228,000",
     "date": "2026-07-24",
     "floor": 8,
     "area": 84.93
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "100,000",
+    "date": "2026-07-23",
+    "floor": 2,
+    "area": 28.71
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "228,000",
+    "date": "2026-07-22",
+    "floor": 26,
+    "area": 84.99
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "228,000",
+    "date": "2026-07-17",
+    "floor": 1,
+    "area": 134.87
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "126,000",
+    "date": "2026-07-17",
+    "floor": 11,
+    "area": 35.1
   },
   {
     "aptNm": "시범한양",

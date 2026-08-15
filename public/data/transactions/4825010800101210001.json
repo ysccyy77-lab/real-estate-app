@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "홍익",
+    "dealAmount": "8,502",
+    "date": "2026-08-08",
+    "floor": 6,
+    "area": 59.78
+  },
+  {
+    "aptNm": "한미금강",
+    "dealAmount": "2,100",
+    "date": "2026-07-27",
+    "floor": 6,
+    "area": 35.52
+  },
+  {
     "aptNm": "동화4차",
     "dealAmount": "9,400",
     "date": "2026-07-21",

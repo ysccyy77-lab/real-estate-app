@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "산수화",
+    "dealAmount": "5,800",
+    "date": "2026-08-07",
+    "floor": 2,
+    "area": 48.664
+  },
+  {
+    "aptNm": "산수화",
     "dealAmount": "5,150",
     "date": "2026-07-16",
     "floor": 1,

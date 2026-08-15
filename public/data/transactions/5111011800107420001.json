@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "옥길한신더휴",
+    "dealAmount": "84,000",
+    "date": "2026-07-26",
+    "floor": 16,
+    "area": 97.97
+  },
+  {
     "aptNm": "청와",
     "dealAmount": "13,000",
     "date": "2026-07-23",
     "floor": 5,
     "area": 76.77
+  },
+  {
+    "aptNm": "옥길한신더휴",
+    "dealAmount": "80,000",
+    "date": "2026-07-17",
+    "floor": 8,
+    "area": 97.97
+  },
+  {
+    "aptNm": "옥길한신더휴",
+    "dealAmount": "81,500",
+    "date": "2026-07-15",
+    "floor": 7,
+    "area": 97.71
   },
   {
     "aptNm": "옥길한신더휴",

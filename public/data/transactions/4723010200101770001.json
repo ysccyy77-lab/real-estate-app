@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "두진백로",
+    "dealAmount": "4,600",
+    "date": "2026-08-01",
+    "floor": 6,
+    "area": 39.8
+  },
+  {
+    "aptNm": "두진백로",
+    "dealAmount": "4,700",
+    "date": "2026-07-30",
+    "floor": 8,
+    "area": 39.8
+  },
+  {
+    "aptNm": "범어서한포레스트",
+    "dealAmount": "99,000",
+    "date": "2026-07-20",
+    "floor": 19,
+    "area": 84.9864
+  },
+  {
     "aptNm": "청호",
     "dealAmount": "6,200",
     "date": "2026-07-06",

@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "구산3주공",
+    "dealAmount": "9,500",
+    "date": "2026-08-11",
+    "floor": 1,
+    "area": 59.99
+  },
+  {
+    "aptNm": "청원쌍용예가2단지",
+    "dealAmount": "34,000",
+    "date": "2026-08-10",
+    "floor": 6,
+    "area": 117.32
+  },
+  {
+    "aptNm": "신우아이딜(1차)",
+    "dealAmount": "21,000",
+    "date": "2026-08-07",
+    "floor": 15,
+    "area": 59.963
+  },
+  {
+    "aptNm": "장미근로복지",
+    "dealAmount": "10,000",
+    "date": "2026-08-06",
+    "floor": 8,
+    "area": 59.52
+  },
+  {
+    "aptNm": "부영2",
+    "dealAmount": "11,400",
+    "date": "2026-07-29",
+    "floor": 8,
+    "area": 80.9537
+  },
+  {
+    "aptNm": "구산3주공",
+    "dealAmount": "11,500",
+    "date": "2026-07-28",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
     "aptNm": "수림2차",
     "dealAmount": "15,000",
     "date": "2026-07-25",
     "floor": 4,
     "area": 59.47
+  },
+  {
+    "aptNm": "수림2차",
+    "dealAmount": "20,000",
+    "date": "2026-07-24",
+    "floor": 7,
+    "area": 84.927
   },
   {
     "aptNm": "금동주공",
@@ -14,11 +63,25 @@
     "area": 47.01
   },
   {
+    "aptNm": "부영2",
+    "dealAmount": "11,000",
+    "date": "2026-07-23",
+    "floor": 12,
+    "area": 80.9537
+  },
+  {
     "aptNm": "수림2차",
     "dealAmount": "20,000",
     "date": "2026-07-18",
     "floor": 2,
     "area": 84.927
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "86,600",
+    "date": "2026-07-14",
+    "floor": 4,
+    "area": 59.98
   },
   {
     "aptNm": "수림2차",

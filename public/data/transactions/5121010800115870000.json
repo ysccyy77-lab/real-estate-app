@@ -2,8 +2,22 @@
   {
     "aptNm": "공작럭키",
     "dealAmount": "72,000",
+    "date": "2026-07-29",
+    "floor": 2,
+    "area": 49.8
+  },
+  {
+    "aptNm": "공작럭키",
+    "dealAmount": "72,000",
     "date": "2026-07-24",
     "floor": 15,
+    "area": 49.8
+  },
+  {
+    "aptNm": "공작럭키",
+    "dealAmount": "66,800",
+    "date": "2026-07-21",
+    "floor": 1,
     "area": 49.8
   },
   {

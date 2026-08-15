@@ -2,6 +2,20 @@
   {
     "aptNm": "미소빌",
     "dealAmount": "5,300",
+    "date": "2026-08-04",
+    "floor": 10,
+    "area": 31.58
+  },
+  {
+    "aptNm": "미소빌",
+    "dealAmount": "6,700",
+    "date": "2026-08-03",
+    "floor": 6,
+    "area": 49.23
+  },
+  {
+    "aptNm": "미소빌",
+    "dealAmount": "5,300",
     "date": "2026-07-30",
     "floor": 10,
     "area": 31.58

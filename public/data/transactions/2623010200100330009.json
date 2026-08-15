@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "서면한신",
+    "dealAmount": "37,100",
+    "date": "2026-08-08",
+    "floor": 21,
+    "area": 59.72
+  },
+  {
+    "aptNm": "서면한신",
+    "dealAmount": "42,000",
+    "date": "2026-08-03",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서면한신",
+    "dealAmount": "31,600",
+    "date": "2026-07-24",
+    "floor": 6,
+    "area": 59.84
+  },
+  {
+    "aptNm": "서면한신",
     "dealAmount": "30,300",
     "date": "2026-07-13",
     "floor": 3,

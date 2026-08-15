@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "신일",
+    "dealAmount": "9,000",
+    "date": "2026-08-04",
+    "floor": 11,
+    "area": 59.31
+  },
+  {
+    "aptNm": "은성",
+    "dealAmount": "17,400",
+    "date": "2026-08-01",
+    "floor": 1,
+    "area": 36.69
+  },
+  {
+    "aptNm": "이좋은집",
+    "dealAmount": "22,000",
+    "date": "2026-07-22",
+    "floor": 7,
+    "area": 36.69
+  },
+  {
     "aptNm": "새진흥8",
     "dealAmount": "7,000",
     "date": "2026-07-13",

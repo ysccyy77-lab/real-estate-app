@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "석미",
+    "dealAmount": "5,500",
+    "date": "2026-08-11",
+    "floor": 1,
+    "area": 39.87
+  },
+  {
+    "aptNm": "석미",
     "dealAmount": "6,650",
     "date": "2026-07-24",
     "floor": 4,

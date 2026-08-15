@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성지",
+    "dealAmount": "25,000",
+    "date": "2026-08-05",
+    "floor": 5,
+    "area": 49.875
+  },
+  {
+    "aptNm": "성지",
     "dealAmount": "25,500",
     "date": "2026-07-10",
     "floor": 13,

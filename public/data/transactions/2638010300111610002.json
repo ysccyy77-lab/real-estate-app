@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "프라움시티",
+    "dealAmount": "10,750",
+    "date": "2026-08-07",
+    "floor": 11,
+    "area": 24.47
+  },
+  {
+    "aptNm": "가락타운1",
+    "dealAmount": "32,000",
+    "date": "2026-07-21",
+    "floor": 15,
+    "area": 84.93
+  },
+  {
+    "aptNm": "프라움시티",
     "dealAmount": "10,000",
     "date": "2026-07-15",
     "floor": 7,

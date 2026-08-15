@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "롯데캐슬오페라",
+    "dealAmount": "35,750",
+    "date": "2026-08-04",
+    "floor": 15,
+    "area": 84.91
+  },
+  {
+    "aptNm": "성지",
+    "dealAmount": "10,500",
+    "date": "2026-08-01",
+    "floor": 2,
+    "area": 69.87
+  },
+  {
+    "aptNm": "롯데캐슬오페라",
     "dealAmount": "33,000",
     "date": "2026-07-28",
     "floor": 4,

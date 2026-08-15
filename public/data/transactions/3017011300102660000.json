@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "백합",
+    "dealAmount": "33,200",
+    "date": "2026-08-07",
+    "floor": 1,
+    "area": 71.205
+  },
+  {
+    "aptNm": "문수애시앙2단지",
+    "dealAmount": "49,300",
+    "date": "2026-08-02",
+    "floor": 12,
+    "area": 84.78
+  },
+  {
     "aptNm": "광안현대하이페리온",
     "dealAmount": "71,000",
     "date": "2026-07-30",
     "floor": 8,
     "area": 139.9597
+  },
+  {
+    "aptNm": "백합",
+    "dealAmount": "49,500",
+    "date": "2026-07-29",
+    "floor": 7,
+    "area": 84.78
   },
   {
     "aptNm": "백합",

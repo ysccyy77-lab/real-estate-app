@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "해든빌",
+    "dealAmount": "9,500",
+    "date": "2026-08-12",
+    "floor": 6,
+    "area": 38.02
+  },
+  {
+    "aptNm": "해든빌",
+    "dealAmount": "13,400",
+    "date": "2026-08-10",
+    "floor": 9,
+    "area": 44.59
+  },
+  {
     "aptNm": "벽산으뜸",
     "dealAmount": "13,200",
     "date": "2026-07-29",

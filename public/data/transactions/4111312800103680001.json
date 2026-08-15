@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "부흥",
+    "dealAmount": "10,500",
+    "date": "2026-08-12",
+    "floor": 5,
+    "area": 67.86
+  },
+  {
+    "aptNm": "광명",
+    "dealAmount": "8,300",
+    "date": "2026-08-08",
+    "floor": 1,
+    "area": 45.975
+  },
+  {
     "aptNm": "대한",
     "dealAmount": "28,000",
     "date": "2026-07-13",

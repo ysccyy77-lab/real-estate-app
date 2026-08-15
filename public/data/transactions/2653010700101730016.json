@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "구덕극동",
+    "dealAmount": "15,500",
+    "date": "2026-08-01",
+    "floor": 22,
+    "area": 84.92
+  },
+  {
+    "aptNm": "구덕극동",
     "dealAmount": "11,500",
     "date": "2026-07-21",
     "floor": 2,

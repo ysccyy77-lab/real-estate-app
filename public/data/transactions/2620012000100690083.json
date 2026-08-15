@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "미주비치",
+    "dealAmount": "10,000",
+    "date": "2026-07-20",
+    "floor": 1,
+    "area": 59.95
+  },
+  {
+    "aptNm": "미주비치",
     "dealAmount": "14,000",
     "date": "2026-07-11",
     "floor": 11,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한일을지",
+    "dealAmount": "74,000",
+    "date": "2026-07-27",
+    "floor": 2,
+    "area": 101.67
+  },
+  {
+    "aptNm": "한일을지",
     "dealAmount": "80,000",
     "date": "2026-07-14",
     "floor": 8,

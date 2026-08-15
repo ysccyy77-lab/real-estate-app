@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "코오롱하늘채",
+    "dealAmount": "71,000",
+    "date": "2026-07-29",
+    "floor": 20,
+    "area": 134.4
+  },
+  {
+    "aptNm": "칠곡네스빌",
+    "dealAmount": "30,500",
+    "date": "2026-07-28",
+    "floor": 14,
+    "area": 84.5826
+  },
+  {
     "aptNm": "칠곡네스빌",
     "dealAmount": "30,800",
     "date": "2026-07-27",
     "floor": 9,
     "area": 84.5826
+  },
+  {
+    "aptNm": "민락엘레트",
+    "dealAmount": "28,800",
+    "date": "2026-07-27",
+    "floor": 7,
+    "area": 51.91
+  },
+  {
+    "aptNm": "민락엘레트",
+    "dealAmount": "33,400",
+    "date": "2026-07-25",
+    "floor": 21,
+    "area": 59.93
+  },
+  {
+    "aptNm": "민락엘레트",
+    "dealAmount": "33,900",
+    "date": "2026-07-25",
+    "floor": 10,
+    "area": 59.48
   },
   {
     "aptNm": "코오롱하늘채",

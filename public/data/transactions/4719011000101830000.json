@@ -1,5 +1,68 @@
 [
   {
+    "aptNm": "보은신한헤센",
+    "dealAmount": "17,500",
+    "date": "2026-08-12",
+    "floor": 3,
+    "area": 74.969
+  },
+  {
+    "aptNm": "e편한세상춘천",
+    "dealAmount": "34,200",
+    "date": "2026-08-10",
+    "floor": 3,
+    "area": 84.966
+  },
+  {
+    "aptNm": "성환부영",
+    "dealAmount": "9,050",
+    "date": "2026-08-10",
+    "floor": 7,
+    "area": 49.92
+  },
+  {
+    "aptNm": "성환부영",
+    "dealAmount": "9,600",
+    "date": "2026-08-06",
+    "floor": 5,
+    "area": 49.92
+  },
+  {
+    "aptNm": "보은신한헤센",
+    "dealAmount": "17,500",
+    "date": "2026-08-06",
+    "floor": 3,
+    "area": 74.969
+  },
+  {
+    "aptNm": "e편한세상춘천",
+    "dealAmount": "40,000",
+    "date": "2026-08-03",
+    "floor": 12,
+    "area": 84.885
+  },
+  {
+    "aptNm": "e편한세상춘천",
+    "dealAmount": "37,000",
+    "date": "2026-08-03",
+    "floor": 14,
+    "area": 84.966
+  },
+  {
+    "aptNm": "동양한신",
+    "dealAmount": "15,000",
+    "date": "2026-08-03",
+    "floor": 19,
+    "area": 84.81
+  },
+  {
+    "aptNm": "e편한세상춘천",
+    "dealAmount": "36,000",
+    "date": "2026-08-01",
+    "floor": 7,
+    "area": 84.898
+  },
+  {
     "aptNm": "e편한세상춘천",
     "dealAmount": "36,400",
     "date": "2026-07-27",

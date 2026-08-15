@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "정석",
+    "dealAmount": "6,500",
+    "date": "2026-08-05",
+    "floor": 6,
+    "area": 65.96
+  },
+  {
+    "aptNm": "정석",
     "dealAmount": "5,500",
     "date": "2026-05-12",
     "floor": 5,

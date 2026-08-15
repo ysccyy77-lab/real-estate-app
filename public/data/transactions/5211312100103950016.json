@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송학",
+    "dealAmount": "17,500",
+    "date": "2026-07-30",
+    "floor": 11,
+    "area": 84.622
+  },
+  {
+    "aptNm": "송학",
     "dealAmount": "10,400",
     "date": "2026-06-29",
     "floor": 17,

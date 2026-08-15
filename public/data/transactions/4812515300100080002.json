@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "청솔신호",
+    "dealAmount": "14,000",
+    "date": "2026-08-10",
+    "floor": 6,
+    "area": 59.2925
+  },
+  {
+    "aptNm": "청솔신호",
+    "dealAmount": "20,450",
+    "date": "2026-08-06",
+    "floor": 14,
+    "area": 84.44
+  },
+  {
+    "aptNm": "금강",
+    "dealAmount": "12,300",
+    "date": "2026-08-04",
+    "floor": 2,
+    "area": 84.89
+  },
+  {
     "aptNm": "청솔한양",
     "dealAmount": "10,000",
     "date": "2026-07-24",

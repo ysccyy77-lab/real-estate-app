@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "99,000",
+    "date": "2026-08-13",
+    "floor": 18,
+    "area": 84.92
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "106,500",
+    "date": "2026-07-31",
+    "floor": 16,
+    "area": 74.8799
+  },
+  {
+    "aptNm": "기흥역지웰푸르지오",
+    "dealAmount": "98,500",
+    "date": "2026-07-30",
+    "floor": 9,
+    "area": 84.92
+  },
+  {
     "aptNm": "해동마을유승한내들",
     "dealAmount": "31,500",
     "date": "2026-07-25",
@@ -17,6 +38,20 @@
     "aptNm": "한진",
     "dealAmount": "50,800",
     "date": "2026-07-23",
+    "floor": 5,
+    "area": 59.91
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "114,800",
+    "date": "2026-07-20",
+    "floor": 11,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "48,500",
+    "date": "2026-07-16",
     "floor": 5,
     "area": 59.91
   },

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "배방자이",
+    "dealAmount": "19,000",
+    "date": "2026-08-11",
+    "floor": 15,
+    "area": 84.94
+  },
+  {
+    "aptNm": "초읍대우",
+    "dealAmount": "14,400",
+    "date": "2026-08-05",
+    "floor": 10,
+    "area": 59.946
+  },
+  {
+    "aptNm": "삼성광나루",
+    "dealAmount": "150,000",
+    "date": "2026-08-03",
+    "floor": 24,
+    "area": 157.24
+  },
+  {
+    "aptNm": "배방자이",
     "dealAmount": "21,000",
     "date": "2026-07-28",
     "floor": 6,

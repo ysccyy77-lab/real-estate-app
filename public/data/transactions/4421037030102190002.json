@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "예준아트빌",
+    "dealAmount": "9,000",
+    "date": "2026-08-14",
+    "floor": 5,
+    "area": 85
+  },
+  {
+    "aptNm": "흥진로얄",
+    "dealAmount": "10,500",
+    "date": "2026-08-03",
+    "floor": 6,
+    "area": 59.875
+  },
+  {
+    "aptNm": "수림아파트",
+    "dealAmount": "10,800",
+    "date": "2026-07-29",
+    "floor": 9,
+    "area": 59.9718
+  },
+  {
     "aptNm": "수림아파트",
     "dealAmount": "13,500",
     "date": "2026-07-10",

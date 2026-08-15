@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "대림",
+    "dealAmount": "72,000",
+    "date": "2026-08-07",
+    "floor": 10,
+    "area": 118.683
+  },
+  {
+    "aptNm": "외동미소지움",
+    "dealAmount": "12,100",
+    "date": "2026-08-04",
+    "floor": 8,
+    "area": 59.6532
+  },
+  {
+    "aptNm": "외동미소지움",
+    "dealAmount": "11,600",
+    "date": "2026-08-04",
+    "floor": 3,
+    "area": 59.649
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "70,500",
+    "date": "2026-08-01",
+    "floor": 18,
+    "area": 101.984
+  },
+  {
+    "aptNm": "외동미소지움",
+    "dealAmount": "20,000",
+    "date": "2026-07-30",
+    "floor": 6,
+    "area": 84.8618
+  },
+  {
+    "aptNm": "대림",
     "dealAmount": "40,000",
     "date": "2026-07-25",
     "floor": 17,

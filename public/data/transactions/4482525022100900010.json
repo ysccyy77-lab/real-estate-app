@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "진흥W-park",
+    "dealAmount": "20,000",
+    "date": "2026-08-05",
+    "floor": 9,
+    "area": 84.958
+  },
+  {
+    "aptNm": "진흥W-park",
+    "dealAmount": "13,800",
+    "date": "2026-07-21",
+    "floor": 11,
+    "area": 59.946
+  },
+  {
     "aptNm": "이니그마빌2",
     "dealAmount": "550,000",
     "date": "2026-07-10",

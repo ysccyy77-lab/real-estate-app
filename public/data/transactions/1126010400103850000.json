@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "선경1차",
+    "dealAmount": "29,400",
+    "date": "2026-08-05",
+    "floor": 2,
+    "area": 84.65
+  },
+  {
+    "aptNm": "DMC파크뷰자이1단지",
+    "dealAmount": "200,000",
+    "date": "2026-07-29",
+    "floor": 26,
+    "area": 121.614
+  },
+  {
+    "aptNm": "DMC파크뷰자이1단지",
+    "dealAmount": "167,000",
+    "date": "2026-07-28",
+    "floor": 8,
+    "area": 84.968
+  },
+  {
+    "aptNm": "선경1차",
     "dealAmount": "42,000",
     "date": "2026-07-27",
     "floor": 9,
     "area": 134.3
+  },
+  {
+    "aptNm": "DMC파크뷰자이1단지",
+    "dealAmount": "167,000",
+    "date": "2026-07-23",
+    "floor": 21,
+    "area": 84.971
   },
   {
     "aptNm": "DMC파크뷰자이1단지",

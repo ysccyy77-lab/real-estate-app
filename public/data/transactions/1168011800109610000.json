@@ -1,5 +1,96 @@
 [
   {
+    "aptNm": "남양휴튼",
+    "dealAmount": "46,700",
+    "date": "2026-08-14",
+    "floor": 9,
+    "area": 84.9958
+  },
+  {
+    "aptNm": "동아한일",
+    "dealAmount": "16,300",
+    "date": "2026-08-13",
+    "floor": 1,
+    "area": 60
+  },
+  {
+    "aptNm": "동아한일",
+    "dealAmount": "18,100",
+    "date": "2026-08-12",
+    "floor": 2,
+    "area": 60
+  },
+  {
+    "aptNm": "화서역푸르지오브리시엘",
+    "dealAmount": "145,000",
+    "date": "2026-08-09",
+    "floor": 31,
+    "area": 84.8548
+  },
+  {
+    "aptNm": "청초대우",
+    "dealAmount": "18,900",
+    "date": "2026-08-08",
+    "floor": 8,
+    "area": 59.946
+  },
+  {
+    "aptNm": "은빛마을11단지",
+    "dealAmount": "34,500",
+    "date": "2026-08-08",
+    "floor": 12,
+    "area": 50
+  },
+  {
+    "aptNm": "동아한일",
+    "dealAmount": "17,500",
+    "date": "2026-08-08",
+    "floor": 2,
+    "area": 59.93
+  },
+  {
+    "aptNm": "동아한일",
+    "dealAmount": "18,500",
+    "date": "2026-08-07",
+    "floor": 11,
+    "area": 60
+  },
+  {
+    "aptNm": "태평2",
+    "dealAmount": "30,200",
+    "date": "2026-08-06",
+    "floor": 10,
+    "area": 84.975
+  },
+  {
+    "aptNm": "동아한일",
+    "dealAmount": "19,100",
+    "date": "2026-08-06",
+    "floor": 6,
+    "area": 59.93
+  },
+  {
+    "aptNm": "은빛마을11단지",
+    "dealAmount": "44,000",
+    "date": "2026-08-05",
+    "floor": 14,
+    "area": 60
+  },
+  {
+    "aptNm": "화서역푸르지오브리시엘",
+    "dealAmount": "170,000",
+    "date": "2026-08-04",
+    "floor": 30,
+    "area": 104.9868
+  },
+  {
+    "aptNm": "은빛마을11단지",
+    "dealAmount": "46,000",
+    "date": "2026-08-01",
+    "floor": 10,
+    "area": 60
+  },
+  {
     "aptNm": "은빛마을11단지",
     "dealAmount": "36,000",
     "date": "2026-07-30",
@@ -57,10 +148,38 @@
   },
   {
     "aptNm": "은빛마을11단지",
+    "dealAmount": "39,000",
+    "date": "2026-07-23",
+    "floor": 12,
+    "area": 60
+  },
+  {
+    "aptNm": "화서역푸르지오브리시엘",
+    "dealAmount": "149,000",
+    "date": "2026-07-23",
+    "floor": 36,
+    "area": 84.8641
+  },
+  {
+    "aptNm": "동아한일",
+    "dealAmount": "22,950",
+    "date": "2026-07-23",
+    "floor": 7,
+    "area": 59.93
+  },
+  {
+    "aptNm": "은빛마을11단지",
     "dealAmount": "33,500",
     "date": "2026-07-22",
     "floor": 14,
     "area": 50
+  },
+  {
+    "aptNm": "동아한일",
+    "dealAmount": "18,800",
+    "date": "2026-07-21",
+    "floor": 15,
+    "area": 60
   },
   {
     "aptNm": "동아한일",

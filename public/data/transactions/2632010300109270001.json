@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대성타워",
+    "dealAmount": "22,200",
+    "date": "2026-07-31",
+    "floor": 16,
+    "area": 84.78
+  },
+  {
+    "aptNm": "대성타워",
+    "dealAmount": "20,500",
+    "date": "2026-07-31",
+    "floor": 4,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대성타워",
     "dealAmount": "23,000",
     "date": "2026-07-25",
     "floor": 15,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "빌로채",
+    "dealAmount": "46,500",
+    "date": "2026-08-06",
+    "floor": 6,
+    "area": 84.8
+  },
+  {
+    "aptNm": "빌로채",
     "dealAmount": "47,500",
     "date": "2026-07-11",
     "floor": 10,

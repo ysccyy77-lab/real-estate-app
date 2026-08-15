@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "세원목화",
+    "dealAmount": "12,000",
+    "date": "2026-07-31",
+    "floor": 7,
+    "area": 71.875
+  },
+  {
+    "aptNm": "세원목화",
     "dealAmount": "11,600",
     "date": "2026-04-20",
     "floor": 5,

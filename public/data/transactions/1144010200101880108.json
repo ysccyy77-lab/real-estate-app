@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "마포현대",
+    "dealAmount": "125,000",
+    "date": "2026-07-14",
+    "floor": 2,
+    "area": 84.87
+  },
+  {
+    "aptNm": "마포현대",
+    "dealAmount": "180,000",
+    "date": "2026-07-10",
+    "floor": 5,
+    "area": 84.87
+  },
+  {
+    "aptNm": "마포현대",
     "dealAmount": "166,000",
     "date": "2026-06-16",
     "floor": 10,

@@ -1,9 +1,37 @@
 [
   {
     "aptNm": "초원한양",
+    "dealAmount": "87,000",
+    "date": "2026-07-29",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "초원한양",
+    "dealAmount": "109,000",
+    "date": "2026-07-22",
+    "floor": 15,
+    "area": 84.9
+  },
+  {
+    "aptNm": "초원한양",
+    "dealAmount": "95,500",
+    "date": "2026-07-14",
+    "floor": 2,
+    "area": 84.9
+  },
+  {
+    "aptNm": "초원한양",
     "dealAmount": "104,500",
     "date": "2026-07-10",
     "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "초원한양",
+    "dealAmount": "100,000",
+    "date": "2026-07-10",
+    "floor": 10,
     "area": 84.9
   },
   {

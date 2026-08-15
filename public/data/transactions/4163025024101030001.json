@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "골든타워",
+    "dealAmount": "41,500",
+    "date": "2026-08-09",
+    "floor": 20,
+    "area": 97.1358
+  },
+  {
+    "aptNm": "동화5차옥시죤",
+    "dealAmount": "15,000",
+    "date": "2026-08-04",
+    "floor": 10,
+    "area": 59.9088
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "6,500",
+    "date": "2026-08-01",
+    "floor": 1,
+    "area": 49.85
+  },
+  {
+    "aptNm": "적성5차",
+    "dealAmount": "20,000",
+    "date": "2026-07-31",
+    "floor": 2,
+    "area": 41.22
+  },
+  {
     "aptNm": "주공",
     "dealAmount": "7,000",
     "date": "2026-07-20",

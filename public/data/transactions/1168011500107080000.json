@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "라임스토리",
+    "dealAmount": "3,500",
+    "date": "2026-08-04",
+    "floor": 2,
+    "area": 24.12
+  },
+  {
+    "aptNm": "라임스토리",
+    "dealAmount": "3,700",
+    "date": "2026-08-04",
+    "floor": 4,
+    "area": 23.18
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "242,000",
+    "date": "2026-07-28",
+    "floor": 11,
+    "area": 60
+  },
+  {
+    "aptNm": "동아그린",
+    "dealAmount": "146,000",
+    "date": "2026-07-18",
+    "floor": 4,
+    "area": 58.32
+  },
+  {
+    "aptNm": "해태보라매타워",
+    "dealAmount": "75,500",
+    "date": "2026-07-16",
+    "floor": 16,
+    "area": 59.94
+  },
+  {
     "aptNm": "공도정보",
     "dealAmount": "7,000",
     "date": "2026-07-04",

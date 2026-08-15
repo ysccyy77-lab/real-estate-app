@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "북실주공",
+    "dealAmount": "4,150",
+    "date": "2026-08-13",
+    "floor": 5,
+    "area": 39.3
+  },
+  {
+    "aptNm": "북실주공",
     "dealAmount": "5,800",
     "date": "2026-06-26",
     "floor": 3,

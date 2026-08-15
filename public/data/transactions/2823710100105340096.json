@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "두산위브",
+    "dealAmount": "37,500",
+    "date": "2026-08-01",
+    "floor": 7,
+    "area": 59.76
+  },
+  {
+    "aptNm": "두산위브",
     "dealAmount": "47,500",
     "date": "2026-03-21",
     "floor": 10,

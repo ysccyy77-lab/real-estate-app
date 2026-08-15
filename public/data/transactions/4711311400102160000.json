@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "백영",
+    "dealAmount": "18,500",
+    "date": "2026-08-08",
+    "floor": 4,
+    "area": 60
+  },
+  {
+    "aptNm": "백영",
+    "dealAmount": "19,000",
+    "date": "2026-08-04",
+    "floor": 20,
+    "area": 60
+  },
+  {
+    "aptNm": "백영",
+    "dealAmount": "17,000",
+    "date": "2026-08-01",
+    "floor": 19,
+    "area": 60
+  },
+  {
     "aptNm": "경성양학마을",
     "dealAmount": "6,400",
     "date": "2026-06-22",

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "구산제2주공",
+    "dealAmount": "6,150",
+    "date": "2026-08-05",
+    "floor": 6,
+    "area": 41.85
+  },
+  {
+    "aptNm": "무지개",
+    "dealAmount": "6,800",
+    "date": "2026-07-31",
+    "floor": 1,
+    "area": 49.5388
+  },
+  {
+    "aptNm": "우성꿈동산",
+    "dealAmount": "56,500",
+    "date": "2026-07-28",
+    "floor": 10,
+    "area": 80.29
+  },
+  {
+    "aptNm": "구산제2주공",
     "dealAmount": "6,500",
     "date": "2026-07-27",
     "floor": 1,

@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "장미APT",
+    "dealAmount": "40,350",
+    "date": "2026-08-07",
+    "floor": 4,
+    "area": 43.65
+  },
+  {
+    "aptNm": "장미APT",
     "dealAmount": "39,400",
     "date": "2026-07-25",
     "floor": 2,
     "area": 40.68
+  },
+  {
+    "aptNm": "반포이안애1차",
+    "dealAmount": "215,000",
+    "date": "2026-06-18",
+    "floor": 4,
+    "area": 164.41
   },
   {
     "aptNm": "태영데시안",

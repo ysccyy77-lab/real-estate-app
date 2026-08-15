@@ -1,9 +1,30 @@
 [
   {
     "aptNm": "블루마시티KCC스위첸",
+    "dealAmount": "40,500",
+    "date": "2026-08-10",
+    "floor": 45,
+    "area": 84.9858
+  },
+  {
+    "aptNm": "블루마시티KCC스위첸",
+    "dealAmount": "39,000",
+    "date": "2026-07-31",
+    "floor": 12,
+    "area": 84.9858
+  },
+  {
+    "aptNm": "블루마시티KCC스위첸",
     "dealAmount": "37,700",
     "date": "2026-07-30",
     "floor": 26,
+    "area": 84.9871
+  },
+  {
+    "aptNm": "블루마시티KCC스위첸",
+    "dealAmount": "28,000",
+    "date": "2026-07-28",
+    "floor": 21,
     "area": 84.9871
   },
   {

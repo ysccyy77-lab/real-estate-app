@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "포레나대원",
+    "dealAmount": "62,000",
+    "date": "2026-08-12",
+    "floor": 6,
+    "area": 59.0578
+  },
+  {
+    "aptNm": "포레나대원",
+    "dealAmount": "67,100",
+    "date": "2026-08-08",
+    "floor": 6,
+    "area": 68.22
+  },
+  {
+    "aptNm": "갤러리아팰리스",
+    "dealAmount": "390,000",
+    "date": "2026-08-07",
+    "floor": 30,
+    "area": 164.3
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "42,000",
+    "date": "2026-08-04",
+    "floor": 6,
+    "area": 84.896
+  },
+  {
+    "aptNm": "포레나대원",
     "dealAmount": "67,500",
     "date": "2026-07-28",
     "floor": 20,
     "area": 68.22
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "60,000",
+    "date": "2026-07-20",
+    "floor": 5,
+    "area": 176.217
   },
   {
     "aptNm": "현대",

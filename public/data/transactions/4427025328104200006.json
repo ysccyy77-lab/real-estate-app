@@ -2,6 +2,20 @@
   {
     "aptNm": "반촌명지",
     "dealAmount": "3,300",
+    "date": "2026-08-13",
+    "floor": 4,
+    "area": 48.6
+  },
+  {
+    "aptNm": "반촌명지",
+    "dealAmount": "2,800",
+    "date": "2026-08-11",
+    "floor": 5,
+    "area": 48.6
+  },
+  {
+    "aptNm": "반촌명지",
+    "dealAmount": "3,300",
     "date": "2026-06-10",
     "floor": 4,
     "area": 48.6

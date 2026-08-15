@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "서신동신일",
+    "dealAmount": "18,800",
+    "date": "2026-08-13",
+    "floor": 5,
+    "area": 59.98
+  },
+  {
+    "aptNm": "서신동신일",
+    "dealAmount": "17,100",
+    "date": "2026-08-11",
+    "floor": 2,
+    "area": 59.98
+  },
+  {
+    "aptNm": "서신동신일",
+    "dealAmount": "17,000",
+    "date": "2026-08-10",
+    "floor": 11,
+    "area": 59.98
+  },
+  {
+    "aptNm": "서신동신일",
+    "dealAmount": "17,800",
+    "date": "2026-08-08",
+    "floor": 5,
+    "area": 59.98
+  },
+  {
+    "aptNm": "서신동신일",
     "dealAmount": "17,300",
     "date": "2026-07-28",
     "floor": 13,

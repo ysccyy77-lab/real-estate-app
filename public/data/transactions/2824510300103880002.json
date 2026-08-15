@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "현대3",
+    "dealAmount": "13,000",
+    "date": "2026-08-12",
+    "floor": 14,
+    "area": 59.4
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "19,000",
+    "date": "2026-08-06",
+    "floor": 18,
+    "area": 60
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "33,000",
+    "date": "2026-07-26",
+    "floor": 9,
+    "area": 84.58
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "22,300",
+    "date": "2026-07-20",
+    "floor": 8,
+    "area": 60
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "22,900",
+    "date": "2026-07-16",
+    "floor": 18,
+    "area": 60
+  },
+  {
     "aptNm": "동보",
     "dealAmount": "32,000",
     "date": "2026-07-06",

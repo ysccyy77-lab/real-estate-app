@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "72,500",
+    "date": "2026-08-05",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "71,000",
+    "date": "2026-08-03",
+    "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "72,000",
+    "date": "2026-08-01",
+    "floor": 10,
+    "area": 84.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "68,000",
+    "date": "2026-08-01",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "69,000",
+    "date": "2026-07-31",
+    "floor": 1,
+    "area": 84.97
+  },
+  {
     "aptNm": "숲속반디채",
     "dealAmount": "38,000",
     "date": "2026-07-27",
     "floor": 11,
     "area": 51.05
+  },
+  {
+    "aptNm": "한밭자이",
+    "dealAmount": "35,000",
+    "date": "2026-07-27",
+    "floor": 14,
+    "area": 84.9811
   },
   {
     "aptNm": "숲속반디채",
@@ -25,6 +67,13 @@
     "dealAmount": "74,500",
     "date": "2026-07-16",
     "floor": 13,
+    "area": 84.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "72,000",
+    "date": "2026-07-15",
+    "floor": 14,
     "area": 84.97
   },
   {

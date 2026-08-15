@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "삼환",
+    "dealAmount": "133,000",
+    "date": "2026-08-05",
+    "floor": 12,
+    "area": 59.53
+  },
+  {
+    "aptNm": "그린타운(1)",
+    "dealAmount": "16,900",
+    "date": "2026-08-01",
+    "floor": 18,
+    "area": 59.89
+  },
+  {
+    "aptNm": "그린타운(1)",
+    "dealAmount": "12,900",
+    "date": "2026-07-31",
+    "floor": 12,
+    "area": 49.58
+  },
+  {
+    "aptNm": "그린타운(1)",
+    "dealAmount": "23,500",
+    "date": "2026-07-24",
+    "floor": 2,
+    "area": 84.89
+  },
+  {
     "aptNm": "그린타운(1)",
     "dealAmount": "12,000",
     "date": "2026-07-20",
     "floor": 2,
     "area": 49.58
+  },
+  {
+    "aptNm": "한신휴2차",
+    "dealAmount": "89,000",
+    "date": "2026-07-20",
+    "floor": 11,
+    "area": 114.54
   },
   {
     "aptNm": "삼환",

@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "덕산타운1",
+    "dealAmount": "27,000",
+    "date": "2026-07-31",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "덕산타운1",
+    "dealAmount": "14,950",
+    "date": "2026-07-31",
+    "floor": 6,
+    "area": 49.94
+  },
+  {
+    "aptNm": "뉴신사신성",
+    "dealAmount": "53,000",
+    "date": "2026-07-28",
+    "floor": 1,
+    "area": 84.42
+  },
+  {
+    "aptNm": "우방1",
+    "dealAmount": "130,000",
+    "date": "2026-07-23",
+    "floor": 5,
+    "area": 84.9
+  },
+  {
     "aptNm": "우방1",
     "dealAmount": "105,000",
     "date": "2026-07-09",

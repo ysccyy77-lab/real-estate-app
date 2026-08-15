@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "태산아파트",
+    "dealAmount": "17,000",
+    "date": "2026-08-03",
+    "floor": 2,
+    "area": 59.95
+  },
+  {
+    "aptNm": "태산아파트",
+    "dealAmount": "23,300",
+    "date": "2026-07-29",
+    "floor": 15,
+    "area": 72.19
+  },
+  {
+    "aptNm": "태산아파트",
+    "dealAmount": "28,000",
+    "date": "2026-07-28",
+    "floor": 15,
+    "area": 84.03
+  },
+  {
+    "aptNm": "태산아파트",
     "dealAmount": "15,500",
     "date": "2026-06-30",
     "floor": 4,

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "추동",
+    "dealAmount": "16,500",
+    "date": "2026-08-12",
+    "floor": 6,
+    "area": 49.14
+  },
+  {
+    "aptNm": "추동",
+    "dealAmount": "15,300",
+    "date": "2026-07-30",
+    "floor": 7,
+    "area": 49.14
+  },
+  {
     "aptNm": "성우목화맨션",
     "dealAmount": "8,000",
     "date": "2026-07-14",

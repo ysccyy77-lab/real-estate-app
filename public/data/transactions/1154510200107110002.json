@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "금천현대",
+    "dealAmount": "71,500",
+    "date": "2026-07-25",
+    "floor": 9,
+    "area": 84.83
+  },
+  {
+    "aptNm": "금천현대",
     "dealAmount": "64,000",
     "date": "2026-07-22",
     "floor": 11,

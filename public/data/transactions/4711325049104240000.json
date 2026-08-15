@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "대유타운",
+    "dealAmount": "5,700",
+    "date": "2026-08-08",
+    "floor": 14,
+    "area": 48.69
+  },
+  {
+    "aptNm": "마산진동협성엠파이어",
+    "dealAmount": "20,200",
+    "date": "2026-07-28",
+    "floor": 10,
+    "area": 84.9789
+  },
+  {
     "aptNm": "소새울KCC스위첸",
     "dealAmount": "63,000",
     "date": "2026-07-21",
     "floor": 9,
     "area": 84.82
+  },
+  {
+    "aptNm": "대유타운",
+    "dealAmount": "5,500",
+    "date": "2026-07-10",
+    "floor": 8,
+    "area": 59.94
   },
   {
     "aptNm": "한주5",

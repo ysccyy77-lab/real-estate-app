@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "극동2",
+    "dealAmount": "15,000",
+    "date": "2026-08-03",
+    "floor": 4,
+    "area": 84.99
+  },
+  {
+    "aptNm": "시현갤러리빌",
+    "dealAmount": "13,000",
+    "date": "2026-07-22",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "극동2",
     "dealAmount": "11,500",
     "date": "2026-07-12",
     "floor": 1,

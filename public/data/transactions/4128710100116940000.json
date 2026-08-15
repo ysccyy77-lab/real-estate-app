@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "신림현대",
+    "dealAmount": "90,000",
+    "date": "2026-08-11",
+    "floor": 12,
+    "area": 105.36
+  },
+  {
+    "aptNm": "신림현대",
+    "dealAmount": "41,000",
+    "date": "2026-08-10",
+    "floor": 2,
+    "area": 34.86
+  },
+  {
+    "aptNm": "신림현대",
+    "dealAmount": "76,000",
+    "date": "2026-08-05",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
     "aptNm": "동문",
     "dealAmount": "19,900",
     "date": "2026-07-29",
     "floor": 9,
     "area": 59.4
+  },
+  {
+    "aptNm": "신림현대",
+    "dealAmount": "46,000",
+    "date": "2026-07-21",
+    "floor": 11,
+    "area": 34.86
+  },
+  {
+    "aptNm": "신림현대",
+    "dealAmount": "45,500",
+    "date": "2026-07-20",
+    "floor": 5,
+    "area": 34.86
   },
   {
     "aptNm": "신림현대",
@@ -33,6 +68,20 @@
     "date": "2026-07-14",
     "floor": 5,
     "area": 82.2
+  },
+  {
+    "aptNm": "신림현대",
+    "dealAmount": "90,000",
+    "date": "2026-07-14",
+    "floor": 8,
+    "area": 105.36
+  },
+  {
+    "aptNm": "동문",
+    "dealAmount": "19,200",
+    "date": "2026-07-08",
+    "floor": 4,
+    "area": 59.4
   },
   {
     "aptNm": "신림현대",

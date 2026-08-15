@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "부영2차",
+    "dealAmount": "15,500",
+    "date": "2026-08-01",
+    "floor": 9,
+    "area": 84.9768
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "20,800",
+    "date": "2026-07-27",
+    "floor": 10,
+    "area": 59.515
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "33,000",
+    "date": "2026-07-10",
+    "floor": 2,
+    "area": 134.87
+  },
+  {
+    "aptNm": "부영2차",
     "dealAmount": "14,200",
     "date": "2026-07-08",
     "floor": 7,

@@ -1,10 +1,80 @@
 [
   {
+    "aptNm": "반도보라타운",
+    "dealAmount": "17,200",
+    "date": "2026-08-14",
+    "floor": 13,
+    "area": 84.9
+  },
+  {
+    "aptNm": "반도보라타운",
+    "dealAmount": "15,700",
+    "date": "2026-08-07",
+    "floor": 18,
+    "area": 59.88
+  },
+  {
+    "aptNm": "주공그린빌",
+    "dealAmount": "23,000",
+    "date": "2026-08-05",
+    "floor": 11,
+    "area": 59.27
+  },
+  {
+    "aptNm": "반도보라타운",
+    "dealAmount": "15,000",
+    "date": "2026-08-05",
+    "floor": 7,
+    "area": 59.88
+  },
+  {
+    "aptNm": "주공그린빌",
+    "dealAmount": "17,850",
+    "date": "2026-08-04",
+    "floor": 20,
+    "area": 51.74
+  },
+  {
+    "aptNm": "반도보라타운",
+    "dealAmount": "15,700",
+    "date": "2026-08-04",
+    "floor": 18,
+    "area": 59.88
+  },
+  {
     "aptNm": "주공그린빌",
     "dealAmount": "28,500",
     "date": "2026-07-28",
     "floor": 1,
     "area": 84.9
+  },
+  {
+    "aptNm": "주공그린빌",
+    "dealAmount": "18,500",
+    "date": "2026-07-28",
+    "floor": 2,
+    "area": 51.74
+  },
+  {
+    "aptNm": "반도보라타운",
+    "dealAmount": "24,700",
+    "date": "2026-07-25",
+    "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "반도보라타운",
+    "dealAmount": "9,200",
+    "date": "2026-07-23",
+    "floor": 2,
+    "area": 59.88
+  },
+  {
+    "aptNm": "주공그린빌",
+    "dealAmount": "21,700",
+    "date": "2026-07-22",
+    "floor": 13,
+    "area": 59.27
   },
   {
     "aptNm": "반도보라타운",

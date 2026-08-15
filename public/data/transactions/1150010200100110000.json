@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "삼익2",
+    "dealAmount": "19,000",
+    "date": "2026-08-13",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "삼익2",
+    "dealAmount": "15,000",
+    "date": "2026-08-10",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
+    "aptNm": "롯데캐슬프레미어",
+    "dealAmount": "328,000",
+    "date": "2026-07-29",
+    "floor": 21,
+    "area": 84.484
+  },
+  {
     "aptNm": "상림마을7단지아이파크(719~729동)BL1-13",
     "dealAmount": "90,500",
     "date": "2026-07-28",
     "floor": 3,
     "area": 101.94
+  },
+  {
+    "aptNm": "장미2",
+    "dealAmount": "356,000",
+    "date": "2026-07-24",
+    "floor": 4,
+    "area": 99
+  },
+  {
+    "aptNm": "장미2",
+    "dealAmount": "358,000",
+    "date": "2026-07-24",
+    "floor": 5,
+    "area": 99
+  },
+  {
+    "aptNm": "장미3",
+    "dealAmount": "405,000",
+    "date": "2026-07-15",
+    "floor": 12,
+    "area": 134.16
+  },
+  {
+    "aptNm": "현대I-PARK3",
+    "dealAmount": "237,000",
+    "date": "2026-07-14",
+    "floor": 24,
+    "area": 153.39
   },
   {
     "aptNm": "삼익2",

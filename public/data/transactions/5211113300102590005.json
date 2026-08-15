@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "천상극동",
+    "dealAmount": "16,550",
+    "date": "2026-08-07",
+    "floor": 5,
+    "area": 84.84
+  },
+  {
+    "aptNm": "미도7",
+    "dealAmount": "19,500",
+    "date": "2026-07-29",
+    "floor": 1,
+    "area": 59.7
+  },
+  {
+    "aptNm": "미도7",
+    "dealAmount": "19,500",
+    "date": "2026-07-25",
+    "floor": 1,
+    "area": 59.91
+  },
+  {
     "aptNm": "삼성강남맨션",
     "dealAmount": "9,000",
     "date": "2026-07-24",

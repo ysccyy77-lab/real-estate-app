@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한솔폴라리스",
+    "dealAmount": "23,000",
+    "date": "2026-08-03",
+    "floor": 15,
+    "area": 76.11
+  },
+  {
+    "aptNm": "한솔폴라리스",
+    "dealAmount": "9,400",
+    "date": "2026-07-19",
+    "floor": 9,
+    "area": 32.58
+  },
+  {
+    "aptNm": "한솔폴라리스",
     "dealAmount": "9,500",
     "date": "2026-06-25",
     "floor": 7,

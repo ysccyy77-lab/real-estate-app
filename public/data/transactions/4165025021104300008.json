@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "원일산호2",
+    "dealAmount": "13,000",
+    "date": "2026-08-06",
+    "floor": 6,
+    "area": 59.95
+  },
+  {
+    "aptNm": "원일산호2",
+    "dealAmount": "15,600",
+    "date": "2026-07-12",
+    "floor": 14,
+    "area": 59.95
+  },
+  {
+    "aptNm": "원일산호2",
     "dealAmount": "12,900",
     "date": "2026-07-11",
     "floor": 3,

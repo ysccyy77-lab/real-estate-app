@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "태평양임대",
+    "dealAmount": "6,600",
+    "date": "2026-08-12",
+    "floor": 6,
+    "area": 34.722
+  },
+  {
+    "aptNm": "태평양임대",
     "dealAmount": "5,700",
     "date": "2026-07-20",
     "floor": 3,

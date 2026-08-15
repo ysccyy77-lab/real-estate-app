@@ -2,6 +2,20 @@
   {
     "aptNm": "래미안금광",
     "dealAmount": "85,000",
+    "date": "2026-08-05",
+    "floor": 6,
+    "area": 83.32
+  },
+  {
+    "aptNm": "래미안금광",
+    "dealAmount": "84,500",
+    "date": "2026-07-31",
+    "floor": 21,
+    "area": 83.17
+  },
+  {
+    "aptNm": "래미안금광",
+    "dealAmount": "85,000",
     "date": "2026-07-11",
     "floor": 20,
     "area": 83.17

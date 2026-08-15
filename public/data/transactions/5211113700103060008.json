@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "삼천동두일하나",
+    "dealAmount": "13,500",
+    "date": "2026-08-12",
+    "floor": 6,
+    "area": 59.7
+  },
+  {
+    "aptNm": "광명현대",
+    "dealAmount": "55,000",
+    "date": "2026-07-17",
+    "floor": 16,
+    "area": 84.89
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "7,400",
+    "date": "2026-07-15",
+    "floor": 4,
+    "area": 49.8
+  },
+  {
     "aptNm": "삼호",
     "dealAmount": "9,000",
     "date": "2026-07-08",

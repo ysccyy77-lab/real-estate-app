@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "삼환나우빌",
+    "dealAmount": "25,300",
+    "date": "2026-08-05",
+    "floor": 14,
+    "area": 84.95
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "36,000",
+    "date": "2026-07-28",
+    "floor": 10,
+    "area": 148.19
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "28,200",
+    "date": "2026-07-28",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
+    "aptNm": "삼환나우빌",
+    "dealAmount": "34,500",
+    "date": "2026-07-28",
+    "floor": 13,
+    "area": 128.49
+  },
+  {
+    "aptNm": "삼환나우빌",
     "dealAmount": "33,500",
     "date": "2026-07-09",
     "floor": 9,

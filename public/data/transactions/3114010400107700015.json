@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "유씨티",
+    "dealAmount": "7,700",
+    "date": "2026-08-10",
+    "floor": 9,
+    "area": 20.43
+  },
+  {
+    "aptNm": "유씨티",
     "dealAmount": "7,200",
     "date": "2026-06-30",
     "floor": 15,

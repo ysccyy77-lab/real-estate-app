@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "용당대광",
+    "dealAmount": "16,800",
+    "date": "2026-08-04",
+    "floor": 13,
+    "area": 65.19
+  },
+  {
+    "aptNm": "용당대광",
     "dealAmount": "16,000",
     "date": "2026-07-28",
     "floor": 3,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송원맨션",
+    "dealAmount": "18,200",
+    "date": "2026-08-13",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "송원맨션",
     "dealAmount": "18,000",
     "date": "2026-05-20",
     "floor": 3,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경동",
+    "dealAmount": "11,500",
+    "date": "2026-07-25",
+    "floor": 11,
+    "area": 56.4
+  },
+  {
+    "aptNm": "경동",
     "dealAmount": "16,000",
     "date": "2026-07-15",
     "floor": 10,

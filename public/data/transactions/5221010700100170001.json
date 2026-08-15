@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "위드",
+    "dealAmount": "25,500",
+    "date": "2026-08-14",
+    "floor": 14,
+    "area": 120.205
+  },
+  {
+    "aptNm": "탑스빌",
+    "dealAmount": "10,000",
+    "date": "2026-08-03",
+    "floor": 10,
+    "area": 40.5672
+  },
+  {
+    "aptNm": "위드",
     "dealAmount": "24,500",
     "date": "2026-07-23",
     "floor": 8,

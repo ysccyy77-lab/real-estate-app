@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "꿈나무",
+    "dealAmount": "38,000",
+    "date": "2026-08-13",
+    "floor": 14,
+    "area": 70.55
+  },
+  {
+    "aptNm": "꿈나무",
+    "dealAmount": "39,000",
+    "date": "2026-08-08",
+    "floor": 7,
+    "area": 70.55
+  },
+  {
+    "aptNm": "꿈나무",
     "dealAmount": "46,000",
     "date": "2026-06-26",
     "floor": 9,

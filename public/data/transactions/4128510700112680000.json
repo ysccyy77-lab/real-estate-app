@@ -1,10 +1,73 @@
 [
   {
     "aptNm": "송천주공",
+    "dealAmount": "15,300",
+    "date": "2026-08-12",
+    "floor": 3,
+    "area": 59.99
+  },
+  {
+    "aptNm": "송천주공",
+    "dealAmount": "15,500",
+    "date": "2026-08-10",
+    "floor": 1,
+    "area": 59.99
+  },
+  {
+    "aptNm": "송천주공",
+    "dealAmount": "18,000",
+    "date": "2026-08-10",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "송천주공",
+    "dealAmount": "17,800",
+    "date": "2026-08-03",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "고암오네뜨",
+    "dealAmount": "26,500",
+    "date": "2026-08-03",
+    "floor": 18,
+    "area": 59.9689
+  },
+  {
+    "aptNm": "숲속마을(6단지두산위브)",
+    "dealAmount": "60,500",
+    "date": "2026-08-01",
+    "floor": 4,
+    "area": 130.446
+  },
+  {
+    "aptNm": "송천주공",
+    "dealAmount": "14,000",
+    "date": "2026-08-01",
+    "floor": 3,
+    "area": 59.99
+  },
+  {
+    "aptNm": "송천주공",
     "dealAmount": "16,200",
     "date": "2026-07-31",
     "floor": 4,
     "area": 59.99
+  },
+  {
+    "aptNm": "송천주공",
+    "dealAmount": "16,500",
+    "date": "2026-07-31",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "송천주공",
+    "dealAmount": "31,000",
+    "date": "2026-07-29",
+    "floor": 2,
+    "area": 84.9
   },
   {
     "aptNm": "송천주공",

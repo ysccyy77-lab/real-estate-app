@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신화",
+    "dealAmount": "19,500",
+    "date": "2026-08-03",
+    "floor": 11,
+    "area": 84.954
+  },
+  {
+    "aptNm": "수서",
+    "dealAmount": "150,000",
+    "date": "2026-08-01",
+    "floor": 9,
+    "area": 39.98
+  },
+  {
+    "aptNm": "신화",
     "dealAmount": "16,000",
     "date": "2026-07-29",
     "floor": 5,
@@ -53,6 +67,13 @@
     "dealAmount": "150,000",
     "date": "2026-07-09",
     "floor": 8,
+    "area": 39.98
+  },
+  {
+    "aptNm": "수서",
+    "dealAmount": "150,000",
+    "date": "2026-07-08",
+    "floor": 11,
     "area": 39.98
   },
   {

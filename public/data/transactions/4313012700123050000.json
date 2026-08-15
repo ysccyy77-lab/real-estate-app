@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "호수마을",
+    "dealAmount": "12,700",
+    "date": "2026-07-24",
+    "floor": 1,
+    "area": 51.47
+  },
+  {
+    "aptNm": "호수마을",
     "dealAmount": "22,600",
     "date": "2026-06-05",
     "floor": 9,

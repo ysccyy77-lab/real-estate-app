@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "대원레스피아",
+    "dealAmount": "22,500",
+    "date": "2026-08-12",
+    "floor": 14,
+    "area": 59.867
+  },
+  {
+    "aptNm": "주공10",
+    "dealAmount": "82,000",
+    "date": "2026-08-04",
+    "floor": 5,
+    "area": 58.01
+  },
+  {
+    "aptNm": "주공10",
+    "dealAmount": "81,000",
+    "date": "2026-08-03",
+    "floor": 11,
+    "area": 58.01
+  },
+  {
+    "aptNm": "창동주공18단지",
+    "dealAmount": "59,500",
+    "date": "2026-08-01",
+    "floor": 2,
+    "area": 45.9
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "13,500",
+    "date": "2026-07-24",
+    "floor": 1,
+    "area": 84.97
+  },
+  {
+    "aptNm": "진산마을성원상떼빌아파트",
+    "dealAmount": "91,000",
+    "date": "2026-07-23",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대원레스피아",
     "dealAmount": "19,000",
     "date": "2026-07-22",
     "floor": 11,
@@ -42,11 +84,25 @@
     "area": 84.97
   },
   {
+    "aptNm": "서강GS",
+    "dealAmount": "158,000",
+    "date": "2026-07-15",
+    "floor": 23,
+    "area": 59.98
+  },
+  {
     "aptNm": "대원레스피아",
     "dealAmount": "18,500",
     "date": "2026-07-14",
     "floor": 7,
     "area": 59.867
+  },
+  {
+    "aptNm": "주공10",
+    "dealAmount": "64,800",
+    "date": "2026-07-11",
+    "floor": 3,
+    "area": 45.77
   },
   {
     "aptNm": "주공10",

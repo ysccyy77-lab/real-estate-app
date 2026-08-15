@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "한강신도시운양KCC스위첸",
+    "dealAmount": "45,400",
+    "date": "2026-08-11",
+    "floor": 4,
+    "area": 84.37
+  },
+  {
+    "aptNm": "한강신도시운양KCC스위첸",
+    "dealAmount": "44,950",
+    "date": "2026-07-30",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "한강신도시운양KCC스위첸",
+    "dealAmount": "47,800",
+    "date": "2026-07-28",
+    "floor": 20,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한강신도시운양KCC스위첸",
     "dealAmount": "47,400",
     "date": "2026-06-13",
     "floor": 8,

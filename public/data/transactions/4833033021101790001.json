@@ -1,9 +1,30 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "20,400",
+    "date": "2026-08-04",
+    "floor": 9,
+    "area": 63.99
+  },
+  {
+    "aptNm": "국제",
+    "dealAmount": "14,500",
+    "date": "2026-07-30",
+    "floor": 7,
+    "area": 107.91
+  },
+  {
     "aptNm": "석탑,까치마을",
     "dealAmount": "13,300",
     "date": "2026-07-29",
     "floor": 5,
+    "area": 84.77
+  },
+  {
+    "aptNm": "석탑,까치마을",
+    "dealAmount": "12,300",
+    "date": "2026-07-28",
+    "floor": 16,
     "area": 84.77
   },
   {

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서초센트럴IPARK",
+    "dealAmount": "200,000",
+    "date": "2026-07-18",
+    "floor": 2,
+    "area": 80.5332
+  },
+  {
+    "aptNm": "서초센트럴IPARK",
     "dealAmount": "221,500",
     "date": "2026-06-20",
     "floor": 28,

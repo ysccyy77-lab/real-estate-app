@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "사천엘크루",
+    "dealAmount": "22,450",
+    "date": "2026-08-06",
+    "floor": 14,
+    "area": 84.9801
+  },
+  {
+    "aptNm": "사천엘크루",
+    "dealAmount": "22,250",
+    "date": "2026-08-01",
+    "floor": 5,
+    "area": 84.9801
+  },
+  {
+    "aptNm": "성원하이츠A동",
+    "dealAmount": "39,500",
+    "date": "2026-07-27",
+    "floor": 4,
+    "area": 73.5
+  },
+  {
+    "aptNm": "사천엘크루",
+    "dealAmount": "22,000",
+    "date": "2026-07-24",
+    "floor": 5,
+    "area": 84.9801
+  },
+  {
+    "aptNm": "사천엘크루",
     "dealAmount": "24,600",
     "date": "2026-07-22",
     "floor": 13,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "센텀리버SKVIEW",
+    "dealAmount": "44,000",
+    "date": "2026-08-01",
+    "floor": 7,
+    "area": 64.0118
+  },
+  {
+    "aptNm": "센텀리버SKVIEW",
     "dealAmount": "44,500",
     "date": "2026-07-21",
     "floor": 3,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "현대아파트",
+    "dealAmount": "26,800",
+    "date": "2026-08-04",
+    "floor": 14,
+    "area": 59.985
+  },
+  {
+    "aptNm": "현대아파트",
+    "dealAmount": "26,700",
+    "date": "2026-07-25",
+    "floor": 9,
+    "area": 59.985
+  },
+  {
+    "aptNm": "성해",
+    "dealAmount": "86,000",
+    "date": "2026-07-25",
+    "floor": 2,
+    "area": 75.83
+  },
+  {
+    "aptNm": "현대아파트",
     "dealAmount": "29,500",
     "date": "2026-07-21",
     "floor": 11,

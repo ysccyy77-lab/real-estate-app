@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼신8차",
+    "dealAmount": "18,000",
+    "date": "2026-07-25",
+    "floor": 1,
+    "area": 48.93
+  },
+  {
+    "aptNm": "삼신8차",
     "dealAmount": "20,000",
     "date": "2026-07-23",
     "floor": 4,

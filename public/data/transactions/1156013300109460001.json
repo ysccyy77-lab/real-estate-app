@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대림현대",
+    "dealAmount": "69,800",
+    "date": "2026-08-05",
+    "floor": 9,
+    "area": 59.76
+  },
+  {
+    "aptNm": "대림현대",
     "dealAmount": "90,000",
     "date": "2026-07-12",
     "floor": 12,

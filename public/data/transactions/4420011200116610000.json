@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "아산줌파크",
+    "dealAmount": "23,500",
+    "date": "2026-08-10",
+    "floor": 12,
+    "area": 75.3
+  },
+  {
+    "aptNm": "아산줌파크",
     "dealAmount": "25,000",
     "date": "2026-07-20",
     "floor": 21,
+    "area": 75.3
+  },
+  {
+    "aptNm": "아산줌파크",
+    "dealAmount": "25,000",
+    "date": "2026-07-20",
+    "floor": 18,
     "area": 75.3
   },
   {

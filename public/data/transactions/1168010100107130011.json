@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "역삼I'PARK",
+    "dealAmount": "115,000",
+    "date": "2026-08-07",
+    "floor": 12,
+    "area": 28.246
+  },
+  {
+    "aptNm": "역삼I'PARK",
     "dealAmount": "101,000",
     "date": "2026-04-20",
     "floor": 17,

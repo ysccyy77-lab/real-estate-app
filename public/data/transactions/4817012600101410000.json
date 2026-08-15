@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "현대(2차)",
+    "dealAmount": "18,500",
+    "date": "2026-08-14",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "현대(2차)",
+    "dealAmount": "24,500",
+    "date": "2026-08-11",
+    "floor": 6,
+    "area": 75.12
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "4,600",
+    "date": "2026-08-10",
+    "floor": 6,
+    "area": 49.89
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "7,000",
+    "date": "2026-08-09",
+    "floor": 4,
+    "area": 59.93
+  },
+  {
+    "aptNm": "수정아파트",
+    "dealAmount": "5,800",
+    "date": "2026-08-06",
+    "floor": 2,
+    "area": 49.57
+  },
+  {
+    "aptNm": "대목바다마을",
+    "dealAmount": "6,000",
+    "date": "2026-08-05",
+    "floor": 5,
+    "area": 38.88
+  },
+  {
     "aptNm": "건영아모리움",
     "dealAmount": "31,500",
     "date": "2026-07-29",

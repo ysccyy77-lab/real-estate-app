@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "올리브힐",
+    "dealAmount": "39,200",
+    "date": "2026-08-10",
+    "floor": 10,
+    "area": 84.88
+  },
+  {
+    "aptNm": "올리브힐",
     "dealAmount": "32,000",
     "date": "2026-07-25",
     "floor": 5,

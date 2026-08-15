@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "원동현진",
+    "dealAmount": "8,700",
+    "date": "2026-08-10",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "원동현진",
+    "dealAmount": "7,500",
+    "date": "2026-07-27",
+    "floor": 10,
+    "area": 59.4
+  },
+  {
     "aptNm": "월드피아",
     "dealAmount": "9,750",
     "date": "2026-07-06",

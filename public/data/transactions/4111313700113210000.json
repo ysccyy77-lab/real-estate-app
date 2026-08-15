@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "가람마을4단지한양수자인",
+    "dealAmount": "35,000",
+    "date": "2026-08-10",
+    "floor": 10,
+    "area": 84.66
+  },
+  {
     "aptNm": "대림",
     "dealAmount": "58,000",
     "date": "2026-07-27",
     "floor": 1,
     "area": 97.265
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "56,500",
+    "date": "2026-07-23",
+    "floor": 13,
+    "area": 113.387
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "42,500",
+    "date": "2026-07-23",
+    "floor": 10,
+    "area": 59.91
   },
   {
     "aptNm": "벽산1",

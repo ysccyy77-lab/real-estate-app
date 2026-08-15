@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "홍인",
+    "dealAmount": "8,800",
+    "date": "2026-08-08",
+    "floor": 5,
+    "area": 77.52
+  },
+  {
+    "aptNm": "홍인",
     "dealAmount": "9,500",
     "date": "2026-04-21",
     "floor": 1,

@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "함백아파트",
+    "dealAmount": "2,700",
+    "date": "2026-07-31",
+    "floor": 2,
+    "area": 40.45
+  },
+  {
+    "aptNm": "함백아파트",
+    "dealAmount": "1,750",
+    "date": "2026-07-30",
+    "floor": 3,
+    "area": 40.45
+  },
+  {
     "aptNm": "진천교성주공",
     "dealAmount": "10,500",
     "date": "2026-07-25",
     "floor": 4,
     "area": 49.85
+  },
+  {
+    "aptNm": "신촌럭키",
+    "dealAmount": "130,000",
+    "date": "2026-07-23",
+    "floor": 5,
+    "area": 59.7
   },
   {
     "aptNm": "신촌럭키",

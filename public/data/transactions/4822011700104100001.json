@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "쌍용아진그린4",
+    "dealAmount": "15,100",
+    "date": "2026-08-12",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "쌍용아진그린4",
+    "dealAmount": "18,600",
+    "date": "2026-08-06",
+    "floor": 7,
+    "area": 84.92
+  },
+  {
+    "aptNm": "쌍용아진그린4",
+    "dealAmount": "30,000",
+    "date": "2026-08-06",
+    "floor": 7,
+    "area": 234.21
+  },
+  {
+    "aptNm": "미영",
+    "dealAmount": "7,400",
+    "date": "2026-08-05",
+    "floor": 3,
+    "area": 56.58
+  },
+  {
     "aptNm": "도남청솔",
     "dealAmount": "8,600",
     "date": "2026-07-18",

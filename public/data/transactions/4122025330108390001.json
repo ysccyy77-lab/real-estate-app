@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대아산성",
+    "dealAmount": "6,800",
+    "date": "2026-08-14",
+    "floor": 13,
+    "area": 59.82
+  },
+  {
+    "aptNm": "대아산성",
     "dealAmount": "6,000",
     "date": "2026-07-07",
     "floor": 1,

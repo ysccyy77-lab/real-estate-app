@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "더그린",
+    "dealAmount": "8,500",
+    "date": "2026-08-08",
+    "floor": 15,
+    "area": 22.2112
+  },
+  {
+    "aptNm": "주공4-2",
+    "dealAmount": "73,800",
+    "date": "2026-07-31",
+    "floor": 20,
+    "area": 59.97
+  },
+  {
+    "aptNm": "주공4-1",
+    "dealAmount": "72,750",
+    "date": "2026-07-31",
+    "floor": 8,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공4-1",
+    "dealAmount": "72,500",
+    "date": "2026-07-30",
+    "floor": 4,
+    "area": 58.14
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "31,000",
+    "date": "2026-07-17",
+    "floor": 18,
+    "area": 59.4
+  },
+  {
     "aptNm": "벽산",
     "dealAmount": "25,800",
     "date": "2026-07-16",

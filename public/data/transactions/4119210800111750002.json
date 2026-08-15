@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "무지개마을(LG)",
+    "dealAmount": "64,400",
+    "date": "2026-07-25",
+    "floor": 10,
+    "area": 84.9
+  },
+  {
+    "aptNm": "무지개마을(LG)",
     "dealAmount": "64,500",
     "date": "2026-07-18",
     "floor": 6,

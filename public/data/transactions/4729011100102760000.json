@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "38,300",
+    "date": "2026-08-06",
+    "floor": 25,
+    "area": 74.9587
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "39,700",
+    "date": "2026-08-01",
+    "floor": 1,
+    "area": 84.9882
+  },
+  {
+    "aptNm": "e-좋은아침",
+    "dealAmount": "26,000",
+    "date": "2026-07-28",
+    "floor": 12,
+    "area": 56.35
+  },
+  {
     "aptNm": "오산라온프라이빗스위트",
     "dealAmount": "42,000",
     "date": "2026-07-24",
@@ -26,6 +47,13 @@
     "date": "2026-07-15",
     "floor": 8,
     "area": 76.23
+  },
+  {
+    "aptNm": "그린맨션3차",
+    "dealAmount": "19,000",
+    "date": "2026-07-12",
+    "floor": 1,
+    "area": 84.99
   },
   {
     "aptNm": "대림아파트(276)",

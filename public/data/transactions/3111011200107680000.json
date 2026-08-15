@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "다운",
+    "dealAmount": "6,400",
+    "date": "2026-08-11",
+    "floor": 5,
+    "area": 39.99
+  },
+  {
+    "aptNm": "다운",
+    "dealAmount": "6,250",
+    "date": "2026-08-10",
+    "floor": 5,
+    "area": 39.99
+  },
+  {
+    "aptNm": "경북혁신엘에이치천년나무3단지",
+    "dealAmount": "24,600",
+    "date": "2026-07-30",
+    "floor": 6,
+    "area": 74.9
+  },
+  {
+    "aptNm": "다운",
     "dealAmount": "6,700",
     "date": "2026-07-29",
     "floor": 4,

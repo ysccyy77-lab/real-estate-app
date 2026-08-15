@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서한두레",
+    "dealAmount": "65,000",
+    "date": "2026-07-19",
+    "floor": 9,
+    "area": 84.925
+  },
+  {
+    "aptNm": "서한두레",
     "dealAmount": "85,000",
     "date": "2026-06-01",
     "floor": 8,

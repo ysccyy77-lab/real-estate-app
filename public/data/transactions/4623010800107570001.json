@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "동남전원2차",
+    "dealAmount": "5,800",
+    "date": "2026-08-13",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "세아",
+    "dealAmount": "25,300",
+    "date": "2026-08-06",
+    "floor": 14,
+    "area": 84.57
+  },
+  {
+    "aptNm": "세아",
+    "dealAmount": "25,250",
+    "date": "2026-08-01",
+    "floor": 2,
+    "area": 84.41
+  },
+  {
     "aptNm": "에코메트로7",
     "dealAmount": "55,000",
     "date": "2026-07-13",

@@ -1,10 +1,73 @@
 [
   {
+    "aptNm": "적성4차",
+    "dealAmount": "23,800",
+    "date": "2026-08-06",
+    "floor": 2,
+    "area": 50.94
+  },
+  {
+    "aptNm": "적성4차",
+    "dealAmount": "22,650",
+    "date": "2026-08-03",
+    "floor": 6,
+    "area": 53.64
+  },
+  {
+    "aptNm": "적성4차",
+    "dealAmount": "23,100",
+    "date": "2026-08-03",
+    "floor": 1,
+    "area": 53.64
+  },
+  {
+    "aptNm": "적성4차",
+    "dealAmount": "23,700",
+    "date": "2026-08-03",
+    "floor": 4,
+    "area": 53.64
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "138,500",
+    "date": "2026-07-25",
+    "floor": 9,
+    "area": 59.91
+  },
+  {
+    "aptNm": "적성4차",
+    "dealAmount": "27,400",
+    "date": "2026-07-22",
+    "floor": 4,
+    "area": 64.44
+  },
+  {
+    "aptNm": "적성4차",
+    "dealAmount": "22,800",
+    "date": "2026-07-21",
+    "floor": 1,
+    "area": 53.64
+  },
+  {
     "aptNm": "주공2",
     "dealAmount": "6,000",
     "date": "2026-07-17",
     "floor": 1,
     "area": 41.85
+  },
+  {
+    "aptNm": "적성4차",
+    "dealAmount": "23,500",
+    "date": "2026-07-15",
+    "floor": 4,
+    "area": 53.64
+  },
+  {
+    "aptNm": "태승훼밀리",
+    "dealAmount": "120,000",
+    "date": "2026-07-14",
+    "floor": 5,
+    "area": 84.6
   },
   {
     "aptNm": "적성4차",

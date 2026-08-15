@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "아름다운아침",
+    "dealAmount": "9,400",
+    "date": "2026-08-08",
+    "floor": 11,
+    "area": 60
+  },
+  {
+    "aptNm": "아름다운아침",
+    "dealAmount": "6,500",
+    "date": "2026-08-06",
+    "floor": 2,
+    "area": 49.95
+  },
+  {
+    "aptNm": "아름다운아침",
+    "dealAmount": "7,500",
+    "date": "2026-08-06",
+    "floor": 9,
+    "area": 49.95
+  },
+  {
+    "aptNm": "대원칸타빌2차",
+    "dealAmount": "29,000",
+    "date": "2026-08-03",
+    "floor": 11,
+    "area": 84.9992
+  },
+  {
+    "aptNm": "아름다운아침",
+    "dealAmount": "9,100",
+    "date": "2026-07-30",
+    "floor": 1,
+    "area": 60
+  },
+  {
     "aptNm": "베이힐",
     "dealAmount": "18,000",
     "date": "2026-07-21",

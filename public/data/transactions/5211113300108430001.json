@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "동아현대",
+    "dealAmount": "38,000",
+    "date": "2026-08-03",
+    "floor": 15,
+    "area": 134.79
+  },
+  {
+    "aptNm": "삼천리",
+    "dealAmount": "31,000",
+    "date": "2026-07-22",
+    "floor": 2,
+    "area": 53.64
+  },
+  {
+    "aptNm": "동아현대",
     "dealAmount": "27,000",
     "date": "2026-07-15",
     "floor": 1,

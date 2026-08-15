@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "장안",
+    "dealAmount": "32,000",
+    "date": "2026-08-07",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "장안",
     "dealAmount": "30,000",
     "date": "2026-04-01",
     "floor": 2,
