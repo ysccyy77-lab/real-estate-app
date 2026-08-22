@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "영남탑스빌",
+    "dealAmount": "18,000",
+    "date": "2026-08-18",
+    "floor": 6,
+    "area": 59.98
+  },
+  {
+    "aptNm": "영남탑스빌",
+    "dealAmount": "26,800",
+    "date": "2026-08-09",
+    "floor": 4,
+    "area": 91.553
+  },
+  {
+    "aptNm": "영남탑스빌",
     "dealAmount": "20,000",
     "date": "2026-06-15",
     "floor": 13,

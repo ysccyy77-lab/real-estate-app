@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "동보호수마을",
+    "dealAmount": "2,500",
+    "date": "2026-08-18",
+    "floor": 1,
+    "area": 25.725
+  },
+  {
+    "aptNm": "동보호수마을",
+    "dealAmount": "2,600",
+    "date": "2026-08-16",
+    "floor": 5,
+    "area": 25.725
+  },
+  {
+    "aptNm": "동보호수마을",
     "dealAmount": "2,200",
     "date": "2026-08-06",
     "floor": 8,

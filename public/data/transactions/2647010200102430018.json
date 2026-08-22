@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "연산엘지",
+    "dealAmount": "28,000",
+    "date": "2026-08-20",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "연산엘지",
+    "dealAmount": "40,500",
+    "date": "2026-08-04",
+    "floor": 10,
+    "area": 119.25
+  },
+  {
+    "aptNm": "연산엘지",
     "dealAmount": "34,500",
     "date": "2026-07-31",
     "floor": 8,

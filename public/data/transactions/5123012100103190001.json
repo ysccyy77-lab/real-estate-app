@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "e편한세상송도",
+    "dealAmount": "50,000",
+    "date": "2026-08-20",
+    "floor": 27,
+    "area": 70.3826
+  },
+  {
+    "aptNm": "e편한세상송도",
+    "dealAmount": "58,450",
+    "date": "2026-08-18",
+    "floor": 34,
+    "area": 70.5618
+  },
+  {
+    "aptNm": "e편한세상송도",
+    "dealAmount": "59,000",
+    "date": "2026-08-11",
+    "floor": 34,
+    "area": 70.5618
+  },
+  {
+    "aptNm": "성환골드",
+    "dealAmount": "5,400",
+    "date": "2026-08-08",
+    "floor": 5,
+    "area": 40.755
+  },
+  {
+    "aptNm": "e편한세상송도",
     "dealAmount": "54,700",
     "date": "2026-08-04",
     "floor": 11,
     "area": 70.3826
+  },
+  {
+    "aptNm": "하나",
+    "dealAmount": "17,080",
+    "date": "2026-08-03",
+    "floor": 1,
+    "area": 76.17
   },
   {
     "aptNm": "하나",

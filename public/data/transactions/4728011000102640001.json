@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "샬롬",
+    "dealAmount": "2,000",
+    "date": "2026-08-21",
+    "floor": 2,
+    "area": 57.9
+  },
+  {
     "aptNm": "대림",
     "dealAmount": "11,900",
     "date": "2026-07-13",

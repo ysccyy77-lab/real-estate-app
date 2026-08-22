@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "황실",
+    "dealAmount": "15,000",
+    "date": "2026-08-21",
+    "floor": 5,
+    "area": 58.32
+  },
+  {
+    "aptNm": "하나2차",
+    "dealAmount": "23,800",
+    "date": "2026-08-20",
+    "floor": 6,
+    "area": 84.9255
+  },
+  {
     "aptNm": "현대1",
     "dealAmount": "9,800",
     "date": "2026-08-13",

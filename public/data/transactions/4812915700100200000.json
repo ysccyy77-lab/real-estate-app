@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "3,100",
+    "date": "2026-08-18",
+    "floor": 3,
+    "area": 29.94
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "17,900",
+    "date": "2026-08-14",
+    "floor": 2,
+    "area": 84.55
+  },
+  {
     "aptNm": "동아",
     "dealAmount": "32,900",
     "date": "2026-08-13",
     "floor": 15,
     "area": 59.925
+  },
+  {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,900",
+    "date": "2026-08-13",
+    "floor": 17,
+    "area": 29.94
   },
   {
     "aptNm": "현대",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대덕2차",
+    "dealAmount": "25,500",
+    "date": "2026-08-15",
+    "floor": 9,
+    "area": 113.09
+  },
+  {
+    "aptNm": "대덕2차",
     "dealAmount": "23,000",
     "date": "2026-05-23",
     "floor": 1,

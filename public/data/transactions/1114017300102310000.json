@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼성타운",
+    "dealAmount": "81,000",
+    "date": "2026-08-05",
+    "floor": 19,
+    "area": 84.82
+  },
+  {
+    "aptNm": "삼성타운",
     "dealAmount": "63,000",
     "date": "2026-07-26",
     "floor": 5,

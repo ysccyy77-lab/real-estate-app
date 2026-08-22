@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "회원주공",
+    "dealAmount": "10,000",
+    "date": "2026-08-07",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "회원주공",
     "dealAmount": "17,000",
     "date": "2026-06-05",
     "floor": 19,

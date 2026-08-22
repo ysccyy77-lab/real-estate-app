@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "골든리버",
+    "dealAmount": "5,000",
+    "date": "2026-08-14",
+    "floor": 5,
+    "area": 26.8
+  },
+  {
+    "aptNm": "골든리버",
     "dealAmount": "9,700",
     "date": "2026-06-04",
     "floor": 10,

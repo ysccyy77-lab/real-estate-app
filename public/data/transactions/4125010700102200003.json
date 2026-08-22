@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "영광",
+    "dealAmount": "47,000",
+    "date": "2026-08-08",
+    "floor": 14,
+    "area": 83.4
+  },
+  {
+    "aptNm": "영광",
+    "dealAmount": "48,500",
+    "date": "2026-07-29",
+    "floor": 9,
+    "area": 83.4
+  },
+  {
     "aptNm": "성지",
     "dealAmount": "23,900",
     "date": "2026-07-21",

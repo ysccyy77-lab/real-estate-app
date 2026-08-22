@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "덕성",
+    "dealAmount": "3,200",
+    "date": "2026-08-19",
+    "floor": 10,
+    "area": 22.68
+  },
+  {
+    "aptNm": "덕성",
     "dealAmount": "3,300",
     "date": "2026-08-10",
     "floor": 10,
     "area": 22.68
+  },
+  {
+    "aptNm": "장안현대",
+    "dealAmount": "96,000",
+    "date": "2026-08-10",
+    "floor": 8,
+    "area": 95.44
   },
   {
     "aptNm": "예산1차세광엔리치타워",

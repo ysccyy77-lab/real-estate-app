@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "테크노밸리EGthe12단지",
+    "dealAmount": "21,100",
+    "date": "2026-08-10",
+    "floor": 15,
+    "area": 79.9897
+  },
+  {
+    "aptNm": "테크노밸리EGthe12단지",
     "dealAmount": "21,400",
     "date": "2026-07-29",
     "floor": 12,

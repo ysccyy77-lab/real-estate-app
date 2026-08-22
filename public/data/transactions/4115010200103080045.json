@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한국개나리",
+    "dealAmount": "23,300",
+    "date": "2026-08-17",
+    "floor": 22,
+    "area": 59.91
+  },
+  {
+    "aptNm": "한국개나리",
+    "dealAmount": "35,000",
+    "date": "2026-08-07",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한국개나리",
     "dealAmount": "24,500",
     "date": "2026-08-03",
     "floor": 12,

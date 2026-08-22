@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "알파시티",
+    "dealAmount": "4,600",
+    "date": "2026-08-14",
+    "floor": 11,
+    "area": 16.8
+  },
+  {
+    "aptNm": "알파시티",
     "dealAmount": "4,200",
     "date": "2026-07-27",
     "floor": 7,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한일부곡1",
+    "dealAmount": "5,200",
+    "date": "2026-08-18",
+    "floor": 5,
+    "area": 59.79
+  },
+  {
+    "aptNm": "한일부곡1",
     "dealAmount": "5,800",
     "date": "2026-07-28",
     "floor": 3,

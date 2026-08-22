@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "한라무지개",
+    "dealAmount": "15,000",
+    "date": "2026-08-21",
+    "floor": 5,
+    "area": 57.16
+  },
+  {
     "aptNm": "송하",
     "dealAmount": "4,900",
     "date": "2026-08-14",
     "floor": 3,
     "area": 39.93
+  },
+  {
+    "aptNm": "더반포레",
+    "dealAmount": "3,500",
+    "date": "2026-08-14",
+    "floor": 14,
+    "area": 29.7
   },
   {
     "aptNm": "더반포레",

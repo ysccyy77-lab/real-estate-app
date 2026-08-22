@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "어울림하트",
+    "dealAmount": "51,000",
+    "date": "2026-08-19",
+    "floor": 16,
+    "area": 84.47
+  },
+  {
+    "aptNm": "어울림하트",
+    "dealAmount": "51,500",
+    "date": "2026-08-17",
+    "floor": 4,
+    "area": 84.49
+  },
+  {
+    "aptNm": "어울림하트",
+    "dealAmount": "53,000",
+    "date": "2026-08-14",
+    "floor": 20,
+    "area": 84.47
+  },
+  {
+    "aptNm": "어울림하트",
     "dealAmount": "52,200",
     "date": "2026-08-12",
     "floor": 20,

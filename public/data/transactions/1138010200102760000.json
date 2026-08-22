@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "41,000",
+    "date": "2026-08-18",
+    "floor": 14,
+    "area": 84.9882
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
+    "dealAmount": "38,300",
+    "date": "2026-08-17",
+    "floor": 21,
+    "area": 74.958
+  },
+  {
+    "aptNm": "대림아파트(276)",
+    "dealAmount": "85,000",
+    "date": "2026-08-17",
+    "floor": 14,
+    "area": 84.94
+  },
+  {
+    "aptNm": "정평역하늘채RIVERPARK",
     "dealAmount": "38,300",
     "date": "2026-08-06",
     "floor": 25,

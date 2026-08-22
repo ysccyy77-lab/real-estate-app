@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신현대",
+    "dealAmount": "37,000",
+    "date": "2026-08-19",
+    "floor": 2,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신현대",
     "dealAmount": "38,000",
     "date": "2026-07-18",
     "floor": 9,

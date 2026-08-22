@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "갈마",
+    "dealAmount": "25,000",
+    "date": "2026-08-18",
+    "floor": 7,
+    "area": 84.68
+  },
+  {
+    "aptNm": "갈마",
     "dealAmount": "22,700",
     "date": "2026-07-24",
     "floor": 5,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "광진산업",
+    "dealAmount": "12,200",
+    "date": "2026-08-17",
+    "floor": 5,
+    "area": 59.0547
+  },
+  {
+    "aptNm": "삼성쉐르빌",
+    "dealAmount": "292,000",
+    "date": "2026-08-11",
+    "floor": 27,
+    "area": 221.44
+  },
+  {
+    "aptNm": "광진산업",
+    "dealAmount": "12,700",
+    "date": "2026-08-10",
+    "floor": 5,
+    "area": 59.5213
+  },
+  {
+    "aptNm": "광진산업",
     "dealAmount": "14,500",
     "date": "2026-07-30",
     "floor": 1,

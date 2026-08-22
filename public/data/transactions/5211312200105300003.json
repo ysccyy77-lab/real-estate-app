@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대명궁궐",
+    "dealAmount": "7,100",
+    "date": "2026-08-18",
+    "floor": 1,
+    "area": 59.49
+  },
+  {
+    "aptNm": "대명궁궐",
     "dealAmount": "6,900",
     "date": "2026-07-31",
     "floor": 2,

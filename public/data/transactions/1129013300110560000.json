@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "쌍용예가",
+    "dealAmount": "90,000",
+    "date": "2026-08-19",
+    "floor": 8,
+    "area": 101.76
+  },
+  {
+    "aptNm": "쌍용예가",
+    "dealAmount": "88,000",
+    "date": "2026-08-13",
+    "floor": 16,
+    "area": 101.76
+  },
+  {
+    "aptNm": "쌍용예가",
+    "dealAmount": "93,000",
+    "date": "2026-08-08",
+    "floor": 15,
+    "area": 122.78
+  },
+  {
+    "aptNm": "쌍용예가",
     "dealAmount": "87,900",
     "date": "2026-08-04",
     "floor": 13,

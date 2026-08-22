@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "엘지빌리지4",
+    "dealAmount": "39,000",
+    "date": "2026-08-20",
+    "floor": 15,
+    "area": 59.997
+  },
+  {
+    "aptNm": "신화",
+    "dealAmount": "17,800",
+    "date": "2026-08-17",
+    "floor": 12,
+    "area": 84.99
+  },
+  {
+    "aptNm": "엘지빌리지4",
+    "dealAmount": "39,200",
+    "date": "2026-08-14",
+    "floor": 18,
+    "area": 60
+  },
+  {
     "aptNm": "호반베르디움더숲",
     "dealAmount": "51,000",
     "date": "2026-08-12",
     "floor": 8,
     "area": 84.96
+  },
+  {
+    "aptNm": "효촌마을",
+    "dealAmount": "25,000",
+    "date": "2026-08-10",
+    "floor": 12,
+    "area": 84.99
   },
   {
     "aptNm": "부평코오롱하늘채",

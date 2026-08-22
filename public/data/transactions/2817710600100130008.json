@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "풍림",
+    "dealAmount": "42,000",
+    "date": "2026-07-29",
+    "floor": 15,
+    "area": 96.72
+  },
+  {
+    "aptNm": "풍림",
     "dealAmount": "54,000",
     "date": "2026-05-12",
     "floor": 5,

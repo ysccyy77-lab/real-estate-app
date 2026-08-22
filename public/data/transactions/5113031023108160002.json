@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "영진4차",
+    "dealAmount": "4,900",
+    "date": "2026-08-14",
+    "floor": 11,
+    "area": 59.86
+  },
+  {
+    "aptNm": "영진4차",
     "dealAmount": "3,900",
     "date": "2026-08-09",
     "floor": 6,
+    "area": 37.12
+  },
+  {
+    "aptNm": "영진4차",
+    "dealAmount": "3,400",
+    "date": "2026-08-08",
+    "floor": 7,
     "area": 37.12
   },
   {

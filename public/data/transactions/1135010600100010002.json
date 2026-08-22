@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "강변",
+    "dealAmount": "60,500",
+    "date": "2026-08-21",
+    "floor": 9,
+    "area": 100
+  },
+  {
+    "aptNm": "신한토탈",
+    "dealAmount": "17,000",
+    "date": "2026-08-12",
+    "floor": 9,
+    "area": 84.442
+  },
+  {
+    "aptNm": "강변",
     "dealAmount": "75,000",
     "date": "2026-08-11",
     "floor": 13,
     "area": 127.71
+  },
+  {
+    "aptNm": "남일",
+    "dealAmount": "6,800",
+    "date": "2026-08-08",
+    "floor": 1,
+    "area": 57.88
   },
   {
     "aptNm": "현대2(201동,202동)",

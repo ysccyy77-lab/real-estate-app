@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "다송",
+    "dealAmount": "5,400",
+    "date": "2026-08-15",
+    "floor": 13,
+    "area": 41.27
+  },
+  {
+    "aptNm": "다송",
     "dealAmount": "6,000",
     "date": "2026-08-10",
     "floor": 3,

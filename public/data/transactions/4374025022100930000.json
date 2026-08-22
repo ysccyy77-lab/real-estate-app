@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동성",
+    "dealAmount": "14,250",
+    "date": "2026-08-15",
+    "floor": 16,
+    "area": 49.5
+  },
+  {
+    "aptNm": "동성",
     "dealAmount": "16,300",
     "date": "2026-08-14",
     "floor": 2,

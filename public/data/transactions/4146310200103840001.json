@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "한빛골드빌1차",
+    "dealAmount": "79,500",
+    "date": "2026-07-28",
+    "floor": 9,
+    "area": 72.41
+  },
+  {
     "aptNm": "동부",
     "dealAmount": "74,500",
     "date": "2026-07-03",
     "floor": 10,
     "area": 62.17
+  },
+  {
+    "aptNm": "한빛골드빌1차",
+    "dealAmount": "77,000",
+    "date": "2026-07-02",
+    "floor": 14,
+    "area": 72.41
   },
   {
     "aptNm": "동부",

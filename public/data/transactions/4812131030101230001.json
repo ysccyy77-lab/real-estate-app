@@ -1,9 +1,23 @@
 [
   {
+    "aptNm": "휴먼빌1단지",
+    "dealAmount": "15,000",
+    "date": "2026-08-18",
+    "floor": 8,
+    "area": 59.991
+  },
+  {
     "aptNm": "벽산블루밍A",
     "dealAmount": "24,000",
     "date": "2026-08-13",
     "floor": 20,
+    "area": 59.97
+  },
+  {
+    "aptNm": "벽산블루밍A",
+    "dealAmount": "28,500",
+    "date": "2026-08-13",
+    "floor": 6,
     "area": 59.97
   },
   {

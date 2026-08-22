@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "대우",
+    "dealAmount": "38,500",
+    "date": "2026-08-08",
+    "floor": 8,
+    "area": 59.946
+  },
+  {
     "aptNm": "장유E-편한세상",
     "dealAmount": "20,500",
     "date": "2026-08-07",
     "floor": 9,
     "area": 71.079
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "39,300",
+    "date": "2026-07-25",
+    "floor": 13,
+    "area": 59.946
   },
   {
     "aptNm": "대우",

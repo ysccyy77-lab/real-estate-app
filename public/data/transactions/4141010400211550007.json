@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "가야3주공",
+    "dealAmount": "21,000",
+    "date": "2026-08-15",
+    "floor": 16,
+    "area": 42.75
+  },
+  {
+    "aptNm": "가야3주공",
+    "dealAmount": "19,800",
+    "date": "2026-08-10",
+    "floor": 6,
+    "area": 42.75
+  },
+  {
+    "aptNm": "가야3주공",
     "dealAmount": "23,000",
     "date": "2026-07-31",
     "floor": 17,

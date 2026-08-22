@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "삼환",
+    "dealAmount": "50,000",
+    "date": "2026-08-20",
+    "floor": 8,
+    "area": 64.38
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "59,900",
+    "date": "2026-08-17",
+    "floor": 10,
+    "area": 73.62
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "51,000",
+    "date": "2026-08-15",
+    "floor": 8,
+    "area": 73.62
+  },
+  {
+    "aptNm": "삼환",
     "dealAmount": "61,000",
     "date": "2026-08-08",
     "floor": 2,
@@ -12,6 +33,13 @@
     "date": "2026-08-08",
     "floor": 13,
     "area": 84.9
+  },
+  {
+    "aptNm": "스타디움센트럴시티",
+    "dealAmount": "40,500",
+    "date": "2026-08-08",
+    "floor": 2,
+    "area": 74.8816
   },
   {
     "aptNm": "삼환",

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "냉천마을현대",
+    "dealAmount": "34,500",
+    "date": "2026-08-14",
+    "floor": 1,
+    "area": 59.76
+  },
+  {
+    "aptNm": "냉천마을현대",
+    "dealAmount": "44,500",
+    "date": "2026-08-04",
+    "floor": 15,
+    "area": 84.78
+  },
+  {
+    "aptNm": "냉천마을현대",
+    "dealAmount": "43,500",
+    "date": "2026-08-02",
+    "floor": 2,
+    "area": 84.78
+  },
+  {
+    "aptNm": "냉천마을현대",
     "dealAmount": "46,500",
     "date": "2026-07-02",
     "floor": 8,

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "풍호시영",
+    "dealAmount": "11,500",
+    "date": "2026-08-20",
+    "floor": 2,
+    "area": 49.79
+  },
+  {
+    "aptNm": "관동2",
+    "dealAmount": "7,400",
+    "date": "2026-08-18",
+    "floor": 1,
+    "area": 49.94
+  },
+  {
+    "aptNm": "관동2",
+    "dealAmount": "6,050",
+    "date": "2026-07-29",
+    "floor": 2,
+    "area": 49.94
+  },
+  {
     "aptNm": "평촌이편한세상",
     "dealAmount": "164,500",
     "date": "2026-07-08",

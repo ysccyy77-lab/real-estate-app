@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "SummitPlace광교",
+    "dealAmount": "200,000",
+    "date": "2026-08-08",
+    "floor": 12,
+    "area": 116.379
+  },
+  {
     "aptNm": "엘크루가람마을5단지",
     "dealAmount": "37,500",
     "date": "2026-08-01",
@@ -12,6 +19,13 @@
     "date": "2026-08-01",
     "floor": 12,
     "area": 84.94
+  },
+  {
+    "aptNm": "광안더샵",
+    "dealAmount": "90,000",
+    "date": "2026-08-01",
+    "floor": 24,
+    "area": 84.93
   },
   {
     "aptNm": "SummitPlace광교",

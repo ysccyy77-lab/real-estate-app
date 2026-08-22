@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "우방1",
+    "dealAmount": "7,900",
+    "date": "2026-08-11",
+    "floor": 15,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우방1",
     "dealAmount": "9,800",
     "date": "2026-08-10",
     "floor": 4,
     "area": 84.98
+  },
+  {
+    "aptNm": "일동",
+    "dealAmount": "2,700",
+    "date": "2026-08-10",
+    "floor": 4,
+    "area": 58.17
   },
   {
     "aptNm": "영진노암2차",

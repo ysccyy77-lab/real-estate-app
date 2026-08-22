@@ -1,9 +1,30 @@
 [
   {
+    "aptNm": "한주5",
+    "dealAmount": "34,500",
+    "date": "2026-08-18",
+    "floor": 25,
+    "area": 59.63
+  },
+  {
+    "aptNm": "대유타운",
+    "dealAmount": "7,200",
+    "date": "2026-08-11",
+    "floor": 9,
+    "area": 59.94
+  },
+  {
     "aptNm": "대유타운",
     "dealAmount": "5,700",
     "date": "2026-08-08",
     "floor": 14,
+    "area": 48.69
+  },
+  {
+    "aptNm": "대유타운",
+    "dealAmount": "4,700",
+    "date": "2026-07-31",
+    "floor": 11,
     "area": 48.69
   },
   {

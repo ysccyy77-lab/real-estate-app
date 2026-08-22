@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼익그린",
+    "dealAmount": "23,000",
+    "date": "2026-08-13",
+    "floor": 8,
+    "area": 84.98
+  },
+  {
+    "aptNm": "삼익그린",
     "dealAmount": "17,500",
     "date": "2026-07-27",
     "floor": 18,

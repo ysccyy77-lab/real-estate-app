@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "학산아파트",
+    "dealAmount": "4,000",
+    "date": "2026-08-19",
+    "floor": 8,
+    "area": 27.7
+  },
+  {
+    "aptNm": "학산아파트",
+    "dealAmount": "3,870",
+    "date": "2026-08-19",
+    "floor": 6,
+    "area": 27.7
+  },
+  {
+    "aptNm": "학산아파트",
+    "dealAmount": "3,400",
+    "date": "2026-08-18",
+    "floor": 10,
+    "area": 27.7
+  },
+  {
     "aptNm": "한양3",
     "dealAmount": "587,000",
     "date": "2026-08-06",

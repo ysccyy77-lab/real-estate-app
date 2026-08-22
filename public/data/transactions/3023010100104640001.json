@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "엑스포",
+    "dealAmount": "47,800",
+    "date": "2026-08-17",
+    "floor": 11,
+    "area": 84.173
+  },
+  {
+    "aptNm": "엑스포",
+    "dealAmount": "66,000",
+    "date": "2026-08-15",
+    "floor": 13,
+    "area": 157.14
+  },
+  {
+    "aptNm": "엑스포",
     "dealAmount": "65,000",
     "date": "2026-08-14",
     "floor": 14,

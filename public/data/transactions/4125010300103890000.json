@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "힐스테이트익산",
+    "dealAmount": "37,700",
+    "date": "2026-08-21",
+    "floor": 16,
+    "area": 84.7959
+  },
+  {
+    "aptNm": "영진로얄",
+    "dealAmount": "16,500",
+    "date": "2026-08-18",
+    "floor": 4,
+    "area": 74.005
+  },
+  {
+    "aptNm": "명천주공3",
+    "dealAmount": "10,650",
+    "date": "2026-08-13",
+    "floor": 11,
+    "area": 49.97
+  },
+  {
+    "aptNm": "DMC에코자이",
+    "dealAmount": "144,500",
+    "date": "2026-08-12",
+    "floor": 13,
+    "area": 72.845
+  },
+  {
     "aptNm": "명천주공4",
     "dealAmount": "11,000",
     "date": "2026-08-10",

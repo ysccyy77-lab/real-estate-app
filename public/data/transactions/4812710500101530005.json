@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "비젼",
+    "dealAmount": "20,800",
+    "date": "2026-08-15",
+    "floor": 9,
+    "area": 68.47
+  },
+  {
+    "aptNm": "비젼",
     "dealAmount": "20,500",
     "date": "2026-07-25",
     "floor": 17,

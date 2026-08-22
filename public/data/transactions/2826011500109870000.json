@@ -2,6 +2,34 @@
   {
     "aptNm": "건건e-편한세상",
     "dealAmount": "42,500",
+    "date": "2026-08-16",
+    "floor": 13,
+    "area": 70.7611
+  },
+  {
+    "aptNm": "건건e-편한세상",
+    "dealAmount": "44,500",
+    "date": "2026-08-15",
+    "floor": 24,
+    "area": 70.7611
+  },
+  {
+    "aptNm": "춘광한빛",
+    "dealAmount": "5,200",
+    "date": "2026-08-12",
+    "floor": 9,
+    "area": 59.87
+  },
+  {
+    "aptNm": "건건e-편한세상",
+    "dealAmount": "50,000",
+    "date": "2026-08-10",
+    "floor": 5,
+    "area": 84.9356
+  },
+  {
+    "aptNm": "건건e-편한세상",
+    "dealAmount": "42,500",
     "date": "2026-08-08",
     "floor": 14,
     "area": 59.9713

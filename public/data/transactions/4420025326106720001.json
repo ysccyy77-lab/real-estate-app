@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "초원맘모스",
+    "dealAmount": "4,000",
+    "date": "2026-08-19",
+    "floor": 11,
+    "area": 44.46
+  },
+  {
+    "aptNm": "한강동일스위트TheParkView2단지",
+    "dealAmount": "42,000",
+    "date": "2026-08-15",
+    "floor": 4,
+    "area": 84.8977
+  },
+  {
     "aptNm": "한강동일스위트TheParkView2단지",
     "dealAmount": "45,000",
     "date": "2026-08-08",
     "floor": 10,
     "area": 84.9584
+  },
+  {
+    "aptNm": "한강동일스위트TheParkView2단지",
+    "dealAmount": "42,000",
+    "date": "2026-08-08",
+    "floor": 12,
+    "area": 84.8977
   },
   {
     "aptNm": "초원맘모스",

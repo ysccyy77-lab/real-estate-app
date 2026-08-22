@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "뉴월드",
+    "dealAmount": "24,800",
+    "date": "2026-08-06",
+    "floor": 6,
+    "area": 59.76
+  },
+  {
+    "aptNm": "뉴월드",
     "dealAmount": "25,700",
     "date": "2026-04-02",
     "floor": 14,

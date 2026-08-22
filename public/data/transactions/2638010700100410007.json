@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "구평화신",
+    "dealAmount": "12,000",
+    "date": "2026-08-18",
+    "floor": 2,
+    "area": 84.945
+  },
+  {
+    "aptNm": "구평화신",
     "dealAmount": "17,500",
     "date": "2026-07-25",
     "floor": 7,

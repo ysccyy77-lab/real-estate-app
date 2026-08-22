@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "남양휴튼",
+    "dealAmount": "42,000",
+    "date": "2026-08-20",
+    "floor": 14,
+    "area": 119.77
+  },
+  {
+    "aptNm": "가좌마을용담이-편한세상",
+    "dealAmount": "37,300",
+    "date": "2026-08-19",
+    "floor": 14,
+    "area": 139.233
+  },
+  {
+    "aptNm": "한주3",
+    "dealAmount": "31,500",
+    "date": "2026-08-17",
+    "floor": 16,
+    "area": 59.82
+  },
+  {
+    "aptNm": "남양휴튼",
+    "dealAmount": "36,600",
+    "date": "2026-08-17",
+    "floor": 10,
+    "area": 102.48
+  },
+  {
+    "aptNm": "청당마을신도브래뉴",
+    "dealAmount": "18,000",
+    "date": "2026-08-14",
+    "floor": 7,
+    "area": 84.931
+  },
+  {
+    "aptNm": "남양휴튼",
+    "dealAmount": "44,200",
+    "date": "2026-08-14",
+    "floor": 2,
+    "area": 130.59
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "109,800",
+    "date": "2026-08-13",
+    "floor": 11,
+    "area": 93.38
+  },
+  {
     "aptNm": "청당마을신도브래뉴",
     "dealAmount": "17,500",
     "date": "2026-08-12",
@@ -7,11 +56,32 @@
     "area": 84.931
   },
   {
+    "aptNm": "양구석미모닝파크",
+    "dealAmount": "20,300",
+    "date": "2026-08-12",
+    "floor": 5,
+    "area": 77.12
+  },
+  {
     "aptNm": "명천주공1차아파트",
     "dealAmount": "4,400",
     "date": "2026-08-10",
     "floor": 4,
     "area": 47.01
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "109,500",
+    "date": "2026-08-10",
+    "floor": 7,
+    "area": 91.6
+  },
+  {
+    "aptNm": "남양휴튼",
+    "dealAmount": "38,500",
+    "date": "2026-08-10",
+    "floor": 7,
+    "area": 102.48
   },
   {
     "aptNm": "가좌마을용담이-편한세상",
@@ -23,9 +93,37 @@
   {
     "aptNm": "동신",
     "dealAmount": "100,000",
+    "date": "2026-08-06",
+    "floor": 6,
+    "area": 91.54
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "100,000",
     "date": "2026-08-01",
     "floor": 2,
     "area": 93.38
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "98,000",
+    "date": "2026-07-30",
+    "floor": 9,
+    "area": 91.54
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "109,500",
+    "date": "2026-07-30",
+    "floor": 10,
+    "area": 91.54
+  },
+  {
+    "aptNm": "극동그린",
+    "dealAmount": "156,000",
+    "date": "2026-07-30",
+    "floor": 6,
+    "area": 84.92
   },
   {
     "aptNm": "래미안첼리투스",
@@ -42,11 +140,32 @@
     "area": 84.57
   },
   {
+    "aptNm": "동신",
+    "dealAmount": "97,000",
+    "date": "2026-07-28",
+    "floor": 12,
+    "area": 70.81
+  },
+  {
     "aptNm": "한주3",
     "dealAmount": "38,400",
     "date": "2026-07-27",
     "floor": 16,
     "area": 84.84
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "94,000",
+    "date": "2026-07-25",
+    "floor": 9,
+    "area": 71.83
+  },
+  {
+    "aptNm": "동신",
+    "dealAmount": "95,000",
+    "date": "2026-07-25",
+    "floor": 10,
+    "area": 70.81
   },
   {
     "aptNm": "동신",

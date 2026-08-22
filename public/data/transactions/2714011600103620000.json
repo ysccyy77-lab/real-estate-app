@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "올리브힐",
+    "dealAmount": "54,500",
+    "date": "2026-08-18",
+    "floor": 7,
+    "area": 108.24
+  },
+  {
+    "aptNm": "효성2차",
+    "dealAmount": "13,800",
+    "date": "2026-08-18",
+    "floor": 14,
+    "area": 59.86
+  },
+  {
+    "aptNm": "올리브힐",
+    "dealAmount": "32,200",
+    "date": "2026-08-17",
+    "floor": 11,
+    "area": 59.75
+  },
+  {
+    "aptNm": "올리브힐",
+    "dealAmount": "42,000",
+    "date": "2026-08-15",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "효성2차",
+    "dealAmount": "14,000",
+    "date": "2026-08-15",
+    "floor": 11,
+    "area": 59.86
+  },
+  {
+    "aptNm": "대승하이아트1",
+    "dealAmount": "7,000",
+    "date": "2026-08-11",
+    "floor": 22,
+    "area": 73.37
+  },
+  {
+    "aptNm": "올리브힐",
     "dealAmount": "39,200",
     "date": "2026-08-10",
     "floor": 10,

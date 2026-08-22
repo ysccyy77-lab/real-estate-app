@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "벽산e빌리지",
+    "dealAmount": "21,400",
+    "date": "2026-08-19",
+    "floor": 9,
+    "area": 75.3949
+  },
+  {
+    "aptNm": "벽산e빌리지",
     "dealAmount": "26,800",
     "date": "2026-08-11",
     "floor": 4,

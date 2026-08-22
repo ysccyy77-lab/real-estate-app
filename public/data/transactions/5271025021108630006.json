@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼례우성",
+    "dealAmount": "16,100",
+    "date": "2026-08-20",
+    "floor": 5,
+    "area": 84.96
+  },
+  {
+    "aptNm": "삼례우성",
     "dealAmount": "7,900",
     "date": "2026-07-20",
     "floor": 17,

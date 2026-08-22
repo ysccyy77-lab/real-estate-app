@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한일장미",
+    "dealAmount": "6,000",
+    "date": "2026-08-20",
+    "floor": 5,
+    "area": 73.44
+  },
+  {
+    "aptNm": "한일장미",
     "dealAmount": "5,040",
     "date": "2026-07-07",
     "floor": 11,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "두호주공2",
+    "dealAmount": "6,700",
+    "date": "2026-08-12",
+    "floor": 2,
+    "area": 39.69
+  },
+  {
+    "aptNm": "두호주공2",
     "dealAmount": "7,000",
     "date": "2026-07-27",
     "floor": 2,

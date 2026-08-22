@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "벽적골롯데",
+    "dealAmount": "60,000",
+    "date": "2026-08-15",
+    "floor": 20,
+    "area": 49.71
+  },
+  {
+    "aptNm": "벽적골롯데",
+    "dealAmount": "55,000",
+    "date": "2026-08-06",
+    "floor": 19,
+    "area": 49.71
+  },
+  {
     "aptNm": "DYtown",
     "dealAmount": "7,700",
     "date": "2026-08-04",

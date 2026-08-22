@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대연롯데캐슬",
+    "dealAmount": "83,500",
+    "date": "2026-08-16",
+    "floor": 12,
+    "area": 84.4873
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "30,800",
+    "date": "2026-08-06",
+    "floor": 1,
+    "area": 84.76
+  },
+  {
+    "aptNm": "대연롯데캐슬",
     "dealAmount": "81,000",
     "date": "2026-07-25",
     "floor": 2,

@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "율곡",
+    "dealAmount": "50,000",
+    "date": "2026-08-15",
+    "floor": 19,
+    "area": 51.66
+  },
+  {
+    "aptNm": "블루밍2단지",
+    "dealAmount": "30,000",
+    "date": "2026-08-15",
+    "floor": 9,
+    "area": 119.8672
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "76,800",
+    "date": "2026-08-15",
+    "floor": 16,
+    "area": 84.981
+  },
+  {
+    "aptNm": "율곡",
+    "dealAmount": "55,900",
+    "date": "2026-08-14",
+    "floor": 13,
+    "area": 51.66
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "78,500",
+    "date": "2026-08-14",
+    "floor": 1,
+    "area": 84.981
+  },
+  {
     "aptNm": "협성휴포레 죽곡",
     "dealAmount": "42,500",
     "date": "2026-08-12",

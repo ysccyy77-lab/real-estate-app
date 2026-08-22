@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "세븐하이츠",
+    "dealAmount": "15,200",
+    "date": "2026-08-16",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "세븐하이츠",
+    "dealAmount": "15,500",
+    "date": "2026-08-10",
+    "floor": 4,
+    "area": 59.8
+  },
+  {
+    "aptNm": "세븐하이츠",
     "dealAmount": "16,700",
     "date": "2026-07-20",
     "floor": 13,

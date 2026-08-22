@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "롯데캐슬더퍼스트",
+    "dealAmount": "46,500",
+    "date": "2026-08-19",
+    "floor": 3,
+    "area": 84.9874
+  },
+  {
+    "aptNm": "금성타워",
+    "dealAmount": "3,900",
+    "date": "2026-08-19",
+    "floor": 4,
+    "area": 59.01
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "14,200",
+    "date": "2026-08-18",
+    "floor": 8,
+    "area": 49.94
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "17,900",
+    "date": "2026-08-14",
+    "floor": 3,
+    "area": 59.99
+  },
+  {
+    "aptNm": "롯데캐슬더퍼스트",
     "dealAmount": "48,400",
     "date": "2026-08-13",
     "floor": 7,

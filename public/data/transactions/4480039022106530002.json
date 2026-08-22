@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "온누리",
+    "dealAmount": "1,200",
+    "date": "2026-08-18",
+    "floor": 1,
+    "area": 28.86
+  },
+  {
+    "aptNm": "온누리",
     "dealAmount": "2,700",
     "date": "2026-06-04",
     "floor": 2,

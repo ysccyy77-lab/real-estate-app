@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "은아2단지",
+    "dealAmount": "9,500",
+    "date": "2026-08-19",
+    "floor": 3,
+    "area": 52.2
+  },
+  {
+    "aptNm": "은아2단지",
     "dealAmount": "10,800",
     "date": "2026-08-03",
     "floor": 14,

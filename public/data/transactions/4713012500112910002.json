@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "장미타워맨션",
+    "dealAmount": "10,200",
+    "date": "2026-08-17",
+    "floor": 1,
+    "area": 66
+  },
+  {
+    "aptNm": "장미타워맨션",
     "dealAmount": "9,800",
     "date": "2026-08-13",
     "floor": 11,

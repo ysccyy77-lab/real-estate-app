@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "e-편한세상",
+    "dealAmount": "31,450",
+    "date": "2026-08-18",
+    "floor": 11,
+    "area": 83.18
+  },
+  {
+    "aptNm": "e-편한세상",
     "dealAmount": "30,000",
     "date": "2026-06-27",
     "floor": 18,

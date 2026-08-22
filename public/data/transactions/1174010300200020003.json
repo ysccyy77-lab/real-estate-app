@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송도이안",
+    "dealAmount": "62,000",
+    "date": "2026-08-15",
+    "floor": 3,
+    "area": 131.76
+  },
+  {
+    "aptNm": "송도이안",
     "dealAmount": "61,500",
     "date": "2026-08-12",
     "floor": 7,

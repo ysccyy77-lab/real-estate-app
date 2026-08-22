@@ -1,9 +1,37 @@
 [
   {
+    "aptNm": "은아5단지",
+    "dealAmount": "10,000",
+    "date": "2026-08-17",
+    "floor": 8,
+    "area": 52.2
+  },
+  {
     "aptNm": "골드클래스",
     "dealAmount": "53,000",
     "date": "2026-08-10",
     "floor": 2,
+    "area": 83.7764
+  },
+  {
+    "aptNm": "골드클래스",
+    "dealAmount": "56,000",
+    "date": "2026-08-08",
+    "floor": 4,
+    "area": 83.7764
+  },
+  {
+    "aptNm": "대림",
+    "dealAmount": "82,000",
+    "date": "2026-08-06",
+    "floor": 6,
+    "area": 59.65
+  },
+  {
+    "aptNm": "골드클래스",
+    "dealAmount": "55,500",
+    "date": "2026-08-05",
+    "floor": 13,
     "area": 83.7764
   },
   {

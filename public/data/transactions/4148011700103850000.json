@@ -8,10 +8,24 @@
   },
   {
     "aptNm": "DMC파크뷰자이1단지",
+    "dealAmount": "194,000",
+    "date": "2026-07-31",
+    "floor": 20,
+    "area": 121.614
+  },
+  {
+    "aptNm": "DMC파크뷰자이1단지",
     "dealAmount": "200,000",
     "date": "2026-07-29",
     "floor": 26,
     "area": 121.614
+  },
+  {
+    "aptNm": "DMC파크뷰자이1단지",
+    "dealAmount": "169,000",
+    "date": "2026-07-29",
+    "floor": 17,
+    "area": 84.968
   },
   {
     "aptNm": "DMC파크뷰자이1단지",

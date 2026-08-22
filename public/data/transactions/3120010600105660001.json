@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "부천극동",
+    "dealAmount": "26,000",
+    "date": "2026-08-14",
+    "floor": 9,
+    "area": 85.9
+  },
+  {
+    "aptNm": "부천극동",
     "dealAmount": "29,000",
     "date": "2026-07-13",
     "floor": 9,

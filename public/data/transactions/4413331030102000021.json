@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "연합",
+    "dealAmount": "5,000",
+    "date": "2026-08-17",
+    "floor": 5,
+    "area": 66.51
+  },
+  {
+    "aptNm": "연합",
     "dealAmount": "5,300",
     "date": "2026-05-28",
     "floor": 1,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "효성",
+    "dealAmount": "3,500",
+    "date": "2026-08-19",
+    "floor": 13,
+    "area": 27.29
+  },
+  {
+    "aptNm": "효성",
     "dealAmount": "3,400",
     "date": "2026-08-08",
     "floor": 6,

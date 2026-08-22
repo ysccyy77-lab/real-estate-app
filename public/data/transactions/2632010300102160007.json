@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "그린코아",
+    "dealAmount": "15,000",
+    "date": "2026-08-19",
+    "floor": 12,
+    "area": 84.69
+  },
+  {
+    "aptNm": "그린코아",
     "dealAmount": "16,500",
     "date": "2026-07-14",
     "floor": 2,

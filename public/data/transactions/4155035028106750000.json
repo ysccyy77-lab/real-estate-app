@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "탑스빌",
+    "dealAmount": "18,800",
+    "date": "2026-08-20",
+    "floor": 5,
+    "area": 59.435
+  },
+  {
+    "aptNm": "금호어울림",
+    "dealAmount": "26,400",
+    "date": "2026-08-18",
+    "floor": 9,
+    "area": 59.96
+  },
+  {
     "aptNm": "배산제일오투그란데",
     "dealAmount": "27,700",
     "date": "2026-08-12",
     "floor": 1,
     "area": 84.7501
+  },
+  {
+    "aptNm": "신라",
+    "dealAmount": "6,500",
+    "date": "2026-08-12",
+    "floor": 7,
+    "area": 32.76
+  },
+  {
+    "aptNm": "신라",
+    "dealAmount": "8,600",
+    "date": "2026-08-12",
+    "floor": 8,
+    "area": 52.92
+  },
+  {
+    "aptNm": "신라",
+    "dealAmount": "6,500",
+    "date": "2026-08-12",
+    "floor": 12,
+    "area": 32.76
+  },
+  {
+    "aptNm": "신라",
+    "dealAmount": "8,600",
+    "date": "2026-08-12",
+    "floor": 13,
+    "area": 52.92
   },
   {
     "aptNm": "배산제일오투그란데",

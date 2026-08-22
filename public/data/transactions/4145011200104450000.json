@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "꿈동산(신안)",
+    "dealAmount": "70,000",
+    "date": "2026-08-17",
+    "floor": 4,
+    "area": 121.8
+  },
+  {
     "aptNm": "충북혁신도시 LH쌍용예가",
     "dealAmount": "19,500",
     "date": "2026-08-07",
     "floor": 18,
     "area": 59.93
+  },
+  {
+    "aptNm": "염광",
+    "dealAmount": "81,300",
+    "date": "2026-08-07",
+    "floor": 1,
+    "area": 84.5
   },
   {
     "aptNm": "한강포스파크",

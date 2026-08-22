@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "현대연예인",
+    "dealAmount": "82,600",
+    "date": "2026-08-14",
+    "floor": 15,
+    "area": 84.91
+  },
+  {
+    "aptNm": "현대연예인",
+    "dealAmount": "86,000",
+    "date": "2026-07-29",
+    "floor": 8,
+    "area": 74.66
+  },
+  {
+    "aptNm": "현대연예인",
     "dealAmount": "51,000",
     "date": "2026-07-21",
     "floor": 11,

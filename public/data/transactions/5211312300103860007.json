@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "반월동한강",
+    "dealAmount": "7,600",
+    "date": "2026-08-08",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "반월동한강",
     "dealAmount": "9,500",
     "date": "2026-07-20",
     "floor": 17,

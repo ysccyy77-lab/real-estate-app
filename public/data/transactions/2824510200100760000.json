@@ -7,11 +7,25 @@
     "area": 57.87
   },
   {
+    "aptNm": "영남",
+    "dealAmount": "14,500",
+    "date": "2026-08-14",
+    "floor": 6,
+    "area": 57.87
+  },
+  {
     "aptNm": "부민e편한세상",
     "dealAmount": "18,900",
     "date": "2026-08-13",
     "floor": 14,
     "area": 60
+  },
+  {
+    "aptNm": "양평한신",
+    "dealAmount": "164,500",
+    "date": "2026-08-07",
+    "floor": 8,
+    "area": 84.87
   },
   {
     "aptNm": "부민e편한세상",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한국",
+    "dealAmount": "44,500",
+    "date": "2026-08-18",
+    "floor": 9,
+    "area": 84.74
+  },
+  {
+    "aptNm": "한국",
     "dealAmount": "36,900",
     "date": "2026-07-27",
     "floor": 3,

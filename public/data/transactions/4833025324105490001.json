@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "SCIENCETOWN",
+    "dealAmount": "30,500",
+    "date": "2026-08-20",
+    "floor": 12,
+    "area": 70.3303
+  },
+  {
+    "aptNm": "대우푸르지오3차",
+    "dealAmount": "36,000",
+    "date": "2026-08-18",
+    "floor": 9,
+    "area": 59.258
+  },
+  {
+    "aptNm": "대우푸르지오3차",
+    "dealAmount": "34,000",
+    "date": "2026-08-13",
+    "floor": 12,
+    "area": 59.258
+  },
+  {
     "aptNm": "대우푸르지오3차",
     "dealAmount": "35,500",
     "date": "2026-08-11",
     "floor": 19,
     "area": 59.898
+  },
+  {
+    "aptNm": "대우푸르지오3차",
+    "dealAmount": "38,000",
+    "date": "2026-08-10",
+    "floor": 7,
+    "area": 59.258
   },
   {
     "aptNm": "대우푸르지오3차",

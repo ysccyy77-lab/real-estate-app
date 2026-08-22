@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼익비치",
+    "dealAmount": "71,000",
+    "date": "2026-08-14",
+    "floor": 12,
+    "area": 41.52
+  },
+  {
+    "aptNm": "삼익비치",
     "dealAmount": "89,000",
     "date": "2026-08-07",
     "floor": 2,

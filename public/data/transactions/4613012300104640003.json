@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "낙원",
+    "dealAmount": "6,000",
+    "date": "2026-08-09",
+    "floor": 11,
+    "area": 44.13
+  },
+  {
+    "aptNm": "낙원",
     "dealAmount": "6,100",
     "date": "2026-05-10",
     "floor": 7,

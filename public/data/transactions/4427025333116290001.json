@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동광",
+    "dealAmount": "9,500",
+    "date": "2026-08-10",
+    "floor": 15,
+    "area": 59.9974
+  },
+  {
+    "aptNm": "동광",
     "dealAmount": "10,500",
     "date": "2026-07-06",
     "floor": 5,

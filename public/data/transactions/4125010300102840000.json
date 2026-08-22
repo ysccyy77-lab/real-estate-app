@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한신1",
+    "dealAmount": "38,000",
+    "date": "2026-08-17",
+    "floor": 6,
+    "area": 27
+  },
+  {
+    "aptNm": "오산세교우미린센트럴시티",
+    "dealAmount": "37,450",
+    "date": "2026-08-15",
+    "floor": 2,
+    "area": 59.9102
+  },
+  {
+    "aptNm": "한신1",
     "dealAmount": "59,500",
     "date": "2026-07-25",
     "floor": 1,

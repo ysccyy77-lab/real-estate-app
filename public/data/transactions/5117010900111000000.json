@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "Y CITY(와이시티)",
+    "dealAmount": "59,800",
+    "date": "2026-08-20",
+    "floor": 13,
+    "area": 84.79
+  },
+  {
+    "aptNm": "연화마을(대원)",
+    "dealAmount": "37,300",
+    "date": "2026-08-17",
+    "floor": 4,
+    "area": 50.4
+  },
+  {
+    "aptNm": "연화마을(대원)",
+    "dealAmount": "34,300",
+    "date": "2026-08-15",
+    "floor": 1,
+    "area": 50.4
+  },
+  {
+    "aptNm": "아름다운아침",
+    "dealAmount": "7,500",
+    "date": "2026-08-14",
+    "floor": 15,
+    "area": 49.95
+  },
+  {
     "aptNm": "아름다운아침",
     "dealAmount": "9,400",
     "date": "2026-08-08",
@@ -19,6 +47,13 @@
     "date": "2026-08-06",
     "floor": 9,
     "area": 49.95
+  },
+  {
+    "aptNm": "Y CITY(와이시티)",
+    "dealAmount": "62,500",
+    "date": "2026-08-06",
+    "floor": 7,
+    "area": 84.93
   },
   {
     "aptNm": "대원칸타빌2차",

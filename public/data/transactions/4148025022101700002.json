@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "영수",
+    "dealAmount": "2,200",
+    "date": "2026-08-18",
+    "floor": 5,
+    "area": 37.8
+  },
+  {
+    "aptNm": "문산세성",
+    "dealAmount": "15,000",
+    "date": "2026-08-08",
+    "floor": 8,
+    "area": 84.85
+  },
+  {
+    "aptNm": "영수",
+    "dealAmount": "2,300",
+    "date": "2026-08-06",
+    "floor": 7,
+    "area": 37.8
+  },
+  {
     "aptNm": "천호네스빌",
     "dealAmount": "27,000",
     "date": "2026-07-16",

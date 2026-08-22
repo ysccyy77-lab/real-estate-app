@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "주공1단지",
+    "dealAmount": "18,800",
+    "date": "2026-08-21",
+    "floor": 2,
+    "area": 38.64
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "63,800",
+    "date": "2026-08-13",
+    "floor": 6,
+    "area": 84.17
+  },
+  {
+    "aptNm": "우정신세계",
+    "dealAmount": "8,200",
+    "date": "2026-08-12",
+    "floor": 2,
+    "area": 59.856
+  },
+  {
+    "aptNm": "주공1단지",
     "dealAmount": "20,700",
     "date": "2026-08-07",
     "floor": 8,

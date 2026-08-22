@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "건영캐스빌",
+    "dealAmount": "17,400",
+    "date": "2026-08-16",
+    "floor": 16,
+    "area": 84.95
+  },
+  {
+    "aptNm": "학장무학",
+    "dealAmount": "15,000",
+    "date": "2026-08-15",
+    "floor": 20,
+    "area": 59.99
+  },
+  {
+    "aptNm": "건영캐스빌",
     "dealAmount": "16,000",
     "date": "2026-07-25",
     "floor": 5,

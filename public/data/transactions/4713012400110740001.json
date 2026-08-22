@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "황성KCC스위첸",
+    "dealAmount": "33,500",
+    "date": "2026-08-14",
+    "floor": 19,
+    "area": 84.4943
+  },
+  {
+    "aptNm": "황성KCC스위첸",
     "dealAmount": "33,000",
     "date": "2026-07-31",
     "floor": 10,

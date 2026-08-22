@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "쌍용",
+    "dealAmount": "43,000",
+    "date": "2026-08-15",
+    "floor": 9,
+    "area": 64.522
+  },
+  {
+    "aptNm": "쌍용",
     "dealAmount": "38,000",
     "date": "2026-07-23",
     "floor": 5,

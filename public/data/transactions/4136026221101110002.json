@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "오남1청구",
+    "dealAmount": "30,000",
+    "date": "2026-08-17",
+    "floor": 9,
+    "area": 85
+  },
+  {
+    "aptNm": "오남1청구",
     "dealAmount": "33,500",
     "date": "2026-07-21",
     "floor": 12,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신동비사벌",
+    "dealAmount": "8,100",
+    "date": "2026-08-18",
+    "floor": 1,
+    "area": 49.32
+  },
+  {
+    "aptNm": "신동비사벌",
     "dealAmount": "7,000",
     "date": "2026-05-28",
     "floor": 1,

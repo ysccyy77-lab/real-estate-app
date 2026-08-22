@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "아델라이",
+    "dealAmount": "8,700",
+    "date": "2026-08-21",
+    "floor": 11,
+    "area": 20.33
+  },
+  {
+    "aptNm": "아델라이",
     "dealAmount": "6,000",
     "date": "2026-07-24",
     "floor": 16,
