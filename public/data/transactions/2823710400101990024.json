@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "미가로",
+    "dealAmount": "31,700",
+    "date": "2026-08-25",
+    "floor": 5,
+    "area": 59.9886
+  },
+  {
+    "aptNm": "미가로",
     "dealAmount": "30,000",
     "date": "2026-07-17",
     "floor": 8,

@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "녹번JR아파트",
+    "dealAmount": "70,500",
+    "date": "2026-08-26",
+    "floor": 1,
+    "area": 59.866
+  },
+  {
+    "aptNm": "녹번JR아파트",
+    "dealAmount": "50,000",
+    "date": "2026-08-23",
+    "floor": 5,
+    "area": 59.866
+  },
+  {
     "aptNm": "백곡정암",
     "dealAmount": "4,000",
     "date": "2026-08-14",
     "floor": 6,
     "area": 58.83
+  },
+  {
+    "aptNm": "녹번JR아파트",
+    "dealAmount": "78,000",
+    "date": "2026-08-06",
+    "floor": 14,
+    "area": 59.866
   },
   {
     "aptNm": "녹번JR아파트",

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "일동미라주",
+    "dealAmount": "12,500",
+    "date": "2026-08-25",
+    "floor": 1,
+    "area": 76.11
+  },
+  {
+    "aptNm": "일동미라주",
+    "dealAmount": "13,300",
+    "date": "2026-08-25",
+    "floor": 14,
+    "area": 75.32
+  },
+  {
+    "aptNm": "일동미라주",
     "dealAmount": "12,000",
     "date": "2026-08-05",
     "floor": 2,

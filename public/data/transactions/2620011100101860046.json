@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "반도보라",
+    "dealAmount": "23,800",
+    "date": "2026-08-29",
+    "floor": 24,
+    "area": 59.7
+  },
+  {
+    "aptNm": "반도보라",
     "dealAmount": "18,000",
     "date": "2026-07-29",
     "floor": 23,

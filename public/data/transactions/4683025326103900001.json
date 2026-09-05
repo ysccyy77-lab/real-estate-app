@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한성맨션",
+    "dealAmount": "3,100",
+    "date": "2026-09-03",
+    "floor": 5,
+    "area": 67.8
+  },
+  {
+    "aptNm": "한성맨션",
     "dealAmount": "4,000",
     "date": "2026-02-10",
     "floor": 3,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "칠원대동",
+    "dealAmount": "8,300",
+    "date": "2026-09-01",
+    "floor": 10,
+    "area": 74.57
+  },
+  {
+    "aptNm": "칠원대동",
     "dealAmount": "7,000",
     "date": "2026-07-23",
     "floor": 2,

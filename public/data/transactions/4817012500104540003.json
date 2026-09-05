@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "평거현대1",
+    "dealAmount": "13,600",
+    "date": "2026-08-21",
+    "floor": 7,
+    "area": 59.4
+  },
+  {
+    "aptNm": "평거현대1",
     "dealAmount": "21,600",
     "date": "2026-07-30",
     "floor": 2,

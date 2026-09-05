@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "롯데캐슬",
+    "dealAmount": "33,000",
+    "date": "2026-09-03",
+    "floor": 2,
+    "area": 84.94
+  },
+  {
+    "aptNm": "롯데캐슬",
     "dealAmount": "32,200",
     "date": "2026-07-22",
     "floor": 14,

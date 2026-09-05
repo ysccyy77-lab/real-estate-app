@@ -1,8 +1,22 @@
 [
   {
     "aptNm": "우미아파트",
+    "dealAmount": "5,000",
+    "date": "2026-08-26",
+    "floor": 6,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미아파트",
     "dealAmount": "5,500",
     "date": "2026-07-28",
+    "floor": 3,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미아파트",
+    "dealAmount": "5,500",
+    "date": "2026-07-27",
     "floor": 3,
     "area": 49.77
   },

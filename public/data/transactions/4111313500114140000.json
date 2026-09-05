@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "건영1",
+    "dealAmount": "58,500",
+    "date": "2026-08-29",
+    "floor": 5,
+    "area": 99.96
+  },
+  {
+    "aptNm": "해피드림",
+    "dealAmount": "8,000",
+    "date": "2026-08-25",
+    "floor": 6,
+    "area": 49.3
+  },
+  {
+    "aptNm": "건영1",
+    "dealAmount": "60,500",
+    "date": "2026-08-20",
+    "floor": 2,
+    "area": 134.83
+  },
+  {
+    "aptNm": "건영1",
     "dealAmount": "56,400",
     "date": "2026-08-10",
     "floor": 11,

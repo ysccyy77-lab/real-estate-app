@@ -1,10 +1,66 @@
 [
   {
     "aptNm": "성원",
+    "dealAmount": "5,500",
+    "date": "2026-09-04",
+    "floor": 9,
+    "area": 59.412
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "5,450",
+    "date": "2026-09-03",
+    "floor": 9,
+    "area": 59.982
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "6,600",
+    "date": "2026-08-23",
+    "floor": 11,
+    "area": 59.982
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "5,200",
+    "date": "2026-08-23",
+    "floor": 18,
+    "area": 59.982
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "5,300",
+    "date": "2026-08-22",
+    "floor": 9,
+    "area": 59.982
+  },
+  {
+    "aptNm": "백조현대",
+    "dealAmount": "60,000",
+    "date": "2026-08-15",
+    "floor": 20,
+    "area": 49.98
+  },
+  {
+    "aptNm": "성원",
     "dealAmount": "5,000",
     "date": "2026-08-14",
     "floor": 11,
     "area": 59.982
+  },
+  {
+    "aptNm": "백조현대",
+    "dealAmount": "59,700",
+    "date": "2026-08-14",
+    "floor": 1,
+    "area": 49.98
+  },
+  {
+    "aptNm": "휴먼시아2단지",
+    "dealAmount": "33,000",
+    "date": "2026-08-13",
+    "floor": 16,
+    "area": 108.94
   },
   {
     "aptNm": "백조현대",
@@ -70,6 +126,13 @@
     "area": 59.982
   },
   {
+    "aptNm": "하우스토리네오미아",
+    "dealAmount": "41,500",
+    "date": "2026-08-04",
+    "floor": 10,
+    "area": 101.8887
+  },
+  {
     "aptNm": "성원",
     "dealAmount": "7,600",
     "date": "2026-08-03",
@@ -110,6 +173,13 @@
     "date": "2026-07-27",
     "floor": 4,
     "area": 84.98
+  },
+  {
+    "aptNm": "천호동삼성아파트",
+    "dealAmount": "113,000",
+    "date": "2026-07-27",
+    "floor": 19,
+    "area": 59.86
   },
   {
     "aptNm": "성원",

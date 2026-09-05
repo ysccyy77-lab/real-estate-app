@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대명",
+    "dealAmount": "32,500",
+    "date": "2026-09-01",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
+    "aptNm": "대명",
+    "dealAmount": "30,200",
+    "date": "2026-08-21",
+    "floor": 8,
+    "area": 84.81
+  },
+  {
+    "aptNm": "대명",
     "dealAmount": "40,500",
     "date": "2026-08-19",
     "floor": 10,

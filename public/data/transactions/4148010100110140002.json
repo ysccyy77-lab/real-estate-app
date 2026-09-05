@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "그린",
+    "dealAmount": "6,350",
+    "date": "2026-08-29",
+    "floor": 10,
+    "area": 19.59
+  },
+  {
+    "aptNm": "그린",
     "dealAmount": "6,800",
     "date": "2026-07-30",
     "floor": 12,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한사랑",
+    "dealAmount": "4,100",
+    "date": "2026-08-20",
+    "floor": 5,
+    "area": 26
+  },
+  {
+    "aptNm": "한사랑",
     "dealAmount": "3,900",
     "date": "2026-08-12",
     "floor": 10,

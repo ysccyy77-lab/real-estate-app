@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "럭키도마",
+    "dealAmount": "6,000",
+    "date": "2026-08-24",
+    "floor": 2,
+    "area": 46.67
+  },
+  {
+    "aptNm": "럭키도마",
     "dealAmount": "5,500",
     "date": "2026-07-29",
     "floor": 4,

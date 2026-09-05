@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "부안진성",
+    "dealAmount": "8,000",
+    "date": "2026-08-19",
+    "floor": 1,
+    "area": 59.88
+  },
+  {
+    "aptNm": "부안진성",
     "dealAmount": "8,800",
     "date": "2026-06-03",
     "floor": 13,

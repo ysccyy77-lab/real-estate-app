@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "밀양삼문",
+    "dealAmount": "4,900",
+    "date": "2026-08-31",
+    "floor": 5,
+    "area": 39.3
+  },
+  {
+    "aptNm": "밀양삼문",
     "dealAmount": "6,800",
     "date": "2026-05-25",
     "floor": 2,

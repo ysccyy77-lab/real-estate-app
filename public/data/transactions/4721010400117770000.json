@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "남산현대",
+    "dealAmount": "9,500",
+    "date": "2026-08-31",
+    "floor": 15,
+    "area": 59.76
+  },
+  {
+    "aptNm": "남산현대",
     "dealAmount": "17,900",
     "date": "2026-07-28",
     "floor": 5,

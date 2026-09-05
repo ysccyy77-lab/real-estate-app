@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "대흥상우",
+    "dealAmount": "22,000",
+    "date": "2026-08-29",
+    "floor": 5,
+    "area": 66.93
+  },
+  {
+    "aptNm": "남산현대",
+    "dealAmount": "16,800",
+    "date": "2026-08-26",
+    "floor": 11,
+    "area": 84.995
+  },
+  {
+    "aptNm": "남산현대",
+    "dealAmount": "17,700",
+    "date": "2026-08-20",
+    "floor": 9,
+    "area": 84.995
+  },
+  {
     "aptNm": "남산현대",
     "dealAmount": "15,000",
     "date": "2026-08-14",

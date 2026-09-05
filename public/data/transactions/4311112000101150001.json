@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "Wellga",
+    "dealAmount": "4,800",
+    "date": "2026-08-24",
+    "floor": 9,
+    "area": 15.04
+  },
+  {
+    "aptNm": "Wellga",
     "dealAmount": "5,000",
     "date": "2026-08-21",
     "floor": 9,

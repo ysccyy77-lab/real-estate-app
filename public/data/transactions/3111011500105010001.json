@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "부개주공6",
+    "dealAmount": "49,700",
+    "date": "2026-09-03",
+    "floor": 9,
+    "area": 84.79
+  },
+  {
+    "aptNm": "부개주공6",
+    "dealAmount": "36,000",
+    "date": "2026-08-29",
+    "floor": 20,
+    "area": 84.79
+  },
+  {
+    "aptNm": "부개주공6",
+    "dealAmount": "40,000",
+    "date": "2026-08-22",
+    "floor": 1,
+    "area": 84.79
+  },
+  {
+    "aptNm": "남외푸르지오2차",
+    "dealAmount": "63,500",
+    "date": "2026-08-18",
+    "floor": 10,
+    "area": 101.9431
+  },
+  {
+    "aptNm": "부개주공6",
     "dealAmount": "48,000",
     "date": "2026-07-21",
     "floor": 24,

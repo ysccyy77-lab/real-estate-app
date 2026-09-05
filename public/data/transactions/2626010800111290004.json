@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대동타운",
+    "dealAmount": "27,500",
+    "date": "2026-08-28",
+    "floor": 8,
+    "area": 84.95
+  },
+  {
+    "aptNm": "대동타운",
     "dealAmount": "23,000",
     "date": "2026-06-26",
     "floor": 17,

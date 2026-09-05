@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "미진타운",
+    "dealAmount": "23,000",
+    "date": "2026-09-04",
+    "floor": 7,
+    "area": 59.67
+  },
+  {
+    "aptNm": "개나리1차",
+    "dealAmount": "14,000",
+    "date": "2026-08-27",
+    "floor": 2,
+    "area": 59.0125
+  },
+  {
+    "aptNm": "신안주공3",
+    "dealAmount": "17,500",
+    "date": "2026-08-24",
+    "floor": 8,
+    "area": 59.8
+  },
+  {
+    "aptNm": "신안주공3",
+    "dealAmount": "16,200",
+    "date": "2026-08-24",
+    "floor": 4,
+    "area": 59.8
+  },
+  {
     "aptNm": "신안주공3",
     "dealAmount": "11,000",
     "date": "2026-08-07",

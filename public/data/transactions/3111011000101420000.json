@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "대동",
+    "dealAmount": "34,900",
+    "date": "2026-09-01",
+    "floor": 1,
+    "area": 50.25
+  },
+  {
+    "aptNm": "덕산아내2차",
+    "dealAmount": "16,500",
+    "date": "2026-08-29",
+    "floor": 9,
+    "area": 84.9643
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "35,900",
+    "date": "2026-08-28",
+    "floor": 1,
+    "area": 52.77
+  },
+  {
+    "aptNm": "대동",
     "dealAmount": "32,800",
     "date": "2026-08-07",
     "floor": 5,

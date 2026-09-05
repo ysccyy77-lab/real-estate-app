@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "117,000",
+    "date": "2026-09-02",
+    "floor": 14,
+    "area": 84.9693
+  },
+  {
+    "aptNm": "해동마을유승한내들",
+    "dealAmount": "30,000",
+    "date": "2026-08-30",
+    "floor": 2,
+    "area": 84.9536
+  },
+  {
+    "aptNm": "그린힐스아파트",
+    "dealAmount": "39,000",
+    "date": "2026-08-24",
+    "floor": 6,
+    "area": 54.83
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "52,000",
+    "date": "2026-08-22",
+    "floor": 12,
+    "area": 58.65
+  },
+  {
+    "aptNm": "해동마을유승한내들",
+    "dealAmount": "31,500",
+    "date": "2026-08-20",
+    "floor": 12,
+    "area": 84.9645
+  },
+  {
     "aptNm": "A9블럭신원마을호반베르디움",
     "dealAmount": "60,500",
     "date": "2026-08-16",
@@ -19,6 +54,20 @@
     "date": "2026-08-13",
     "floor": 21,
     "area": 84.9427
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "103,000",
+    "date": "2026-08-11",
+    "floor": 2,
+    "area": 74.8799
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "112,000",
+    "date": "2026-08-01",
+    "floor": 11,
+    "area": 84.9561
   },
   {
     "aptNm": "DMC한강숲중흥S-CLASS",

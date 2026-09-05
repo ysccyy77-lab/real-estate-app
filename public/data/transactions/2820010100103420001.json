@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "삼보1",
+    "dealAmount": "14,000",
+    "date": "2026-08-27",
+    "floor": 1,
+    "area": 40.59
+  },
+  {
+    "aptNm": "삼보1",
+    "dealAmount": "13,900",
+    "date": "2026-08-25",
+    "floor": 2,
+    "area": 40.59
+  },
+  {
+    "aptNm": "신세계",
+    "dealAmount": "23,700",
+    "date": "2026-08-22",
+    "floor": 5,
+    "area": 88.68
+  },
+  {
+    "aptNm": "삼보1",
+    "dealAmount": "10,950",
+    "date": "2026-08-21",
+    "floor": 6,
+    "area": 40.59
+  },
+  {
     "aptNm": "신세계",
     "dealAmount": "23,900",
     "date": "2026-08-14",

@@ -1,10 +1,52 @@
 [
   {
     "aptNm": "성원남산3차",
+    "dealAmount": "22,000",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성원남산3차",
+    "dealAmount": "11,200",
+    "date": "2026-08-27",
+    "floor": 7,
+    "area": 47.97
+  },
+  {
+    "aptNm": "신원아침도시",
+    "dealAmount": "27,300",
+    "date": "2026-08-22",
+    "floor": 17,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신원아침도시",
+    "dealAmount": "35,500",
+    "date": "2026-08-22",
+    "floor": 19,
+    "area": 119.76
+  },
+  {
+    "aptNm": "녹양힐스테이트",
+    "dealAmount": "32,800",
+    "date": "2026-08-21",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성원남산3차",
     "dealAmount": "11,000",
     "date": "2026-08-20",
     "floor": 1,
     "area": 47.97
+  },
+  {
+    "aptNm": "성원남산3차",
+    "dealAmount": "16,500",
+    "date": "2026-08-19",
+    "floor": 19,
+    "area": 59.34
   },
   {
     "aptNm": "성원남산3차",

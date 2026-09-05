@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "제천현대",
+    "dealAmount": "14,000",
+    "date": "2026-08-31",
+    "floor": 1,
+    "area": 84.95
+  },
+  {
+    "aptNm": "제천현대",
     "dealAmount": "12,500",
     "date": "2026-08-13",
     "floor": 2,

@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "범물에덴,신화아파트",
+    "dealAmount": "25,300",
+    "date": "2026-09-02",
+    "floor": 9,
+    "area": 83.46
+  },
+  {
+    "aptNm": "서산예천효성해링턴플레이스",
+    "dealAmount": "35,500",
+    "date": "2026-08-24",
+    "floor": 3,
+    "area": 84.9422
+  },
+  {
+    "aptNm": "서산예천효성해링턴플레이스",
+    "dealAmount": "33,000",
+    "date": "2026-08-23",
+    "floor": 20,
+    "area": 75.9113
+  },
+  {
+    "aptNm": "서산예천효성해링턴플레이스",
+    "dealAmount": "37,000",
+    "date": "2026-08-23",
+    "floor": 5,
+    "area": 84.9336
+  },
+  {
+    "aptNm": "범물에덴,신화아파트",
+    "dealAmount": "22,800",
+    "date": "2026-08-21",
+    "floor": 7,
+    "area": 84.94
+  },
+  {
+    "aptNm": "엘크루가람마을5단지",
+    "dealAmount": "36,800",
+    "date": "2026-08-15",
+    "floor": 11,
+    "area": 84.97
+  },
+  {
+    "aptNm": "SummitPlace광교",
+    "dealAmount": "192,000",
+    "date": "2026-08-13",
+    "floor": 17,
+    "area": 116.533
+  },
+  {
     "aptNm": "SummitPlace광교",
     "dealAmount": "200,000",
     "date": "2026-08-08",

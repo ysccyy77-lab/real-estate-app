@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "힐스테이트도원센트럴",
+    "dealAmount": "84,000",
+    "date": "2026-08-25",
+    "floor": 5,
+    "area": 107.98
+  },
+  {
+    "aptNm": "동촌강나루타운",
+    "dealAmount": "25,800",
+    "date": "2026-08-19",
+    "floor": 5,
+    "area": 84.9548
+  },
+  {
+    "aptNm": "현대I-PARK1",
+    "dealAmount": "190,000",
+    "date": "2026-08-17",
+    "floor": 11,
+    "area": 80.31
+  },
+  {
+    "aptNm": "현대I-PARK1",
+    "dealAmount": "250,000",
+    "date": "2026-08-14",
+    "floor": 25,
+    "area": 171.78
+  },
+  {
+    "aptNm": "광화문스페이스본(101동~105동)",
+    "dealAmount": "260,000",
+    "date": "2026-08-14",
+    "floor": 11,
+    "area": 147.31
+  },
+  {
     "aptNm": "현대I-PARK1",
     "dealAmount": "300,000",
     "date": "2026-08-13",

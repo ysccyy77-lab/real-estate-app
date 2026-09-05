@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "더퀸즈웰가",
+    "dealAmount": "38,300",
+    "date": "2026-08-28",
+    "floor": 9,
+    "area": 58.7908
+  },
+  {
+    "aptNm": "신선마을",
+    "dealAmount": "37,500",
+    "date": "2026-08-27",
+    "floor": 6,
+    "area": 99.97
+  },
+  {
+    "aptNm": "더퀸즈웰가",
+    "dealAmount": "45,000",
+    "date": "2026-08-22",
+    "floor": 20,
+    "area": 65.6733
+  },
+  {
+    "aptNm": "더퀸즈웰가",
     "dealAmount": "40,800",
     "date": "2026-08-14",
     "floor": 19,

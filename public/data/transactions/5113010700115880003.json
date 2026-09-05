@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "세경5차",
+    "dealAmount": "9,350",
+    "date": "2026-08-24",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "세경5차",
+    "dealAmount": "9,350",
+    "date": "2026-08-24",
+    "floor": 9,
+    "area": 59.95
+  },
+  {
+    "aptNm": "세경5차",
+    "dealAmount": "7,700",
+    "date": "2026-08-21",
+    "floor": 10,
+    "area": 59.95
+  },
+  {
+    "aptNm": "세경5차",
     "dealAmount": "7,700",
     "date": "2026-08-19",
     "floor": 13,

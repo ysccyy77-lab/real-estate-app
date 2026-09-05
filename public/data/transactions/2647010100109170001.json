@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "대우",
+    "dealAmount": "22,500",
+    "date": "2026-08-21",
+    "floor": 19,
+    "area": 68.16
+  },
+  {
+    "aptNm": "대우",
     "dealAmount": "39,000",
     "date": "2026-08-17",
     "floor": 4,
     "area": 84.94
+  },
+  {
+    "aptNm": "현광",
+    "dealAmount": "13,500",
+    "date": "2026-07-30",
+    "floor": 1,
+    "area": 42.48
   },
   {
     "aptNm": "대우",

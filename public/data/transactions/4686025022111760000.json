@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "수영SKVIEW1단지",
+    "dealAmount": "56,500",
+    "date": "2026-09-02",
+    "floor": 17,
+    "area": 59.9164
+  },
+  {
+    "aptNm": "수영SKVIEW1단지",
+    "dealAmount": "61,500",
+    "date": "2026-08-26",
+    "floor": 12,
+    "area": 84.9819
+  },
+  {
+    "aptNm": "수영SKVIEW1단지",
+    "dealAmount": "64,770",
+    "date": "2026-08-22",
+    "floor": 19,
+    "area": 84.9819
+  },
+  {
+    "aptNm": "수영SKVIEW1단지",
+    "dealAmount": "71,000",
+    "date": "2026-08-21",
+    "floor": 30,
+    "area": 84.9819
+  },
+  {
+    "aptNm": "수영SKVIEW1단지",
     "dealAmount": "55,800",
     "date": "2026-08-14",
     "floor": 31,
     "area": 59.9694
+  },
+  {
+    "aptNm": "수영SKVIEW1단지",
+    "dealAmount": "52,000",
+    "date": "2026-08-14",
+    "floor": 4,
+    "area": 59.9876
   },
   {
     "aptNm": "두산위브더제니스양산",
@@ -33,6 +68,13 @@
     "date": "2026-08-07",
     "floor": 21,
     "area": 84.9819
+  },
+  {
+    "aptNm": "두산위브더제니스양산",
+    "dealAmount": "24,000",
+    "date": "2026-08-06",
+    "floor": 20,
+    "area": 59.4913
   },
   {
     "aptNm": "부산항일동미라주더오션(1지구)",

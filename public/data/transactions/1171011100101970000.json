@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "삼성",
+    "dealAmount": "27,000",
+    "date": "2026-09-03",
+    "floor": 14,
+    "area": 84.996
+  },
+  {
+    "aptNm": "대동청솔",
+    "dealAmount": "23,200",
+    "date": "2026-08-22",
+    "floor": 9,
+    "area": 85
+  },
+  {
+    "aptNm": "태평맨션",
+    "dealAmount": "4,150",
+    "date": "2026-08-19",
+    "floor": 1,
+    "area": 51.24
+  },
+  {
     "aptNm": "대동청솔",
     "dealAmount": "17,500",
     "date": "2026-08-16",

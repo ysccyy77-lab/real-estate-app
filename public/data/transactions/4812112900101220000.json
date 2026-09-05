@@ -1,5 +1,68 @@
 [
   {
+    "aptNm": "동안마을(주공3단지)",
+    "dealAmount": "15,800",
+    "date": "2026-09-04",
+    "floor": 1,
+    "area": 59.27
+  },
+  {
+    "aptNm": "벽산블루밍B",
+    "dealAmount": "28,400",
+    "date": "2026-09-02",
+    "floor": 11,
+    "area": 59.97
+  },
+  {
+    "aptNm": "벽산블루밍B",
+    "dealAmount": "29,300",
+    "date": "2026-08-28",
+    "floor": 17,
+    "area": 59.97
+  },
+  {
+    "aptNm": "벽산블루밍B",
+    "dealAmount": "29,000",
+    "date": "2026-08-27",
+    "floor": 2,
+    "area": 74.01
+  },
+  {
+    "aptNm": "벽산블루밍B",
+    "dealAmount": "23,000",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 59.97
+  },
+  {
+    "aptNm": "벽산블루밍B",
+    "dealAmount": "28,800",
+    "date": "2026-08-26",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "동안마을(주공3단지)",
+    "dealAmount": "15,500",
+    "date": "2026-08-25",
+    "floor": 3,
+    "area": 59.27
+  },
+  {
+    "aptNm": "벽산블루밍B",
+    "dealAmount": "44,000",
+    "date": "2026-08-24",
+    "floor": 11,
+    "area": 84.905
+  },
+  {
+    "aptNm": "동안마을(주공3단지)",
+    "dealAmount": "21,000",
+    "date": "2026-08-22",
+    "floor": 24,
+    "area": 83.44
+  },
+  {
     "aptNm": "해뜨는마을",
     "dealAmount": "6,900",
     "date": "2026-08-18",

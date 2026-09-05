@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "문현삼성힐타워",
+    "dealAmount": "51,500",
+    "date": "2026-09-01",
+    "floor": 24,
+    "area": 111.57
+  },
+  {
+    "aptNm": "삼부1",
+    "dealAmount": "10,000",
+    "date": "2026-08-26",
+    "floor": 8,
+    "area": 57.61
+  },
+  {
+    "aptNm": "삼부1",
+    "dealAmount": "15,700",
+    "date": "2026-08-25",
+    "floor": 7,
+    "area": 69.85
+  },
+  {
+    "aptNm": "문현삼성힐타워",
+    "dealAmount": "39,300",
+    "date": "2026-08-19",
+    "floor": 20,
+    "area": 93.11
+  },
+  {
+    "aptNm": "삼한힐파크",
+    "dealAmount": "16,800",
+    "date": "2026-08-12",
+    "floor": 10,
+    "area": 58.73
+  },
+  {
     "aptNm": "삼부1",
     "dealAmount": "11,000",
     "date": "2026-08-09",

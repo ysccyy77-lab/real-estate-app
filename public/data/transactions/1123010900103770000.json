@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "호매실GS아파트",
+    "dealAmount": "37,200",
+    "date": "2026-09-01",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "호매실GS아파트",
+    "dealAmount": "34,900",
+    "date": "2026-08-24",
+    "floor": 1,
+    "area": 59.775
+  },
+  {
+    "aptNm": "호매실GS아파트",
+    "dealAmount": "37,500",
+    "date": "2026-08-21",
+    "floor": 1,
+    "area": 84.922
+  },
+  {
+    "aptNm": "호매실GS아파트",
     "dealAmount": "36,000",
     "date": "2026-08-19",
     "floor": 18,
     "area": 59.775
+  },
+  {
+    "aptNm": "무지개",
+    "dealAmount": "6,700",
+    "date": "2026-08-19",
+    "floor": 13,
+    "area": 59.94
   },
   {
     "aptNm": "호매실GS아파트",
@@ -33,6 +61,13 @@
     "date": "2026-08-14",
     "floor": 2,
     "area": 84.922
+  },
+  {
+    "aptNm": "DMC래미안클라시스",
+    "dealAmount": "108,500",
+    "date": "2026-08-13",
+    "floor": 9,
+    "area": 59.93
   },
   {
     "aptNm": "호매실GS아파트",

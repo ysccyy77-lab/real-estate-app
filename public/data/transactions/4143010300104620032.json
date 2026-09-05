@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대우장미",
+    "dealAmount": "27,500",
+    "date": "2026-08-24",
+    "floor": 3,
+    "area": 49.947
+  },
+  {
+    "aptNm": "대우장미",
     "dealAmount": "27,000",
     "date": "2026-07-29",
     "floor": 8,

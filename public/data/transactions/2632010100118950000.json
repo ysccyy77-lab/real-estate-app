@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "화명뜨란채",
+    "dealAmount": "31,800",
+    "date": "2026-09-03",
+    "floor": 23,
+    "area": 59.77
+  },
+  {
+    "aptNm": "화명뜨란채",
+    "dealAmount": "33,000",
+    "date": "2026-08-26",
+    "floor": 20,
+    "area": 76.72
+  },
+  {
+    "aptNm": "화명뜨란채",
+    "dealAmount": "34,300",
+    "date": "2026-08-23",
+    "floor": 16,
+    "area": 76.72
+  },
+  {
+    "aptNm": "화명뜨란채",
+    "dealAmount": "35,200",
+    "date": "2026-08-21",
+    "floor": 18,
+    "area": 76.72
+  },
+  {
+    "aptNm": "화명뜨란채",
+    "dealAmount": "32,750",
+    "date": "2026-08-21",
+    "floor": 12,
+    "area": 76.72
+  },
+  {
+    "aptNm": "화명뜨란채",
     "dealAmount": "33,500",
     "date": "2026-07-04",
     "floor": 21,

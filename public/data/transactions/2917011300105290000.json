@@ -1,10 +1,80 @@
 [
   {
+    "aptNm": "힐스테이트송정1단지",
+    "dealAmount": "29,200",
+    "date": "2026-09-04",
+    "floor": 13,
+    "area": 59.9645
+  },
+  {
+    "aptNm": "어울림하트",
+    "dealAmount": "52,000",
+    "date": "2026-09-03",
+    "floor": 13,
+    "area": 74.48
+  },
+  {
+    "aptNm": "어울림하트",
+    "dealAmount": "52,000",
+    "date": "2026-09-01",
+    "floor": 9,
+    "area": 84.49
+  },
+  {
+    "aptNm": "어울림하트",
+    "dealAmount": "47,500",
+    "date": "2026-09-01",
+    "floor": 6,
+    "area": 74.48
+  },
+  {
+    "aptNm": "어울림하트",
+    "dealAmount": "52,000",
+    "date": "2026-08-28",
+    "floor": 16,
+    "area": 84.49
+  },
+  {
+    "aptNm": "어울림하트",
+    "dealAmount": "53,200",
+    "date": "2026-08-23",
+    "floor": 19,
+    "area": 84.47
+  },
+  {
+    "aptNm": "어울림하트",
+    "dealAmount": "53,000",
+    "date": "2026-08-22",
+    "floor": 20,
+    "area": 84.47
+  },
+  {
+    "aptNm": "비치-그린아파트",
+    "dealAmount": "38,000",
+    "date": "2026-08-22",
+    "floor": 11,
+    "area": 84.9
+  },
+  {
+    "aptNm": "비치-그린아파트",
+    "dealAmount": "29,500",
+    "date": "2026-08-20",
+    "floor": 6,
+    "area": 59.76
+  },
+  {
     "aptNm": "어울림하트",
     "dealAmount": "51,000",
     "date": "2026-08-19",
     "floor": 16,
     "area": 84.47
+  },
+  {
+    "aptNm": "상도두산위브",
+    "dealAmount": "165,000",
+    "date": "2026-08-19",
+    "floor": 5,
+    "area": 84.911
   },
   {
     "aptNm": "어울림하트",

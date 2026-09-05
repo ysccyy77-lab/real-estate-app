@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대우1차공원",
+    "dealAmount": "3,500",
+    "date": "2026-09-01",
+    "floor": 8,
+    "area": 37.8
+  },
+  {
+    "aptNm": "대우1차공원",
     "dealAmount": "3,100",
     "date": "2026-06-12",
     "floor": 7,

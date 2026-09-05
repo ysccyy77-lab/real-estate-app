@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "영창",
+    "dealAmount": "7,000",
+    "date": "2026-08-26",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
+    "aptNm": "영창",
     "dealAmount": "7,500",
     "date": "2026-08-07",
     "floor": 5,

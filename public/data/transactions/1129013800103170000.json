@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "태평",
+    "dealAmount": "35,300",
+    "date": "2026-08-30",
+    "floor": 13,
+    "area": 84.99
+  },
+  {
+    "aptNm": "태평",
     "dealAmount": "22,000",
     "date": "2026-08-19",
     "floor": 15,
     "area": 59.98
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "30,500",
+    "date": "2026-08-15",
+    "floor": 19,
+    "area": 84.99
   },
   {
     "aptNm": "태평",

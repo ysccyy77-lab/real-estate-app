@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "동성",
+    "dealAmount": "17,600",
+    "date": "2026-08-26",
+    "floor": 6,
+    "area": 49.5
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "70,000",
+    "date": "2026-08-24",
+    "floor": 1,
+    "area": 74.17
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "60,000",
+    "date": "2026-08-21",
+    "floor": 1,
+    "area": 60.38
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "67,000",
+    "date": "2026-08-18",
+    "floor": 1,
+    "area": 74.17
+  },
+  {
+    "aptNm": "과천자이",
+    "dealAmount": "214,000",
+    "date": "2026-08-17",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "동성",
     "dealAmount": "14,250",
     "date": "2026-08-15",
     "floor": 16,
@@ -12,6 +47,13 @@
     "date": "2026-08-14",
     "floor": 2,
     "area": 49.5
+  },
+  {
+    "aptNm": "과천자이",
+    "dealAmount": "255,000",
+    "date": "2026-08-08",
+    "floor": 32,
+    "area": 84.93
   },
   {
     "aptNm": "은아",

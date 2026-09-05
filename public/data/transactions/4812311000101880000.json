@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "벽산강변타운",
+    "dealAmount": "25,000",
+    "date": "2026-08-24",
+    "floor": 17,
+    "area": 84.89
+  },
+  {
+    "aptNm": "SK-VIEW",
+    "dealAmount": "98,000",
+    "date": "2026-08-22",
+    "floor": 10,
+    "area": 84.944
+  },
+  {
     "aptNm": "경남아너스빌",
     "dealAmount": "14,200",
     "date": "2026-08-10",

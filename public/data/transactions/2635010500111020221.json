@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "센텀현대",
+    "dealAmount": "48,000",
+    "date": "2026-09-02",
+    "floor": 16,
+    "area": 84.92
+  },
+  {
+    "aptNm": "센텀현대",
+    "dealAmount": "48,500",
+    "date": "2026-08-31",
+    "floor": 17,
+    "area": 84.92
+  },
+  {
+    "aptNm": "센텀현대",
     "dealAmount": "47,200",
     "date": "2026-08-15",
     "floor": 18,

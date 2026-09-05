@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "화북주공4단지",
+    "dealAmount": "29,000",
+    "date": "2026-09-02",
+    "floor": 3,
+    "area": 59.93
+  },
+  {
+    "aptNm": "진주2",
+    "dealAmount": "6,400",
+    "date": "2026-08-25",
+    "floor": 1,
+    "area": 59.88
+  },
+  {
     "aptNm": "목화",
     "dealAmount": "17,500",
     "date": "2026-08-14",
     "floor": 15,
     "area": 128.81
+  },
+  {
+    "aptNm": "사천한주빌라트",
+    "dealAmount": "6,900",
+    "date": "2026-08-10",
+    "floor": 1,
+    "area": 59.87
   },
   {
     "aptNm": "동보아파트",

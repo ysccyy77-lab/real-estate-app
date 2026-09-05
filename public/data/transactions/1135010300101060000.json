@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "상원",
+    "dealAmount": "7,500",
+    "date": "2026-08-23",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "휘경미소지움",
+    "dealAmount": "104,500",
+    "date": "2026-08-22",
+    "floor": 19,
+    "area": 114.03
+  },
+  {
+    "aptNm": "상원",
+    "dealAmount": "8,000",
+    "date": "2026-08-21",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
     "aptNm": "휘경미소지움",
     "dealAmount": "77,800",
     "date": "2026-08-09",

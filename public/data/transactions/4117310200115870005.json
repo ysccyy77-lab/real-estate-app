@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "공작성일",
+    "dealAmount": "95,000",
+    "date": "2026-08-21",
+    "floor": 6,
+    "area": 79.02
+  },
+  {
+    "aptNm": "공작성일",
+    "dealAmount": "49,900",
+    "date": "2026-08-08",
+    "floor": 6,
+    "area": 39.6
+  },
+  {
+    "aptNm": "공작성일",
+    "dealAmount": "52,500",
+    "date": "2026-08-07",
+    "floor": 6,
+    "area": 39.6
+  },
+  {
+    "aptNm": "공작성일",
     "dealAmount": "45,000",
     "date": "2026-07-30",
     "floor": 8,

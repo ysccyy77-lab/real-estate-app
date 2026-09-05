@@ -1,10 +1,59 @@
 [
   {
     "aptNm": "익산동산동제일오투그란데",
+    "dealAmount": "27,600",
+    "date": "2026-09-01",
+    "floor": 27,
+    "area": 84.9909
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "60,000",
+    "date": "2026-08-29",
+    "floor": 20,
+    "area": 58.71
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "59,900",
+    "date": "2026-08-26",
+    "floor": 7,
+    "area": 58.46
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "64,000",
+    "date": "2026-08-24",
+    "floor": 19,
+    "area": 58.71
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "65,000",
+    "date": "2026-08-22",
+    "floor": 8,
+    "area": 58.71
+  },
+  {
+    "aptNm": "익산동산동제일오투그란데",
     "dealAmount": "28,500",
     "date": "2026-08-21",
     "floor": 18,
     "area": 84.9909
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "59,900",
+    "date": "2026-08-19",
+    "floor": 10,
+    "area": 58.71
+  },
+  {
+    "aptNm": "우장산롯데캐슬",
+    "dealAmount": "130,000",
+    "date": "2026-08-17",
+    "floor": 4,
+    "area": 85
   },
   {
     "aptNm": "세종",
@@ -15,9 +64,23 @@
   },
   {
     "aptNm": "세종",
+    "dealAmount": "64,000",
+    "date": "2026-08-14",
+    "floor": 9,
+    "area": 58.46
+  },
+  {
+    "aptNm": "세종",
     "dealAmount": "63,500",
     "date": "2026-08-12",
     "floor": 18,
+    "area": 58.71
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "61,000",
+    "date": "2026-08-12",
+    "floor": 11,
     "area": 58.71
   },
   {
@@ -37,6 +100,13 @@
   {
     "aptNm": "세종",
     "dealAmount": "60,000",
+    "date": "2026-08-07",
+    "floor": 3,
+    "area": 58.46
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "60,000",
     "date": "2026-08-04",
     "floor": 15,
     "area": 58.46
@@ -47,6 +117,13 @@
     "date": "2026-08-03",
     "floor": 4,
     "area": 58.71
+  },
+  {
+    "aptNm": "우장산롯데캐슬",
+    "dealAmount": "134,500",
+    "date": "2026-08-01",
+    "floor": 14,
+    "area": 85
   },
   {
     "aptNm": "세종",

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "주공",
+    "dealAmount": "11,800",
+    "date": "2026-08-29",
+    "floor": 7,
+    "area": 59.89
+  },
+  {
+    "aptNm": "적성5차",
+    "dealAmount": "19,300",
+    "date": "2026-08-12",
+    "floor": 4,
+    "area": 41.22
+  },
+  {
     "aptNm": "골든타워",
     "dealAmount": "41,500",
     "date": "2026-08-09",

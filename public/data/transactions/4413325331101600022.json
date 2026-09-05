@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "육영원룸",
+    "dealAmount": "2,700",
+    "date": "2026-09-01",
+    "floor": 5,
+    "area": 27.6
+  },
+  {
+    "aptNm": "육영원룸",
+    "dealAmount": "2,800",
+    "date": "2026-08-31",
+    "floor": 1,
+    "area": 27.6
+  },
+  {
+    "aptNm": "육영원룸",
     "dealAmount": "2,850",
     "date": "2026-08-17",
     "floor": 3,

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "성우",
+    "dealAmount": "5,600",
+    "date": "2026-09-04",
+    "floor": 8,
+    "area": 59.4
+  },
+  {
+    "aptNm": "경동메르빌",
+    "dealAmount": "32,000",
+    "date": "2026-09-03",
+    "floor": 21,
+    "area": 84.9227
+  },
+  {
+    "aptNm": "성우",
+    "dealAmount": "5,600",
+    "date": "2026-09-02",
+    "floor": 8,
+    "area": 59.4
+  },
+  {
     "aptNm": "경동메르빌",
     "dealAmount": "22,000",
     "date": "2026-07-27",

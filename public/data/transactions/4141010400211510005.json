@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "한양수리",
+    "dealAmount": "68,000",
+    "date": "2026-09-02",
+    "floor": 1,
+    "area": 96.359
+  },
+  {
+    "aptNm": "한양수리",
+    "dealAmount": "75,000",
+    "date": "2026-08-31",
+    "floor": 8,
+    "area": 126.834
+  },
+  {
+    "aptNm": "한양수리",
+    "dealAmount": "71,000",
+    "date": "2026-08-29",
+    "floor": 23,
+    "area": 96.359
+  },
+  {
+    "aptNm": "한양수리",
+    "dealAmount": "73,500",
+    "date": "2026-08-24",
+    "floor": 9,
+    "area": 126.834
+  },
+  {
+    "aptNm": "한양수리",
     "dealAmount": "75,000",
     "date": "2026-08-13",
     "floor": 18,

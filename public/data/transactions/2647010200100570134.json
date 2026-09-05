@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "부전타워",
+    "dealAmount": "21,000",
+    "date": "2026-08-23",
+    "floor": 9,
+    "area": 82.52
+  },
+  {
+    "aptNm": "부전타워",
     "dealAmount": "26,770",
     "date": "2026-02-12",
     "floor": 8,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "연수부강",
+    "dealAmount": "8,500",
+    "date": "2026-08-12",
+    "floor": 7,
+    "area": 59.49
+  },
+  {
+    "aptNm": "연수부강",
     "dealAmount": "7,100",
     "date": "2026-08-07",
     "floor": 1,

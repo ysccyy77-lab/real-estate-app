@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "빌리브죽전",
+    "dealAmount": "52,000",
+    "date": "2026-08-31",
+    "floor": 13,
+    "area": 84.996
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "56,400",
+    "date": "2026-08-30",
+    "floor": 7,
+    "area": 49.98
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "54,800",
+    "date": "2026-08-22",
+    "floor": 5,
+    "area": 49.98
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "53,500",
+    "date": "2026-08-20",
+    "floor": 2,
+    "area": 49.98
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "55,000",
+    "date": "2026-08-19",
+    "floor": 6,
+    "area": 49.98
+  },
+  {
+    "aptNm": "해주드림빌",
+    "dealAmount": "88,500",
+    "date": "2026-08-19",
+    "floor": 14,
+    "area": 106.54
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "55,000",
+    "date": "2026-08-14",
+    "floor": 10,
+    "area": 49.98
+  },
+  {
+    "aptNm": "빌리브죽전",
     "dealAmount": "62,000",
     "date": "2026-08-12",
     "floor": 37,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "나래",
+    "dealAmount": "34,000",
+    "date": "2026-08-28",
+    "floor": 11,
+    "area": 84.87
+  },
+  {
+    "aptNm": "나래",
+    "dealAmount": "29,000",
+    "date": "2026-08-24",
+    "floor": 11,
+    "area": 84.87
+  },
+  {
+    "aptNm": "나래",
+    "dealAmount": "42,000",
+    "date": "2026-08-21",
+    "floor": 8,
+    "area": 117.54
+  },
+  {
+    "aptNm": "나래",
     "dealAmount": "23,000",
     "date": "2026-08-14",
     "floor": 5,

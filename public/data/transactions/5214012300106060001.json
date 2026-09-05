@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "덕소주공3",
+    "dealAmount": "38,800",
+    "date": "2026-08-29",
+    "floor": 1,
+    "area": 59.99
+  },
+  {
+    "aptNm": "덕소주공3",
+    "dealAmount": "59,000",
+    "date": "2026-08-29",
+    "floor": 7,
+    "area": 84.79
+  },
+  {
+    "aptNm": "덕소주공3",
+    "dealAmount": "44,000",
+    "date": "2026-08-29",
+    "floor": 15,
+    "area": 59.96
+  },
+  {
+    "aptNm": "덕소주공3",
+    "dealAmount": "45,500",
+    "date": "2026-08-21",
+    "floor": 14,
+    "area": 59.99
+  },
+  {
+    "aptNm": "덕소주공3",
     "dealAmount": "41,000",
     "date": "2026-08-20",
     "floor": 2,

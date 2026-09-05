@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경남",
+    "dealAmount": "21,500",
+    "date": "2026-08-25",
+    "floor": 6,
+    "area": 73.82
+  },
+  {
+    "aptNm": "경남",
     "dealAmount": "23,050",
     "date": "2026-08-20",
     "floor": 11,

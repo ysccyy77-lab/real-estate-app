@@ -1,10 +1,101 @@
 [
   {
+    "aptNm": "한강우성",
+    "dealAmount": "40,000",
+    "date": "2026-09-01",
+    "floor": 9,
+    "area": 59.891
+  },
+  {
+    "aptNm": "한강우성",
+    "dealAmount": "49,900",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 84.913
+  },
+  {
+    "aptNm": "한강우성",
+    "dealAmount": "44,000",
+    "date": "2026-08-27",
+    "floor": 1,
+    "area": 84.913
+  },
+  {
+    "aptNm": "삼성래미안1",
+    "dealAmount": "28,700",
+    "date": "2026-08-25",
+    "floor": 14,
+    "area": 84.95
+  },
+  {
+    "aptNm": "협성휴포레진영",
+    "dealAmount": "18,000",
+    "date": "2026-08-22",
+    "floor": 5,
+    "area": 67.3726
+  },
+  {
+    "aptNm": "경주두산위브",
+    "dealAmount": "30,000",
+    "date": "2026-08-22",
+    "floor": 9,
+    "area": 84.9698
+  },
+  {
+    "aptNm": "홍도동갤러리휴리움",
+    "dealAmount": "29,000",
+    "date": "2026-08-22",
+    "floor": 14,
+    "area": 59.9975
+  },
+  {
+    "aptNm": "한강우성",
+    "dealAmount": "41,350",
+    "date": "2026-08-21",
+    "floor": 15,
+    "area": 59.891
+  },
+  {
+    "aptNm": "협성휴포레진영",
+    "dealAmount": "16,500",
+    "date": "2026-08-21",
+    "floor": 16,
+    "area": 62.678
+  },
+  {
     "aptNm": "경주두산위브",
     "dealAmount": "17,900",
     "date": "2026-08-17",
     "floor": 9,
     "area": 45.5697
+  },
+  {
+    "aptNm": "한강우성",
+    "dealAmount": "67,000",
+    "date": "2026-08-17",
+    "floor": 12,
+    "area": 134.952
+  },
+  {
+    "aptNm": "한강우성",
+    "dealAmount": "42,000",
+    "date": "2026-08-17",
+    "floor": 8,
+    "area": 59.891
+  },
+  {
+    "aptNm": "한강우성",
+    "dealAmount": "39,000",
+    "date": "2026-08-13",
+    "floor": 15,
+    "area": 59.891
+  },
+  {
+    "aptNm": "양우내안애",
+    "dealAmount": "23,000",
+    "date": "2026-08-13",
+    "floor": 14,
+    "area": 59.9856
   },
   {
     "aptNm": "경주두산위브",

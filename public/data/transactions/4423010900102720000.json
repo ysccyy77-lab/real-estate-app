@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신우",
+    "dealAmount": "8,200",
+    "date": "2026-08-28",
+    "floor": 11,
+    "area": 59.4
+  },
+  {
+    "aptNm": "신천지타운",
+    "dealAmount": "34,800",
+    "date": "2026-08-24",
+    "floor": 5,
+    "area": 84.995
+  },
+  {
+    "aptNm": "신우",
     "dealAmount": "8,000",
     "date": "2026-08-10",
     "floor": 4,

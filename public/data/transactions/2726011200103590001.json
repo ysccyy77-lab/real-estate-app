@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "주공5",
+    "dealAmount": "124,000",
+    "date": "2026-08-22",
+    "floor": 10,
+    "area": 84.79
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "52,000",
+    "date": "2026-08-11",
+    "floor": 11,
+    "area": 44.52
+  },
+  {
+    "aptNm": "주공5",
     "dealAmount": "90,000",
     "date": "2026-07-31",
     "floor": 10,
     "area": 58.46
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "53,000",
+    "date": "2026-07-31",
+    "floor": 2,
+    "area": 44.52
   },
   {
     "aptNm": "동서무학",

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "세종",
+    "dealAmount": "23,700",
+    "date": "2026-08-27",
+    "floor": 10,
+    "area": 59.14
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "27,000",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 75.29
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "30,700",
+    "date": "2026-08-21",
+    "floor": 10,
+    "area": 84.83
+  },
+  {
+    "aptNm": "세종",
     "dealAmount": "31,500",
     "date": "2026-08-14",
     "floor": 11,
@@ -15,6 +36,13 @@
   },
   {
     "aptNm": "세종",
+    "dealAmount": "25,000",
+    "date": "2026-08-12",
+    "floor": 7,
+    "area": 75.29
+  },
+  {
+    "aptNm": "세종",
     "dealAmount": "31,800",
     "date": "2026-08-10",
     "floor": 14,
@@ -26,6 +54,13 @@
     "date": "2026-08-08",
     "floor": 2,
     "area": 117.53
+  },
+  {
+    "aptNm": "세종",
+    "dealAmount": "20,800",
+    "date": "2026-08-07",
+    "floor": 1,
+    "area": 59.14
   },
   {
     "aptNm": "세종",

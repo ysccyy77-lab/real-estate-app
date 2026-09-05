@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "세원한아름",
+    "dealAmount": "14,800",
+    "date": "2026-08-30",
+    "floor": 6,
+    "area": 59.76
+  },
+  {
+    "aptNm": "세원한아름",
+    "dealAmount": "13,000",
+    "date": "2026-08-29",
+    "floor": 1,
+    "area": 59.76
+  },
+  {
+    "aptNm": "하양코아루3차",
+    "dealAmount": "23,000",
+    "date": "2026-08-25",
+    "floor": 8,
+    "area": 84.8326
+  },
+  {
+    "aptNm": "세원한아름",
     "dealAmount": "13,000",
     "date": "2026-08-13",
     "floor": 10,

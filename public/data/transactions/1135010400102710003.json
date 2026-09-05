@@ -8,6 +8,20 @@
   },
   {
     "aptNm": "극동",
+    "dealAmount": "84,300",
+    "date": "2026-08-15",
+    "floor": 12,
+    "area": 70.56
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "101,700",
+    "date": "2026-08-10",
+    "floor": 9,
+    "area": 84.85
+  },
+  {
+    "aptNm": "극동",
     "dealAmount": "70,000",
     "date": "2026-08-06",
     "floor": 14,

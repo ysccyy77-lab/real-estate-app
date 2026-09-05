@@ -2,6 +2,20 @@
   {
     "aptNm": "선비마을1",
     "dealAmount": "19,300",
+    "date": "2026-08-26",
+    "floor": 6,
+    "area": 59.87
+  },
+  {
+    "aptNm": "선비마을1",
+    "dealAmount": "28,500",
+    "date": "2026-08-24",
+    "floor": 14,
+    "area": 84.89
+  },
+  {
+    "aptNm": "선비마을1",
+    "dealAmount": "19,300",
     "date": "2026-08-14",
     "floor": 5,
     "area": 59.87

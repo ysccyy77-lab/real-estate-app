@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "산들마을",
+    "dealAmount": "39,600",
+    "date": "2026-09-03",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "신림동쌍용아파트",
+    "dealAmount": "51,000",
+    "date": "2026-09-02",
+    "floor": 8,
+    "area": 59.26
+  },
+  {
+    "aptNm": "산들마을",
+    "dealAmount": "33,500",
+    "date": "2026-08-24",
+    "floor": 2,
+    "area": 84.93
+  },
+  {
+    "aptNm": "산들마을",
+    "dealAmount": "36,700",
+    "date": "2026-08-23",
+    "floor": 11,
+    "area": 84.93
+  },
+  {
+    "aptNm": "산들마을",
     "dealAmount": "35,700",
     "date": "2026-07-29",
     "floor": 16,

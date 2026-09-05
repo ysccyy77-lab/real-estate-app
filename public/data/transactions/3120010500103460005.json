@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성우현대",
+    "dealAmount": "16,100",
+    "date": "2026-08-28",
+    "floor": 2,
+    "area": 84.28
+  },
+  {
+    "aptNm": "성우현대",
     "dealAmount": "14,200",
     "date": "2026-08-09",
     "floor": 1,

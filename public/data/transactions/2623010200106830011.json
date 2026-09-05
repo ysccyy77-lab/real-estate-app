@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "진주(4차)",
+    "dealAmount": "9,800",
+    "date": "2026-08-19",
+    "floor": 1,
+    "area": 39.54
+  },
+  {
+    "aptNm": "진주(4차)",
+    "dealAmount": "11,300",
+    "date": "2026-08-08",
+    "floor": 2,
+    "area": 39.96
+  },
+  {
+    "aptNm": "진주(4차)",
     "dealAmount": "11,400",
     "date": "2026-06-26",
     "floor": 2,

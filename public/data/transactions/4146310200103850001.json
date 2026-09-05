@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "세원",
+    "dealAmount": "19,000",
+    "date": "2026-08-20",
+    "floor": 15,
+    "area": 59.5
+  },
+  {
+    "aptNm": "한성2",
+    "dealAmount": "57,000",
+    "date": "2026-08-20",
+    "floor": 1,
+    "area": 47.83
+  },
+  {
+    "aptNm": "예건타워빌",
+    "dealAmount": "27,500",
+    "date": "2026-08-18",
+    "floor": 5,
+    "area": 37.66
+  },
+  {
     "aptNm": "일산풍동에이스",
     "dealAmount": "33,500",
     "date": "2026-08-10",

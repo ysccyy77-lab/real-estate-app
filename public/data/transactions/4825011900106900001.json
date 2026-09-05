@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "화진금봉타운1",
+    "dealAmount": "4,000",
+    "date": "2026-08-25",
+    "floor": 11,
+    "area": 59.97
+  },
+  {
+    "aptNm": "동원",
+    "dealAmount": "6,400",
+    "date": "2026-08-21",
+    "floor": 10,
+    "area": 59.96
+  },
+  {
+    "aptNm": "화진금봉타운1",
     "dealAmount": "7,900",
     "date": "2026-08-14",
     "floor": 9,

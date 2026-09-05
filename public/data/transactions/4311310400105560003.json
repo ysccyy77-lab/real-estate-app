@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "뉴비치",
+    "dealAmount": "62,000",
+    "date": "2026-08-14",
+    "floor": 4,
+    "area": 42.93
+  },
+  {
+    "aptNm": "뉴비치",
     "dealAmount": "93,500",
     "date": "2026-08-03",
     "floor": 14,

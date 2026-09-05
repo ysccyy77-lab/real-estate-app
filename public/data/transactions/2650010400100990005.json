@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "중앙하이츠",
+    "dealAmount": "14,700",
+    "date": "2026-08-27",
+    "floor": 7,
+    "area": 44.5
+  },
+  {
+    "aptNm": "롯데골드로즈",
+    "dealAmount": "10,700",
+    "date": "2026-08-26",
+    "floor": 17,
+    "area": 33.06
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "19,800",
+    "date": "2026-08-22",
+    "floor": 5,
+    "area": 59.58
+  },
+  {
+    "aptNm": "중앙하이츠",
     "dealAmount": "13,830",
     "date": "2026-08-18",
     "floor": 8,

@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "호반베르디움5단지",
+    "dealAmount": "66,000",
+    "date": "2026-09-03",
+    "floor": 20,
+    "area": 84.8281
+  },
+  {
+    "aptNm": "산호녹원맨션",
+    "dealAmount": "9,400",
+    "date": "2026-08-28",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "구서SKVIEW1단지",
+    "dealAmount": "66,500",
+    "date": "2026-08-24",
+    "floor": 15,
+    "area": 84.959
+  },
+  {
+    "aptNm": "일동미라주",
+    "dealAmount": "20,600",
+    "date": "2026-08-21",
+    "floor": 11,
+    "area": 59.8434
+  },
+  {
     "aptNm": "구서SKVIEW1단지",
     "dealAmount": "50,800",
     "date": "2026-08-15",
@@ -8,10 +36,24 @@
   },
   {
     "aptNm": "일동미라주",
+    "dealAmount": "25,500",
+    "date": "2026-08-14",
+    "floor": 6,
+    "area": 84.5434
+  },
+  {
+    "aptNm": "일동미라주",
     "dealAmount": "20,500",
     "date": "2026-08-13",
     "floor": 14,
     "area": 59.8434
+  },
+  {
+    "aptNm": "산호녹원맨션",
+    "dealAmount": "8,000",
+    "date": "2026-08-13",
+    "floor": 6,
+    "area": 59.94
   },
   {
     "aptNm": "일동미라주",

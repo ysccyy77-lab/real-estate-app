@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "시범한양",
+    "dealAmount": "130,500",
+    "date": "2026-08-24",
+    "floor": 5,
+    "area": 35.1
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "268,000",
+    "date": "2026-08-21",
+    "floor": 14,
+    "area": 134.87
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "140,000",
+    "date": "2026-08-10",
+    "floor": 8,
+    "area": 35.1
+  },
+  {
+    "aptNm": "시범한양",
     "dealAmount": "102,500",
     "date": "2026-08-07",
     "floor": 15,
     "area": 28.71
+  },
+  {
+    "aptNm": "시범한양",
+    "dealAmount": "129,000",
+    "date": "2026-08-01",
+    "floor": 6,
+    "area": 35.1
+  },
+  {
+    "aptNm": "청솔아파트8",
+    "dealAmount": "78,000",
+    "date": "2026-07-31",
+    "floor": 7,
+    "area": 84.65
   },
   {
     "aptNm": "시범한양",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼화그린",
+    "dealAmount": "20,000",
+    "date": "2026-08-31",
+    "floor": 8,
+    "area": 59.76
+  },
+  {
+    "aptNm": "삼화그린",
     "dealAmount": "17,000",
     "date": "2026-05-07",
     "floor": 11,

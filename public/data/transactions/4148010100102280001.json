@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "초정마을하나",
+    "dealAmount": "40,400",
+    "date": "2026-09-01",
+    "floor": 18,
+    "area": 84.99
+  },
+  {
+    "aptNm": "초정마을하나",
+    "dealAmount": "37,700",
+    "date": "2026-08-26",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "건일장미5차",
+    "dealAmount": "19,000",
+    "date": "2026-08-20",
+    "floor": 14,
+    "area": 84.87
+  },
+  {
+    "aptNm": "초정마을하나",
+    "dealAmount": "40,300",
+    "date": "2026-08-20",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "초정마을하나",
     "dealAmount": "38,700",
     "date": "2026-08-08",
     "floor": 14,

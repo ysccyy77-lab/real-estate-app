@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "쌍용자이",
+    "dealAmount": "30,000",
+    "date": "2026-08-31",
+    "floor": 10,
+    "area": 84.839
+  },
+  {
+    "aptNm": "쌍용자이",
+    "dealAmount": "28,800",
+    "date": "2026-08-29",
+    "floor": 15,
+    "area": 84.839
+  },
+  {
+    "aptNm": "쌍용자이",
     "dealAmount": "43,000",
     "date": "2026-06-16",
     "floor": 3,

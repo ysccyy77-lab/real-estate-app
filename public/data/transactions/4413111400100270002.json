@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "아트빌",
+    "dealAmount": "3,000",
+    "date": "2026-08-29",
+    "floor": 3,
+    "area": 39.78
+  },
+  {
+    "aptNm": "아트빌",
     "dealAmount": "2,500",
     "date": "2026-08-20",
     "floor": 8,

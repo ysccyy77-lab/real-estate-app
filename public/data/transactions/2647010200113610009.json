@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "시청역SKVIEW",
+    "dealAmount": "49,500",
+    "date": "2026-09-02",
+    "floor": 20,
+    "area": 84.0955
+  },
+  {
+    "aptNm": "시청역SKVIEW",
     "dealAmount": "51,500",
     "date": "2026-08-02",
     "floor": 23,

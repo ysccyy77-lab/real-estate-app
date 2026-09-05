@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "삼산파로스빌",
+    "dealAmount": "30,700",
+    "date": "2026-08-31",
+    "floor": 6,
+    "area": 84.85
+  },
+  {
+    "aptNm": "센트럴",
+    "dealAmount": "17,500",
+    "date": "2026-08-26",
+    "floor": 11,
+    "area": 59.89
+  },
+  {
+    "aptNm": "주안현대홈타운",
+    "dealAmount": "29,000",
+    "date": "2026-08-21",
+    "floor": 3,
+    "area": 66.708
+  },
+  {
+    "aptNm": "미르빌",
+    "dealAmount": "17,000",
+    "date": "2026-08-13",
+    "floor": 6,
+    "area": 79.8947
+  },
+  {
+    "aptNm": "삼익",
+    "dealAmount": "37,305",
+    "date": "2026-08-13",
+    "floor": 8,
+    "area": 61.98
+  },
+  {
     "aptNm": "대한1차",
     "dealAmount": "9,000",
     "date": "2026-08-12",

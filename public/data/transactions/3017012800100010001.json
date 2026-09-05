@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "28,000",
+    "date": "2026-08-29",
+    "floor": 1,
+    "area": 84.958
+  },
+  {
+    "aptNm": "GS메트로자이",
+    "dealAmount": "15,500",
+    "date": "2026-08-28",
+    "floor": 6,
+    "area": 59.9934
+  },
+  {
+    "aptNm": "초원",
+    "dealAmount": "37,000",
+    "date": "2026-08-28",
+    "floor": 11,
+    "area": 59.8
+  },
+  {
+    "aptNm": "초원",
+    "dealAmount": "37,700",
+    "date": "2026-08-27",
+    "floor": 14,
+    "area": 59.89
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "30,200",
+    "date": "2026-08-24",
+    "floor": 6,
+    "area": 84.982
+  },
+  {
+    "aptNm": "희망",
+    "dealAmount": "16,000",
+    "date": "2026-08-20",
+    "floor": 12,
+    "area": 84.66
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "31,500",
+    "date": "2026-08-20",
+    "floor": 15,
+    "area": 84.982
+  },
+  {
     "aptNm": "청솔타운",
     "dealAmount": "3,200",
     "date": "2026-08-18",

@@ -1,10 +1,87 @@
 [
   {
+    "aptNm": "세종마루투",
+    "dealAmount": "9,000",
+    "date": "2026-08-31",
+    "floor": 6,
+    "area": 28.127
+  },
+  {
+    "aptNm": "불당아이파크",
+    "dealAmount": "39,500",
+    "date": "2026-08-30",
+    "floor": 7,
+    "area": 84.95
+  },
+  {
+    "aptNm": "불당아이파크",
+    "dealAmount": "42,500",
+    "date": "2026-08-29",
+    "floor": 10,
+    "area": 84.95
+  },
+  {
+    "aptNm": "대림e-편한세상",
+    "dealAmount": "33,000",
+    "date": "2026-08-28",
+    "floor": 4,
+    "area": 79.5108
+  },
+  {
+    "aptNm": "학익SKVIEW",
+    "dealAmount": "44,000",
+    "date": "2026-08-28",
+    "floor": 26,
+    "area": 59.9482
+  },
+  {
+    "aptNm": "불당아이파크",
+    "dealAmount": "43,500",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
+    "aptNm": "주공3",
+    "dealAmount": "6,500",
+    "date": "2026-08-26",
+    "floor": 1,
+    "area": 39.87
+  },
+  {
+    "aptNm": "의정부민락푸르지오",
+    "dealAmount": "43,300",
+    "date": "2026-08-22",
+    "floor": 11,
+    "area": 84.937
+  },
+  {
+    "aptNm": "의정부민락푸르지오",
+    "dealAmount": "46,000",
+    "date": "2026-08-22",
+    "floor": 21,
+    "area": 84.937
+  },
+  {
     "aptNm": "불당아이파크",
     "dealAmount": "40,000",
     "date": "2026-08-21",
     "floor": 6,
     "area": 84.95
+  },
+  {
+    "aptNm": "교동청솔2차",
+    "dealAmount": "10,400",
+    "date": "2026-08-20",
+    "floor": 7,
+    "area": 59.85
+  },
+  {
+    "aptNm": "의정부민락푸르지오",
+    "dealAmount": "40,500",
+    "date": "2026-08-20",
+    "floor": 5,
+    "area": 74.889
   },
   {
     "aptNm": "의정부민락푸르지오",
@@ -21,11 +98,39 @@
     "area": 84.96
   },
   {
+    "aptNm": "의정부민락푸르지오",
+    "dealAmount": "44,300",
+    "date": "2026-08-18",
+    "floor": 4,
+    "area": 84.942
+  },
+  {
+    "aptNm": "의정부민락푸르지오",
+    "dealAmount": "39,500",
+    "date": "2026-08-14",
+    "floor": 1,
+    "area": 74.889
+  },
+  {
     "aptNm": "교동청솔2차",
     "dealAmount": "10,000",
     "date": "2026-08-12",
     "floor": 8,
     "area": 59.85
+  },
+  {
+    "aptNm": "의정부민락푸르지오",
+    "dealAmount": "39,500",
+    "date": "2026-08-12",
+    "floor": 17,
+    "area": 62.934
+  },
+  {
+    "aptNm": "대림e-편한세상",
+    "dealAmount": "33,000",
+    "date": "2026-08-08",
+    "floor": 8,
+    "area": 79.5108
   },
   {
     "aptNm": "불당아이파크",

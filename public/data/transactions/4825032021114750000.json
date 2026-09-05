@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "김해주촌일동미라주더네스트",
+    "dealAmount": "30,700",
+    "date": "2026-08-28",
+    "floor": 9,
+    "area": 69.8344
+  },
+  {
+    "aptNm": "강변",
+    "dealAmount": "77,500",
+    "date": "2026-08-13",
+    "floor": 1,
+    "area": 39.6
+  },
+  {
     "aptNm": "쌍용",
     "dealAmount": "63,500",
     "date": "2026-08-09",
@@ -7,11 +21,25 @@
     "area": 59.991
   },
   {
+    "aptNm": "강변",
+    "dealAmount": "81,000",
+    "date": "2026-08-08",
+    "floor": 14,
+    "area": 34.44
+  },
+  {
     "aptNm": "용상2주공",
     "dealAmount": "3,300",
     "date": "2026-08-07",
     "floor": 5,
     "area": 38.07
+  },
+  {
+    "aptNm": "강변",
+    "dealAmount": "90,000",
+    "date": "2026-08-07",
+    "floor": 6,
+    "area": 39.6
   },
   {
     "aptNm": "강변",
@@ -36,6 +64,13 @@
   },
   {
     "aptNm": "강변",
+    "dealAmount": "106,500",
+    "date": "2026-07-31",
+    "floor": 2,
+    "area": 49.5
+  },
+  {
+    "aptNm": "강변",
     "dealAmount": "111,000",
     "date": "2026-07-30",
     "floor": 8,
@@ -54,6 +89,20 @@
     "date": "2026-07-29",
     "floor": 11,
     "area": 34.44
+  },
+  {
+    "aptNm": "강변",
+    "dealAmount": "89,000",
+    "date": "2026-07-28",
+    "floor": 7,
+    "area": 39.6
+  },
+  {
+    "aptNm": "강변",
+    "dealAmount": "88,000",
+    "date": "2026-07-25",
+    "floor": 11,
+    "area": 39.6
   },
   {
     "aptNm": "강변",

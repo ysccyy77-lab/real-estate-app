@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "적성4차",
+    "dealAmount": "28,015",
+    "date": "2026-08-28",
+    "floor": 2,
+    "area": 64.08
+  },
+  {
+    "aptNm": "적성4차",
+    "dealAmount": "26,800",
+    "date": "2026-08-21",
+    "floor": 5,
+    "area": 64.44
+  },
+  {
     "aptNm": "주공2",
     "dealAmount": "6,150",
     "date": "2026-08-14",

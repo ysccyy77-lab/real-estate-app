@@ -1,10 +1,66 @@
 [
   {
     "aptNm": "보성,유원",
+    "dealAmount": "38,000",
+    "date": "2026-08-27",
+    "floor": 9,
+    "area": 60
+  },
+  {
+    "aptNm": "보성,유원",
+    "dealAmount": "29,000",
+    "date": "2026-08-26",
+    "floor": 1,
+    "area": 59.76
+  },
+  {
+    "aptNm": "보성,유원",
+    "dealAmount": "33,000",
+    "date": "2026-08-24",
+    "floor": 8,
+    "area": 60
+  },
+  {
+    "aptNm": "보성,유원",
+    "dealAmount": "39,000",
+    "date": "2026-08-24",
+    "floor": 9,
+    "area": 60
+  },
+  {
+    "aptNm": "보성,유원",
+    "dealAmount": "37,500",
+    "date": "2026-08-23",
+    "floor": 4,
+    "area": 60
+  },
+  {
+    "aptNm": "구로두산",
+    "dealAmount": "65,000",
+    "date": "2026-08-21",
+    "floor": 4,
+    "area": 44.64
+  },
+  {
+    "aptNm": "보성,유원",
     "dealAmount": "37,500",
     "date": "2026-08-20",
     "floor": 10,
     "area": 59.76
+  },
+  {
+    "aptNm": "보성,유원",
+    "dealAmount": "38,200",
+    "date": "2026-08-20",
+    "floor": 6,
+    "area": 60
+  },
+  {
+    "aptNm": "율량효성",
+    "dealAmount": "11,200",
+    "date": "2026-08-17",
+    "floor": 2,
+    "area": 59.86
   },
   {
     "aptNm": "보성,유원",

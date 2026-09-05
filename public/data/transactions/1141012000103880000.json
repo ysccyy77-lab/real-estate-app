@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "DMC센트럴아이파크",
+    "dealAmount": "143,500",
+    "date": "2026-08-21",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "DMC센트럴아이파크",
+    "dealAmount": "125,000",
+    "date": "2026-08-15",
+    "floor": 15,
+    "area": 59.99
+  },
+  {
+    "aptNm": "��구햇살",
+    "dealAmount": "68,000",
+    "date": "2026-08-13",
+    "floor": 1,
+    "area": 84.97
+  },
+  {
+    "aptNm": "DMC센트럴아이파크",
     "dealAmount": "126,500",
     "date": "2026-07-29",
     "floor": 11,

@@ -1,9 +1,30 @@
 [
   {
     "aptNm": "은아1단지",
+    "dealAmount": "19,000",
+    "date": "2026-08-29",
+    "floor": 6,
+    "area": 84.57
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "17,500",
+    "date": "2026-08-14",
+    "floor": 10,
+    "area": 84.9
+  },
+  {
+    "aptNm": "은아1단지",
     "dealAmount": "17,500",
     "date": "2026-07-14",
     "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "은아1단지",
+    "dealAmount": "19,000",
+    "date": "2026-06-29",
+    "floor": 2,
     "area": 84.9
   },
   {

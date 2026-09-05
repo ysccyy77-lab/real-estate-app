@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "도성타운",
+    "dealAmount": "15,500",
+    "date": "2026-08-29",
+    "floor": 2,
+    "area": 60.435
+  },
+  {
+    "aptNm": "도성타운",
     "dealAmount": "16,000",
     "date": "2026-08-11",
     "floor": 7,

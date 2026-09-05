@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "시화두산",
+    "dealAmount": "26,500",
+    "date": "2026-08-24",
+    "floor": 8,
+    "area": 59.97
+  },
+  {
+    "aptNm": "시화두산",
     "dealAmount": "26,000",
     "date": "2026-08-14",
     "floor": 9,

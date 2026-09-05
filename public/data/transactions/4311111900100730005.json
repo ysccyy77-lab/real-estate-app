@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "태암수정",
+    "dealAmount": "5,500",
+    "date": "2026-08-31",
+    "floor": 10,
+    "area": 42.24
+  },
+  {
+    "aptNm": "태암수정",
     "dealAmount": "4,900",
     "date": "2026-07-07",
     "floor": 9,

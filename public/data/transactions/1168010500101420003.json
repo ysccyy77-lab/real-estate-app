@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "경남1차",
+    "dealAmount": "22,700",
+    "date": "2026-09-02",
+    "floor": 8,
+    "area": 59.72
+  },
+  {
+    "aptNm": "경남1차",
+    "dealAmount": "29,000",
+    "date": "2026-09-01",
+    "floor": 1,
+    "area": 84.43
+  },
+  {
+    "aptNm": "LG선릉에클라트(B)",
+    "dealAmount": "33,500",
+    "date": "2026-08-14",
+    "floor": 13,
+    "area": 36.35
+  },
+  {
+    "aptNm": "경남1차",
     "dealAmount": "31,000",
     "date": "2026-07-30",
     "floor": 8,

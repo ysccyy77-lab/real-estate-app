@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신월대림",
+    "dealAmount": "67,000",
+    "date": "2026-08-26",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신월대림",
     "dealAmount": "55,700",
     "date": "2026-07-26",
     "floor": 3,

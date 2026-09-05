@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "강변삼익",
+    "dealAmount": "56,500",
+    "date": "2026-08-31",
+    "floor": 6,
+    "area": 84.81
+  },
+  {
+    "aptNm": "강변삼익",
+    "dealAmount": "47,900",
+    "date": "2026-08-25",
+    "floor": 15,
+    "area": 59.88
+  },
+  {
+    "aptNm": "강변삼익",
+    "dealAmount": "44,500",
+    "date": "2026-08-22",
+    "floor": 11,
+    "area": 59.88
+  },
+  {
+    "aptNm": "강변삼익",
     "dealAmount": "80,000",
     "date": "2026-08-10",
     "floor": 15,

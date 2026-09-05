@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성수",
+    "dealAmount": "4,000",
+    "date": "2026-08-13",
+    "floor": 8,
+    "area": 84.77
+  },
+  {
+    "aptNm": "성수",
     "dealAmount": "4,400",
     "date": "2026-05-28",
     "floor": 3,

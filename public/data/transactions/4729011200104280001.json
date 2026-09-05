@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대평그린빌",
+    "dealAmount": "18,500",
+    "date": "2026-09-03",
+    "floor": 12,
+    "area": 59.45
+  },
+  {
+    "aptNm": "대평그린빌",
+    "dealAmount": "14,500",
+    "date": "2026-08-23",
+    "floor": 15,
+    "area": 51.88
+  },
+  {
+    "aptNm": "대평그린빌",
     "dealAmount": "13,600",
     "date": "2026-08-01",
     "floor": 1,

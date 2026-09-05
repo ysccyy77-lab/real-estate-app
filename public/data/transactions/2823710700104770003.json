@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "뉴서울",
+    "dealAmount": "21,000",
+    "date": "2026-08-27",
+    "floor": 1,
+    "area": 39.48
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "18,300",
+    "date": "2026-08-19",
+    "floor": 1,
+    "area": 39.48
+  },
+  {
+    "aptNm": "뉴서울",
     "dealAmount": "21,500",
     "date": "2026-08-17",
     "floor": 14,

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "팬더",
+    "dealAmount": "30,800",
+    "date": "2026-08-24",
+    "floor": 6,
+    "area": 84.92
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "171,000",
+    "date": "2026-08-22",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "168,000",
+    "date": "2026-08-12",
+    "floor": 19,
+    "area": 84.94
+  },
+  {
     "aptNm": "DMC센트럴자이(2단지)",
     "dealAmount": "159,500",
     "date": "2026-08-11",

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "학마을서원",
+    "dealAmount": "17,000",
+    "date": "2026-08-25",
+    "floor": 6,
+    "area": 34.44
+  },
+  {
+    "aptNm": "학마을서원",
+    "dealAmount": "27,000",
+    "date": "2026-08-24",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "학마을서원",
+    "dealAmount": "29,100",
+    "date": "2026-08-22",
+    "floor": 13,
+    "area": 59.94
+  },
+  {
+    "aptNm": "학마을서원",
     "dealAmount": "14,000",
     "date": "2026-07-20",
     "floor": 11,

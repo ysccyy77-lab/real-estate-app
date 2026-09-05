@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "아람마을",
+    "dealAmount": "12,200",
+    "date": "2026-08-29",
+    "floor": 15,
+    "area": 59.63
+  },
+  {
+    "aptNm": "아람마을",
     "dealAmount": "10,700",
     "date": "2026-08-20",
     "floor": 3,

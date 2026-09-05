@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "문산주공",
+    "dealAmount": "5,400",
+    "date": "2026-08-30",
+    "floor": 5,
+    "area": 43.31
+  },
+  {
+    "aptNm": "문산주공",
     "dealAmount": "6,400",
     "date": "2026-08-02",
     "floor": 3,

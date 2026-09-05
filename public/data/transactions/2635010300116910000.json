@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "센텀KCC스위첸",
+    "dealAmount": "65,000",
+    "date": "2026-09-01",
+    "floor": 22,
+    "area": 84.61
+  },
+  {
+    "aptNm": "센텀KCC스위첸",
+    "dealAmount": "68,500",
+    "date": "2026-08-31",
+    "floor": 26,
+    "area": 84.61
+  },
+  {
+    "aptNm": "진영이진캐스빌",
+    "dealAmount": "24,300",
+    "date": "2026-08-27",
+    "floor": 9,
+    "area": 70.6685
+  },
+  {
+    "aptNm": "진영이진캐스빌",
+    "dealAmount": "27,000",
+    "date": "2026-08-22",
+    "floor": 22,
+    "area": 84.9723
+  },
+  {
+    "aptNm": "센텀KCC스위첸",
+    "dealAmount": "48,000",
+    "date": "2026-08-22",
+    "floor": 8,
+    "area": 59.87
+  },
+  {
     "aptNm": "진영이진캐스빌",
     "dealAmount": "26,000",
     "date": "2026-08-21",
     "floor": 1,
     "area": 84.9723
+  },
+  {
+    "aptNm": "센텀KCC스위첸",
+    "dealAmount": "63,500",
+    "date": "2026-08-18",
+    "floor": 10,
+    "area": 84.61
+  },
+  {
+    "aptNm": "더샵아르테",
+    "dealAmount": "73,450",
+    "date": "2026-08-14",
+    "floor": 26,
+    "area": 84.9135
   },
   {
     "aptNm": "진영이진캐스빌",

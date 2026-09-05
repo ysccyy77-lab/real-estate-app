@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "석탑,까치마을",
+    "dealAmount": "18,350",
+    "date": "2026-09-01",
+    "floor": 17,
+    "area": 115.58
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "20,500",
+    "date": "2026-08-24",
+    "floor": 4,
+    "area": 70.96
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "21,500",
+    "date": "2026-08-23",
+    "floor": 4,
+    "area": 70.96
+  },
+  {
+    "aptNm": "한국",
+    "dealAmount": "38,100",
+    "date": "2026-08-22",
+    "floor": 17,
+    "area": 84.99
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "21,800",
+    "date": "2026-08-14",
+    "floor": 12,
+    "area": 70.96
+  },
+  {
     "aptNm": "현대",
     "dealAmount": "19,200",
     "date": "2026-08-10",
     "floor": 8,
     "area": 70.96
+  },
+  {
+    "aptNm": "석탑,까치마을",
+    "dealAmount": "13,000",
+    "date": "2026-08-06",
+    "floor": 11,
+    "area": 84.77
   },
   {
     "aptNm": "현대",

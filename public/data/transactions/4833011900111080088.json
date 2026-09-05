@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경보2",
+    "dealAmount": "4,700",
+    "date": "2026-08-11",
+    "floor": 13,
+    "area": 48.61
+  },
+  {
+    "aptNm": "경보2",
     "dealAmount": "4,250",
     "date": "2026-08-03",
     "floor": 10,

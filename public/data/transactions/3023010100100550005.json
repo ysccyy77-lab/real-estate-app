@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "양지마을",
+    "dealAmount": "28,200",
+    "date": "2026-09-01",
+    "floor": 5,
+    "area": 117.31
+  },
+  {
+    "aptNm": "양지마을",
+    "dealAmount": "17,700",
+    "date": "2026-08-22",
+    "floor": 7,
+    "area": 59.34
+  },
+  {
+    "aptNm": "미장코아루",
+    "dealAmount": "33,500",
+    "date": "2026-08-17",
+    "floor": 1,
+    "area": 129.19
+  },
+  {
+    "aptNm": "양지마을",
     "dealAmount": "29,500",
     "date": "2026-07-31",
     "floor": 18,

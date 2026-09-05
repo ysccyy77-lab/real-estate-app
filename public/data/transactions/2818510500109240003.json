@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "자이(xi)",
+    "dealAmount": "42,500",
+    "date": "2026-08-17",
+    "floor": 9,
+    "area": 95.55
+  },
+  {
+    "aptNm": "자이(xi)",
     "dealAmount": "39,500",
     "date": "2026-07-07",
     "floor": 7,

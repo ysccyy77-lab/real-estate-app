@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "융보목련",
+    "dealAmount": "4,000",
+    "date": "2026-08-25",
+    "floor": 1,
+    "area": 42.08
+  },
+  {
+    "aptNm": "융보목련",
     "dealAmount": "5,300",
     "date": "2026-05-13",
     "floor": 7,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "유락A동",
+    "dealAmount": "16,900",
+    "date": "2026-08-24",
+    "floor": 14,
+    "area": 72.19
+  },
+  {
+    "aptNm": "유락A동",
     "dealAmount": "10,000",
     "date": "2026-08-14",
     "floor": 4,

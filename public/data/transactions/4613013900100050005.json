@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "영진",
+    "dealAmount": "15,700",
+    "date": "2026-09-02",
+    "floor": 2,
+    "area": 59.77
+  },
+  {
+    "aptNm": "진흥2차아파트",
+    "dealAmount": "4,200",
+    "date": "2026-09-01",
+    "floor": 4,
+    "area": 59.97
+  },
+  {
+    "aptNm": "영진",
     "dealAmount": "15,500",
     "date": "2026-07-23",
     "floor": 9,

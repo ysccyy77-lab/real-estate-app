@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "거장",
+    "dealAmount": "2,300",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 32.67
+  },
+  {
+    "aptNm": "동성1",
+    "dealAmount": "39,000",
+    "date": "2026-08-25",
+    "floor": 11,
+    "area": 134.76
+  },
+  {
+    "aptNm": "태왕메트로시티",
+    "dealAmount": "14,950",
+    "date": "2026-08-22",
+    "floor": 2,
+    "area": 59.85
+  },
+  {
+    "aptNm": "서호(1차)",
+    "dealAmount": "18,700",
+    "date": "2026-08-20",
+    "floor": 9,
+    "area": 84.725
+  },
+  {
     "aptNm": "동성1",
     "dealAmount": "36,500",
     "date": "2026-08-15",

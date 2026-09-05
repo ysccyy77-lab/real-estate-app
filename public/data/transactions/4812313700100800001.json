@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "이화B",
+    "dealAmount": "10,600",
+    "date": "2026-09-02",
+    "floor": 4,
+    "area": 41.4
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "26,500",
+    "date": "2026-08-23",
+    "floor": 7,
+    "area": 120.93
+  },
+  {
+    "aptNm": "대동1차황토방",
+    "dealAmount": "26,400",
+    "date": "2026-08-22",
+    "floor": 6,
+    "area": 120.93
+  },
+  {
     "aptNm": "한사랑",
     "dealAmount": "3,500",
     "date": "2026-08-19",

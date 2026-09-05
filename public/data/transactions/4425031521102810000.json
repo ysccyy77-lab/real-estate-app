@@ -1,10 +1,73 @@
 [
   {
+    "aptNm": "익주",
+    "dealAmount": "38,000",
+    "date": "2026-09-01",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "31,500",
+    "date": "2026-08-26",
+    "floor": 13,
+    "area": 59.88
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "27,700",
+    "date": "2026-08-26",
+    "floor": 1,
+    "area": 59.88
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "29,500",
+    "date": "2026-08-25",
+    "floor": 14,
+    "area": 59.88
+  },
+  {
+    "aptNm": "경산하양금호어울림",
+    "dealAmount": "24,000",
+    "date": "2026-08-24",
+    "floor": 7,
+    "area": 59.93
+  },
+  {
     "aptNm": "경산하양금호어울림",
     "dealAmount": "21,500",
     "date": "2026-08-20",
     "floor": 4,
     "area": 59.93
+  },
+  {
+    "aptNm": "세대넥스빌",
+    "dealAmount": "14,500",
+    "date": "2026-08-13",
+    "floor": 9,
+    "area": 84.84
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "27,700",
+    "date": "2026-08-11",
+    "floor": 1,
+    "area": 59.88
+  },
+  {
+    "aptNm": "상록수",
+    "dealAmount": "23,000",
+    "date": "2026-08-10",
+    "floor": 8,
+    "area": 43.2
+  },
+  {
+    "aptNm": "천왕연지타운2단지",
+    "dealAmount": "78,700",
+    "date": "2026-08-08",
+    "floor": 2,
+    "area": 84.95
   },
   {
     "aptNm": "경산하양금호어울림",
@@ -54,6 +117,13 @@
     "date": "2026-08-01",
     "floor": 11,
     "area": 84.99
+  },
+  {
+    "aptNm": "천왕연지타운2단지",
+    "dealAmount": "78,000",
+    "date": "2026-08-01",
+    "floor": 1,
+    "area": 84.98
   },
   {
     "aptNm": "동아",

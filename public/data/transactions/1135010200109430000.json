@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "동남",
+    "dealAmount": "23,000",
+    "date": "2026-08-26",
+    "floor": 2,
+    "area": 52.14
+  },
+  {
+    "aptNm": "동남",
+    "dealAmount": "21,500",
+    "date": "2026-08-25",
+    "floor": 2,
+    "area": 52.14
+  },
+  {
+    "aptNm": "동남",
+    "dealAmount": "23,500",
+    "date": "2026-08-21",
+    "floor": 6,
+    "area": 52.14
+  },
+  {
+    "aptNm": "송정써미트",
+    "dealAmount": "28,300",
+    "date": "2026-08-21",
+    "floor": 17,
+    "area": 84.6134
+  },
+  {
     "aptNm": "노형해모로루엔",
     "dealAmount": "47,300",
     "date": "2026-08-14",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "원흥",
+    "dealAmount": "13,500",
+    "date": "2026-09-03",
+    "floor": 1,
+    "area": 47.94
+  },
+  {
+    "aptNm": "원흥",
     "dealAmount": "17,000",
     "date": "2026-06-23",
     "floor": 6,

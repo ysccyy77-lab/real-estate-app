@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "동성1차",
+    "dealAmount": "11,000",
+    "date": "2026-09-01",
+    "floor": 2,
+    "area": 59.82
+  },
+  {
+    "aptNm": "센트럴시티",
+    "dealAmount": "23,900",
+    "date": "2026-08-28",
+    "floor": 4,
+    "area": 39.28
+  },
+  {
+    "aptNm": "센트럴시티",
+    "dealAmount": "23,800",
+    "date": "2026-08-22",
+    "floor": 2,
+    "area": 39.28
+  },
+  {
     "aptNm": "센트럴시티",
     "dealAmount": "23,000",
     "date": "2026-07-07",

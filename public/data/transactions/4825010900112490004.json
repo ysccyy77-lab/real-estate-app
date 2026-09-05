@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "한국2",
+    "dealAmount": "15,300",
+    "date": "2026-09-04",
+    "floor": 10,
+    "area": 59.946
+  },
+  {
+    "aptNm": "한국2",
+    "dealAmount": "14,550",
+    "date": "2026-08-26",
+    "floor": 14,
+    "area": 59.946
+  },
+  {
+    "aptNm": "한국2",
+    "dealAmount": "16,000",
+    "date": "2026-08-24",
+    "floor": 2,
+    "area": 59.82
+  },
+  {
+    "aptNm": "한국2",
+    "dealAmount": "17,800",
+    "date": "2026-08-22",
+    "floor": 8,
+    "area": 59.946
+  },
+  {
+    "aptNm": "한국2",
+    "dealAmount": "6,000",
+    "date": "2026-08-21",
+    "floor": 9,
+    "area": 27.648
+  },
+  {
+    "aptNm": "한국2",
     "dealAmount": "13,900",
     "date": "2026-08-18",
     "floor": 8,

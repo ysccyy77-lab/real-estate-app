@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "유니빌",
+    "dealAmount": "4,270",
+    "date": "2026-08-29",
+    "floor": 10,
+    "area": 28.168
+  },
+  {
+    "aptNm": "경남신성",
+    "dealAmount": "23,000",
+    "date": "2026-08-21",
+    "floor": 9,
+    "area": 116.95
+  },
+  {
+    "aptNm": "유니빌",
     "dealAmount": "4,000",
     "date": "2026-08-04",
     "floor": 14,

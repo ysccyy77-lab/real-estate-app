@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신사직",
+    "dealAmount": "30,000",
+    "date": "2026-08-29",
+    "floor": 3,
+    "area": 56.66
+  },
+  {
+    "aptNm": "신사직",
     "dealAmount": "30,600",
     "date": "2026-03-14",
     "floor": 1,

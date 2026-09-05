@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "안행현대",
+    "dealAmount": "24,500",
+    "date": "2026-08-26",
+    "floor": 4,
+    "area": 84.96
+  },
+  {
+    "aptNm": "안행현대",
     "dealAmount": "15,000",
     "date": "2026-07-15",
     "floor": 13,

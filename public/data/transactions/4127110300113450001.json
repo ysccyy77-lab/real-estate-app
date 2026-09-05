@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "요진",
+    "dealAmount": "37,000",
+    "date": "2026-09-01",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "47,000",
+    "date": "2026-08-29",
+    "floor": 13,
+    "area": 130.29
+  },
+  {
+    "aptNm": "요진",
+    "dealAmount": "30,000",
+    "date": "2026-08-21",
+    "floor": 5,
+    "area": 77.665
+  },
+  {
+    "aptNm": "요진",
     "dealAmount": "34,000",
     "date": "2026-08-18",
     "floor": 3,

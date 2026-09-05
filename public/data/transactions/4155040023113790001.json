@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "지에프",
+    "dealAmount": "8,800",
+    "date": "2026-08-17",
+    "floor": 6,
+    "area": 46.0619
+  },
+  {
+    "aptNm": "지에프",
     "dealAmount": "6,800",
     "date": "2026-08-10",
     "floor": 4,

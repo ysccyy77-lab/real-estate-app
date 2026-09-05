@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "성서주공2",
+    "dealAmount": "9,500",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 49.44
+  },
+  {
+    "aptNm": "동대구에일린의뜰",
+    "dealAmount": "42,000",
+    "date": "2026-08-22",
+    "floor": 21,
+    "area": 59.9755
+  },
+  {
+    "aptNm": "e편한세상동래아시아드",
+    "dealAmount": "43,300",
+    "date": "2026-08-22",
+    "floor": 2,
+    "area": 49.9839
+  },
+  {
+    "aptNm": "성서주공2",
+    "dealAmount": "11,000",
+    "date": "2026-08-18",
+    "floor": 8,
+    "area": 49.44
+  },
+  {
+    "aptNm": "계룡리슈빌",
+    "dealAmount": "24,000",
+    "date": "2026-08-17",
+    "floor": 3,
+    "area": 59.85
+  },
+  {
+    "aptNm": "성서주공2",
     "dealAmount": "7,400",
     "date": "2026-08-16",
     "floor": 3,

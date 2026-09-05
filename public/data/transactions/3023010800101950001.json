@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "그린타운",
+    "dealAmount": "16,200",
+    "date": "2026-08-31",
+    "floor": 6,
+    "area": 59.34
+  },
+  {
+    "aptNm": "그린타운",
+    "dealAmount": "16,700",
+    "date": "2026-08-31",
+    "floor": 13,
+    "area": 59.34
+  },
+  {
+    "aptNm": "그린타운",
+    "dealAmount": "18,800",
+    "date": "2026-08-28",
+    "floor": 11,
+    "area": 59.34
+  },
+  {
+    "aptNm": "그린타운",
     "dealAmount": "18,500",
     "date": "2026-08-13",
     "floor": 12,

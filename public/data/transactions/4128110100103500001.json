@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "청학주공(6단지)",
+    "dealAmount": "28,400",
+    "date": "2026-08-29",
+    "floor": 1,
+    "area": 84.34
+  },
+  {
+    "aptNm": "삼익주택",
+    "dealAmount": "17,000",
+    "date": "2026-08-23",
+    "floor": 9,
+    "area": 46.04
+  },
+  {
+    "aptNm": "삼보",
+    "dealAmount": "11,900",
+    "date": "2026-08-22",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
     "aptNm": "삼보",
     "dealAmount": "9,800",
     "date": "2026-08-04",

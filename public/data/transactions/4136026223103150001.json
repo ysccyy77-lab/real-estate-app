@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송도SKVIEW",
+    "dealAmount": "69,700",
+    "date": "2026-08-21",
+    "floor": 30,
+    "area": 84.6932
+  },
+  {
+    "aptNm": "송도SKVIEW",
     "dealAmount": "76,000",
     "date": "2026-08-17",
     "floor": 17,
@@ -19,6 +26,13 @@
     "date": "2026-08-15",
     "floor": 15,
     "area": 99.9891
+  },
+  {
+    "aptNm": "송도SKVIEW",
+    "dealAmount": "71,900",
+    "date": "2026-08-13",
+    "floor": 20,
+    "area": 84.6541
   },
   {
     "aptNm": "유호",

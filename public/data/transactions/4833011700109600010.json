@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서창대동",
+    "dealAmount": "4,500",
+    "date": "2026-08-25",
+    "floor": 19,
+    "area": 59.54
+  },
+  {
+    "aptNm": "서창대동",
     "dealAmount": "4,350",
     "date": "2026-07-29",
     "floor": 21,

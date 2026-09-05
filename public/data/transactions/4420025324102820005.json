@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "아산한도",
+    "dealAmount": "10,500",
+    "date": "2026-08-24",
+    "floor": 19,
+    "area": 59.4
+  },
+  {
+    "aptNm": "아산한도",
     "dealAmount": "10,800",
     "date": "2026-08-08",
     "floor": 5,

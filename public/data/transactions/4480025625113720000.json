@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "청아타운",
+    "dealAmount": "20,200",
+    "date": "2026-09-04",
+    "floor": 15,
+    "area": 84.995
+  },
+  {
+    "aptNm": "청아타운",
+    "dealAmount": "27,200",
+    "date": "2026-08-28",
+    "floor": 4,
+    "area": 134.73
+  },
+  {
+    "aptNm": "청아타운",
     "dealAmount": "26,250",
     "date": "2026-06-16",
     "floor": 5,

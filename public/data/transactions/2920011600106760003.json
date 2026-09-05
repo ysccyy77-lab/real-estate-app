@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "초전흥한",
+    "dealAmount": "15,200",
+    "date": "2026-08-17",
+    "floor": 3,
+    "area": 59.85
+  },
+  {
+    "aptNm": "초전흥한",
     "dealAmount": "16,500",
     "date": "2026-07-20",
     "floor": 11,

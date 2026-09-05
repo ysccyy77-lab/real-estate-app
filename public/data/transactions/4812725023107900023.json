@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "국제한마음",
+    "dealAmount": "8,450",
+    "date": "2026-08-22",
+    "floor": 2,
+    "area": 71.38
+  },
+  {
+    "aptNm": "국제한마음",
     "dealAmount": "9,600",
     "date": "2026-07-23",
     "floor": 8,

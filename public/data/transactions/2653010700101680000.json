@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "학장벽산",
+    "dealAmount": "27,300",
+    "date": "2026-09-04",
+    "floor": 16,
+    "area": 119.24
+  },
+  {
+    "aptNm": "명성",
+    "dealAmount": "5,100",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 44.1
+  },
+  {
+    "aptNm": "프리빌리지2차",
+    "dealAmount": "50,900",
+    "date": "2026-08-22",
+    "floor": 8,
+    "area": 84.9695
+  },
+  {
+    "aptNm": "학장벽산",
+    "dealAmount": "24,000",
+    "date": "2026-08-20",
+    "floor": 10,
+    "area": 95.95
+  },
+  {
     "aptNm": "프리빌리지2차",
     "dealAmount": "59,500",
     "date": "2026-08-18",

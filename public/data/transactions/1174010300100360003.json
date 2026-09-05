@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "이진빌라",
+    "dealAmount": "32,000",
+    "date": "2026-08-20",
+    "floor": 2,
+    "area": 84.87
+  },
+  {
+    "aptNm": "이진빌라",
     "dealAmount": "29,500",
     "date": "2026-05-01",
     "floor": 2,

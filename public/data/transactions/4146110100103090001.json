@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "광명신원",
+    "dealAmount": "42,000",
+    "date": "2026-08-06",
+    "floor": 5,
+    "area": 59.96
+  },
+  {
+    "aptNm": "광명신원",
     "dealAmount": "58,400",
     "date": "2026-07-27",
     "floor": 14,
     "area": 75.66
+  },
+  {
+    "aptNm": "광명신원",
+    "dealAmount": "42,000",
+    "date": "2026-07-23",
+    "floor": 4,
+    "area": 59.96
   },
   {
     "aptNm": "광명신원",

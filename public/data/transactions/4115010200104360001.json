@@ -8,6 +8,13 @@
   },
   {
     "aptNm": "한주1",
+    "dealAmount": "31,500",
+    "date": "2026-08-15",
+    "floor": 14,
+    "area": 71.16
+  },
+  {
+    "aptNm": "한주1",
     "dealAmount": "24,000",
     "date": "2026-08-12",
     "floor": 4,

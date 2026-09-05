@@ -2,6 +2,27 @@
   {
     "aptNm": "인정빌리지1",
     "dealAmount": "18,000",
+    "date": "2026-08-29",
+    "floor": 1,
+    "area": 59.93
+  },
+  {
+    "aptNm": "인정빌리지1",
+    "dealAmount": "17,300",
+    "date": "2026-08-29",
+    "floor": 2,
+    "area": 59.93
+  },
+  {
+    "aptNm": "인정빌리지1",
+    "dealAmount": "16,700",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 59.93
+  },
+  {
+    "aptNm": "인정빌리지1",
+    "dealAmount": "18,000",
     "date": "2026-08-18",
     "floor": 2,
     "area": 59.93

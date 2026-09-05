@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "진로",
+    "dealAmount": "25,500",
+    "date": "2026-08-29",
+    "floor": 13,
+    "area": 99.81
+  },
+  {
+    "aptNm": "본오",
+    "dealAmount": "13,300",
+    "date": "2026-08-28",
+    "floor": 15,
+    "area": 42.51
+  },
+  {
+    "aptNm": "본오",
+    "dealAmount": "13,000",
+    "date": "2026-08-24",
+    "floor": 9,
+    "area": 38.13
+  },
+  {
+    "aptNm": "진로",
     "dealAmount": "26,800",
     "date": "2026-08-20",
     "floor": 7,
@@ -12,6 +33,13 @@
     "date": "2026-08-13",
     "floor": 3,
     "area": 42.51
+  },
+  {
+    "aptNm": "본오",
+    "dealAmount": "11,500",
+    "date": "2026-08-12",
+    "floor": 11,
+    "area": 38.13
   },
   {
     "aptNm": "본오",

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "22,000",
+    "date": "2026-08-26",
+    "floor": 2,
+    "area": 50.49
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "25,000",
+    "date": "2026-08-26",
+    "floor": 9,
+    "area": 50.49
+  },
+  {
     "aptNm": "LG그린빌라",
     "dealAmount": "38,000",
     "date": "2026-08-15",

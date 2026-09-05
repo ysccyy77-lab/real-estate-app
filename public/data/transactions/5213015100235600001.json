@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "하늘가2차",
+    "dealAmount": "2,700",
+    "date": "2026-08-28",
+    "floor": 6,
+    "area": 35.91
+  },
+  {
+    "aptNm": "하늘가2차",
     "dealAmount": "2,750",
     "date": "2026-06-06",
     "floor": 7,

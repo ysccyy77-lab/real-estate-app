@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "성원무지개",
+    "dealAmount": "12,000",
+    "date": "2026-08-20",
+    "floor": 5,
+    "area": 59.94
+  },
+  {
+    "aptNm": "성원무지개",
     "dealAmount": "9,800",
     "date": "2026-08-18",
     "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "성원무지개",
+    "dealAmount": "9,900",
+    "date": "2026-08-15",
+    "floor": 2,
     "area": 59.94
   },
   {

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "학장대림",
+    "dealAmount": "10,300",
+    "date": "2026-08-21",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "학장대림",
     "dealAmount": "13,000",
     "date": "2026-08-17",
     "floor": 3,

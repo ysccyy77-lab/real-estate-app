@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현진에버빌",
+    "dealAmount": "9,200",
+    "date": "2026-08-29",
+    "floor": 13,
+    "area": 52.06
+  },
+  {
+    "aptNm": "현진에버빌",
     "dealAmount": "6,000",
     "date": "2026-08-13",
     "floor": 1,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "세원2차",
+    "dealAmount": "12,700",
+    "date": "2026-08-27",
+    "floor": 6,
+    "area": 59.94
+  },
+  {
+    "aptNm": "세원2차",
     "dealAmount": "11,200",
     "date": "2026-07-17",
     "floor": 6,

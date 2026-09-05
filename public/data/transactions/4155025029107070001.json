@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "신안주공2",
+    "dealAmount": "16,000",
+    "date": "2026-08-29",
+    "floor": 5,
+    "area": 59.8
+  },
+  {
+    "aptNm": "신안주공2",
+    "dealAmount": "14,300",
+    "date": "2026-08-22",
+    "floor": 1,
+    "area": 59.8
+  },
+  {
     "aptNm": "부영",
     "dealAmount": "11,300",
     "date": "2026-08-20",
@@ -7,11 +21,32 @@
     "area": 59.38
   },
   {
+    "aptNm": "신안주공2",
+    "dealAmount": "10,500",
+    "date": "2026-08-20",
+    "floor": 3,
+    "area": 39.99
+  },
+  {
+    "aptNm": "신안주공2",
+    "dealAmount": "12,900",
+    "date": "2026-08-20",
+    "floor": 3,
+    "area": 49.97
+  },
+  {
     "aptNm": "부영",
     "dealAmount": "11,300",
     "date": "2026-08-18",
     "floor": 15,
     "area": 59.38
+  },
+  {
+    "aptNm": "신안주공2",
+    "dealAmount": "12,700",
+    "date": "2026-08-14",
+    "floor": 3,
+    "area": 49.97
   },
   {
     "aptNm": "신안주공2",

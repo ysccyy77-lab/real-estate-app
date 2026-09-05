@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "대한",
+    "dealAmount": "9,800",
+    "date": "2026-09-03",
+    "floor": 16,
+    "area": 84.96
+  },
+  {
+    "aptNm": "두산청구",
+    "dealAmount": "13,500",
+    "date": "2026-08-13",
+    "floor": 12,
+    "area": 60
+  },
+  {
     "aptNm": "세연상가",
     "dealAmount": "8,300",
     "date": "2026-07-31",

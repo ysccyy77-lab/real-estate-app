@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "안성공도KCC스위첸",
+    "dealAmount": "24,000",
+    "date": "2026-09-02",
+    "floor": 20,
+    "area": 84.986
+  },
+  {
+    "aptNm": "동성한아름",
+    "dealAmount": "21,000",
+    "date": "2026-08-29",
+    "floor": 12,
+    "area": 72.48
+  },
+  {
+    "aptNm": "동성한아름",
+    "dealAmount": "21,000",
+    "date": "2026-08-25",
+    "floor": 13,
+    "area": 72.48
+  },
+  {
     "aptNm": "덕천하이트",
     "dealAmount": "5,000",
     "date": "2026-08-21",
     "floor": 6,
     "area": 59.48
+  },
+  {
+    "aptNm": "매화마을우남퍼스트빌",
+    "dealAmount": "27,700",
+    "date": "2026-08-21",
+    "floor": 1,
+    "area": 84.2119
+  },
+  {
+    "aptNm": "안성공도KCC스위첸",
+    "dealAmount": "25,500",
+    "date": "2026-08-18",
+    "floor": 16,
+    "area": 84.992
   },
   {
     "aptNm": "삼성2-2",

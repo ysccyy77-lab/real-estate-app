@@ -1,9 +1,37 @@
 [
   {
     "aptNm": "삼일원앙",
+    "dealAmount": "9,800",
+    "date": "2026-08-28",
+    "floor": 2,
+    "area": 59.52
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "9,500",
+    "date": "2026-08-25",
+    "floor": 7,
+    "area": 59.85
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "9,400",
+    "date": "2026-08-22",
+    "floor": 8,
+    "area": 59.52
+  },
+  {
+    "aptNm": "삼일원앙",
     "dealAmount": "11,050",
     "date": "2026-08-19",
     "floor": 3,
+    "area": 59.85
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "9,700",
+    "date": "2026-08-13",
+    "floor": 10,
     "area": 59.85
   },
   {
@@ -32,6 +60,13 @@
     "dealAmount": "10,000",
     "date": "2026-07-29",
     "floor": 3,
+    "area": 59.52
+  },
+  {
+    "aptNm": "삼일원앙",
+    "dealAmount": "9,800",
+    "date": "2026-07-28",
+    "floor": 14,
     "area": 59.52
   },
   {

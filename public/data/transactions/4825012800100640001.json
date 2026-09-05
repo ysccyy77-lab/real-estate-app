@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "디아이빌",
+    "dealAmount": "39,000",
+    "date": "2026-08-26",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
     "aptNm": "한일타운2",
     "dealAmount": "25,000",
     "date": "2026-08-14",
     "floor": 7,
     "area": 84.958
+  },
+  {
+    "aptNm": "로웰타워",
+    "dealAmount": "23,000",
+    "date": "2026-08-10",
+    "floor": 14,
+    "area": 51.4494
   },
   {
     "aptNm": "삼보",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "덕신동백",
+    "dealAmount": "8,400",
+    "date": "2026-08-29",
+    "floor": 15,
+    "area": 49.85
+  },
+  {
+    "aptNm": "덕신동백",
     "dealAmount": "8,900",
     "date": "2026-08-12",
     "floor": 4,

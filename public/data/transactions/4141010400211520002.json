@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "덕유",
+    "dealAmount": "40,900",
+    "date": "2026-08-08",
+    "floor": 8,
+    "area": 58.14
+  },
+  {
+    "aptNm": "덕유",
     "dealAmount": "40,000",
     "date": "2026-08-05",
     "floor": 8,

@@ -7,11 +7,32 @@
     "area": 59.9
   },
   {
+    "aptNm": "벽산",
+    "dealAmount": "35,900",
+    "date": "2026-08-17",
+    "floor": 8,
+    "area": 38.71
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "40,000",
+    "date": "2026-08-07",
+    "floor": 14,
+    "area": 43.35
+  },
+  {
     "aptNm": "디오반",
     "dealAmount": "11,200",
     "date": "2026-08-01",
     "floor": 2,
     "area": 14.46
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "63,500",
+    "date": "2026-07-29",
+    "floor": 8,
+    "area": 75.03
   },
   {
     "aptNm": "벽산",

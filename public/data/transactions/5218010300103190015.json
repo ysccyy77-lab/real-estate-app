@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "엘지",
+    "dealAmount": "18,500",
+    "date": "2026-08-28",
+    "floor": 20,
+    "area": 84.808
+  },
+  {
+    "aptNm": "엘지",
     "dealAmount": "16,600",
     "date": "2026-07-28",
     "floor": 10,

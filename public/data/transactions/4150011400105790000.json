@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "대우1",
+    "dealAmount": "38,700",
+    "date": "2026-09-02",
+    "floor": 15,
+    "area": 127.89
+  },
+  {
+    "aptNm": "대우1",
+    "dealAmount": "40,000",
+    "date": "2026-08-24",
+    "floor": 10,
+    "area": 127.89
+  },
+  {
+    "aptNm": "지엠하이빌",
+    "dealAmount": "16,000",
+    "date": "2026-08-23",
+    "floor": 10,
+    "area": 84.8274
+  },
+  {
+    "aptNm": "천마타운",
+    "dealAmount": "39,500",
+    "date": "2026-08-21",
+    "floor": 9,
+    "area": 121.04
+  },
+  {
     "aptNm": "천마타운",
     "dealAmount": "37,000",
     "date": "2026-08-20",
     "floor": 13,
     "area": 84.99
+  },
+  {
+    "aptNm": "우성1",
+    "dealAmount": "155,000",
+    "date": "2026-08-19",
+    "floor": 4,
+    "area": 59.91
   },
   {
     "aptNm": "지엠하이빌",
@@ -14,11 +49,25 @@
     "area": 84.8274
   },
   {
+    "aptNm": "푸른마을",
+    "dealAmount": "25,000",
+    "date": "2026-08-15",
+    "floor": 7,
+    "area": 84.98
+  },
+  {
     "aptNm": "수원권선한솔",
     "dealAmount": "41,000",
     "date": "2026-08-11",
     "floor": 7,
     "area": 99.222
+  },
+  {
+    "aptNm": "화인상가",
+    "dealAmount": "37,800",
+    "date": "2026-08-08",
+    "floor": 5,
+    "area": 59.31
   },
   {
     "aptNm": "마곡 한진해모로",

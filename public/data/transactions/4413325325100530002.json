@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼일원앙",
+    "dealAmount": "6,750",
+    "date": "2026-08-22",
+    "floor": 4,
+    "area": 37.925
+  },
+  {
+    "aptNm": "삼일원앙",
     "dealAmount": "6,500",
     "date": "2026-07-30",
     "floor": 5,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "용진원주",
+    "dealAmount": "5,850",
+    "date": "2026-08-29",
+    "floor": 11,
+    "area": 59.73
+  },
+  {
+    "aptNm": "용진원주",
     "dealAmount": "4,600",
     "date": "2026-08-13",
     "floor": 5,

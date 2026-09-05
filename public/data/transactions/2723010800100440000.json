@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "노원동화타운",
+    "dealAmount": "17,500",
+    "date": "2026-08-23",
+    "floor": 13,
+    "area": 84.99
+  },
+  {
+    "aptNm": "레이크팰리스",
+    "dealAmount": "275,000",
+    "date": "2026-08-19",
+    "floor": 9,
+    "area": 59.97
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "248,000",
+    "date": "2026-08-08",
+    "floor": 2,
+    "area": 127.33
+  },
+  {
+    "aptNm": "신동아",
+    "dealAmount": "231,500",
+    "date": "2026-08-06",
+    "floor": 12,
+    "area": 112.93
+  },
+  {
     "aptNm": "현대",
     "dealAmount": "14,900",
     "date": "2026-07-28",

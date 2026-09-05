@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "가경자이",
+    "dealAmount": "69,000",
+    "date": "2026-09-03",
+    "floor": 14,
+    "area": 84.839
+  },
+  {
+    "aptNm": "가경자이",
+    "dealAmount": "60,800",
+    "date": "2026-08-28",
+    "floor": 14,
+    "area": 75.7676
+  },
+  {
+    "aptNm": "가경자이",
+    "dealAmount": "67,200",
+    "date": "2026-08-22",
+    "floor": 14,
+    "area": 84.839
+  },
+  {
+    "aptNm": "가경자이",
+    "dealAmount": "59,000",
+    "date": "2026-08-20",
+    "floor": 2,
+    "area": 75.7676
+  },
+  {
+    "aptNm": "가경자이",
+    "dealAmount": "59,900",
+    "date": "2026-08-12",
+    "floor": 17,
+    "area": 75.7676
+  },
+  {
+    "aptNm": "가경자이",
     "dealAmount": "56,500",
     "date": "2026-07-25",
     "floor": 3,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "무거현대",
+    "dealAmount": "11,000",
+    "date": "2026-09-04",
+    "floor": 8,
+    "area": 58.05
+  },
+  {
+    "aptNm": "무거현대",
+    "dealAmount": "15,200",
+    "date": "2026-08-24",
+    "floor": 9,
+    "area": 58.05
+  },
+  {
+    "aptNm": "무거현대",
     "dealAmount": "18,500",
     "date": "2026-08-17",
     "floor": 4,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "제천미림청솔",
+    "dealAmount": "8,200",
+    "date": "2026-08-27",
+    "floor": 3,
+    "area": 49.77
+  },
+  {
+    "aptNm": "제천미림청솔",
+    "dealAmount": "8,500",
+    "date": "2026-08-22",
+    "floor": 10,
+    "area": 49.77
+  },
+  {
+    "aptNm": "제천미림청솔",
     "dealAmount": "7,400",
     "date": "2026-07-25",
     "floor": 11,

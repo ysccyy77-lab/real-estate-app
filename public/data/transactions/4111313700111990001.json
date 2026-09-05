@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "두산동아",
+    "dealAmount": "46,000",
+    "date": "2026-08-25",
+    "floor": 2,
+    "area": 101.91
+  },
+  {
+    "aptNm": "두산동아",
+    "dealAmount": "46,000",
+    "date": "2026-08-19",
+    "floor": 2,
+    "area": 101.91
+  },
+  {
+    "aptNm": "두산동아",
     "dealAmount": "49,500",
     "date": "2026-07-29",
     "floor": 5,

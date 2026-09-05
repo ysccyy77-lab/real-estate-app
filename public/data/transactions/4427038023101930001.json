@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "극동",
+    "dealAmount": "14,800",
+    "date": "2026-08-19",
+    "floor": 4,
+    "area": 63.93
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "12,000",
+    "date": "2026-08-18",
+    "floor": 3,
+    "area": 54.21
+  },
+  {
+    "aptNm": "극동",
     "dealAmount": "13,000",
     "date": "2026-08-15",
     "floor": 3,
@@ -26,6 +40,13 @@
     "date": "2026-08-05",
     "floor": 4,
     "area": 66.56
+  },
+  {
+    "aptNm": "면목한신",
+    "dealAmount": "45,500",
+    "date": "2026-08-01",
+    "floor": 7,
+    "area": 44.5
   },
   {
     "aptNm": "극동",

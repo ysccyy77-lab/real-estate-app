@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한신",
+    "dealAmount": "13,800",
+    "date": "2026-08-24",
+    "floor": 12,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한신",
     "dealAmount": "15,300",
     "date": "2026-07-08",
     "floor": 16,

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "주공1",
+    "dealAmount": "36,000",
+    "date": "2026-08-24",
+    "floor": 10,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "36,800",
+    "date": "2026-08-12",
+    "floor": 10,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "33,000",
+    "date": "2026-08-11",
+    "floor": 14,
+    "area": 58.14
+  },
+  {
     "aptNm": "크로바전원빌라",
     "dealAmount": "9,000",
     "date": "2026-08-04",

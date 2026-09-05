@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "청솔아파트",
+    "dealAmount": "16,000",
+    "date": "2026-08-27",
+    "floor": 10,
+    "area": 48.45
+  },
+  {
+    "aptNm": "청솔아파트",
+    "dealAmount": "17,300",
+    "date": "2026-08-21",
+    "floor": 1,
+    "area": 48.45
+  },
+  {
+    "aptNm": "청솔아파트",
     "dealAmount": "15,000",
     "date": "2026-08-03",
     "floor": 5,

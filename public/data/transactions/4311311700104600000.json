@@ -15,6 +15,20 @@
   },
   {
     "aptNm": "용방마을",
+    "dealAmount": "18,400",
+    "date": "2026-08-15",
+    "floor": 2,
+    "area": 59.88
+  },
+  {
+    "aptNm": "인왕산현대",
+    "dealAmount": "119,500",
+    "date": "2026-08-08",
+    "floor": 14,
+    "area": 84.9
+  },
+  {
+    "aptNm": "용방마을",
     "dealAmount": "20,000",
     "date": "2026-08-07",
     "floor": 7,

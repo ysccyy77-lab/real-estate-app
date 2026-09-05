@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "화남",
+    "dealAmount": "29,000",
+    "date": "2026-08-20",
+    "floor": 9,
+    "area": 59.93
+  },
+  {
+    "aptNm": "화남",
     "dealAmount": "37,400",
     "date": "2026-07-21",
     "floor": 11,

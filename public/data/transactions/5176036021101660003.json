@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "시대",
+    "dealAmount": "10,300",
+    "date": "2026-08-27",
+    "floor": 13,
+    "area": 63.69
+  },
+  {
+    "aptNm": "시대",
+    "dealAmount": "9,800",
+    "date": "2026-08-19",
+    "floor": 8,
+    "area": 63.13
+  },
+  {
+    "aptNm": "시대",
     "dealAmount": "8,000",
     "date": "2026-06-25",
     "floor": 18,

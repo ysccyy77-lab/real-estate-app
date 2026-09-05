@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "덕신주공",
+    "dealAmount": "4,600",
+    "date": "2026-08-19",
+    "floor": 6,
+    "area": 39.99
+  },
+  {
+    "aptNm": "덕신주공",
+    "dealAmount": "4,850",
+    "date": "2026-08-07",
+    "floor": 6,
+    "area": 39.99
+  },
+  {
+    "aptNm": "덕신주공",
     "dealAmount": "5,550",
     "date": "2026-06-12",
     "floor": 5,

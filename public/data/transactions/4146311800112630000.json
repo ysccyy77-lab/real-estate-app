@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "신우",
+    "dealAmount": "43,000",
+    "date": "2026-08-25",
+    "floor": 5,
+    "area": 74.61
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "118,000",
+    "date": "2026-08-05",
+    "floor": 11,
+    "area": 59.68
+  },
+  {
+    "aptNm": "신도림롯데아파트",
+    "dealAmount": "116,500",
+    "date": "2026-08-04",
+    "floor": 12,
+    "area": 59.68
+  },
+  {
+    "aptNm": "신우",
     "dealAmount": "37,000",
     "date": "2026-07-30",
     "floor": 1,

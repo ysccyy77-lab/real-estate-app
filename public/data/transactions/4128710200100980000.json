@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "신명",
+    "dealAmount": "14,000",
+    "date": "2026-09-01",
+    "floor": 25,
+    "area": 41.508
+  },
+  {
+    "aptNm": "선경",
+    "dealAmount": "34,500",
+    "date": "2026-08-22",
+    "floor": 6,
+    "area": 59.335
+  },
+  {
+    "aptNm": "신명",
+    "dealAmount": "31,000",
+    "date": "2026-08-14",
+    "floor": 10,
+    "area": 84.927
+  },
+  {
+    "aptNm": "신명",
     "dealAmount": "36,700",
     "date": "2026-08-03",
     "floor": 19,

@@ -2,6 +2,20 @@
   {
     "aptNm": "연지2청구",
     "dealAmount": "16,500",
+    "date": "2026-08-26",
+    "floor": 5,
+    "area": 59.895
+  },
+  {
+    "aptNm": "연지2청구",
+    "dealAmount": "17,100",
+    "date": "2026-08-24",
+    "floor": 8,
+    "area": 59.895
+  },
+  {
+    "aptNm": "연지2청구",
+    "dealAmount": "16,500",
     "date": "2026-07-28",
     "floor": 6,
     "area": 59.895

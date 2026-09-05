@@ -1,5 +1,68 @@
 [
   {
+    "aptNm": "효성타운",
+    "dealAmount": "33,000",
+    "date": "2026-09-01",
+    "floor": 9,
+    "area": 84.78
+  },
+  {
+    "aptNm": "구암대동",
+    "dealAmount": "15,000",
+    "date": "2026-08-28",
+    "floor": 9,
+    "area": 58.87
+  },
+  {
+    "aptNm": "효성타운",
+    "dealAmount": "29,700",
+    "date": "2026-08-26",
+    "floor": 6,
+    "area": 59.925
+  },
+  {
+    "aptNm": "효성타운",
+    "dealAmount": "35,500",
+    "date": "2026-08-25",
+    "floor": 13,
+    "area": 84.78
+  },
+  {
+    "aptNm": "효성타운",
+    "dealAmount": "37,000",
+    "date": "2026-08-23",
+    "floor": 20,
+    "area": 84.78
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "17,000",
+    "date": "2026-08-22",
+    "floor": 18,
+    "area": 75.0563
+  },
+  {
+    "aptNm": "삼환도봉",
+    "dealAmount": "55,000",
+    "date": "2026-08-21",
+    "floor": 2,
+    "area": 73.89
+  },
+  {
+    "aptNm": "효성타운",
+    "dealAmount": "35,800",
+    "date": "2026-08-18",
+    "floor": 16,
+    "area": 84.78
+  },
+  {
+    "aptNm": "시범한신",
+    "dealAmount": "232,000",
+    "date": "2026-08-15",
+    "floor": 6,
+    "area": 84.69
+  },
+  {
     "aptNm": "현대3",
     "dealAmount": "17,800",
     "date": "2026-08-13",
@@ -12,6 +75,13 @@
     "date": "2026-08-08",
     "floor": 7,
     "area": 84.57
+  },
+  {
+    "aptNm": "삼환도봉",
+    "dealAmount": "59,500",
+    "date": "2026-08-07",
+    "floor": 11,
+    "area": 73.89
   },
   {
     "aptNm": "벽산블루밍",

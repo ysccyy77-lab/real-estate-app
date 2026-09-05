@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신복현대",
+    "dealAmount": "12,400",
+    "date": "2026-08-22",
+    "floor": 3,
+    "area": 59.76
+  },
+  {
+    "aptNm": "신복현대",
     "dealAmount": "13,000",
     "date": "2026-08-14",
     "floor": 4,

@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "한신타워",
+    "dealAmount": "25,500",
+    "date": "2026-08-31",
+    "floor": 19,
+    "area": 84.42
+  },
+  {
+    "aptNm": "동양",
+    "dealAmount": "15,000",
+    "date": "2026-08-29",
+    "floor": 13,
+    "area": 59.97
+  },
+  {
+    "aptNm": "중앙마린파이브아파트",
+    "dealAmount": "30,500",
+    "date": "2026-08-24",
+    "floor": 10,
+    "area": 84.6822
+  },
+  {
+    "aptNm": "동양",
+    "dealAmount": "13,000",
+    "date": "2026-08-17",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
+    "aptNm": "동양",
+    "dealAmount": "15,000",
+    "date": "2026-08-14",
+    "floor": 11,
+    "area": 59.97
+  },
+  {
+    "aptNm": "래미안포레카운티",
+    "dealAmount": "138,000",
+    "date": "2026-08-14",
+    "floor": 20,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한신타워",
     "dealAmount": "24,500",
     "date": "2026-08-06",
     "floor": 19,

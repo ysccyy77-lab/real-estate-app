@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "9,500",
+    "date": "2026-09-04",
+    "floor": 6,
+    "area": 71.37
+  },
+  {
+    "aptNm": "ELYSIA",
+    "dealAmount": "9,300",
+    "date": "2026-08-31",
+    "floor": 13,
+    "area": 22.42
+  },
+  {
     "aptNm": "율곡",
     "dealAmount": "7,300",
     "date": "2026-08-13",

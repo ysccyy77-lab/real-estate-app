@@ -1,10 +1,87 @@
 [
   {
+    "aptNm": "반월한양",
+    "dealAmount": "13,200",
+    "date": "2026-09-03",
+    "floor": 15,
+    "area": 28.215
+  },
+  {
+    "aptNm": "반월한양",
+    "dealAmount": "14,000",
+    "date": "2026-09-01",
+    "floor": 12,
+    "area": 28.215
+  },
+  {
+    "aptNm": "반월한양",
+    "dealAmount": "21,700",
+    "date": "2026-09-01",
+    "floor": 11,
+    "area": 42.615
+  },
+  {
+    "aptNm": "송천광신프로그레스",
+    "dealAmount": "41,950",
+    "date": "2026-08-29",
+    "floor": 13,
+    "area": 84.8293
+  },
+  {
+    "aptNm": "반월한양",
+    "dealAmount": "26,500",
+    "date": "2026-08-28",
+    "floor": 4,
+    "area": 58.5439
+  },
+  {
+    "aptNm": "서홍마을한화꿈에그린",
+    "dealAmount": "89,900",
+    "date": "2026-08-28",
+    "floor": 14,
+    "area": 84.95
+  },
+  {
+    "aptNm": "반월한양",
+    "dealAmount": "45,500",
+    "date": "2026-08-27",
+    "floor": 6,
+    "area": 119.83
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "14,300",
+    "date": "2026-08-26",
+    "floor": 11,
+    "area": 59.73
+  },
+  {
+    "aptNm": "반월한양",
+    "dealAmount": "21,000",
+    "date": "2026-08-24",
+    "floor": 6,
+    "area": 42.615
+  },
+  {
+    "aptNm": "반월한양",
+    "dealAmount": "30,000",
+    "date": "2026-08-21",
+    "floor": 4,
+    "area": 68.9039
+  },
+  {
     "aptNm": "코오롱",
     "dealAmount": "20,000",
     "date": "2026-08-18",
     "floor": 14,
     "area": 84.59
+  },
+  {
+    "aptNm": "반월한양",
+    "dealAmount": "41,000",
+    "date": "2026-08-15",
+    "floor": 14,
+    "area": 84.92
   },
   {
     "aptNm": "디자인시티블루밍",
@@ -291,6 +368,13 @@
     "dealAmount": "29,500",
     "date": "2026-06-13",
     "floor": 13,
+    "area": 84.809
+  },
+  {
+    "aptNm": "우림홀인원",
+    "dealAmount": "26,800",
+    "date": "2026-06-13",
+    "floor": 8,
     "area": 84.809
   },
   {

@@ -1,10 +1,80 @@
 [
   {
     "aptNm": "은아5단지",
+    "dealAmount": "11,000",
+    "date": "2026-09-03",
+    "floor": 13,
+    "area": 52.2
+  },
+  {
+    "aptNm": "골드클래스",
+    "dealAmount": "57,000",
+    "date": "2026-08-28",
+    "floor": 20,
+    "area": 83.2813
+  },
+  {
+    "aptNm": "범어쌍용예가",
+    "dealAmount": "89,900",
+    "date": "2026-08-28",
+    "floor": 9,
+    "area": 115.2158
+  },
+  {
+    "aptNm": "별내별가람역 한라비발디",
+    "dealAmount": "77,000",
+    "date": "2026-08-27",
+    "floor": 6,
+    "area": 84.64
+  },
+  {
+    "aptNm": "골드클래스",
+    "dealAmount": "54,000",
+    "date": "2026-08-26",
+    "floor": 17,
+    "area": 83.7764
+  },
+  {
+    "aptNm": "코아루3차",
+    "dealAmount": "22,500",
+    "date": "2026-08-24",
+    "floor": 5,
+    "area": 74.9689
+  },
+  {
+    "aptNm": "코아루3차",
+    "dealAmount": "22,500",
+    "date": "2026-08-24",
+    "floor": 8,
+    "area": 74.9689
+  },
+  {
+    "aptNm": "풍년마을(대림)",
+    "dealAmount": "39,300",
+    "date": "2026-08-18",
+    "floor": 11,
+    "area": 84.91
+  },
+  {
+    "aptNm": "은아5단지",
     "dealAmount": "10,000",
     "date": "2026-08-17",
     "floor": 8,
     "area": 52.2
+  },
+  {
+    "aptNm": "골드클래스",
+    "dealAmount": "57,500",
+    "date": "2026-08-14",
+    "floor": 20,
+    "area": 83.7764
+  },
+  {
+    "aptNm": "덕��",
+    "dealAmount": "103,700",
+    "date": "2026-08-13",
+    "floor": 18,
+    "area": 84.57
   },
   {
     "aptNm": "골드클래스",

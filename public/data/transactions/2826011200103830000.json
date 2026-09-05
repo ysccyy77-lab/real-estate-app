@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "진잠타운",
+    "dealAmount": "19,400",
+    "date": "2026-08-24",
+    "floor": 6,
+    "area": 59.996
+  },
+  {
+    "aptNm": "삼덕청아람",
+    "dealAmount": "40,000",
+    "date": "2026-08-21",
+    "floor": 18,
+    "area": 59.989
+  },
+  {
+    "aptNm": "진잠타운",
+    "dealAmount": "9,000",
+    "date": "2026-08-19",
+    "floor": 15,
+    "area": 39.84
+  },
+  {
+    "aptNm": "진잠타운",
+    "dealAmount": "14,000",
+    "date": "2026-08-14",
+    "floor": 1,
+    "area": 59.996
+  },
+  {
     "aptNm": "세방",
     "dealAmount": "71,000",
     "date": "2026-08-11",

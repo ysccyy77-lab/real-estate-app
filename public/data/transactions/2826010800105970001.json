@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "평창",
+    "dealAmount": "29,800",
+    "date": "2026-08-29",
+    "floor": 14,
+    "area": 84.32
+  },
+  {
+    "aptNm": "평창",
     "dealAmount": "29,500",
     "date": "2026-07-08",
     "floor": 19,

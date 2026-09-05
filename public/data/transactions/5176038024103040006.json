@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "힐탑",
+    "dealAmount": "17,000",
+    "date": "2026-08-24",
+    "floor": 5,
+    "area": 84.66
+  },
+  {
+    "aptNm": "힐탑",
+    "dealAmount": "7,500",
+    "date": "2026-08-21",
+    "floor": 13,
+    "area": 55.77
+  },
+  {
+    "aptNm": "힐탑",
     "dealAmount": "8,200",
     "date": "2026-07-31",
     "floor": 5,

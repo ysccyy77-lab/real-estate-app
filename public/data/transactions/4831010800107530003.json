@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "코아루",
+    "dealAmount": "15,300",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 84.9788
+  },
+  {
+    "aptNm": "코아루",
     "dealAmount": "15,500",
     "date": "2026-07-22",
     "floor": 11,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "영남4",
+    "dealAmount": "22,000",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 59.983
+  },
+  {
+    "aptNm": "영남4",
+    "dealAmount": "24,500",
+    "date": "2026-08-21",
+    "floor": 4,
+    "area": 59.908
+  },
+  {
+    "aptNm": "영남4",
     "dealAmount": "24,000",
     "date": "2026-06-24",
     "floor": 8,
