@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "주공2",
+    "dealAmount": "21,300",
+    "date": "2026-09-22",
+    "floor": 4,
+    "area": 59.67
+  },
+  {
+    "aptNm": "대공원월드메르디앙",
+    "dealAmount": "150,000",
+    "date": "2026-09-16",
+    "floor": 10,
+    "area": 153.8792
+  },
+  {
+    "aptNm": "주공2",
+    "dealAmount": "20,500",
+    "date": "2026-09-07",
+    "floor": 2,
+    "area": 59.67
+  },
+  {
+    "aptNm": "주공2",
+    "dealAmount": "21,000",
+    "date": "2026-08-27",
+    "floor": 2,
+    "area": 59.88
+  },
+  {
+    "aptNm": "대공원월드메르디앙",
+    "dealAmount": "157,000",
+    "date": "2026-08-14",
+    "floor": 24,
+    "area": 153.8792
+  },
+  {
+    "aptNm": "주공2",
     "dealAmount": "29,000",
     "date": "2026-08-12",
     "floor": 6,

@@ -1,10 +1,80 @@
 [
   {
+    "aptNm": "두산",
+    "dealAmount": "80,000",
+    "date": "2026-09-23",
+    "floor": 26,
+    "area": 59.69
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "9,800",
+    "date": "2026-09-21",
+    "floor": 7,
+    "area": 59.96
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "10,050",
+    "date": "2026-09-19",
+    "floor": 8,
+    "area": 59.96
+  },
+  {
+    "aptNm": "세광그린타운",
+    "dealAmount": "15,250",
+    "date": "2026-09-18",
+    "floor": 9,
+    "area": 59.92
+  },
+  {
+    "aptNm": "중촌역푸르지오센터파크",
+    "dealAmount": "46,500",
+    "date": "2026-09-12",
+    "floor": 33,
+    "area": 84.7919
+  },
+  {
+    "aptNm": "중촌역푸르지오센터파크",
+    "dealAmount": "44,300",
+    "date": "2026-09-11",
+    "floor": 13,
+    "area": 84.9232
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "9,800",
+    "date": "2026-09-10",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "효자그린1차(고층,저층)",
+    "dealAmount": "18,000",
+    "date": "2026-09-05",
+    "floor": 1,
+    "area": 59.96
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "13,500",
+    "date": "2026-09-03",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
     "aptNm": "중촌역푸르지오센터파크",
     "dealAmount": "40,900",
     "date": "2026-09-01",
     "floor": 11,
     "area": 74.7674
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "87,000",
+    "date": "2026-09-01",
+    "floor": 19,
+    "area": 111.69
   },
   {
     "aptNm": "중촌역푸르지오센터파크",

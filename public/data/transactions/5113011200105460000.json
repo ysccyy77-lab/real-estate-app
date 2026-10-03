@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "두진백로",
+    "dealAmount": "3,700",
+    "date": "2026-09-30",
+    "floor": 14,
+    "area": 28.14
+  },
+  {
+    "aptNm": "엘리프하이디움2단지",
+    "dealAmount": "58,700",
+    "date": "2026-09-20",
+    "floor": 2,
+    "area": 42.9926
+  },
+  {
+    "aptNm": "안서코아루",
+    "dealAmount": "19,500",
+    "date": "2026-09-17",
+    "floor": 8,
+    "area": 58.084
+  },
+  {
+    "aptNm": "두진백로",
+    "dealAmount": "3,800",
+    "date": "2026-09-16",
+    "floor": 4,
+    "area": 28.14
+  },
+  {
+    "aptNm": "두진백로",
+    "dealAmount": "3,900",
+    "date": "2026-09-11",
+    "floor": 8,
+    "area": 28.14
+  },
+  {
+    "aptNm": "두진백로",
+    "dealAmount": "3,770",
+    "date": "2026-09-08",
+    "floor": 5,
+    "area": 28.14
+  },
+  {
     "aptNm": "밤꽃마을뜨란채",
     "dealAmount": "47,900",
     "date": "2026-08-31",
@@ -7,11 +49,32 @@
     "area": 84.8
   },
   {
+    "aptNm": "밤꽃마을뜨란채",
+    "dealAmount": "54,000",
+    "date": "2026-08-31",
+    "floor": 22,
+    "area": 84.86
+  },
+  {
+    "aptNm": "신성둔촌미소지움1",
+    "dealAmount": "132,500",
+    "date": "2026-08-28",
+    "floor": 4,
+    "area": 59.78
+  },
+  {
     "aptNm": "안서코아루",
     "dealAmount": "17,000",
     "date": "2026-08-24",
     "floor": 6,
     "area": 52.603
+  },
+  {
+    "aptNm": "밤꽃마을뜨란채",
+    "dealAmount": "49,000",
+    "date": "2026-08-22",
+    "floor": 11,
+    "area": 84.8
   },
   {
     "aptNm": "두진백로",

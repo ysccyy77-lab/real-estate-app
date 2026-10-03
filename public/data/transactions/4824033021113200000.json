@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "프라지움2",
+    "dealAmount": "4,530",
+    "date": "2026-09-04",
+    "floor": 6,
+    "area": 20.142
+  },
+  {
+    "aptNm": "프라지움2",
     "dealAmount": "4,700",
     "date": "2026-08-25",
     "floor": 8,

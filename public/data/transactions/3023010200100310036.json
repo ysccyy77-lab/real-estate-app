@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "두레",
+    "dealAmount": "7,900",
+    "date": "2026-09-10",
+    "floor": 8,
+    "area": 35.8818
+  },
+  {
+    "aptNm": "두레",
     "dealAmount": "6,400",
     "date": "2026-08-28",
     "floor": 11,
+    "area": 32.3658
+  },
+  {
+    "aptNm": "두레",
+    "dealAmount": "6,500",
+    "date": "2026-08-23",
+    "floor": 3,
     "area": 32.3658
   },
   {

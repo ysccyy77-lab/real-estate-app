@@ -1,10 +1,115 @@
 [
   {
+    "aptNm": "대구테크노폴리스일동미라주더파크",
+    "dealAmount": "25,200",
+    "date": "2026-09-28",
+    "floor": 12,
+    "area": 84.9374
+  },
+  {
+    "aptNm": "신대팰리스",
+    "dealAmount": "13,500",
+    "date": "2026-09-19",
+    "floor": 2,
+    "area": 59.9605
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "35,000",
+    "date": "2026-09-17",
+    "floor": 14,
+    "area": 84.9182
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "26,500",
+    "date": "2026-09-13",
+    "floor": 8,
+    "area": 59.7043
+  },
+  {
+    "aptNm": "양우내안애레이크힐",
+    "dealAmount": "43,500",
+    "date": "2026-09-10",
+    "floor": 4,
+    "area": 70.8741
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "38,000",
+    "date": "2026-09-09",
+    "floor": 7,
+    "area": 84.9182
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "27,400",
+    "date": "2026-09-07",
+    "floor": 13,
+    "area": 59.7043
+  },
+  {
+    "aptNm": "대구테크노폴리스일동미라주더파크",
+    "dealAmount": "22,800",
+    "date": "2026-09-05",
+    "floor": 17,
+    "area": 72.9749
+  },
+  {
+    "aptNm": "대구테크노폴리스일동미라주더파크",
+    "dealAmount": "24,200",
+    "date": "2026-09-04",
+    "floor": 8,
+    "area": 84.7935
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "26,000",
+    "date": "2026-09-01",
+    "floor": 4,
+    "area": 59.7043
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "37,500",
+    "date": "2026-08-29",
+    "floor": 10,
+    "area": 84.9182
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "34,300",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 84.9182
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "36,000",
+    "date": "2026-08-29",
+    "floor": 9,
+    "area": 84.9182
+  },
+  {
+    "aptNm": "양우내안애레이크힐",
+    "dealAmount": "55,000",
+    "date": "2026-08-27",
+    "floor": 11,
+    "area": 70.8741
+  },
+  {
     "aptNm": "신대팰리스",
     "dealAmount": "16,300",
     "date": "2026-08-23",
     "floor": 19,
     "area": 59.9605
+  },
+  {
+    "aptNm": "이천설봉KCC스위첸",
+    "dealAmount": "28,500",
+    "date": "2026-08-19",
+    "floor": 18,
+    "area": 59.7043
   },
   {
     "aptNm": "양우내안애레이크힐",

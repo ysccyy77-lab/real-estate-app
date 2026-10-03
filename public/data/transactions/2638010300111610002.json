@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "가락타운1",
+    "dealAmount": "25,600",
+    "date": "2026-09-19",
+    "floor": 8,
+    "area": 73.17
+  },
+  {
+    "aptNm": "가락타운1",
+    "dealAmount": "24,000",
+    "date": "2026-09-19",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
+    "aptNm": "가락타운1",
+    "dealAmount": "32,000",
+    "date": "2026-09-18",
+    "floor": 6,
+    "area": 84.93
+  },
+  {
+    "aptNm": "가락타운1",
     "dealAmount": "30,700",
     "date": "2026-08-18",
     "floor": 16,

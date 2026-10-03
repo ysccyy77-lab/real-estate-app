@@ -1,5 +1,61 @@
 [
   {
+    "aptNm": "솔거대림",
+    "dealAmount": "95,000",
+    "date": "2026-09-19",
+    "floor": 9,
+    "area": 127.02
+  },
+  {
+    "aptNm": "솔거대림",
+    "dealAmount": "82,800",
+    "date": "2026-09-19",
+    "floor": 2,
+    "area": 101.91
+  },
+  {
+    "aptNm": "호반 써밋 수원",
+    "dealAmount": "96,000",
+    "date": "2026-09-16",
+    "floor": 10,
+    "area": 84.9843
+  },
+  {
+    "aptNm": "솔거대림",
+    "dealAmount": "82,000",
+    "date": "2026-09-12",
+    "floor": 13,
+    "area": 101.91
+  },
+  {
+    "aptNm": "솔거대림",
+    "dealAmount": "85,000",
+    "date": "2026-09-12",
+    "floor": 2,
+    "area": 101.91
+  },
+  {
+    "aptNm": "신동백동도센트리움",
+    "dealAmount": "30,500",
+    "date": "2026-09-11",
+    "floor": 2,
+    "area": 36.214
+  },
+  {
+    "aptNm": "솔거대림",
+    "dealAmount": "84,000",
+    "date": "2026-09-05",
+    "floor": 7,
+    "area": 101.91
+  },
+  {
+    "aptNm": "솔거대림",
+    "dealAmount": "96,500",
+    "date": "2026-09-02",
+    "floor": 7,
+    "area": 127.02
+  },
+  {
     "aptNm": "호반 써밋 수원",
     "dealAmount": "92,500",
     "date": "2026-08-29",

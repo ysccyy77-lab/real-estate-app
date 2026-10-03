@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "진성",
+    "dealAmount": "3,800",
+    "date": "2026-09-16",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "덕성",
+    "dealAmount": "3,000",
+    "date": "2026-09-15",
+    "floor": 1,
+    "area": 54.29
+  },
+  {
     "aptNm": "휴먼빌2단지",
     "dealAmount": "16,800",
     "date": "2026-08-06",

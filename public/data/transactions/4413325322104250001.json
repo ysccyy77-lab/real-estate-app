@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성거백승",
+    "dealAmount": "6,000",
+    "date": "2026-09-11",
+    "floor": 12,
+    "area": 59.85
+  },
+  {
+    "aptNm": "성거백승",
     "dealAmount": "10,750",
     "date": "2026-07-18",
     "floor": 7,

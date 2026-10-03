@@ -1,10 +1,94 @@
 [
   {
+    "aptNm": "노암2주공",
+    "dealAmount": "8,600",
+    "date": "2026-09-29",
+    "floor": 2,
+    "area": 59.3
+  },
+  {
+    "aptNm": "평택센트럴자이1단지",
+    "dealAmount": "33,650",
+    "date": "2026-09-29",
+    "floor": 27,
+    "area": 59.5153
+  },
+  {
+    "aptNm": "광남",
+    "dealAmount": "9,000",
+    "date": "2026-09-21",
+    "floor": 1,
+    "area": 63.16
+  },
+  {
+    "aptNm": "평택센트럴자이1단지",
+    "dealAmount": "32,500",
+    "date": "2026-09-17",
+    "floor": 14,
+    "area": 59.5153
+  },
+  {
+    "aptNm": "평택센트럴자이1단지",
+    "dealAmount": "37,200",
+    "date": "2026-09-17",
+    "floor": 15,
+    "area": 72.6415
+  },
+  {
+    "aptNm": "공작한양",
+    "dealAmount": "73,000",
+    "date": "2026-09-12",
+    "floor": 12,
+    "area": 84.9
+  },
+  {
+    "aptNm": "평택센트럴자이1단지",
+    "dealAmount": "42,000",
+    "date": "2026-09-10",
+    "floor": 23,
+    "area": 84.5403
+  },
+  {
+    "aptNm": "주공3차",
+    "dealAmount": "6,500",
+    "date": "2026-09-10",
+    "floor": 4,
+    "area": 65.2
+  },
+  {
+    "aptNm": "나릿재마을1단지",
+    "dealAmount": "120,000",
+    "date": "2026-09-07",
+    "floor": 25,
+    "area": 99.8286
+  },
+  {
+    "aptNm": "공작한양",
+    "dealAmount": "66,000",
+    "date": "2026-09-05",
+    "floor": 6,
+    "area": 84.9
+  },
+  {
+    "aptNm": "공작한양",
+    "dealAmount": "67,000",
+    "date": "2026-09-01",
+    "floor": 9,
+    "area": 84.9
+  },
+  {
     "aptNm": "주공3차",
     "dealAmount": "6,500",
     "date": "2026-08-31",
     "floor": 4,
     "area": 54.38
+  },
+  {
+    "aptNm": "늘푸른오스카빌",
+    "dealAmount": "47,500",
+    "date": "2026-08-31",
+    "floor": 9,
+    "area": 188.5682
   },
   {
     "aptNm": "평택센트럴자이1단지",
@@ -25,6 +109,27 @@
     "dealAmount": "65,000",
     "date": "2026-08-28",
     "floor": 2,
+    "area": 84.9
+  },
+  {
+    "aptNm": "공작한양",
+    "dealAmount": "66,000",
+    "date": "2026-08-28",
+    "floor": 5,
+    "area": 84.9
+  },
+  {
+    "aptNm": "공작한양",
+    "dealAmount": "71,000",
+    "date": "2026-08-27",
+    "floor": 6,
+    "area": 84.9
+  },
+  {
+    "aptNm": "공작한양",
+    "dealAmount": "70,000",
+    "date": "2026-08-22",
+    "floor": 12,
     "area": 84.9
   },
   {

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "늘푸른벽산",
+    "dealAmount": "42,500",
+    "date": "2026-09-10",
+    "floor": 9,
+    "area": 84.9
+  },
+  {
+    "aptNm": "늘푸른벽산",
     "dealAmount": "41,500",
     "date": "2026-08-14",
     "floor": 3,

@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "롯데1차",
+    "dealAmount": "8,800",
+    "date": "2026-09-22",
+    "floor": 4,
+    "area": 74.025
+  },
+  {
+    "aptNm": "동선",
+    "dealAmount": "44,000",
+    "date": "2026-09-15",
+    "floor": 8,
+    "area": 58.2159
+  },
+  {
+    "aptNm": "명성한마음",
+    "dealAmount": "9,900",
+    "date": "2026-09-07",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
+    "aptNm": "명성한마음",
+    "dealAmount": "11,600",
+    "date": "2026-09-01",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
     "aptNm": "동선",
     "dealAmount": "54,000",
     "date": "2026-08-29",

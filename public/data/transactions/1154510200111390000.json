@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "신동백서해그랑블2차",
+    "dealAmount": "64,000",
+    "date": "2026-09-15",
+    "floor": 5,
+    "area": 84.81
+  },
+  {
+    "aptNm": "백송마을(코오롱)",
+    "dealAmount": "28,500",
+    "date": "2026-09-14",
+    "floor": 10,
+    "area": 51.03
+  },
+  {
+    "aptNm": "초록",
+    "dealAmount": "87,000",
+    "date": "2026-09-11",
+    "floor": 5,
+    "area": 49.77
+  },
+  {
+    "aptNm": "사당자이",
+    "dealAmount": "125,000",
+    "date": "2026-09-04",
+    "floor": 11,
+    "area": 59.89
+  },
+  {
+    "aptNm": "사당자이",
+    "dealAmount": "127,000",
+    "date": "2026-09-02",
+    "floor": 23,
+    "area": 60
+  },
+  {
+    "aptNm": "사당자이",
+    "dealAmount": "140,000",
+    "date": "2026-08-31",
+    "floor": 14,
+    "area": 84.49
+  },
+  {
+    "aptNm": "사당자이",
+    "dealAmount": "123,500",
+    "date": "2026-08-22",
+    "floor": 6,
+    "area": 60
+  },
+  {
     "aptNm": "백송마을(선경)",
     "dealAmount": "30,500",
     "date": "2026-08-20",

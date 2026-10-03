@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "수성보성",
+    "dealAmount": "24,000",
+    "date": "2026-10-01",
+    "floor": 5,
+    "area": 49.21
+  },
+  {
+    "aptNm": "수성보성",
+    "dealAmount": "43,000",
+    "date": "2026-09-11",
+    "floor": 2,
+    "area": 84.98
+  },
+  {
+    "aptNm": "수성보성",
+    "dealAmount": "29,700",
+    "date": "2026-09-08",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
+    "aptNm": "수성보성",
     "dealAmount": "29,000",
     "date": "2026-08-12",
     "floor": 8,
@@ -11,6 +32,13 @@
     "dealAmount": "41,800",
     "date": "2026-08-12",
     "floor": 18,
+    "area": 84.98
+  },
+  {
+    "aptNm": "수성보성",
+    "dealAmount": "41,000",
+    "date": "2026-08-12",
+    "floor": 16,
     "area": 84.98
   },
   {

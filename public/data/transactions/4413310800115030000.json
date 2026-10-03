@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "불당이안",
+    "dealAmount": "44,200",
+    "date": "2026-09-19",
+    "floor": 15,
+    "area": 74.93
+  },
+  {
+    "aptNm": "신천자이",
+    "dealAmount": "45,200",
+    "date": "2026-09-12",
+    "floor": 19,
+    "area": 84.8742
+  },
+  {
+    "aptNm": "신천자이",
+    "dealAmount": "44,500",
+    "date": "2026-09-12",
+    "floor": 8,
+    "area": 84.8742
+  },
+  {
+    "aptNm": "신천자이",
+    "dealAmount": "46,000",
+    "date": "2026-09-07",
+    "floor": 16,
+    "area": 84.9061
+  },
+  {
+    "aptNm": "불당이안",
+    "dealAmount": "50,800",
+    "date": "2026-09-05",
+    "floor": 8,
+    "area": 84.92
+  },
+  {
+    "aptNm": "불당이안",
+    "dealAmount": "42,000",
+    "date": "2026-09-05",
+    "floor": 3,
+    "area": 74.93
+  },
+  {
+    "aptNm": "불당이안",
     "dealAmount": "54,500",
     "date": "2026-08-30",
     "floor": 9,

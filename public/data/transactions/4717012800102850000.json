@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "안기세영",
+    "dealAmount": "3,700",
+    "date": "2026-09-22",
+    "floor": 11,
+    "area": 32.76
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "16,000",
+    "date": "2026-09-20",
+    "floor": 13,
+    "area": 84.95
+  },
+  {
+    "aptNm": "잠실한솔",
+    "dealAmount": "192,000",
+    "date": "2026-09-15",
+    "floor": 11,
+    "area": 59.86
+  },
+  {
+    "aptNm": "잠실한솔",
+    "dealAmount": "193,000",
+    "date": "2026-09-05",
+    "floor": 2,
+    "area": 84.87
+  },
+  {
+    "aptNm": "현대타워맨션",
+    "dealAmount": "19,200",
+    "date": "2026-09-02",
+    "floor": 11,
+    "area": 74.82
+  },
+  {
+    "aptNm": "양벌쌍용1차",
+    "dealAmount": "23,800",
+    "date": "2026-09-01",
+    "floor": 1,
+    "area": 59.88
+  },
+  {
     "aptNm": "현대타워맨션",
     "dealAmount": "20,500",
     "date": "2026-08-28",

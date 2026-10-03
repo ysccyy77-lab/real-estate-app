@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "서정운산마을",
+    "dealAmount": "3,400",
+    "date": "2026-09-20",
+    "floor": 5,
+    "area": 39.9
+  },
+  {
+    "aptNm": "서정운산마을",
+    "dealAmount": "3,250",
+    "date": "2026-09-12",
+    "floor": 14,
+    "area": 39.9
+  },
+  {
+    "aptNm": "서정운산마을",
     "dealAmount": "3,480",
     "date": "2026-08-19",
     "floor": 13,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "진흥",
+    "dealAmount": "39,000",
+    "date": "2026-09-21",
+    "floor": 8,
+    "area": 75.48
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "34,000",
+    "date": "2026-09-19",
+    "floor": 11,
+    "area": 67.68
+  },
+  {
+    "aptNm": "범어유림노르웨이숲2차",
+    "dealAmount": "49,500",
+    "date": "2026-09-18",
+    "floor": 6,
+    "area": 70.1295
+  },
+  {
+    "aptNm": "진흥",
     "dealAmount": "29,000",
     "date": "2026-08-26",
     "floor": 12,

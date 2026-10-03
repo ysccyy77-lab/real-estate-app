@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "삼일",
+    "dealAmount": "5,800",
+    "date": "2026-09-28",
+    "floor": 3,
+    "area": 58.89
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "108,000",
+    "date": "2026-09-02",
+    "floor": 2,
+    "area": 84.03
+  },
+  {
     "aptNm": "현대",
     "dealAmount": "105,000",
     "date": "2026-08-31",
     "floor": 8,
     "area": 71.52
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "97,000",
+    "date": "2026-08-29",
+    "floor": 1,
+    "area": 84.03
   },
   {
     "aptNm": "매화",

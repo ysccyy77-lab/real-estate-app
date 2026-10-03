@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "센트렐웰가",
+    "dealAmount": "50,000",
+    "date": "2026-09-19",
+    "floor": 6,
+    "area": 59.4732
+  },
+  {
+    "aptNm": "센트렐웰가",
+    "dealAmount": "51,000",
+    "date": "2026-09-14",
+    "floor": 5,
+    "area": 84.9222
+  },
+  {
+    "aptNm": "센트렐웰가",
+    "dealAmount": "59,500",
+    "date": "2026-09-07",
+    "floor": 26,
+    "area": 75.7795
+  },
+  {
+    "aptNm": "센트렐웰가",
+    "dealAmount": "66,500",
+    "date": "2026-09-03",
+    "floor": 20,
+    "area": 84.8133
+  },
+  {
+    "aptNm": "e편한세상보령",
+    "dealAmount": "35,600",
+    "date": "2026-08-29",
+    "floor": 18,
+    "area": 84.9414
+  },
+  {
+    "aptNm": "센트렐웰가",
+    "dealAmount": "65,000",
+    "date": "2026-08-28",
+    "floor": 16,
+    "area": 84.9222
+  },
+  {
+    "aptNm": "센트렐웰가",
     "dealAmount": "64,000",
     "date": "2026-08-09",
     "floor": 8,

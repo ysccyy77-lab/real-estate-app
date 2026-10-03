@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "은행",
+    "dealAmount": "10,500",
+    "date": "2026-09-15",
+    "floor": 5,
+    "area": 59.41
+  },
+  {
+    "aptNm": "상봉1",
+    "dealAmount": "6,000",
+    "date": "2026-09-08",
+    "floor": 5,
+    "area": 40.473
+  },
+  {
+    "aptNm": "은행",
     "dealAmount": "9,800",
     "date": "2026-08-24",
     "floor": 3,

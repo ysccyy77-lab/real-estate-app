@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "진흥",
+    "dealAmount": "23,500",
+    "date": "2026-09-21",
+    "floor": 1,
+    "area": 59.97
+  },
+  {
+    "aptNm": "용상3주공",
+    "dealAmount": "5,470",
+    "date": "2026-09-16",
+    "floor": 5,
+    "area": 49.22
+  },
+  {
     "aptNm": "코아루1단지",
     "dealAmount": "23,500",
     "date": "2026-09-02",
     "floor": 1,
     "area": 84.9931
+  },
+  {
+    "aptNm": "진흥",
+    "dealAmount": "32,800",
+    "date": "2026-08-28",
+    "floor": 13,
+    "area": 84.645
   },
   {
     "aptNm": "진흥",

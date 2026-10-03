@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "꿈나무",
+    "dealAmount": "42,000",
+    "date": "2026-09-12",
+    "floor": 11,
+    "area": 70.55
+  },
+  {
+    "aptNm": "꿈나무",
+    "dealAmount": "54,700",
+    "date": "2026-09-11",
+    "floor": 8,
+    "area": 84.885
+  },
+  {
+    "aptNm": "꿈나무",
+    "dealAmount": "31,000",
+    "date": "2026-09-10",
+    "floor": 3,
+    "area": 70.55
+  },
+  {
+    "aptNm": "꿈나무",
+    "dealAmount": "40,900",
+    "date": "2026-09-03",
+    "floor": 6,
+    "area": 70.55
+  },
+  {
+    "aptNm": "꿈나무",
+    "dealAmount": "38,000",
+    "date": "2026-08-28",
+    "floor": 3,
+    "area": 70.55
+  },
+  {
+    "aptNm": "꿈나무",
     "dealAmount": "37,500",
     "date": "2026-08-20",
     "floor": 13,

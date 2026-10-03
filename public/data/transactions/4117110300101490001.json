@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "금강",
+    "dealAmount": "9,200",
+    "date": "2026-09-22",
+    "floor": 1,
+    "area": 53.84
+  },
+  {
+    "aptNm": "금강",
+    "dealAmount": "7,900",
+    "date": "2026-09-22",
+    "floor": 2,
+    "area": 53.84
+  },
+  {
+    "aptNm": "창원무동코아루파크",
+    "dealAmount": "19,650",
+    "date": "2026-09-07",
+    "floor": 5,
+    "area": 74.2148
+  },
+  {
+    "aptNm": "금강",
     "dealAmount": "10,900",
     "date": "2026-09-01",
     "floor": 2,

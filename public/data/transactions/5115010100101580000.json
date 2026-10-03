@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "양현마을신안",
+    "dealAmount": "70,000",
+    "date": "2026-09-23",
+    "floor": 2,
+    "area": 59.96
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "18,500",
+    "date": "2026-09-14",
+    "floor": 4,
+    "area": 80.934
+  },
+  {
+    "aptNm": "한양7",
+    "dealAmount": "64,000",
+    "date": "2026-09-03",
+    "floor": 15,
+    "area": 84.92
+  },
+  {
+    "aptNm": "양현마을신안",
+    "dealAmount": "67,500",
+    "date": "2026-08-26",
+    "floor": 6,
+    "area": 59.96
+  },
+  {
     "aptNm": "양현마을풍림",
     "dealAmount": "67,000",
     "date": "2026-08-25",

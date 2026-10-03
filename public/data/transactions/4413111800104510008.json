@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "스카이타워",
+    "dealAmount": "7,450",
+    "date": "2026-09-21",
+    "floor": 11,
+    "area": 21.08
+  },
+  {
+    "aptNm": "스카이타워",
+    "dealAmount": "7,500",
+    "date": "2026-09-18",
+    "floor": 12,
+    "area": 21.08
+  },
+  {
+    "aptNm": "스카이타워",
+    "dealAmount": "6,300",
+    "date": "2026-09-08",
+    "floor": 13,
+    "area": 21.08
+  },
+  {
+    "aptNm": "스카이타워",
+    "dealAmount": "7,400",
+    "date": "2026-08-27",
+    "floor": 20,
+    "area": 19.24
+  },
+  {
+    "aptNm": "스카이타워",
     "dealAmount": "6,300",
     "date": "2026-08-03",
     "floor": 10,

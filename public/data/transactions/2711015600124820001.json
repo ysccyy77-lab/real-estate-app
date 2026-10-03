@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "까치",
+    "dealAmount": "8,000",
+    "date": "2026-09-12",
+    "floor": 11,
+    "area": 33.06
+  },
+  {
+    "aptNm": "까치",
     "dealAmount": "15,200",
     "date": "2026-08-30",
     "floor": 14,

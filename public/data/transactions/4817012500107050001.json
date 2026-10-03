@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "신안주공3",
+    "dealAmount": "17,100",
+    "date": "2026-09-29",
+    "floor": 7,
+    "area": 59.8
+  },
+  {
+    "aptNm": "신안주공3",
+    "dealAmount": "18,000",
+    "date": "2026-09-17",
+    "floor": 6,
+    "area": 59.8
+  },
+  {
+    "aptNm": "신안주공3",
+    "dealAmount": "18,000",
+    "date": "2026-09-13",
+    "floor": 12,
+    "area": 59.8
+  },
+  {
+    "aptNm": "숭오화진금봉타운2",
+    "dealAmount": "7,200",
+    "date": "2026-09-09",
+    "floor": 1,
+    "area": 84.9
+  },
+  {
     "aptNm": "미진타운",
     "dealAmount": "23,000",
     "date": "2026-09-04",

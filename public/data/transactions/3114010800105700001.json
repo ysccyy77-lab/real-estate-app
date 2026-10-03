@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "청구1",
+    "dealAmount": "40,000",
+    "date": "2026-09-14",
+    "floor": 1,
+    "area": 85
+  },
+  {
+    "aptNm": "부강",
+    "dealAmount": "12,700",
+    "date": "2026-09-14",
+    "floor": 5,
+    "area": 59.465
+  },
+  {
+    "aptNm": "하얀마을아이파크",
+    "dealAmount": "84,500",
+    "date": "2026-09-06",
+    "floor": 11,
+    "area": 101.827
+  },
+  {
+    "aptNm": "청구1",
+    "dealAmount": "43,000",
+    "date": "2026-09-06",
+    "floor": 11,
+    "area": 85
+  },
+  {
+    "aptNm": "청구1",
     "dealAmount": "44,000",
     "date": "2026-09-03",
     "floor": 14,
     "area": 101.27
+  },
+  {
+    "aptNm": "하얀마을아이파크",
+    "dealAmount": "81,500",
+    "date": "2026-08-26",
+    "floor": 6,
+    "area": 101.827
   },
   {
     "aptNm": "하얀마을아이파크",

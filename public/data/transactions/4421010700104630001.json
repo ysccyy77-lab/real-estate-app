@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "석림주공2단지",
+    "dealAmount": "10,500",
+    "date": "2026-09-21",
+    "floor": 9,
+    "area": 58.14
+  },
+  {
+    "aptNm": "석림주공2단지",
+    "dealAmount": "9,500",
+    "date": "2026-09-16",
+    "floor": 5,
+    "area": 58.14
+  },
+  {
+    "aptNm": "석림주공2단지",
+    "dealAmount": "9,250",
+    "date": "2026-09-15",
+    "floor": 4,
+    "area": 58.14
+  },
+  {
+    "aptNm": "석림주공2단지",
     "dealAmount": "9,700",
     "date": "2026-09-01",
     "floor": 7,

@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "백석세아(102동)",
+    "dealAmount": "6,500",
+    "date": "2026-09-22",
+    "floor": 2,
+    "area": 58.76
+  },
+  {
+    "aptNm": "대명",
+    "dealAmount": "28,800",
+    "date": "2026-09-10",
+    "floor": 4,
+    "area": 59.85
+  },
+  {
+    "aptNm": "대림역대성스카이렉스",
+    "dealAmount": "68,000",
+    "date": "2026-09-09",
+    "floor": 22,
+    "area": 73.2
+  },
+  {
+    "aptNm": "대명",
+    "dealAmount": "28,700",
+    "date": "2026-09-08",
+    "floor": 12,
+    "area": 59.85
+  },
+  {
+    "aptNm": "대명",
+    "dealAmount": "43,500",
+    "date": "2026-09-07",
+    "floor": 13,
+    "area": 131.52
+  },
+  {
     "aptNm": "대명",
     "dealAmount": "32,500",
     "date": "2026-09-01",

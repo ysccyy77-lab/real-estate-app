@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "월영동아2",
+    "dealAmount": "15,250",
+    "date": "2026-09-29",
+    "floor": 10,
+    "area": 59.625
+  },
+  {
+    "aptNm": "월영동아2",
+    "dealAmount": "12,800",
+    "date": "2026-09-28",
+    "floor": 7,
+    "area": 59.625
+  },
+  {
+    "aptNm": "월영동아2",
+    "dealAmount": "14,700",
+    "date": "2026-09-21",
+    "floor": 16,
+    "area": 59.625
+  },
+  {
+    "aptNm": "월영동아2",
+    "dealAmount": "28,800",
+    "date": "2026-09-21",
+    "floor": 18,
+    "area": 134.94
+  },
+  {
+    "aptNm": "월영동아2",
+    "dealAmount": "17,500",
+    "date": "2026-09-07",
+    "floor": 9,
+    "area": 84.97
+  },
+  {
+    "aptNm": "월영동아2",
+    "dealAmount": "27,200",
+    "date": "2026-09-05",
+    "floor": 18,
+    "area": 134.94
+  },
+  {
+    "aptNm": "월영동아2",
     "dealAmount": "17,400",
     "date": "2026-08-29",
     "floor": 11,

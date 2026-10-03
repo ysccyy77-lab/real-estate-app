@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "유승",
+    "dealAmount": "18,300",
+    "date": "2026-08-26",
+    "floor": 18,
+    "area": 84.4687
+  },
+  {
+    "aptNm": "유승",
     "dealAmount": "19,000",
     "date": "2026-08-06",
     "floor": 8,

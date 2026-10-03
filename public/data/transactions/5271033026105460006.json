@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "지엘하늘가",
+    "dealAmount": "4,800",
+    "date": "2026-09-22",
+    "floor": 13,
+    "area": 39.629
+  },
+  {
+    "aptNm": "지엘하늘가",
+    "dealAmount": "7,800",
+    "date": "2026-09-18",
+    "floor": 8,
+    "area": 59.9426
+  },
+  {
+    "aptNm": "지엘하늘가",
+    "dealAmount": "7,900",
+    "date": "2026-09-11",
+    "floor": 2,
+    "area": 59.9426
+  },
+  {
+    "aptNm": "지엘하늘가",
     "dealAmount": "8,000",
     "date": "2026-08-26",
     "floor": 9,

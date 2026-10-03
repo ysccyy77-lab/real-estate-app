@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "웰스하임",
+    "dealAmount": "9,550",
+    "date": "2026-09-16",
+    "floor": 13,
+    "area": 28.41
+  },
+  {
+    "aptNm": "웰스하임",
     "dealAmount": "7,100",
     "date": "2026-07-27",
     "floor": 16,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "경남1차",
+    "dealAmount": "28,200",
+    "date": "2026-09-29",
+    "floor": 6,
+    "area": 75.25
+  },
+  {
+    "aptNm": "경남1차",
+    "dealAmount": "31,000",
+    "date": "2026-09-18",
+    "floor": 11,
+    "area": 84.43
+  },
+  {
+    "aptNm": "경남1차",
+    "dealAmount": "32,000",
+    "date": "2026-09-12",
+    "floor": 11,
+    "area": 84.43
+  },
+  {
+    "aptNm": "경남1차",
     "dealAmount": "22,700",
     "date": "2026-09-02",
     "floor": 8,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "훼미리타운",
+    "dealAmount": "2,000",
+    "date": "2026-09-28",
+    "floor": 2,
+    "area": 25.5
+  },
+  {
+    "aptNm": "훼미리타운",
     "dealAmount": "1,800",
     "date": "2026-07-15",
     "floor": 4,

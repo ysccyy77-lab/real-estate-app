@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "우미타운",
+    "dealAmount": "9,300",
+    "date": "2026-10-01",
+    "floor": 4,
+    "area": 59.88
+  },
+  {
+    "aptNm": "우미타운",
+    "dealAmount": "8,700",
+    "date": "2026-09-30",
+    "floor": 14,
+    "area": 59.88
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "6,800",
+    "date": "2026-09-15",
+    "floor": 4,
+    "area": 39.69
+  },
+  {
+    "aptNm": "홍제한양",
+    "dealAmount": "103,000",
+    "date": "2026-09-12",
+    "floor": 9,
+    "area": 60.06
+  },
+  {
+    "aptNm": "우미타운",
+    "dealAmount": "8,100",
+    "date": "2026-09-05",
+    "floor": 2,
+    "area": 49.77
+  },
+  {
+    "aptNm": "우미타운",
+    "dealAmount": "6,300",
+    "date": "2026-09-05",
+    "floor": 18,
+    "area": 39.06
+  },
+  {
     "aptNm": "전곡제일풍경채리버파크",
     "dealAmount": "37,800",
     "date": "2026-09-01",
@@ -12,6 +54,27 @@
     "date": "2026-08-28",
     "floor": 4,
     "area": 39.69
+  },
+  {
+    "aptNm": "우미타운",
+    "dealAmount": "12,200",
+    "date": "2026-08-28",
+    "floor": 9,
+    "area": 59.88
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "169,000",
+    "date": "2026-08-27",
+    "floor": 7,
+    "area": 68.94
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "158,980",
+    "date": "2026-08-21",
+    "floor": 13,
+    "area": 84.92
   },
   {
     "aptNm": "홍제한양",

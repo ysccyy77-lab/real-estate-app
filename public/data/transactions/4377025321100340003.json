@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "해오름",
+    "dealAmount": "27,800",
+    "date": "2026-09-28",
+    "floor": 15,
+    "area": 84.63
+  },
+  {
+    "aptNm": "종암선경",
+    "dealAmount": "81,300",
+    "date": "2026-09-14",
+    "floor": 13,
+    "area": 75.5
+  },
+  {
+    "aptNm": "일성문화맨션",
+    "dealAmount": "7,000",
+    "date": "2026-09-06",
+    "floor": 1,
+    "area": 51.54
+  },
+  {
     "aptNm": "종암선경",
     "dealAmount": "80,000",
     "date": "2026-08-01",

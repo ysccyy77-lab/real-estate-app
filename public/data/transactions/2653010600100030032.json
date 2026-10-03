@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "주례한효",
+    "dealAmount": "21,400",
+    "date": "2026-09-29",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "5,000",
+    "date": "2026-08-18",
+    "floor": 4,
+    "area": 56.79
+  },
+  {
+    "aptNm": "주례한효",
     "dealAmount": "14,700",
     "date": "2026-07-25",
     "floor": 10,

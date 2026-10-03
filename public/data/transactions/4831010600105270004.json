@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성환올림픽",
+    "dealAmount": "8,800",
+    "date": "2026-09-11",
+    "floor": 15,
+    "area": 84.7
+  },
+  {
+    "aptNm": "성환올림픽",
     "dealAmount": "9,100",
     "date": "2026-06-20",
     "floor": 10,

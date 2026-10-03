@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "해오름",
+    "dealAmount": "48,000",
+    "date": "2026-09-15",
+    "floor": 1,
+    "area": 59.56
+  },
+  {
+    "aptNm": "논현힐스테이트",
+    "dealAmount": "54,000",
+    "date": "2026-09-08",
+    "floor": 6,
+    "area": 84.9974
+  },
+  {
+    "aptNm": "해오름",
+    "dealAmount": "55,000",
+    "date": "2026-09-02",
+    "floor": 11,
+    "area": 59.56
+  },
+  {
+    "aptNm": "해오름",
     "dealAmount": "53,500",
     "date": "2026-08-22",
     "floor": 9,

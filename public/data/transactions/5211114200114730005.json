@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "서곡대림",
+    "dealAmount": "14,800",
+    "date": "2026-09-10",
+    "floor": 4,
+    "area": 59.93
+  },
+  {
+    "aptNm": "서곡대림",
+    "dealAmount": "18,300",
+    "date": "2026-08-30",
+    "floor": 15,
+    "area": 59.93
+  },
+  {
+    "aptNm": "서곡대림",
     "dealAmount": "15,500",
     "date": "2026-08-11",
     "floor": 14,

@@ -1,16 +1,72 @@
 [
   {
     "aptNm": "월봉청솔1단지",
+    "dealAmount": "10,500",
+    "date": "2026-09-30",
+    "floor": 5,
+    "area": 50.16
+  },
+  {
+    "aptNm": "월봉청솔1단지",
+    "dealAmount": "11,300",
+    "date": "2026-09-14",
+    "floor": 9,
+    "area": 50.16
+  },
+  {
+    "aptNm": "월봉청솔1단지",
+    "dealAmount": "12,200",
+    "date": "2026-09-12",
+    "floor": 9,
+    "area": 50.16
+  },
+  {
+    "aptNm": "자연앤자이1단지",
+    "dealAmount": "203,000",
+    "date": "2026-09-11",
+    "floor": 4,
+    "area": 116.35
+  },
+  {
+    "aptNm": "월봉청솔1단지",
+    "dealAmount": "11,700",
+    "date": "2026-09-07",
+    "floor": 13,
+    "area": 50.16
+  },
+  {
+    "aptNm": "월봉청솔1단지",
+    "dealAmount": "8,900",
+    "date": "2026-09-05",
+    "floor": 1,
+    "area": 50.16
+  },
+  {
+    "aptNm": "월봉청솔1단지",
     "dealAmount": "10,800",
     "date": "2026-09-03",
     "floor": 13,
     "area": 50.16
   },
   {
+    "aptNm": "자연앤자이1단지",
+    "dealAmount": "194,500",
+    "date": "2026-09-03",
+    "floor": 8,
+    "area": 116.35
+  },
+  {
     "aptNm": "월봉청솔1단지",
     "dealAmount": "9,300",
     "date": "2026-09-01",
     "floor": 4,
+    "area": 50.16
+  },
+  {
+    "aptNm": "월봉청솔1단지",
+    "dealAmount": "11,500",
+    "date": "2026-08-29",
+    "floor": 6,
     "area": 50.16
   },
   {

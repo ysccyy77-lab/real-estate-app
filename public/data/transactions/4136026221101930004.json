@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "성호",
+    "dealAmount": "17,500",
+    "date": "2026-09-21",
+    "floor": 4,
+    "area": 59.95
+  },
+  {
+    "aptNm": "성호",
+    "dealAmount": "17,700",
+    "date": "2026-09-17",
+    "floor": 13,
+    "area": 59.95
+  },
+  {
+    "aptNm": "성호",
+    "dealAmount": "16,000",
+    "date": "2026-09-17",
+    "floor": 3,
+    "area": 59.95
+  },
+  {
+    "aptNm": "성호",
+    "dealAmount": "19,000",
+    "date": "2026-09-09",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "성호",
     "dealAmount": "20,000",
     "date": "2026-08-07",
     "floor": 9,

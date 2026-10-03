@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한라백조",
+    "dealAmount": "16,500",
+    "date": "2026-09-09",
+    "floor": 1,
+    "area": 56.97
+  },
+  {
+    "aptNm": "한라백조",
     "dealAmount": "17,000",
     "date": "2026-07-14",
     "floor": 6,

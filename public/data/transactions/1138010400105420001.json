@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "세경",
+    "dealAmount": "3,800",
+    "date": "2026-09-21",
+    "floor": 6,
+    "area": 56.88
+  },
+  {
+    "aptNm": "세경",
+    "dealAmount": "6,300",
+    "date": "2026-09-11",
+    "floor": 1,
+    "area": 56.88
+  },
+  {
     "aptNm": "현재트윈빌",
     "dealAmount": "62,000",
     "date": "2026-07-11",

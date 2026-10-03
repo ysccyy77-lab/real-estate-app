@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "팔공",
+    "dealAmount": "12,800",
+    "date": "2026-08-26",
+    "floor": 3,
+    "area": 59.22
+  },
+  {
+    "aptNm": "팔공",
     "dealAmount": "11,000",
     "date": "2026-06-15",
     "floor": 5,

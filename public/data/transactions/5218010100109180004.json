@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "제일타운",
+    "dealAmount": "9,800",
+    "date": "2026-08-29",
+    "floor": 5,
+    "area": 59.8
+  },
+  {
+    "aptNm": "제일타운",
     "dealAmount": "9,700",
     "date": "2026-08-19",
     "floor": 9,

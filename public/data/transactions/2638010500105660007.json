@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "강남",
+    "dealAmount": "8,600",
+    "date": "2026-09-05",
+    "floor": 15,
+    "area": 84.915
+  },
+  {
+    "aptNm": "강남",
     "dealAmount": "10,750",
     "date": "2026-08-22",
     "floor": 11,

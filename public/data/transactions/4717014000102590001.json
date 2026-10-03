@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "석미한아름",
+    "dealAmount": "11,500",
+    "date": "2026-09-28",
+    "floor": 1,
+    "area": 55.954
+  },
+  {
+    "aptNm": "석미한아름",
+    "dealAmount": "10,700",
+    "date": "2026-09-15",
+    "floor": 1,
+    "area": 56.134
+  },
+  {
+    "aptNm": "석미한아름",
+    "dealAmount": "11,600",
+    "date": "2026-09-03",
+    "floor": 3,
+    "area": 56.134
+  },
+  {
+    "aptNm": "석미한아름",
     "dealAmount": "12,800",
     "date": "2026-07-16",
     "floor": 4,

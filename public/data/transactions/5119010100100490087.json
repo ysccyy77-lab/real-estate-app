@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대윤",
+    "dealAmount": "4,200",
+    "date": "2026-09-10",
+    "floor": 2,
+    "area": 41.58
+  },
+  {
+    "aptNm": "대윤",
     "dealAmount": "4,500",
     "date": "2026-02-27",
     "floor": 3,

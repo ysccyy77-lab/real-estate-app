@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "아산테크노밸리EGthe13단지",
+    "dealAmount": "20,600",
+    "date": "2026-09-18",
+    "floor": 10,
+    "area": 72.345
+  },
+  {
+    "aptNm": "해운대경남아너스빌",
+    "dealAmount": "32,100",
+    "date": "2026-09-11",
+    "floor": 27,
+    "area": 39.6602
+  },
+  {
+    "aptNm": "해운대경남아너스빌",
+    "dealAmount": "32,300",
+    "date": "2026-09-11",
+    "floor": 20,
+    "area": 39.6602
+  },
+  {
+    "aptNm": "해운대경남아너스빌",
+    "dealAmount": "85,500",
+    "date": "2026-09-09",
+    "floor": 10,
+    "area": 111.4161
+  },
+  {
+    "aptNm": "아산테크노밸리EGthe13단지",
+    "dealAmount": "19,000",
+    "date": "2026-09-09",
+    "floor": 2,
+    "area": 72.345
+  },
+  {
+    "aptNm": "해운대경남아너스빌",
+    "dealAmount": "83,000",
+    "date": "2026-09-05",
+    "floor": 17,
+    "area": 111.4161
+  },
+  {
+    "aptNm": "아산테크노밸리EGthe13단지",
+    "dealAmount": "18,800",
+    "date": "2026-08-31",
+    "floor": 22,
+    "area": 72.0945
+  },
+  {
+    "aptNm": "아산테크노밸리EGthe13단지",
     "dealAmount": "19,900",
     "date": "2026-08-25",
     "floor": 20,

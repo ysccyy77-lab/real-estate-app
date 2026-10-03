@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "한승아파트",
+    "dealAmount": "12,300",
+    "date": "2026-09-15",
+    "floor": 5,
+    "area": 44.46
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "9,100",
+    "date": "2026-09-08",
+    "floor": 2,
+    "area": 34.4
+  },
+  {
+    "aptNm": "한승아파트",
+    "dealAmount": "12,000",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 44.46
+  },
+  {
+    "aptNm": "한승아파트",
     "dealAmount": "12,200",
     "date": "2026-08-28",
     "floor": 5,

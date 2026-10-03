@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "태산",
+    "dealAmount": "11,500",
+    "date": "2026-09-17",
+    "floor": 6,
+    "area": 42.33
+  },
+  {
+    "aptNm": "태산",
+    "dealAmount": "9,000",
+    "date": "2026-09-14",
+    "floor": 6,
+    "area": 42.33
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "6,000",
+    "date": "2026-09-10",
+    "floor": 1,
+    "area": 59.51
+  },
+  {
+    "aptNm": "강선마을1단지(벽산,대우)",
+    "dealAmount": "64,000",
+    "date": "2026-09-07",
+    "floor": 9,
+    "area": 101.94
+  },
+  {
+    "aptNm": "롯데캐슬엠파이어",
+    "dealAmount": "260,000",
+    "date": "2026-08-28",
+    "floor": 8,
+    "area": 107.58
+  },
+  {
+    "aptNm": "태산",
     "dealAmount": "12,500",
     "date": "2026-08-25",
     "floor": 6,

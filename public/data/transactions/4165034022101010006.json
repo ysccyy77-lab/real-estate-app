@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "신포천",
+    "dealAmount": "4,800",
+    "date": "2026-10-01",
+    "floor": 15,
+    "area": 50.67
+  },
+  {
+    "aptNm": "신포천",
+    "dealAmount": "4,600",
+    "date": "2026-09-22",
+    "floor": 7,
+    "area": 44.22
+  },
+  {
+    "aptNm": "녹수빌라",
+    "dealAmount": "5,000",
+    "date": "2026-09-16",
+    "floor": 1,
+    "area": 55.24
+  },
+  {
+    "aptNm": "신포천",
     "dealAmount": "4,900",
     "date": "2026-07-30",
     "floor": 3,

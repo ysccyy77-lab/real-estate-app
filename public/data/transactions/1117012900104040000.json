@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한가람",
+    "dealAmount": "241,000",
+    "date": "2026-09-05",
+    "floor": 10,
+    "area": 59.88
+  },
+  {
+    "aptNm": "한가람",
+    "dealAmount": "238,000",
+    "date": "2026-09-02",
+    "floor": 4,
+    "area": 59.88
+  },
+  {
+    "aptNm": "한가람",
     "dealAmount": "249,000",
     "date": "2026-08-03",
     "floor": 21,

@@ -1,10 +1,122 @@
 [
   {
     "aptNm": "수정타운",
+    "dealAmount": "45,700",
+    "date": "2026-09-30",
+    "floor": 10,
+    "area": 71.52
+  },
+  {
+    "aptNm": "옥계현진에버빌엠파이어",
+    "dealAmount": "33,000",
+    "date": "2026-09-29",
+    "floor": 22,
+    "area": 98.83
+  },
+  {
+    "aptNm": "한라동백2",
+    "dealAmount": "18,000",
+    "date": "2026-09-23",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "옥계현진에버빌엠파이어",
+    "dealAmount": "32,000",
+    "date": "2026-09-22",
+    "floor": 13,
+    "area": 98.83
+  },
+  {
+    "aptNm": "옥계현진에버빌엠파이어",
+    "dealAmount": "37,800",
+    "date": "2026-09-17",
+    "floor": 13,
+    "area": 103.51
+  },
+  {
+    "aptNm": "수정타운",
+    "dealAmount": "50,200",
+    "date": "2026-09-12",
+    "floor": 4,
+    "area": 84.99
+  },
+  {
+    "aptNm": "대구혁신도시서원프레시빌",
+    "dealAmount": "12,050",
+    "date": "2026-09-11",
+    "floor": 9,
+    "area": 49.5201
+  },
+  {
+    "aptNm": "수정타운",
+    "dealAmount": "55,000",
+    "date": "2026-09-10",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "봉덕주공2단지",
+    "dealAmount": "13,440",
+    "date": "2026-09-10",
+    "floor": 13,
+    "area": 51.49
+  },
+  {
+    "aptNm": "봉덕주공2단지",
+    "dealAmount": "16,000",
+    "date": "2026-09-10",
+    "floor": 6,
+    "area": 59.92
+  },
+  {
+    "aptNm": "수정타운",
+    "dealAmount": "48,700",
+    "date": "2026-09-09",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "수정타운",
+    "dealAmount": "45,800",
+    "date": "2026-09-09",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "수정타운",
+    "dealAmount": "52,400",
+    "date": "2026-09-07",
+    "floor": 15,
+    "area": 84.99
+  },
+  {
+    "aptNm": "수정타운",
+    "dealAmount": "49,000",
+    "date": "2026-09-03",
+    "floor": 4,
+    "area": 84.99
+  },
+  {
+    "aptNm": "수정타운",
     "dealAmount": "53,000",
     "date": "2026-08-28",
     "floor": 15,
     "area": 84.99
+  },
+  {
+    "aptNm": "옥계현진에버빌엠파이어",
+    "dealAmount": "47,000",
+    "date": "2026-08-28",
+    "floor": 34,
+    "area": 129.78
+  },
+  {
+    "aptNm": "수정타운",
+    "dealAmount": "42,200",
+    "date": "2026-08-28",
+    "floor": 13,
+    "area": 71.7
   },
   {
     "aptNm": "옥계현진에버빌엠파이어",

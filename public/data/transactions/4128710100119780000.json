@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "미주7",
+    "dealAmount": "22,000",
+    "date": "2026-08-28",
+    "floor": 1,
+    "area": 80.01
+  },
+  {
+    "aptNm": "미주7",
     "dealAmount": "25,000",
     "date": "2026-07-29",
     "floor": 1,

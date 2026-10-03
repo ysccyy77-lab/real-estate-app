@@ -15,6 +15,20 @@
   },
   {
     "aptNm": "주공2",
+    "dealAmount": "55,800",
+    "date": "2026-08-24",
+    "floor": 14,
+    "area": 39.86
+  },
+  {
+    "aptNm": "푸르지오2차",
+    "dealAmount": "48,500",
+    "date": "2026-08-18",
+    "floor": 5,
+    "area": 89.524
+  },
+  {
+    "aptNm": "주공2",
     "dealAmount": "84,500",
     "date": "2026-08-10",
     "floor": 4,

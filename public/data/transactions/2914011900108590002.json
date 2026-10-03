@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "시청역퀸즈W",
+    "dealAmount": "20,500",
+    "date": "2026-09-05",
+    "floor": 13,
+    "area": 48.7781
+  },
+  {
+    "aptNm": "백조(가,나동)",
+    "dealAmount": "17,250",
+    "date": "2026-08-28",
+    "floor": 3,
+    "area": 60.75
+  },
+  {
+    "aptNm": "시청역퀸즈W",
     "dealAmount": "28,700",
     "date": "2026-08-20",
     "floor": 16,

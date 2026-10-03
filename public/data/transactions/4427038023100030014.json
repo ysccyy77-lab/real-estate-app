@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "공간목련",
+    "dealAmount": "4,300",
+    "date": "2026-09-07",
+    "floor": 4,
+    "area": 39.6
+  },
+  {
+    "aptNm": "공간목련",
     "dealAmount": "3,800",
     "date": "2026-06-30",
     "floor": 7,

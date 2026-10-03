@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "월드메르디앙",
+    "dealAmount": "15,500",
+    "date": "2026-09-23",
+    "floor": 13,
+    "area": 59.912
+  },
+  {
+    "aptNm": "삼성타운",
+    "dealAmount": "65,500",
+    "date": "2026-09-03",
+    "floor": 5,
+    "area": 59.4
+  },
+  {
+    "aptNm": "인정프린스",
+    "dealAmount": "9,900",
+    "date": "2026-09-02",
+    "floor": 4,
+    "area": 84.9
+  },
+  {
+    "aptNm": "인정프린스",
+    "dealAmount": "8,000",
+    "date": "2026-09-02",
+    "floor": 6,
+    "area": 59.91
+  },
+  {
+    "aptNm": "한국리치빌",
+    "dealAmount": "69,800",
+    "date": "2026-08-29",
+    "floor": 13,
+    "area": 84.9816
+  },
+  {
+    "aptNm": "삼성타운",
+    "dealAmount": "64,500",
+    "date": "2026-08-29",
+    "floor": 13,
+    "area": 59.4
+  },
+  {
     "aptNm": "삼성타운",
     "dealAmount": "81,000",
     "date": "2026-08-05",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "구학마을",
+    "dealAmount": "6,000",
+    "date": "2026-10-02",
+    "floor": 5,
+    "area": 46.32
+  },
+  {
+    "aptNm": "구학마을",
     "dealAmount": "7,700",
     "date": "2026-07-31",
     "floor": 9,

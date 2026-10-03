@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "태산",
+    "dealAmount": "21,300",
+    "date": "2026-09-19",
+    "floor": 6,
+    "area": 59.96
+  },
+  {
+    "aptNm": "태산",
+    "dealAmount": "30,000",
+    "date": "2026-09-18",
+    "floor": 16,
+    "area": 84.765
+  },
+  {
+    "aptNm": "태산",
+    "dealAmount": "24,000",
+    "date": "2026-09-16",
+    "floor": 14,
+    "area": 59.96
+  },
+  {
+    "aptNm": "태산",
+    "dealAmount": "28,500",
+    "date": "2026-09-12",
+    "floor": 9,
+    "area": 84.765
+  },
+  {
+    "aptNm": "태산",
+    "dealAmount": "21,800",
+    "date": "2026-09-11",
+    "floor": 20,
+    "area": 59.96
+  },
+  {
+    "aptNm": "태산",
+    "dealAmount": "21,800",
+    "date": "2026-09-07",
+    "floor": 16,
+    "area": 59.96
+  },
+  {
+    "aptNm": "태산",
+    "dealAmount": "23,200",
+    "date": "2026-09-04",
+    "floor": 15,
+    "area": 59.96
+  },
+  {
+    "aptNm": "태산",
     "dealAmount": "26,000",
     "date": "2026-08-23",
     "floor": 13,

@@ -2,6 +2,27 @@
   {
     "aptNm": "한밭가든",
     "dealAmount": "19,800",
+    "date": "2026-09-18",
+    "floor": 11,
+    "area": 84.88
+  },
+  {
+    "aptNm": "한밭가든",
+    "dealAmount": "21,500",
+    "date": "2026-09-11",
+    "floor": 10,
+    "area": 84.88
+  },
+  {
+    "aptNm": "한밭가든",
+    "dealAmount": "22,500",
+    "date": "2026-09-02",
+    "floor": 8,
+    "area": 84.88
+  },
+  {
+    "aptNm": "한밭가든",
+    "dealAmount": "19,800",
     "date": "2026-08-13",
     "floor": 13,
     "area": 84.88

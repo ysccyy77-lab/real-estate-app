@@ -1,10 +1,94 @@
 [
   {
     "aptNm": "파라디아",
+    "dealAmount": "15,000",
+    "date": "2026-09-28",
+    "floor": 17,
+    "area": 84.9057
+  },
+  {
+    "aptNm": "파라디아",
+    "dealAmount": "14,650",
+    "date": "2026-09-12",
+    "floor": 7,
+    "area": 84.9057
+  },
+  {
+    "aptNm": "이진캐스빌골드",
+    "dealAmount": "23,800",
+    "date": "2026-09-12",
+    "floor": 1,
+    "area": 84.5689
+  },
+  {
+    "aptNm": "하계1청구",
+    "dealAmount": "102,000",
+    "date": "2026-09-11",
+    "floor": 10,
+    "area": 84.6
+  },
+  {
+    "aptNm": "하계1청구",
+    "dealAmount": "98,500",
+    "date": "2026-09-10",
+    "floor": 8,
+    "area": 84.6
+  },
+  {
+    "aptNm": "파라디아",
+    "dealAmount": "17,800",
+    "date": "2026-09-07",
+    "floor": 21,
+    "area": 84.9057
+  },
+  {
+    "aptNm": "파라디아",
+    "dealAmount": "17,500",
+    "date": "2026-09-07",
+    "floor": 17,
+    "area": 84.9852
+  },
+  {
+    "aptNm": "파라디아",
+    "dealAmount": "24,600",
+    "date": "2026-09-07",
+    "floor": 7,
+    "area": 104.546
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "16,000",
+    "date": "2026-09-04",
+    "floor": 8,
+    "area": 59.95
+  },
+  {
+    "aptNm": "파라디아",
+    "dealAmount": "11,800",
+    "date": "2026-09-01",
+    "floor": 8,
+    "area": 56.7615
+  },
+  {
+    "aptNm": "파라디아",
     "dealAmount": "14,900",
     "date": "2026-08-28",
     "floor": 13,
     "area": 84.9057
+  },
+  {
+    "aptNm": "파라디아",
+    "dealAmount": "16,000",
+    "date": "2026-08-27",
+    "floor": 11,
+    "area": 84.9057
+  },
+  {
+    "aptNm": "파라디아",
+    "dealAmount": "15,800",
+    "date": "2026-08-23",
+    "floor": 18,
+    "area": 71.4675
   },
   {
     "aptNm": "파라디아",

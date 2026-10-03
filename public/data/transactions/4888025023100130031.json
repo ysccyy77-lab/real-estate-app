@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "베어스타운",
+    "dealAmount": "13,000",
+    "date": "2026-09-30",
+    "floor": 1,
+    "area": 84.86
+  },
+  {
+    "aptNm": "베어스타운",
+    "dealAmount": "13,800",
+    "date": "2026-09-09",
+    "floor": 8,
+    "area": 84.86
+  },
+  {
+    "aptNm": "베어스타운",
     "dealAmount": "13,500",
     "date": "2026-05-26",
     "floor": 5,

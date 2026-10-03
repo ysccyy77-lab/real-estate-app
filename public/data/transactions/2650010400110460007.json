@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "상아",
+    "dealAmount": "27,000",
+    "date": "2026-09-18",
+    "floor": 13,
+    "area": 84.93
+  },
+  {
+    "aptNm": "상아",
     "dealAmount": "25,000",
     "date": "2026-06-09",
     "floor": 1,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "태암수정",
+    "dealAmount": "5,900",
+    "date": "2026-09-28",
+    "floor": 9,
+    "area": 42.24
+  },
+  {
+    "aptNm": "태암수정",
+    "dealAmount": "8,500",
+    "date": "2026-09-26",
+    "floor": 9,
+    "area": 54.12
+  },
+  {
+    "aptNm": "아담산호",
+    "dealAmount": "3,800",
+    "date": "2026-09-10",
+    "floor": 6,
+    "area": 27.43
+  },
+  {
+    "aptNm": "태암수정",
     "dealAmount": "5,500",
     "date": "2026-08-31",
     "floor": 10,

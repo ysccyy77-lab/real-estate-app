@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "럭키",
+    "dealAmount": "2,800",
+    "date": "2026-10-01",
+    "floor": 14,
+    "area": 70.26
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "4,700",
+    "date": "2026-09-10",
+    "floor": 9,
+    "area": 70.26
+  },
+  {
+    "aptNm": "삼성미도",
+    "dealAmount": "27,900",
+    "date": "2026-09-08",
+    "floor": 22,
+    "area": 59.91
+  },
+  {
     "aptNm": "삼성미도",
     "dealAmount": "43,000",
     "date": "2026-09-02",

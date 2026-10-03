@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "아중현대",
+    "dealAmount": "27,800",
+    "date": "2026-09-07",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "아중현대",
+    "dealAmount": "39,500",
+    "date": "2026-09-03",
+    "floor": 6,
+    "area": 134.59
+  },
+  {
+    "aptNm": "아중현대",
     "dealAmount": "29,000",
     "date": "2026-08-22",
     "floor": 10,

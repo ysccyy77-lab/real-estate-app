@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "벨라지오3동",
+    "dealAmount": "12,000",
+    "date": "2026-09-19",
+    "floor": 7,
+    "area": 48.91
+  },
+  {
+    "aptNm": "유웅",
+    "dealAmount": "5,200",
+    "date": "2026-09-14",
+    "floor": 1,
+    "area": 80.19
+  },
+  {
+    "aptNm": "벨라지오3동",
     "dealAmount": "10,000",
     "date": "2026-09-01",
     "floor": 4,

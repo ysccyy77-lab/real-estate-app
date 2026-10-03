@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "장유the#",
+    "dealAmount": "19,200",
+    "date": "2026-09-21",
+    "floor": 5,
+    "area": 84.9978
+  },
+  {
+    "aptNm": "장유the#",
     "dealAmount": "20,900",
     "date": "2026-03-19",
     "floor": 10,

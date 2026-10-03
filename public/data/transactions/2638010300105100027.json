@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "벽산비치",
+    "dealAmount": "19,700",
+    "date": "2026-09-19",
+    "floor": 13,
+    "area": 85.87
+  },
+  {
+    "aptNm": "벽산비치",
+    "dealAmount": "24,500",
+    "date": "2026-09-17",
+    "floor": 8,
+    "area": 85.87
+  },
+  {
+    "aptNm": "벽산비치",
     "dealAmount": "27,000",
     "date": "2026-07-03",
     "floor": 7,

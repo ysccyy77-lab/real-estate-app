@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "하늘빛아파트",
+    "dealAmount": "29,800",
+    "date": "2026-09-29",
+    "floor": 10,
+    "area": 84.9934
+  },
+  {
+    "aptNm": "신동",
+    "dealAmount": "13,300",
+    "date": "2026-09-15",
+    "floor": 9,
+    "area": 78.28
+  },
+  {
+    "aptNm": "유성",
+    "dealAmount": "5,900",
+    "date": "2026-09-14",
+    "floor": 1,
+    "area": 48.13
+  },
+  {
+    "aptNm": "하늘빛아파트",
+    "dealAmount": "20,800",
+    "date": "2026-08-31",
+    "floor": 9,
+    "area": 59.8563
+  },
+  {
     "aptNm": "유성",
     "dealAmount": "3,000",
     "date": "2026-08-21",

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "세림맨션",
+    "dealAmount": "9,300",
+    "date": "2026-09-22",
+    "floor": 4,
+    "area": 99.27
+  },
+  {
+    "aptNm": "선힐탑",
+    "dealAmount": "5,200",
+    "date": "2026-09-10",
+    "floor": 5,
+    "area": 74.04
+  },
+  {
     "aptNm": "선힐탑",
     "dealAmount": "5,100",
     "date": "2026-08-13",

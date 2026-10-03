@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "천안백석푸르지오",
+    "dealAmount": "29,500",
+    "date": "2026-09-22",
+    "floor": 4,
+    "area": 84.887
+  },
+  {
+    "aptNm": "천안백석푸르지오",
+    "dealAmount": "40,000",
+    "date": "2026-09-19",
+    "floor": 13,
+    "area": 110.655
+  },
+  {
+    "aptNm": "원앙마을1",
+    "dealAmount": "28,000",
+    "date": "2026-09-09",
+    "floor": 2,
+    "area": 84.79
+  },
+  {
+    "aptNm": "원앙마을1",
+    "dealAmount": "28,300",
+    "date": "2026-09-07",
+    "floor": 11,
+    "area": 84.79
+  },
+  {
+    "aptNm": "타임빌",
+    "dealAmount": "6,200",
+    "date": "2026-08-31",
+    "floor": 10,
+    "area": 34.62
+  },
+  {
     "aptNm": "원앙마을1",
     "dealAmount": "24,000",
     "date": "2026-08-29",
     "floor": 8,
     "area": 84.79
+  },
+  {
+    "aptNm": "타임빌",
+    "dealAmount": "6,300",
+    "date": "2026-08-29",
+    "floor": 10,
+    "area": 34.62
   },
   {
     "aptNm": "천안백석푸르지오",

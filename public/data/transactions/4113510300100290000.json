@@ -1,5 +1,61 @@
 [
   {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "26,600",
+    "date": "2026-09-28",
+    "floor": 12,
+    "area": 64.62
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "60,000",
+    "date": "2026-09-18",
+    "floor": 22,
+    "area": 84.973
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "27,500",
+    "date": "2026-09-13",
+    "floor": 9,
+    "area": 64.62
+  },
+  {
+    "aptNm": "만수주공2단지",
+    "dealAmount": "26,000",
+    "date": "2026-09-12",
+    "floor": 4,
+    "area": 64.62
+  },
+  {
+    "aptNm": "만수주공1단지",
+    "dealAmount": "17,500",
+    "date": "2026-09-12",
+    "floor": 1,
+    "area": 39.72
+  },
+  {
+    "aptNm": "문촌마을4단지삼익",
+    "dealAmount": "73,000",
+    "date": "2026-09-01",
+    "floor": 6,
+    "area": 100.84
+  },
+  {
+    "aptNm": "한진",
+    "dealAmount": "51,200",
+    "date": "2026-08-31",
+    "floor": 9,
+    "area": 59.937
+  },
+  {
+    "aptNm": "만수주공1단지",
+    "dealAmount": "15,900",
+    "date": "2026-08-29",
+    "floor": 5,
+    "area": 39.72
+  },
+  {
     "aptNm": "한진",
     "dealAmount": "65,000",
     "date": "2026-08-27",

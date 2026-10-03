@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "뉴서울",
+    "dealAmount": "26,500",
+    "date": "2026-09-21",
+    "floor": 5,
+    "area": 39.48
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "24,000",
+    "date": "2026-09-08",
+    "floor": 10,
+    "area": 39.48
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "27,000",
+    "date": "2026-09-03",
+    "floor": 10,
+    "area": 39.48
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "22,000",
+    "date": "2026-09-03",
+    "floor": 13,
+    "area": 39.48
+  },
+  {
+    "aptNm": "뉴서울",
+    "dealAmount": "24,000",
+    "date": "2026-09-02",
+    "floor": 15,
+    "area": 39.48
+  },
+  {
+    "aptNm": "뉴서울",
     "dealAmount": "21,000",
     "date": "2026-08-27",
     "floor": 1,

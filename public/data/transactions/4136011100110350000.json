@@ -1,10 +1,192 @@
 [
   {
+    "aptNm": "수루배마을6단지",
+    "dealAmount": "36,000",
+    "date": "2026-10-02",
+    "floor": 7,
+    "area": 59.9
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "100,000",
+    "date": "2026-09-30",
+    "floor": 7,
+    "area": 117.5534
+  },
+  {
+    "aptNm": "수원시청역SKVIEW",
+    "dealAmount": "73,000",
+    "date": "2026-09-28",
+    "floor": 14,
+    "area": 84.88
+  },
+  {
+    "aptNm": "해오름마을14단지푸르지오파르세나",
+    "dealAmount": "57,000",
+    "date": "2026-09-21",
+    "floor": 24,
+    "area": 84.9646
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "89,800",
+    "date": "2026-09-20",
+    "floor": 12,
+    "area": 117.9976
+  },
+  {
+    "aptNm": "수원시청역SKVIEW",
+    "dealAmount": "64,000",
+    "date": "2026-09-20",
+    "floor": 3,
+    "area": 84.64
+  },
+  {
+    "aptNm": "수루배마을6단지",
+    "dealAmount": "37,300",
+    "date": "2026-09-20",
+    "floor": 9,
+    "area": 59.9
+  },
+  {
+    "aptNm": "수원시청역SKVIEW",
+    "dealAmount": "75,000",
+    "date": "2026-09-19",
+    "floor": 12,
+    "area": 145.57
+  },
+  {
+    "aptNm": "해오름마을14단지푸르지오파르세나",
+    "dealAmount": "42,000",
+    "date": "2026-09-19",
+    "floor": 7,
+    "area": 59.9559
+  },
+  {
+    "aptNm": "수원시청역SKVIEW",
+    "dealAmount": "59,850",
+    "date": "2026-09-18",
+    "floor": 3,
+    "area": 59.94
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "89,800",
+    "date": "2026-09-17",
+    "floor": 16,
+    "area": 117.9976
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "88,000",
+    "date": "2026-09-16",
+    "floor": 5,
+    "area": 117.9976
+  },
+  {
+    "aptNm": "수원시청역SKVIEW",
+    "dealAmount": "64,800",
+    "date": "2026-09-16",
+    "floor": 1,
+    "area": 84.88
+  },
+  {
+    "aptNm": "해오름마을14단지푸르지오파르세나",
+    "dealAmount": "56,500",
+    "date": "2026-09-15",
+    "floor": 24,
+    "area": 84.7106
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "85,000",
+    "date": "2026-09-12",
+    "floor": 8,
+    "area": 101.9549
+  },
+  {
+    "aptNm": "전주인후휴먼시아",
+    "dealAmount": "24,000",
+    "date": "2026-09-12",
+    "floor": 11,
+    "area": 59.58
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "86,000",
+    "date": "2026-09-11",
+    "floor": 9,
+    "area": 117.9976
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "83,000",
+    "date": "2026-09-11",
+    "floor": 4,
+    "area": 101.8824
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "88,000",
+    "date": "2026-09-10",
+    "floor": 9,
+    "area": 117.9976
+  },
+  {
+    "aptNm": "수루배마을6단지",
+    "dealAmount": "44,000",
+    "date": "2026-09-09",
+    "floor": 11,
+    "area": 72.59
+  },
+  {
+    "aptNm": "전주인후휴먼시아",
+    "dealAmount": "26,000",
+    "date": "2026-09-09",
+    "floor": 6,
+    "area": 75.88
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "88,800",
+    "date": "2026-09-06",
+    "floor": 15,
+    "area": 117.9976
+  },
+  {
+    "aptNm": "수원시청역SKVIEW",
+    "dealAmount": "70,000",
+    "date": "2026-09-05",
+    "floor": 7,
+    "area": 145.57
+  },
+  {
+    "aptNm": "해오름마을14단지푸르지오파르세나",
+    "dealAmount": "53,300",
+    "date": "2026-09-02",
+    "floor": 14,
+    "area": 84.982
+  },
+  {
+    "aptNm": "별내역우미린더퍼스트",
+    "dealAmount": "59,000",
+    "date": "2026-08-31",
+    "floor": 18,
+    "area": 117.9976
+  },
+  {
     "aptNm": "해오름마을14단지푸르지오파르세나",
     "dealAmount": "42,000",
     "date": "2026-08-29",
     "floor": 18,
     "area": 59.847
+  },
+  {
+    "aptNm": "수원시청역SKVIEW",
+    "dealAmount": "67,900",
+    "date": "2026-08-29",
+    "floor": 5,
+    "area": 82.95
   },
   {
     "aptNm": "해오름마을14단지푸르지오파르세나",
@@ -208,6 +390,13 @@
     "date": "2026-07-28",
     "floor": 7,
     "area": 82.95
+  },
+  {
+    "aptNm": "수원시청역SKVIEW",
+    "dealAmount": "61,000",
+    "date": "2026-07-25",
+    "floor": 2,
+    "area": 84.88
   },
   {
     "aptNm": "수원시청역SKVIEW",

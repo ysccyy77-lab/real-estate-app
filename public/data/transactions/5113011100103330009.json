@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동보렉스1",
+    "dealAmount": "8,500",
+    "date": "2026-09-11",
+    "floor": 1,
+    "area": 84.95
+  },
+  {
+    "aptNm": "동보렉스1",
     "dealAmount": "6,300",
     "date": "2026-07-30",
     "floor": 4,

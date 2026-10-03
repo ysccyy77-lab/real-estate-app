@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "이화해변아파트(B~D동)",
+    "dealAmount": "4,800",
+    "date": "2026-09-13",
+    "floor": 5,
+    "area": 29.82
+  },
+  {
+    "aptNm": "대성",
+    "dealAmount": "4,500",
+    "date": "2026-09-08",
+    "floor": 5,
+    "area": 69.12
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "106,000",
+    "date": "2026-08-31",
+    "floor": 3,
+    "area": 69.3
+  },
+  {
     "aptNm": "효동현대",
     "dealAmount": "26,800",
     "date": "2026-08-30",
     "floor": 9,
     "area": 84.6825
+  },
+  {
+    "aptNm": "효동현대",
+    "dealAmount": "20,500",
+    "date": "2026-08-29",
+    "floor": 1,
+    "area": 76.08
   },
   {
     "aptNm": "효동현대",

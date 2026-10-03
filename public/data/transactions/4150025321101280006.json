@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "효양",
+    "dealAmount": "18,500",
+    "date": "2026-09-18",
+    "floor": 7,
+    "area": 84.8406
+  },
+  {
+    "aptNm": "효양",
     "dealAmount": "19,500",
     "date": "2026-08-16",
     "floor": 10,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "푸른뫼",
+    "dealAmount": "27,000",
+    "date": "2026-09-28",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "푸른뫼",
+    "dealAmount": "26,400",
+    "date": "2026-09-22",
+    "floor": 4,
+    "area": 84.99
+  },
+  {
+    "aptNm": "푸른뫼",
+    "dealAmount": "27,500",
+    "date": "2026-09-21",
+    "floor": 8,
+    "area": 84.99
+  },
+  {
+    "aptNm": "푸른뫼",
     "dealAmount": "28,000",
     "date": "2026-08-23",
     "floor": 13,

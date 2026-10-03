@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "신천가람타운",
+    "dealAmount": "17,500",
+    "date": "2026-09-22",
+    "floor": 17,
+    "area": 59.91
+  },
+  {
+    "aptNm": "신천가람타운",
+    "dealAmount": "18,000",
+    "date": "2026-09-06",
+    "floor": 6,
+    "area": 59.91
+  },
+  {
+    "aptNm": "신천가람타운",
+    "dealAmount": "17,400",
+    "date": "2026-09-05",
+    "floor": 11,
+    "area": 59.91
+  },
+  {
+    "aptNm": "신천가람타운",
+    "dealAmount": "16,000",
+    "date": "2026-08-24",
+    "floor": 7,
+    "area": 59.91
+  },
+  {
+    "aptNm": "신천가람타운",
     "dealAmount": "18,500",
     "date": "2026-08-12",
     "floor": 11,

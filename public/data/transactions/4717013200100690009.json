@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "황제타운",
+    "dealAmount": "11,900",
+    "date": "2026-09-01",
+    "floor": 14,
+    "area": 84.922
+  },
+  {
+    "aptNm": "황제타운",
     "dealAmount": "7,500",
     "date": "2026-08-20",
     "floor": 1,

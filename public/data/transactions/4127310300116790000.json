@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "청솔3차",
+    "dealAmount": "8,500",
+    "date": "2026-09-13",
+    "floor": 2,
+    "area": 58.65
+  },
+  {
+    "aptNm": "안산아이파크",
+    "dealAmount": "42,000",
+    "date": "2026-09-12",
+    "floor": 4,
+    "area": 72.57
+  },
+  {
+    "aptNm": "청솔3차",
+    "dealAmount": "8,400",
+    "date": "2026-09-05",
+    "floor": 2,
+    "area": 58.65
+  },
+  {
     "aptNm": "안산아이파크",
     "dealAmount": "47,500",
     "date": "2026-08-29",

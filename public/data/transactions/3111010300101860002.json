@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "남운럭키",
+    "dealAmount": "22,000",
+    "date": "2026-09-07",
+    "floor": 3,
+    "area": 84.545
+  },
+  {
+    "aptNm": "남운럭키",
     "dealAmount": "20,300",
     "date": "2026-08-19",
     "floor": 6,

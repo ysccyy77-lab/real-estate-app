@@ -1,9 +1,72 @@
 [
   {
+    "aptNm": "한국아파트",
+    "dealAmount": "26,500",
+    "date": "2026-09-30",
+    "floor": 10,
+    "area": 59.886
+  },
+  {
+    "aptNm": "평화1차",
+    "dealAmount": "9,000",
+    "date": "2026-09-29",
+    "floor": 9,
+    "area": 84.69
+  },
+  {
+    "aptNm": "한국아파트",
+    "dealAmount": "23,900",
+    "date": "2026-09-19",
+    "floor": 17,
+    "area": 49.686
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "29,300",
+    "date": "2026-09-17",
+    "floor": 4,
+    "area": 59.88
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "24,000",
+    "date": "2026-09-14",
+    "floor": 20,
+    "area": 49.83
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "23,500",
+    "date": "2026-09-07",
+    "floor": 4,
+    "area": 49.83
+  },
+  {
+    "aptNm": "한국아파트",
+    "dealAmount": "27,800",
+    "date": "2026-09-04",
+    "floor": 19,
+    "area": 59.886
+  },
+  {
     "aptNm": "풍림",
     "dealAmount": "30,500",
     "date": "2026-09-02",
     "floor": 7,
+    "area": 59.88
+  },
+  {
+    "aptNm": "한국아파트",
+    "dealAmount": "23,500",
+    "date": "2026-08-29",
+    "floor": 12,
+    "area": 49.686
+  },
+  {
+    "aptNm": "풍림",
+    "dealAmount": "29,500",
+    "date": "2026-08-25",
+    "floor": 4,
     "area": 59.88
   },
   {

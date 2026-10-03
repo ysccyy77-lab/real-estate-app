@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "호계삼익",
+    "dealAmount": "33,000",
+    "date": "2026-09-15",
+    "floor": 8,
+    "area": 59.85
+  },
+  {
+    "aptNm": "호계삼익",
+    "dealAmount": "43,000",
+    "date": "2026-09-12",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "호계삼익",
     "dealAmount": "39,000",
     "date": "2026-08-20",
     "floor": 3,

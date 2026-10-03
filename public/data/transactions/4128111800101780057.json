@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "새서울",
+    "dealAmount": "14,300",
+    "date": "2026-09-10",
+    "floor": 4,
+    "area": 45.72
+  },
+  {
+    "aptNm": "새서울",
     "dealAmount": "13,500",
     "date": "2026-08-06",
     "floor": 2,

@@ -1,6 +1,139 @@
 [
   {
     "aptNm": "주은풍림",
+    "dealAmount": "14,500",
+    "date": "2026-10-01",
+    "floor": 14,
+    "area": 59.76
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "12,700",
+    "date": "2026-09-28",
+    "floor": 19,
+    "area": 49.77
+  },
+  {
+    "aptNm": "푸른마을7단지",
+    "dealAmount": "32,700",
+    "date": "2026-09-23",
+    "floor": 15,
+    "area": 84.8265
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "13,800",
+    "date": "2026-09-23",
+    "floor": 17,
+    "area": 59.76
+  },
+  {
+    "aptNm": "성동마을수지자이",
+    "dealAmount": "95,000",
+    "date": "2026-09-23",
+    "floor": 7,
+    "area": 149.554
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "9,800",
+    "date": "2026-09-22",
+    "floor": 7,
+    "area": 39.36
+  },
+  {
+    "aptNm": "성동마을수지자이",
+    "dealAmount": "92,500",
+    "date": "2026-09-22",
+    "floor": 14,
+    "area": 84.996
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "12,400",
+    "date": "2026-09-16",
+    "floor": 10,
+    "area": 49.77
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "14,500",
+    "date": "2026-09-15",
+    "floor": 7,
+    "area": 59.76
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "10,900",
+    "date": "2026-09-14",
+    "floor": 13,
+    "area": 49.77
+  },
+  {
+    "aptNm": "성동마을수지자이",
+    "dealAmount": "93,000",
+    "date": "2026-09-12",
+    "floor": 18,
+    "area": 149.554
+  },
+  {
+    "aptNm": "명륜동SK-VIEW",
+    "dealAmount": "46,000",
+    "date": "2026-09-12",
+    "floor": 5,
+    "area": 84.5011
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "15,000",
+    "date": "2026-09-11",
+    "floor": 15,
+    "area": 59.76
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "9,300",
+    "date": "2026-09-11",
+    "floor": 11,
+    "area": 39.36
+  },
+  {
+    "aptNm": "화명대우",
+    "dealAmount": "29,900",
+    "date": "2026-09-11",
+    "floor": 9,
+    "area": 86.787
+  },
+  {
+    "aptNm": "푸른마을7단지",
+    "dealAmount": "30,000",
+    "date": "2026-09-07",
+    "floor": 16,
+    "area": 84.8265
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "9,700",
+    "date": "2026-09-07",
+    "floor": 10,
+    "area": 39.36
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "10,300",
+    "date": "2026-09-07",
+    "floor": 5,
+    "area": 39.36
+  },
+  {
+    "aptNm": "주은풍림",
+    "dealAmount": "9,800",
+    "date": "2026-09-05",
+    "floor": 10,
+    "area": 39.36
+  },
+  {
+    "aptNm": "주은풍림",
     "dealAmount": "12,700",
     "date": "2026-08-29",
     "floor": 10,

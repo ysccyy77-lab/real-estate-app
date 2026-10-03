@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "가나안미도",
+    "dealAmount": "21,500",
+    "date": "2026-09-29",
+    "floor": 2,
+    "area": 62.73
+  },
+  {
+    "aptNm": "가나안미도",
+    "dealAmount": "19,000",
+    "date": "2026-09-21",
+    "floor": 1,
+    "area": 59.31
+  },
+  {
+    "aptNm": "범서현대3차",
+    "dealAmount": "13,000",
+    "date": "2026-09-17",
+    "floor": 7,
+    "area": 58.05
+  },
+  {
+    "aptNm": "가나안미도",
     "dealAmount": "18,000",
     "date": "2026-07-27",
     "floor": 2,

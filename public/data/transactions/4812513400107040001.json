@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "현대건설1차",
+    "dealAmount": "17,000",
+    "date": "2026-09-30",
+    "floor": 21,
+    "area": 84.97
+  },
+  {
+    "aptNm": "현대건설1차",
+    "dealAmount": "17,400",
+    "date": "2026-09-16",
+    "floor": 9,
+    "area": 59.7
+  },
+  {
+    "aptNm": "현대건설1차",
+    "dealAmount": "12,500",
+    "date": "2026-09-10",
+    "floor": 18,
+    "area": 59.7
+  },
+  {
+    "aptNm": "현대건설1차",
     "dealAmount": "16,600",
     "date": "2026-08-31",
     "floor": 18,

@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "구산4주공",
+    "dealAmount": "9,250",
+    "date": "2026-09-19",
+    "floor": 9,
+    "area": 49.62
+  },
+  {
+    "aptNm": "구산5주공",
+    "dealAmount": "10,700",
+    "date": "2026-09-17",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
+    "aptNm": "구산4주공",
+    "dealAmount": "10,200",
+    "date": "2026-09-17",
+    "floor": 14,
+    "area": 49.62
+  },
+  {
+    "aptNm": "구산5주공",
+    "dealAmount": "9,200",
+    "date": "2026-09-12",
+    "floor": 6,
+    "area": 59.99
+  },
+  {
+    "aptNm": "구산5주공",
+    "dealAmount": "10,600",
+    "date": "2026-09-10",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "금호우방타운",
+    "dealAmount": "9,400",
+    "date": "2026-09-09",
+    "floor": 4,
+    "area": 59.98
+  },
+  {
+    "aptNm": "해원하나로타운1",
+    "dealAmount": "7,900",
+    "date": "2026-08-18",
+    "floor": 17,
+    "area": 59.7
+  },
+  {
     "aptNm": "금호우방타운",
     "dealAmount": "9,000",
     "date": "2026-08-14",

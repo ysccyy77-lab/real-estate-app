@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "정도드림-빌",
+    "dealAmount": "5,000",
+    "date": "2026-09-18",
+    "floor": 2,
+    "area": 29.92
+  },
+  {
+    "aptNm": "정도드림-빌",
+    "dealAmount": "5,400",
+    "date": "2026-09-14",
+    "floor": 6,
+    "area": 29.92
+  },
+  {
+    "aptNm": "정도드림-빌",
     "dealAmount": "6,300",
     "date": "2026-07-28",
     "floor": 3,

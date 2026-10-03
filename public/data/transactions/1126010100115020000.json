@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "부영6",
+    "dealAmount": "11,800",
+    "date": "2026-10-02",
+    "floor": 6,
+    "area": 50
+  },
+  {
     "aptNm": "현대",
     "dealAmount": "85,000",
     "date": "2026-08-30",

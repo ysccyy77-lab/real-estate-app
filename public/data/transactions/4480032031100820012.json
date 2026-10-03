@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "세청파크빌",
+    "dealAmount": "3,500",
+    "date": "2026-09-04",
+    "floor": 4,
+    "area": 49.2
+  },
+  {
+    "aptNm": "세청파크빌",
     "dealAmount": "2,800",
     "date": "2026-09-02",
     "floor": 3,

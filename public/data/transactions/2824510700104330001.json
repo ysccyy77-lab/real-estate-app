@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "학마을한진",
+    "dealAmount": "16,250",
+    "date": "2026-09-23",
+    "floor": 11,
+    "area": 39.84
+  },
+  {
+    "aptNm": "안양KCC스위첸",
+    "dealAmount": "58,000",
+    "date": "2026-09-14",
+    "floor": 25,
+    "area": 59.9973
+  },
+  {
+    "aptNm": "학마을한진",
+    "dealAmount": "21,500",
+    "date": "2026-09-12",
+    "floor": 5,
+    "area": 49.77
+  },
+  {
+    "aptNm": "궁전맨션",
+    "dealAmount": "13,500",
+    "date": "2026-09-09",
+    "floor": 4,
+    "area": 59.95
+  },
+  {
+    "aptNm": "학마을한진",
+    "dealAmount": "21,200",
+    "date": "2026-09-07",
+    "floor": 5,
+    "area": 49.77
+  },
+  {
+    "aptNm": "학마을한진",
+    "dealAmount": "20,000",
+    "date": "2026-09-02",
+    "floor": 2,
+    "area": 49.77
+  },
+  {
+    "aptNm": "학마을한진",
     "dealAmount": "23,000",
     "date": "2026-08-31",
     "floor": 3,

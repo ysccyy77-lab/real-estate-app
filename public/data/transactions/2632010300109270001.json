@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "대성타워",
+    "dealAmount": "18,700",
+    "date": "2026-09-30",
+    "floor": 4,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대성타워",
+    "dealAmount": "22,000",
+    "date": "2026-09-19",
+    "floor": 2,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대성타워",
+    "dealAmount": "30,500",
+    "date": "2026-09-19",
+    "floor": 16,
+    "area": 132.18
+  },
+  {
+    "aptNm": "대성타워",
+    "dealAmount": "22,000",
+    "date": "2026-09-16",
+    "floor": 19,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대성타워",
+    "dealAmount": "21,700",
+    "date": "2026-09-09",
+    "floor": 9,
+    "area": 84.92
+  },
+  {
+    "aptNm": "대성타워",
+    "dealAmount": "21,000",
+    "date": "2026-09-05",
+    "floor": 6,
+    "area": 84.78
+  },
+  {
+    "aptNm": "웰라이빌",
+    "dealAmount": "47,000",
+    "date": "2026-09-04",
+    "floor": 15,
+    "area": 79.87
+  },
+  {
+    "aptNm": "대성타워",
     "dealAmount": "23,800",
     "date": "2026-08-22",
     "floor": 18,

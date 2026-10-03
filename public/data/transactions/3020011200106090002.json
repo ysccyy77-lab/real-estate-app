@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우성햇살",
+    "dealAmount": "23,500",
+    "date": "2026-09-29",
+    "floor": 4,
+    "area": 84.61
+  },
+  {
+    "aptNm": "강변임광",
+    "dealAmount": "298,000",
+    "date": "2026-08-25",
+    "floor": 6,
+    "area": 59.67
+  },
+  {
+    "aptNm": "우성햇살",
     "dealAmount": "22,000",
     "date": "2026-07-25",
     "floor": 15,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "서한청산맨션",
+    "dealAmount": "22,700",
+    "date": "2026-09-18",
+    "floor": 8,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서한청산맨션",
+    "dealAmount": "21,500",
+    "date": "2026-09-11",
+    "floor": 7,
+    "area": 84.9
+  },
+  {
+    "aptNm": "서한청산맨션",
     "dealAmount": "21,500",
     "date": "2026-08-05",
     "floor": 9,

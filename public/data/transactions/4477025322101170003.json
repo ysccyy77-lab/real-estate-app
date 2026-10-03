@@ -2,6 +2,13 @@
   {
     "aptNm": "정원",
     "dealAmount": "11,000",
+    "date": "2026-09-16",
+    "floor": 1,
+    "area": 84.98
+  },
+  {
+    "aptNm": "정원",
+    "dealAmount": "11,000",
     "date": "2026-09-03",
     "floor": 10,
     "area": 59.8

@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "도사곡주공1",
+    "dealAmount": "2,500",
+    "date": "2026-09-28",
+    "floor": 2,
+    "area": 45.72
+  },
+  {
+    "aptNm": "도사곡주공1",
+    "dealAmount": "2,850",
+    "date": "2026-09-16",
+    "floor": 4,
+    "area": 45.72
+  },
+  {
+    "aptNm": "온천프라자",
+    "dealAmount": "10,550",
+    "date": "2026-07-30",
+    "floor": 4,
+    "area": 40.5
+  },
+  {
     "aptNm": "중계현대2",
     "dealAmount": "71,000",
     "date": "2026-07-20",

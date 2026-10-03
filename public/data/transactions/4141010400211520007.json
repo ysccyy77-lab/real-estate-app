@@ -1,10 +1,66 @@
 [
   {
     "aptNm": "계룡",
+    "dealAmount": "70,000",
+    "date": "2026-09-21",
+    "floor": 18,
+    "area": 103.155
+  },
+  {
+    "aptNm": "계룡",
+    "dealAmount": "66,800",
+    "date": "2026-09-12",
+    "floor": 8,
+    "area": 103.155
+  },
+  {
+    "aptNm": "계룡",
+    "dealAmount": "59,800",
+    "date": "2026-09-12",
+    "floor": 1,
+    "area": 103.155
+  },
+  {
+    "aptNm": "계룡",
+    "dealAmount": "64,000",
+    "date": "2026-09-09",
+    "floor": 15,
+    "area": 103.155
+  },
+  {
+    "aptNm": "계룡",
+    "dealAmount": "74,500",
+    "date": "2026-09-01",
+    "floor": 2,
+    "area": 129.555
+  },
+  {
+    "aptNm": "계룡",
+    "dealAmount": "66,000",
+    "date": "2026-08-30",
+    "floor": 9,
+    "area": 115.515
+  },
+  {
+    "aptNm": "계룡",
     "dealAmount": "59,500",
     "date": "2026-08-29",
     "floor": 1,
     "area": 103.155
+  },
+  {
+    "aptNm": "계룡",
+    "dealAmount": "67,500",
+    "date": "2026-08-28",
+    "floor": 16,
+    "area": 129.555
+  },
+  {
+    "aptNm": "계룡",
+    "dealAmount": "66,800",
+    "date": "2026-08-20",
+    "floor": 20,
+    "area": 115.515
   },
   {
     "aptNm": "계룡",

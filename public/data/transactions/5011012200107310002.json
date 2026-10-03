@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "송산팰리스",
+    "dealAmount": "26,000",
+    "date": "2026-09-18",
+    "floor": 13,
+    "area": 59.42
+  },
+  {
+    "aptNm": "한화",
+    "dealAmount": "99,800",
+    "date": "2026-09-09",
+    "floor": 11,
+    "area": 108.4439
+  },
+  {
+    "aptNm": "송산팰리스",
+    "dealAmount": "18,300",
+    "date": "2026-09-07",
+    "floor": 19,
+    "area": 49.86
+  },
+  {
+    "aptNm": "송산팰리스",
     "dealAmount": "23,000",
     "date": "2026-08-29",
     "floor": 3,

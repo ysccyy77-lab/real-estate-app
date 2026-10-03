@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경남맨션",
+    "dealAmount": "8,300",
+    "date": "2026-09-19",
+    "floor": 3,
+    "area": 63.15
+  },
+  {
+    "aptNm": "경남맨션",
     "dealAmount": "8,450",
     "date": "2026-08-22",
     "floor": 3,

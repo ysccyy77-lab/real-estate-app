@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "로얄2",
+    "dealAmount": "6,100",
+    "date": "2026-09-18",
+    "floor": 2,
+    "area": 36.63
+  },
+  {
+    "aptNm": "로얄2",
     "dealAmount": "7,700",
     "date": "2026-05-19",
     "floor": 4,

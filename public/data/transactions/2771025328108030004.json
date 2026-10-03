@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "논공성원아파트",
+    "dealAmount": "5,200",
+    "date": "2026-09-17",
+    "floor": 9,
+    "area": 59.34
+  },
+  {
+    "aptNm": "논공성원아파트",
+    "dealAmount": "5,100",
+    "date": "2026-09-10",
+    "floor": 2,
+    "area": 59.4
+  },
+  {
+    "aptNm": "논공성원아파트",
     "dealAmount": "4,900",
     "date": "2026-07-24",
     "floor": 7,

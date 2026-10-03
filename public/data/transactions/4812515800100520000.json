@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "파크타운(서안)",
+    "dealAmount": "218,000",
+    "date": "2026-09-21",
+    "floor": 11,
+    "area": 84.6
+  },
+  {
+    "aptNm": "두산청구",
+    "dealAmount": "15,800",
+    "date": "2026-09-16",
+    "floor": 11,
+    "area": 60
+  },
+  {
     "aptNm": "대한",
     "dealAmount": "9,800",
     "date": "2026-09-03",
     "floor": 16,
     "area": 84.96
+  },
+  {
+    "aptNm": "평화골든타워",
+    "dealAmount": "11,800",
+    "date": "2026-09-03",
+    "floor": 13,
+    "area": 59.34
   },
   {
     "aptNm": "두산청구",

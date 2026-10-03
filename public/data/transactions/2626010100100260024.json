@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "국제파크",
+    "dealAmount": "21,800",
+    "date": "2026-08-28",
+    "floor": 5,
+    "area": 59.86
+  },
+  {
+    "aptNm": "국제파크",
     "dealAmount": "26,500",
     "date": "2026-08-12",
     "floor": 14,

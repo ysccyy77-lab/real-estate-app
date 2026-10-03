@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "버드내1",
+    "dealAmount": "33,000",
+    "date": "2026-09-12",
+    "floor": 19,
+    "area": 84.93
+  },
+  {
+    "aptNm": "버드내1",
+    "dealAmount": "25,000",
+    "date": "2026-09-09",
+    "floor": 21,
+    "area": 59.89
+  },
+  {
+    "aptNm": "버드내1",
+    "dealAmount": "31,500",
+    "date": "2026-09-08",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "버드내1",
     "dealAmount": "33,500",
     "date": "2026-08-29",
     "floor": 10,

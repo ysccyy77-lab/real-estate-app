@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "주공2",
+    "dealAmount": "12,000",
+    "date": "2026-09-15",
+    "floor": 15,
+    "area": 49.94
+  },
+  {
+    "aptNm": "한아름현대",
+    "dealAmount": "11,500",
+    "date": "2026-09-14",
+    "floor": 6,
+    "area": 71.115
+  },
+  {
+    "aptNm": "주공2",
     "dealAmount": "19,400",
     "date": "2026-09-01",
     "floor": 14,

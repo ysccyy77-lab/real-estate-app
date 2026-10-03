@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "자유",
+    "dealAmount": "17,200",
+    "date": "2026-09-01",
+    "floor": 10,
+    "area": 57.06
+  },
+  {
+    "aptNm": "자유",
+    "dealAmount": "17,200",
+    "date": "2026-08-29",
+    "floor": 10,
+    "area": 57.06
+  },
+  {
+    "aptNm": "자유",
+    "dealAmount": "32,000",
+    "date": "2026-08-25",
+    "floor": 13,
+    "area": 120.82
+  },
+  {
+    "aptNm": "자유",
     "dealAmount": "22,000",
     "date": "2026-07-01",
     "floor": 11,

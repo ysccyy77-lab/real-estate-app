@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대우2차",
+    "dealAmount": "23,000",
+    "date": "2026-09-28",
+    "floor": 6,
+    "area": 48.664
+  },
+  {
+    "aptNm": "명산화성빌라트",
+    "dealAmount": "17,000",
+    "date": "2026-09-22",
+    "floor": 7,
+    "area": 84.96
+  },
+  {
+    "aptNm": "대우2차",
     "dealAmount": "26,700",
     "date": "2026-08-29",
     "floor": 17,

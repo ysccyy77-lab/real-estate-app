@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우방타운1",
+    "dealAmount": "9,000",
+    "date": "2026-09-11",
+    "floor": 5,
+    "area": 66.01
+  },
+  {
+    "aptNm": "우방타운1",
+    "dealAmount": "15,450",
+    "date": "2026-08-31",
+    "floor": 1,
+    "area": 78.18
+  },
+  {
+    "aptNm": "우방타운1",
     "dealAmount": "10,000",
     "date": "2026-08-12",
     "floor": 4,

@@ -1,6 +1,62 @@
 [
   {
     "aptNm": "은아",
+    "dealAmount": "26,000",
+    "date": "2026-09-19",
+    "floor": 5,
+    "area": 49.83
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "26,250",
+    "date": "2026-09-15",
+    "floor": 5,
+    "area": 49.86
+  },
+  {
+    "aptNm": "더샵센트럴파크1",
+    "dealAmount": "97,000",
+    "date": "2026-09-14",
+    "floor": 30,
+    "area": 106.9262
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "26,000",
+    "date": "2026-09-11",
+    "floor": 2,
+    "area": 49.86
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "25,700",
+    "date": "2026-09-10",
+    "floor": 2,
+    "area": 49.86
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "25,700",
+    "date": "2026-09-09",
+    "floor": 2,
+    "area": 49.83
+  },
+  {
+    "aptNm": "삼창",
+    "dealAmount": "5,200",
+    "date": "2026-09-08",
+    "floor": 4,
+    "area": 52.5
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "26,000",
+    "date": "2026-09-05",
+    "floor": 4,
+    "area": 49.86
+  },
+  {
+    "aptNm": "은아",
     "dealAmount": "25,800",
     "date": "2026-09-02",
     "floor": 3,

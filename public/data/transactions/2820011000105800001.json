@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "논현 파크 포레",
+    "dealAmount": "35,000",
+    "date": "2026-09-19",
+    "floor": 10,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대동남산",
+    "dealAmount": "4,000",
+    "date": "2026-09-18",
+    "floor": 11,
+    "area": 49.525
+  },
+  {
+    "aptNm": "논현 파크 포레",
+    "dealAmount": "42,000",
+    "date": "2026-09-16",
+    "floor": 1,
+    "area": 84.94
+  },
+  {
+    "aptNm": "논현 파크 포레",
+    "dealAmount": "39,500",
+    "date": "2026-09-15",
+    "floor": 9,
+    "area": 84.88
+  },
+  {
+    "aptNm": "논현 파크 포레",
+    "dealAmount": "40,000",
+    "date": "2026-09-11",
+    "floor": 14,
+    "area": 84.93
+  },
+  {
+    "aptNm": "논현 파크 포레",
+    "dealAmount": "39,000",
+    "date": "2026-09-08",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "대동남산",
+    "dealAmount": "3,800",
+    "date": "2026-09-03",
+    "floor": 9,
+    "area": 49.525
+  },
+  {
+    "aptNm": "논현 파크 포레",
     "dealAmount": "36,000",
     "date": "2026-08-31",
     "floor": 16,

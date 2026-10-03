@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "삼계서희스타힐스",
+    "dealAmount": "22,000",
+    "date": "2026-09-28",
+    "floor": 14,
+    "area": 59.9793
+  },
+  {
+    "aptNm": "HausD블루오션",
+    "dealAmount": "43,700",
+    "date": "2026-09-23",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "삼계서희스타힐스",
+    "dealAmount": "22,800",
+    "date": "2026-09-20",
+    "floor": 22,
+    "area": 59.9633
+  },
+  {
+    "aptNm": "천안불당린스트라우스1단지",
+    "dealAmount": "77,000",
+    "date": "2026-09-19",
+    "floor": 28,
+    "area": 99.9908
+  },
+  {
+    "aptNm": "천안불당린스트라우스1단지",
+    "dealAmount": "61,000",
+    "date": "2026-09-12",
+    "floor": 2,
+    "area": 84.9729
+  },
+  {
+    "aptNm": "HausD블루오션",
+    "dealAmount": "44,300",
+    "date": "2026-09-09",
+    "floor": 11,
+    "area": 84.94
+  },
+  {
+    "aptNm": "삼계서희스타힐스",
+    "dealAmount": "24,000",
+    "date": "2026-09-07",
+    "floor": 17,
+    "area": 59.9738
+  },
+  {
+    "aptNm": "삼계서희스타힐스",
     "dealAmount": "31,800",
     "date": "2026-09-01",
     "floor": 13,

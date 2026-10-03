@@ -1,5 +1,75 @@
 [
   {
+    "aptNm": "청주개신푸르지오",
+    "dealAmount": "28,000",
+    "date": "2026-09-27",
+    "floor": 16,
+    "area": 84.775
+  },
+  {
+    "aptNm": "우성2",
+    "dealAmount": "37,000",
+    "date": "2026-09-19",
+    "floor": 18,
+    "area": 59.59
+  },
+  {
+    "aptNm": "진흥W-PARK",
+    "dealAmount": "40,900",
+    "date": "2026-09-19",
+    "floor": 8,
+    "area": 103.161
+  },
+  {
+    "aptNm": "아남",
+    "dealAmount": "22,500",
+    "date": "2026-09-17",
+    "floor": 7,
+    "area": 63.22
+  },
+  {
+    "aptNm": "주안에쉐르",
+    "dealAmount": "9,000",
+    "date": "2026-09-17",
+    "floor": 4,
+    "area": 55.76
+  },
+  {
+    "aptNm": "진흥W-PARK",
+    "dealAmount": "39,500",
+    "date": "2026-09-16",
+    "floor": 3,
+    "area": 103.161
+  },
+  {
+    "aptNm": "청주개신푸르지오",
+    "dealAmount": "27,000",
+    "date": "2026-09-13",
+    "floor": 8,
+    "area": 84.775
+  },
+  {
+    "aptNm": "철산래미안자이",
+    "dealAmount": "144,500",
+    "date": "2026-09-12",
+    "floor": 11,
+    "area": 84.44
+  },
+  {
+    "aptNm": "철산래미안자이",
+    "dealAmount": "140,000",
+    "date": "2026-09-10",
+    "floor": 30,
+    "area": 84.35
+  },
+  {
+    "aptNm": "우성2",
+    "dealAmount": "37,800",
+    "date": "2026-09-05",
+    "floor": 25,
+    "area": 59.59
+  },
+  {
     "aptNm": "아남",
     "dealAmount": "31,000",
     "date": "2026-09-03",
@@ -7,11 +77,46 @@
     "area": 83.89
   },
   {
+    "aptNm": "철산래미안자이",
+    "dealAmount": "146,500",
+    "date": "2026-09-03",
+    "floor": 25,
+    "area": 84.35
+  },
+  {
+    "aptNm": "우성2",
+    "dealAmount": "40,500",
+    "date": "2026-09-03",
+    "floor": 9,
+    "area": 59.59
+  },
+  {
+    "aptNm": "판교원마을5단지(푸르지오)",
+    "dealAmount": "245,000",
+    "date": "2026-09-02",
+    "floor": 32,
+    "area": 116.04
+  },
+  {
+    "aptNm": "우성2",
+    "dealAmount": "22,000",
+    "date": "2026-09-01",
+    "floor": 9,
+    "area": 40.5
+  },
+  {
     "aptNm": "우성2",
     "dealAmount": "37,800",
     "date": "2026-08-29",
     "floor": 11,
     "area": 59.59
+  },
+  {
+    "aptNm": "판교원마을5단지(푸르지오)",
+    "dealAmount": "192,000",
+    "date": "2026-08-27",
+    "floor": 11,
+    "area": 84.56
   },
   {
     "aptNm": "우성2",
@@ -61,6 +166,13 @@
     "date": "2026-08-15",
     "floor": 21,
     "area": 40.5
+  },
+  {
+    "aptNm": "우성2",
+    "dealAmount": "38,000",
+    "date": "2026-08-15",
+    "floor": 15,
+    "area": 59.59
   },
   {
     "aptNm": "철산래미안자이",

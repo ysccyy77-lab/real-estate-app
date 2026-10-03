@@ -1,10 +1,185 @@
 [
   {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "58,000",
+    "date": "2026-09-29",
+    "floor": 7,
+    "area": 45.9
+  },
+  {
+    "aptNm": "주공7단지",
+    "dealAmount": "6,300",
+    "date": "2026-09-28",
+    "floor": 11,
+    "area": 39.51
+  },
+  {
+    "aptNm": "e-편한세상",
+    "dealAmount": "48,000",
+    "date": "2026-09-21",
+    "floor": 10,
+    "area": 84.988
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "63,500",
+    "date": "2026-09-21",
+    "floor": 8,
+    "area": 41.3
+  },
+  {
+    "aptNm": "주공7단지",
+    "dealAmount": "5,600",
+    "date": "2026-09-20",
+    "floor": 7,
+    "area": 39.51
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "83,800",
+    "date": "2026-09-17",
+    "floor": 11,
+    "area": 59.61
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "87,000",
+    "date": "2026-09-17",
+    "floor": 9,
+    "area": 59.61
+  },
+  {
+    "aptNm": "하남자이",
+    "dealAmount": "78,800",
+    "date": "2026-09-17",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "하남자이",
+    "dealAmount": "84,000",
+    "date": "2026-09-17",
+    "floor": 22,
+    "area": 84.99
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "78,000",
+    "date": "2026-09-17",
+    "floor": 2,
+    "area": 49.94
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "84,500",
+    "date": "2026-09-14",
+    "floor": 9,
+    "area": 59.61
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "83,000",
+    "date": "2026-09-12",
+    "floor": 9,
+    "area": 59.61
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "82,000",
+    "date": "2026-09-12",
+    "floor": 8,
+    "area": 59.39
+  },
+  {
+    "aptNm": "부영아파트(3단지)",
+    "dealAmount": "19,000",
+    "date": "2026-09-11",
+    "floor": 12,
+    "area": 84.9868
+  },
+  {
+    "aptNm": "망포마을쌍용1차",
+    "dealAmount": "68,000",
+    "date": "2026-09-10",
+    "floor": 1,
+    "area": 124.571
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "67,500",
+    "date": "2026-09-09",
+    "floor": 7,
+    "area": 45.77
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "50,400",
+    "date": "2026-09-08",
+    "floor": 2,
+    "area": 58.01
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "81,300",
+    "date": "2026-09-07",
+    "floor": 4,
+    "area": 59.61
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "60,000",
+    "date": "2026-09-07",
+    "floor": 15,
+    "area": 41.3
+  },
+  {
+    "aptNm": "e-편한세상",
+    "dealAmount": "49,300",
+    "date": "2026-09-06",
+    "floor": 15,
+    "area": 84.988
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "83,000",
+    "date": "2026-09-05",
+    "floor": 13,
+    "area": 59.61
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "64,000",
+    "date": "2026-09-05",
+    "floor": 14,
+    "area": 45.9
+  },
+  {
+    "aptNm": "산양마을푸르지오",
+    "dealAmount": "67,000",
+    "date": "2026-09-04",
+    "floor": 1,
+    "area": 134.8424
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "80,000",
+    "date": "2026-09-04",
+    "floor": 2,
+    "area": 59.61
+  },
+  {
     "aptNm": "e-편한세상",
     "dealAmount": "46,000",
     "date": "2026-09-02",
     "floor": 12,
     "area": 84.988
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "82,000",
+    "date": "2026-09-02",
+    "floor": 10,
+    "area": 58.01
   },
   {
     "aptNm": "하남자이",
@@ -14,6 +189,13 @@
     "area": 84.99
   },
   {
+    "aptNm": "동부",
+    "dealAmount": "83,500",
+    "date": "2026-08-30",
+    "floor": 17,
+    "area": 59.61
+  },
+  {
     "aptNm": "주공7단지",
     "dealAmount": "5,000",
     "date": "2026-08-29",
@@ -21,11 +203,39 @@
     "area": 39.51
   },
   {
+    "aptNm": "산양마을푸르지오",
+    "dealAmount": "79,700",
+    "date": "2026-08-28",
+    "floor": 14,
+    "area": 134.8424
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "86,000",
+    "date": "2026-08-25",
+    "floor": 11,
+    "area": 59.61
+  },
+  {
     "aptNm": "상계주공7(고층)",
     "dealAmount": "66,000",
     "date": "2026-08-24",
     "floor": 5,
     "area": 45.9
+  },
+  {
+    "aptNm": "망포마을쌍용1차",
+    "dealAmount": "74,000",
+    "date": "2026-08-24",
+    "floor": 21,
+    "area": 84.8697
+  },
+  {
+    "aptNm": "상계주공7(고층)",
+    "dealAmount": "80,000",
+    "date": "2026-08-24",
+    "floor": 7,
+    "area": 58.01
   },
   {
     "aptNm": "동부",

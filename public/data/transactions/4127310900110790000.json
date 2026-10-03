@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "군자주공14",
+    "dealAmount": "17,500",
+    "date": "2026-09-29",
+    "floor": 5,
+    "area": 40
+  },
+  {
+    "aptNm": "부영1차",
+    "dealAmount": "20,000",
+    "date": "2026-09-16",
+    "floor": 6,
+    "area": 81.1563
+  },
+  {
+    "aptNm": "부영1차",
+    "dealAmount": "23,000",
+    "date": "2026-09-12",
+    "floor": 6,
+    "area": 81.1563
+  },
+  {
+    "aptNm": "군자주공14",
+    "dealAmount": "16,500",
+    "date": "2026-09-05",
+    "floor": 2,
+    "area": 39.61
+  },
+  {
+    "aptNm": "흥덕마을14단지호반베르디움",
+    "dealAmount": "75,500",
+    "date": "2026-09-02",
+    "floor": 5,
+    "area": 132.5861
+  },
+  {
+    "aptNm": "부영1차",
+    "dealAmount": "19,000",
+    "date": "2026-08-29",
+    "floor": 1,
+    "area": 81.1563
+  },
+  {
+    "aptNm": "군자주공14",
     "dealAmount": "17,400",
     "date": "2026-08-21",
     "floor": 1,

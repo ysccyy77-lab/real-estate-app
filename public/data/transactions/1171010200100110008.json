@@ -2,6 +2,13 @@
   {
     "aptNm": "황제맨션",
     "dealAmount": "29,500",
+    "date": "2026-09-01",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "황제맨션",
+    "dealAmount": "29,500",
     "date": "2026-07-26",
     "floor": 4,
     "area": 131.45

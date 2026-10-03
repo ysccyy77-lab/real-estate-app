@@ -1,10 +1,80 @@
 [
   {
     "aptNm": "안성공도KCC스위첸",
+    "dealAmount": "23,700",
+    "date": "2026-09-30",
+    "floor": 19,
+    "area": 84.731
+  },
+  {
+    "aptNm": "센트럴뷰",
+    "dealAmount": "44,350",
+    "date": "2026-09-22",
+    "floor": 7,
+    "area": 84.8
+  },
+  {
+    "aptNm": "청성(877-0)",
+    "dealAmount": "70,500",
+    "date": "2026-09-22",
+    "floor": 5,
+    "area": 67.876
+  },
+  {
+    "aptNm": "안성공도KCC스위첸",
+    "dealAmount": "28,200",
+    "date": "2026-09-19",
+    "floor": 8,
+    "area": 84.986
+  },
+  {
+    "aptNm": "호수마을(유원)",
+    "dealAmount": "65,000",
+    "date": "2026-09-14",
+    "floor": 1,
+    "area": 157.33
+  },
+  {
+    "aptNm": "안성공도KCC스위첸",
+    "dealAmount": "26,800",
+    "date": "2026-09-12",
+    "floor": 6,
+    "area": 84.992
+  },
+  {
+    "aptNm": "센트럴뷰",
+    "dealAmount": "50,000",
+    "date": "2026-09-12",
+    "floor": 26,
+    "area": 84.76
+  },
+  {
+    "aptNm": "호수마을(삼환)",
+    "dealAmount": "68,000",
+    "date": "2026-09-07",
+    "floor": 14,
+    "area": 132.33
+  },
+  {
+    "aptNm": "금호베스트빌",
+    "dealAmount": "150,000",
+    "date": "2026-09-03",
+    "floor": 1,
+    "area": 134.1031
+  },
+  {
+    "aptNm": "안성공도KCC스위첸",
     "dealAmount": "24,000",
     "date": "2026-09-02",
     "floor": 20,
     "area": 84.986
+  },
+  {
+    "aptNm": "안성공도KCC스위첸",
+    "dealAmount": "35,200",
+    "date": "2026-09-02",
+    "floor": 9,
+    "area": 125.57
   },
   {
     "aptNm": "동성한아름",
@@ -12,6 +82,13 @@
     "date": "2026-08-29",
     "floor": 12,
     "area": 72.48
+  },
+  {
+    "aptNm": "열매마을5단지(운암)",
+    "dealAmount": "92,300",
+    "date": "2026-08-26",
+    "floor": 22,
+    "area": 163.99
   },
   {
     "aptNm": "동성한아름",
@@ -35,11 +112,25 @@
     "area": 84.2119
   },
   {
+    "aptNm": "덕천하이트",
+    "dealAmount": "6,900",
+    "date": "2026-08-19",
+    "floor": 13,
+    "area": 59.48
+  },
+  {
     "aptNm": "안성공도KCC스위첸",
     "dealAmount": "25,500",
     "date": "2026-08-18",
     "floor": 16,
     "area": 84.992
+  },
+  {
+    "aptNm": "호수마을(삼환)",
+    "dealAmount": "63,000",
+    "date": "2026-08-16",
+    "floor": 13,
+    "area": 132.33
   },
   {
     "aptNm": "삼성2-2",

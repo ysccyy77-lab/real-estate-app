@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "동서",
+    "dealAmount": "30,800",
+    "date": "2026-09-28",
+    "floor": 4,
+    "area": 41.92
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "20,000",
+    "date": "2026-09-15",
+    "floor": 18,
+    "area": 84.77
+  },
+  {
+    "aptNm": "동서",
+    "dealAmount": "31,000",
+    "date": "2026-09-15",
+    "floor": 1,
+    "area": 41.92
+  },
+  {
+    "aptNm": "교동마을신창무궁화타운",
+    "dealAmount": "36,700",
+    "date": "2026-09-14",
+    "floor": 2,
+    "area": 59.85
+  },
+  {
+    "aptNm": "동서",
+    "dealAmount": "38,700",
+    "date": "2026-09-12",
+    "floor": 5,
+    "area": 52.31
+  },
+  {
+    "aptNm": "동서",
+    "dealAmount": "27,500",
+    "date": "2026-09-08",
+    "floor": 1,
+    "area": 41.92
+  },
+  {
     "aptNm": "우성",
     "dealAmount": "14,300",
     "date": "2026-08-31",
     "floor": 13,
     "area": 59.91
+  },
+  {
+    "aptNm": "교동마을신창무궁화타운",
+    "dealAmount": "45,000",
+    "date": "2026-08-26",
+    "floor": 17,
+    "area": 84.97
   },
   {
     "aptNm": "동서",

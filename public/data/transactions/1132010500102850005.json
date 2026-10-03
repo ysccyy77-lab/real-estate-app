@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "동익미라벨",
+    "dealAmount": "50,800",
+    "date": "2026-09-29",
+    "floor": 6,
+    "area": 84.53
+  },
+  {
+    "aptNm": "동익미라벨",
+    "dealAmount": "49,500",
+    "date": "2026-09-06",
+    "floor": 9,
+    "area": 84.39
+  },
+  {
+    "aptNm": "동익미라벨",
     "dealAmount": "37,300",
     "date": "2026-08-11",
     "floor": 2,

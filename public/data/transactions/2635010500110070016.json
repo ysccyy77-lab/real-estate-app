@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대우동삼",
+    "dealAmount": "78,800",
+    "date": "2026-09-16",
+    "floor": 5,
+    "area": 84.87
+  },
+  {
+    "aptNm": "대우동삼",
     "dealAmount": "62,000",
     "date": "2026-06-01",
     "floor": 11,

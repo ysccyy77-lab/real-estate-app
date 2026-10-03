@@ -1,5 +1,131 @@
 [
   {
+    "aptNm": "금화마을주공3단지",
+    "dealAmount": "63,000",
+    "date": "2026-09-29",
+    "floor": 16,
+    "area": 59.97
+  },
+  {
+    "aptNm": "김제하우스디",
+    "dealAmount": "23,800",
+    "date": "2026-09-22",
+    "floor": 5,
+    "area": 80.5563
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "95,000",
+    "date": "2026-09-19",
+    "floor": 12,
+    "area": 59.94
+  },
+  {
+    "aptNm": "DMC래미안e편한세상",
+    "dealAmount": "158,000",
+    "date": "2026-09-19",
+    "floor": 8,
+    "area": 84.95
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "9,000",
+    "date": "2026-09-16",
+    "floor": 4,
+    "area": 39.3
+  },
+  {
+    "aptNm": "감일스윗시티1단지",
+    "dealAmount": "84,055",
+    "date": "2026-09-16",
+    "floor": 9,
+    "area": 51.98
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "119,500",
+    "date": "2026-09-16",
+    "floor": 19,
+    "area": 84.99
+  },
+  {
+    "aptNm": "DMC래미안e편한세상",
+    "dealAmount": "187,000",
+    "date": "2026-09-16",
+    "floor": 30,
+    "area": 120.95
+  },
+  {
+    "aptNm": "김제하우스디",
+    "dealAmount": "24,000",
+    "date": "2026-09-15",
+    "floor": 6,
+    "area": 80.5563
+  },
+  {
+    "aptNm": "DMC래미안e편한세상",
+    "dealAmount": "160,000",
+    "date": "2026-09-13",
+    "floor": 15,
+    "area": 84.97
+  },
+  {
+    "aptNm": "금화마을주공3단지",
+    "dealAmount": "62,000",
+    "date": "2026-09-12",
+    "floor": 16,
+    "area": 59.97
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "115,000",
+    "date": "2026-09-11",
+    "floor": 16,
+    "area": 84.99
+  },
+  {
+    "aptNm": "DMC래미안e편한세상",
+    "dealAmount": "189,000",
+    "date": "2026-09-09",
+    "floor": 26,
+    "area": 120.95
+  },
+  {
+    "aptNm": "유탑트윈팰리스",
+    "dealAmount": "24,000",
+    "date": "2026-09-08",
+    "floor": 10,
+    "area": 37.396
+  },
+  {
+    "aptNm": "현대8차(성수현대:91~95동)",
+    "dealAmount": "490,000",
+    "date": "2026-09-07",
+    "floor": 7,
+    "area": 107.64
+  },
+  {
+    "aptNm": "DMC래미안e편한세상",
+    "dealAmount": "160,000",
+    "date": "2026-09-07",
+    "floor": 16,
+    "area": 84.95
+  },
+  {
+    "aptNm": "금화마을주공3단지",
+    "dealAmount": "62,000",
+    "date": "2026-09-05",
+    "floor": 11,
+    "area": 59.97
+  },
+  {
+    "aptNm": "감일스윗시티1단지",
+    "dealAmount": "112,000",
+    "date": "2026-09-04",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
     "aptNm": "주공5",
     "dealAmount": "9,500",
     "date": "2026-09-01",
@@ -12,6 +138,13 @@
     "date": "2026-09-01",
     "floor": 9,
     "area": 84.99
+  },
+  {
+    "aptNm": "DMC래미안e편한세상",
+    "dealAmount": "158,000",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 84.95
   },
   {
     "aptNm": "유탑트윈팰리스",
@@ -35,6 +168,13 @@
     "area": 84.46
   },
   {
+    "aptNm": "DMC래미안e편한세상",
+    "dealAmount": "158,000",
+    "date": "2026-08-24",
+    "floor": 4,
+    "area": 84.94
+  },
+  {
     "aptNm": "주공5",
     "dealAmount": "9,500",
     "date": "2026-08-23",
@@ -47,6 +187,13 @@
     "date": "2026-08-21",
     "floor": 4,
     "area": 84.99
+  },
+  {
+    "aptNm": "DMC래미안e편한세상",
+    "dealAmount": "163,900",
+    "date": "2026-08-21",
+    "floor": 9,
+    "area": 84.94
   },
   {
     "aptNm": "유탑트윈팰리스",

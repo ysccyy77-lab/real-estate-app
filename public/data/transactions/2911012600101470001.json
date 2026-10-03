@@ -1,5 +1,75 @@
 [
   {
+    "aptNm": "천성리버타운",
+    "dealAmount": "5,200",
+    "date": "2026-10-01",
+    "floor": 12,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "4,700",
+    "date": "2026-09-30",
+    "floor": 12,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "5,300",
+    "date": "2026-09-21",
+    "floor": 10,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "5,700",
+    "date": "2026-09-17",
+    "floor": 14,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "5,000",
+    "date": "2026-09-16",
+    "floor": 11,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "5,400",
+    "date": "2026-09-15",
+    "floor": 17,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "5,600",
+    "date": "2026-09-15",
+    "floor": 10,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "5,800",
+    "date": "2026-09-13",
+    "floor": 13,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "4,400",
+    "date": "2026-09-11",
+    "floor": 13,
+    "area": 49.8
+  },
+  {
+    "aptNm": "동성",
+    "dealAmount": "7,300",
+    "date": "2026-09-05",
+    "floor": 11,
+    "area": 59.24
+  },
+  {
     "aptNm": "동성",
     "dealAmount": "12,400",
     "date": "2026-09-02",
@@ -11,6 +81,13 @@
     "dealAmount": "4,500",
     "date": "2026-09-02",
     "floor": 2,
+    "area": 49.8
+  },
+  {
+    "aptNm": "천성리버타운",
+    "dealAmount": "6,300",
+    "date": "2026-08-28",
+    "floor": 14,
     "area": 49.8
   },
   {

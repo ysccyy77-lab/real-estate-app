@@ -1,10 +1,80 @@
 [
   {
+    "aptNm": "우남퍼스트빌더센트럴",
+    "dealAmount": "80,000",
+    "date": "2026-10-01",
+    "floor": 10,
+    "area": 84.9149
+  },
+  {
+    "aptNm": "이편한세상광주역2단지",
+    "dealAmount": "84,500",
+    "date": "2026-09-22",
+    "floor": 5,
+    "area": 84.9099
+  },
+  {
+    "aptNm": "우남퍼스트빌더센트럴",
+    "dealAmount": "76,700",
+    "date": "2026-09-22",
+    "floor": 2,
+    "area": 84.9149
+  },
+  {
+    "aptNm": "무지개1",
+    "dealAmount": "13,000",
+    "date": "2026-09-17",
+    "floor": 19,
+    "area": 81.17
+  },
+  {
+    "aptNm": "우남퍼스트빌더센트럴",
+    "dealAmount": "79,800",
+    "date": "2026-09-11",
+    "floor": 2,
+    "area": 84.9149
+  },
+  {
+    "aptNm": "무지개1",
+    "dealAmount": "15,000",
+    "date": "2026-09-11",
+    "floor": 11,
+    "area": 84.84
+  },
+  {
+    "aptNm": "DMC우방",
+    "dealAmount": "94,500",
+    "date": "2026-09-10",
+    "floor": 2,
+    "area": 59.91
+  },
+  {
+    "aptNm": "무지개1",
+    "dealAmount": "10,150",
+    "date": "2026-09-08",
+    "floor": 9,
+    "area": 59.85
+  },
+  {
+    "aptNm": "DMC우방",
+    "dealAmount": "97,500",
+    "date": "2026-08-27",
+    "floor": 11,
+    "area": 59.91
+  },
+  {
     "aptNm": "북안범진",
     "dealAmount": "3,800",
     "date": "2026-08-26",
     "floor": 3,
     "area": 60
+  },
+  {
+    "aptNm": "DMC우방",
+    "dealAmount": "107,000",
+    "date": "2026-08-24",
+    "floor": 11,
+    "area": 114.97
   },
   {
     "aptNm": "북안범진",
@@ -19,6 +89,13 @@
     "date": "2026-08-17",
     "floor": 11,
     "area": 84.9788
+  },
+  {
+    "aptNm": "이편한세상광주역2단지",
+    "dealAmount": "62,000",
+    "date": "2026-08-17",
+    "floor": 2,
+    "area": 84.9099
   },
   {
     "aptNm": "이편한세상광주역2단지",

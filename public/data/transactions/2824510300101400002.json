@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "신진",
+    "dealAmount": "11,400",
+    "date": "2026-09-06",
+    "floor": 1,
+    "area": 40.66
+  },
+  {
+    "aptNm": "삼도",
+    "dealAmount": "50,700",
+    "date": "2026-09-05",
+    "floor": 6,
+    "area": 84.67
+  },
+  {
+    "aptNm": "신진",
+    "dealAmount": "10,500",
+    "date": "2026-08-29",
+    "floor": 2,
+    "area": 43.36
+  },
+  {
+    "aptNm": "신진",
+    "dealAmount": "10,600",
+    "date": "2026-08-27",
+    "floor": 1,
+    "area": 40.66
+  },
+  {
+    "aptNm": "신진",
     "dealAmount": "12,500",
     "date": "2026-08-14",
     "floor": 5,

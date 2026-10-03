@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "한양",
+    "dealAmount": "18,100",
+    "date": "2026-09-19",
+    "floor": 5,
+    "area": 58.5
+  },
+  {
     "aptNm": "상아",
     "dealAmount": "7,000",
     "date": "2026-07-08",

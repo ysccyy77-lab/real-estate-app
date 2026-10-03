@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "현대",
+    "dealAmount": "103,000",
+    "date": "2026-09-15",
+    "floor": 3,
+    "area": 126.45
+  },
+  {
+    "aptNm": "강창하이츠",
+    "dealAmount": "11,000",
+    "date": "2026-09-15",
+    "floor": 10,
+    "area": 59.94
+  },
+  {
+    "aptNm": "강창하이츠",
+    "dealAmount": "12,800",
+    "date": "2026-09-05",
+    "floor": 21,
+    "area": 59.94
+  },
+  {
+    "aptNm": "강창하이츠",
+    "dealAmount": "6,700",
+    "date": "2026-08-20",
+    "floor": 5,
+    "area": 29.64
+  },
+  {
+    "aptNm": "현대",
     "dealAmount": "80,380",
     "date": "2026-07-28",
     "floor": 1,

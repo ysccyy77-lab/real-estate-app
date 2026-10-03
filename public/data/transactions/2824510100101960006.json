@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대산",
+    "dealAmount": "34,000",
+    "date": "2026-09-21",
+    "floor": 15,
+    "area": 83.9203
+  },
+  {
+    "aptNm": "대산",
+    "dealAmount": "24,000",
+    "date": "2026-09-11",
+    "floor": 10,
+    "area": 65.0139
+  },
+  {
+    "aptNm": "대산",
     "dealAmount": "21,500",
     "date": "2026-05-27",
     "floor": 8,

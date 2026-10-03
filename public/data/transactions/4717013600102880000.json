@@ -1,10 +1,80 @@
 [
   {
+    "aptNm": "벽산타워빌",
+    "dealAmount": "19,300",
+    "date": "2026-09-28",
+    "floor": 1,
+    "area": 53.48
+  },
+  {
+    "aptNm": "장백",
+    "dealAmount": "6,500",
+    "date": "2026-09-26",
+    "floor": 4,
+    "area": 49.92
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "20,000",
+    "date": "2026-09-23",
+    "floor": 12,
+    "area": 84.994
+  },
+  {
+    "aptNm": "동화",
+    "dealAmount": "30,700",
+    "date": "2026-09-21",
+    "floor": 14,
+    "area": 84.58
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "125,500",
+    "date": "2026-09-19",
+    "floor": 6,
+    "area": 84.96
+  },
+  {
+    "aptNm": "장백",
+    "dealAmount": "6,400",
+    "date": "2026-09-19",
+    "floor": 8,
+    "area": 49.92
+  },
+  {
+    "aptNm": "동화",
+    "dealAmount": "20,500",
+    "date": "2026-09-04",
+    "floor": 8,
+    "area": 59.89
+  },
+  {
+    "aptNm": "동화",
+    "dealAmount": "30,000",
+    "date": "2026-09-03",
+    "floor": 12,
+    "area": 84.58
+  },
+  {
+    "aptNm": "용산데시앙포레",
+    "dealAmount": "190,000",
+    "date": "2026-08-28",
+    "floor": 5,
+    "area": 84.9003
+  },
+  {
     "aptNm": "동화",
     "dealAmount": "17,800",
     "date": "2026-08-27",
     "floor": 5,
     "area": 59.89
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "19,200",
+    "date": "2026-08-26",
+    "floor": 15,
+    "area": 84.994
   },
   {
     "aptNm": "동화",

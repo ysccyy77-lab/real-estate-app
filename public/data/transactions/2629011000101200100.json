@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "일신보라",
+    "dealAmount": "15,500",
+    "date": "2026-09-29",
+    "floor": 18,
+    "area": 59.96
+  },
+  {
+    "aptNm": "일신보라",
     "dealAmount": "14,800",
     "date": "2026-08-16",
     "floor": 3,

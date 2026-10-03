@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "해피투모로우",
+    "dealAmount": "31,500",
+    "date": "2026-09-15",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "현대2",
+    "dealAmount": "25,200",
+    "date": "2026-09-05",
+    "floor": 5,
+    "area": 84.69
+  },
+  {
+    "aptNm": "해피투모로우",
     "dealAmount": "30,500",
     "date": "2026-08-26",
     "floor": 18,

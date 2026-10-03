@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "동아",
+    "dealAmount": "23,200",
+    "date": "2026-09-28",
+    "floor": 6,
+    "area": 84.9
+  },
+  {
     "aptNm": "한신",
     "dealAmount": "11,000",
     "date": "2026-08-28",
     "floor": 14,
     "area": 84.03
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "15,000",
+    "date": "2026-08-22",
+    "floor": 16,
+    "area": 59.4
   },
   {
     "aptNm": "현대2",

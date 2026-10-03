@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼협",
+    "dealAmount": "13,300",
+    "date": "2026-09-07",
+    "floor": 6,
+    "area": 59.88
+  },
+  {
+    "aptNm": "삼협",
     "dealAmount": "17,500",
     "date": "2026-08-05",
     "floor": 16,

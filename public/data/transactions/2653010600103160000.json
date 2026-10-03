@@ -1,6 +1,111 @@
 [
   {
     "aptNm": "송현2주공(316)",
+    "dealAmount": "6,000",
+    "date": "2026-09-29",
+    "floor": 1,
+    "area": 42.48
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "313,000",
+    "date": "2026-09-29",
+    "floor": 14,
+    "area": 76.79
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "305,000",
+    "date": "2026-09-28",
+    "floor": 1,
+    "area": 76.79
+  },
+  {
+    "aptNm": "송현2주공(316)",
+    "dealAmount": "6,500",
+    "date": "2026-09-22",
+    "floor": 5,
+    "area": 42.48
+  },
+  {
+    "aptNm": "창동주공2단지",
+    "dealAmount": "47,000",
+    "date": "2026-09-22",
+    "floor": 5,
+    "area": 36.34
+  },
+  {
+    "aptNm": "원종아이원시티",
+    "dealAmount": "39,000",
+    "date": "2026-09-20",
+    "floor": 9,
+    "area": 75.6
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "317,000",
+    "date": "2026-09-19",
+    "floor": 11,
+    "area": 76.79
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "316,000",
+    "date": "2026-09-19",
+    "floor": 13,
+    "area": 76.79
+  },
+  {
+    "aptNm": "창동주공2단지",
+    "dealAmount": "54,000",
+    "date": "2026-09-19",
+    "floor": 15,
+    "area": 41.3
+  },
+  {
+    "aptNm": "창동주공2단지",
+    "dealAmount": "49,500",
+    "date": "2026-09-19",
+    "floor": 1,
+    "area": 41.3
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "313,000",
+    "date": "2026-09-14",
+    "floor": 11,
+    "area": 76.79
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "302,000",
+    "date": "2026-09-11",
+    "floor": 2,
+    "area": 76.79
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "390,000",
+    "date": "2026-09-09",
+    "floor": 12,
+    "area": 84.43
+  },
+  {
+    "aptNm": "송현2주공(316)",
+    "dealAmount": "6,700",
+    "date": "2026-09-07",
+    "floor": 4,
+    "area": 32.76
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "338,000",
+    "date": "2026-09-05",
+    "floor": 5,
+    "area": 76.79
+  },
+  {
+    "aptNm": "송현2주공(316)",
     "dealAmount": "8,400",
     "date": "2026-08-29",
     "floor": 5,
@@ -14,11 +119,25 @@
     "area": 76.79
   },
   {
+    "aptNm": "은마",
+    "dealAmount": "325,000",
+    "date": "2026-08-28",
+    "floor": 6,
+    "area": 76.79
+  },
+  {
     "aptNm": "송현2주공(316)",
     "dealAmount": "6,950",
     "date": "2026-08-24",
     "floor": 5,
     "area": 42.48
+  },
+  {
+    "aptNm": "은마",
+    "dealAmount": "372,000",
+    "date": "2026-08-20",
+    "floor": 2,
+    "area": 84.43
   },
   {
     "aptNm": "송현2주공(316)",

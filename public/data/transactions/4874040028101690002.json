@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "삼호",
+    "dealAmount": "5,400",
+    "date": "2026-09-22",
+    "floor": 1,
+    "area": 58.7512
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "5,000",
+    "date": "2026-09-18",
+    "floor": 4,
+    "area": 58.7512
+  },
+  {
+    "aptNm": "삼호",
+    "dealAmount": "4,500",
+    "date": "2026-09-18",
+    "floor": 5,
+    "area": 57.5804
+  },
+  {
     "aptNm": "우방타운",
     "dealAmount": "9,500",
     "date": "2026-08-25",

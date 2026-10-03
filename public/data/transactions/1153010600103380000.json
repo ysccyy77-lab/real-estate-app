@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "동부골든",
+    "dealAmount": "48,800",
+    "date": "2026-09-28",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "신영모닝빌아파트",
+    "dealAmount": "8,500",
+    "date": "2026-09-21",
+    "floor": 1,
+    "area": 47.487
+  },
+  {
+    "aptNm": "동부골든",
+    "dealAmount": "55,000",
+    "date": "2026-09-11",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "동부골든",
+    "dealAmount": "60,000",
+    "date": "2026-09-05",
+    "floor": 7,
+    "area": 105.21
+  },
+  {
+    "aptNm": "마젤란",
+    "dealAmount": "78,500",
+    "date": "2026-09-03",
+    "floor": 7,
+    "area": 84.923
+  },
+  {
+    "aptNm": "동부골든",
     "dealAmount": "58,000",
     "date": "2026-09-02",
     "floor": 16,

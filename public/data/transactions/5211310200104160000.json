@@ -1,6 +1,111 @@
 [
   {
     "aptNm": "e편한세상지제역",
+    "dealAmount": "51,500",
+    "date": "2026-09-28",
+    "floor": 6,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "48,000",
+    "date": "2026-09-26",
+    "floor": 18,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "51,900",
+    "date": "2026-09-21",
+    "floor": 7,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "35,000",
+    "date": "2026-09-21",
+    "floor": 13,
+    "area": 59.435
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "10,800",
+    "date": "2026-09-21",
+    "floor": 13,
+    "area": 59.78
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "36,200",
+    "date": "2026-09-19",
+    "floor": 11,
+    "area": 59.435
+  },
+  {
+    "aptNm": "태화(416)",
+    "dealAmount": "22,500",
+    "date": "2026-09-18",
+    "floor": 4,
+    "area": 59.93
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "51,000",
+    "date": "2026-09-17",
+    "floor": 4,
+    "area": 84.052
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "23,900",
+    "date": "2026-09-13",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "47,800",
+    "date": "2026-09-12",
+    "floor": 19,
+    "area": 74.7074
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "21,000",
+    "date": "2026-09-11",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,100",
+    "date": "2026-09-10",
+    "floor": 7,
+    "area": 59.78
+  },
+  {
+    "aptNm": "태화(416)",
+    "dealAmount": "23,750",
+    "date": "2026-09-09",
+    "floor": 4,
+    "area": 59.93
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "37,900",
+    "date": "2026-09-07",
+    "floor": 5,
+    "area": 59.5302
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "50,000",
+    "date": "2026-09-06",
+    "floor": 8,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
     "dealAmount": "47,800",
     "date": "2026-09-03",
     "floor": 20,
@@ -21,11 +126,25 @@
     "area": 84.052
   },
   {
+    "aptNm": "우성",
+    "dealAmount": "13,500",
+    "date": "2026-09-01",
+    "floor": 4,
+    "area": 59.78
+  },
+  {
     "aptNm": "e편한세상지제역",
     "dealAmount": "53,500",
     "date": "2026-08-29",
     "floor": 12,
     "area": 84.8086
+  },
+  {
+    "aptNm": "중흥에스클래스프라디움",
+    "dealAmount": "41,800",
+    "date": "2026-08-29",
+    "floor": 17,
+    "area": 93.4652
   },
   {
     "aptNm": "e편한세상지제역",

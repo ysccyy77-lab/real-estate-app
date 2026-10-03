@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신한",
+    "dealAmount": "10,200",
+    "date": "2026-09-13",
+    "floor": 4,
+    "area": 59.946
+  },
+  {
+    "aptNm": "신한",
+    "dealAmount": "9,200",
+    "date": "2026-09-07",
+    "floor": 2,
+    "area": 59.946
+  },
+  {
+    "aptNm": "신한",
     "dealAmount": "8,700",
     "date": "2026-08-22",
     "floor": 3,

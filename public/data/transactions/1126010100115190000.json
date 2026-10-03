@@ -1,10 +1,87 @@
 [
   {
     "aptNm": "거제센트럴자이",
+    "dealAmount": "81,000",
+    "date": "2026-09-19",
+    "floor": 4,
+    "area": 84.995
+  },
+  {
+    "aptNm": "거제센트럴자이",
+    "dealAmount": "67,900",
+    "date": "2026-09-16",
+    "floor": 9,
+    "area": 59.9635
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "59,000",
+    "date": "2026-09-14",
+    "floor": 8,
+    "area": 59.91
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "59,000",
+    "date": "2026-09-09",
+    "floor": 6,
+    "area": 59.91
+  },
+  {
+    "aptNm": "옥포제림뉴타운",
+    "dealAmount": "10,700",
+    "date": "2026-09-08",
+    "floor": 3,
+    "area": 84.87
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "59,800",
+    "date": "2026-09-08",
+    "floor": 10,
+    "area": 59.91
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "70,500",
+    "date": "2026-09-07",
+    "floor": 2,
+    "area": 103.11
+  },
+  {
+    "aptNm": "옥포제림뉴타운",
+    "dealAmount": "13,000",
+    "date": "2026-09-04",
+    "floor": 4,
+    "area": 84.87
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "59,000",
+    "date": "2026-09-04",
+    "floor": 7,
+    "area": 59.91
+  },
+  {
+    "aptNm": "거제센트럴자이",
+    "dealAmount": "67,000",
+    "date": "2026-09-02",
+    "floor": 15,
+    "area": 59.9635
+  },
+  {
+    "aptNm": "거제센트럴자이",
     "dealAmount": "28,000",
     "date": "2026-08-29",
     "floor": 10,
     "area": 39.4913
+  },
+  {
+    "aptNm": "옥포제림뉴타운",
+    "dealAmount": "6,800",
+    "date": "2026-08-28",
+    "floor": 11,
+    "area": 59.84
   },
   {
     "aptNm": "거제센트럴자이",
@@ -14,11 +91,39 @@
     "area": 59.9635
   },
   {
+    "aptNm": "옥포제림뉴타운",
+    "dealAmount": "7,550",
+    "date": "2026-08-26",
+    "floor": 15,
+    "area": 59.84
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "60,000",
+    "date": "2026-08-25",
+    "floor": 12,
+    "area": 59.91
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "60,000",
+    "date": "2026-08-24",
+    "floor": 11,
+    "area": 59.91
+  },
+  {
     "aptNm": "거제센트럴자이",
     "dealAmount": "80,000",
     "date": "2026-08-22",
     "floor": 6,
     "area": 84.9542
+  },
+  {
+    "aptNm": "옥포제림뉴타운",
+    "dealAmount": "6,500",
+    "date": "2026-08-21",
+    "floor": 13,
+    "area": 59.84
   },
   {
     "aptNm": "거제센트럴자이",

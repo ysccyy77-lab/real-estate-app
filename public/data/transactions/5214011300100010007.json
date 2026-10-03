@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "개금우드빌",
+    "dealAmount": "9,800",
+    "date": "2026-09-05",
+    "floor": 5,
+    "area": 44.87
+  },
+  {
+    "aptNm": "개금우드빌",
+    "dealAmount": "8,600",
+    "date": "2026-08-29",
+    "floor": 6,
+    "area": 44.87
+  },
+  {
+    "aptNm": "개금우드빌",
     "dealAmount": "9,700",
     "date": "2026-08-22",
     "floor": 20,

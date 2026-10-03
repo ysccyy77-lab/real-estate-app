@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "부송우남",
+    "dealAmount": "5,500",
+    "date": "2026-09-21",
+    "floor": 5,
+    "area": 60
+  },
+  {
+    "aptNm": "부송우남",
+    "dealAmount": "7,750",
+    "date": "2026-09-21",
+    "floor": 19,
+    "area": 60
+  },
+  {
+    "aptNm": "솔리채",
+    "dealAmount": "5,000",
+    "date": "2026-09-16",
+    "floor": 6,
+    "area": 16.01
+  },
+  {
+    "aptNm": "부송우남",
+    "dealAmount": "8,500",
+    "date": "2026-09-08",
+    "floor": 17,
+    "area": 60
+  },
+  {
+    "aptNm": "부송우남",
+    "dealAmount": "4,300",
+    "date": "2026-09-07",
+    "floor": 10,
+    "area": 49.77
+  },
+  {
+    "aptNm": "부송우남",
     "dealAmount": "9,000",
     "date": "2026-08-10",
     "floor": 3,

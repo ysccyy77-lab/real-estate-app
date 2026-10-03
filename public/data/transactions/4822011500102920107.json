@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동신2차",
+    "dealAmount": "9,500",
+    "date": "2026-09-14",
+    "floor": 7,
+    "area": 56.21
+  },
+  {
+    "aptNm": "동신2차",
     "dealAmount": "8,700",
     "date": "2026-08-20",
     "floor": 12,

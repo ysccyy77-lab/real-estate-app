@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "구영1차우미린",
+    "dealAmount": "42,200",
+    "date": "2026-09-28",
+    "floor": 16,
+    "area": 67.925
+  },
+  {
+    "aptNm": "삼익3차",
+    "dealAmount": "54,000",
+    "date": "2026-09-08",
+    "floor": 5,
+    "area": 109.35
+  },
+  {
+    "aptNm": "삼익3차",
+    "dealAmount": "29,800",
+    "date": "2026-09-07",
+    "floor": 8,
+    "area": 56.67
+  },
+  {
+    "aptNm": "구영1차우미린",
+    "dealAmount": "43,300",
+    "date": "2026-09-05",
+    "floor": 10,
+    "area": 67.925
+  },
+  {
+    "aptNm": "삼익3차",
+    "dealAmount": "39,700",
+    "date": "2026-09-04",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
     "aptNm": "삼익3차",
     "dealAmount": "43,000",
     "date": "2026-09-03",

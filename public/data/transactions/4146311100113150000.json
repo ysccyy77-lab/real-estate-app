@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "우남1",
+    "dealAmount": "37,000",
+    "date": "2026-09-28",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "힉스유타워",
+    "dealAmount": "38,000",
+    "date": "2026-09-21",
+    "floor": 21,
+    "area": 59.9
+  },
+  {
+    "aptNm": "삼정코아",
+    "dealAmount": "32,800",
+    "date": "2026-09-14",
+    "floor": 14,
+    "area": 59.9389
+  },
+  {
+    "aptNm": "우남1",
+    "dealAmount": "47,750",
+    "date": "2026-09-11",
+    "floor": 8,
+    "area": 59.75
+  },
+  {
+    "aptNm": "삼정코아",
+    "dealAmount": "30,500",
+    "date": "2026-08-30",
+    "floor": 11,
+    "area": 59.9898
+  },
+  {
     "aptNm": "삼정코아",
     "dealAmount": "21,000",
     "date": "2026-08-26",

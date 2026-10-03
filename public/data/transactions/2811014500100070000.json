@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "동우강변타워2",
+    "dealAmount": "8,100",
+    "date": "2026-09-24",
+    "floor": 10,
+    "area": 84.92
+  },
+  {
+    "aptNm": "동아그린",
+    "dealAmount": "8,900",
+    "date": "2026-09-21",
+    "floor": 4,
+    "area": 59.89
+  },
+  {
+    "aptNm": "THE-푸른",
+    "dealAmount": "12,700",
+    "date": "2026-09-19",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "동아그린",
+    "dealAmount": "11,000",
+    "date": "2026-09-15",
+    "floor": 11,
+    "area": 59.89
+  },
+  {
+    "aptNm": "THE-푸른",
+    "dealAmount": "9,900",
+    "date": "2026-09-14",
+    "floor": 15,
+    "area": 49.62
+  },
+  {
+    "aptNm": "THE-푸른",
+    "dealAmount": "10,000",
+    "date": "2026-09-08",
+    "floor": 12,
+    "area": 59.99
+  },
+  {
+    "aptNm": "장미1",
+    "dealAmount": "347,500",
+    "date": "2026-08-29",
+    "floor": 13,
+    "area": 82.45
+  },
+  {
     "aptNm": "골든캐슬타워",
     "dealAmount": "7,500",
     "date": "2026-08-25",
@@ -28,6 +77,13 @@
     "area": 59.94
   },
   {
+    "aptNm": "장미1",
+    "dealAmount": "305,000",
+    "date": "2026-08-19",
+    "floor": 4,
+    "area": 71.2
+  },
+  {
     "aptNm": "골든캐슬타워",
     "dealAmount": "7,500",
     "date": "2026-08-15",
@@ -40,6 +96,13 @@
     "date": "2026-08-14",
     "floor": 11,
     "area": 19.26
+  },
+  {
+    "aptNm": "장미1",
+    "dealAmount": "300,000",
+    "date": "2026-08-12",
+    "floor": 7,
+    "area": 71.2
   },
   {
     "aptNm": "골든캐슬타워",
@@ -68,6 +131,13 @@
     "date": "2026-07-31",
     "floor": 14,
     "area": 71.2
+  },
+  {
+    "aptNm": "장미1",
+    "dealAmount": "335,000",
+    "date": "2026-07-25",
+    "floor": 8,
+    "area": 82.45
   },
   {
     "aptNm": "골든캐슬타워",

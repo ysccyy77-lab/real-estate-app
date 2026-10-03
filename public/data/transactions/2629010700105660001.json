@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "이화한라동아",
+    "dealAmount": "6,500",
+    "date": "2026-09-15",
+    "floor": 5,
+    "area": 59.76
+  },
+  {
+    "aptNm": "부천극동",
+    "dealAmount": "29,000",
+    "date": "2026-09-14",
+    "floor": 9,
+    "area": 69.85
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "16,300",
+    "date": "2026-09-05",
+    "floor": 2,
+    "area": 77.96
+  },
+  {
     "aptNm": "부천극동",
     "dealAmount": "26,000",
     "date": "2026-08-14",

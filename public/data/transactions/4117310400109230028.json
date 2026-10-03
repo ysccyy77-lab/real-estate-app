@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신도브래뉴",
+    "dealAmount": "46,126",
+    "date": "2026-08-31",
+    "floor": 14,
+    "area": 84.99
+  },
+  {
+    "aptNm": "신도브래뉴",
+    "dealAmount": "45,000",
+    "date": "2026-08-27",
+    "floor": 2,
+    "area": 66.67
+  },
+  {
+    "aptNm": "신도브래뉴",
     "dealAmount": "49,800",
     "date": "2026-07-20",
     "floor": 14,

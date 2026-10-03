@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "삼봉유림",
+    "dealAmount": "6,900",
+    "date": "2026-09-20",
+    "floor": 11,
+    "area": 59.81
+  },
+  {
+    "aptNm": "한라주공4",
+    "dealAmount": "37,000",
+    "date": "2026-09-18",
+    "floor": 7,
+    "area": 41.85
+  },
+  {
+    "aptNm": "한라주공4",
+    "dealAmount": "56,500",
+    "date": "2026-09-16",
+    "floor": 7,
+    "area": 51.66
+  },
+  {
+    "aptNm": "한라주공4",
+    "dealAmount": "53,500",
+    "date": "2026-09-07",
+    "floor": 5,
+    "area": 51.66
+  },
+  {
+    "aptNm": "한라주공4",
+    "dealAmount": "42,800",
+    "date": "2026-09-03",
+    "floor": 11,
+    "area": 41.85
+  },
+  {
+    "aptNm": "삼봉유림",
     "dealAmount": "8,800",
     "date": "2026-09-01",
     "floor": 11,

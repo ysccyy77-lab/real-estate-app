@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "중앙",
+    "dealAmount": "5,000",
+    "date": "2026-09-17",
+    "floor": 8,
+    "area": 47.36
+  },
+  {
+    "aptNm": "중앙",
+    "dealAmount": "2,700",
+    "date": "2026-09-17",
+    "floor": 3,
+    "area": 39.947
+  },
+  {
+    "aptNm": "중앙",
     "dealAmount": "4,800",
     "date": "2026-08-12",
     "floor": 12,

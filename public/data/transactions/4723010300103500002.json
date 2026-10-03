@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "청구타운2차단지",
+    "dealAmount": "6,900",
+    "date": "2026-09-14",
+    "floor": 14,
+    "area": 59.96
+  },
+  {
+    "aptNm": "신안파크",
+    "dealAmount": "39,000",
+    "date": "2026-09-02",
+    "floor": 1,
+    "area": 56.78
+  },
+  {
+    "aptNm": "신안파크",
+    "dealAmount": "34,500",
+    "date": "2026-08-25",
+    "floor": 2,
+    "area": 54.5
+  },
+  {
     "aptNm": "신안파크",
     "dealAmount": "32,200",
     "date": "2026-06-04",

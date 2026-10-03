@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서강",
+    "dealAmount": "22,300",
+    "date": "2026-09-28",
+    "floor": 4,
+    "area": 59.73
+  },
+  {
+    "aptNm": "서강",
     "dealAmount": "16,700",
     "date": "2026-05-07",
     "floor": 1,

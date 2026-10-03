@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "동신2단지",
+    "dealAmount": "28,000",
+    "date": "2026-09-28",
+    "floor": 8,
+    "area": 69.14
+  },
+  {
+    "aptNm": "서일용궁맨션",
+    "dealAmount": "10,400",
+    "date": "2026-09-21",
+    "floor": 6,
+    "area": 67.95
+  },
+  {
+    "aptNm": "동신2단지",
+    "dealAmount": "27,200",
+    "date": "2026-09-16",
+    "floor": 11,
+    "area": 48.23
+  },
+  {
+    "aptNm": "동신2단지",
+    "dealAmount": "22,800",
+    "date": "2026-09-15",
+    "floor": 11,
+    "area": 43.02
+  },
+  {
+    "aptNm": "동신2단지",
+    "dealAmount": "33,000",
+    "date": "2026-09-12",
+    "floor": 14,
+    "area": 59.66
+  },
+  {
+    "aptNm": "동신2단지",
+    "dealAmount": "47,000",
+    "date": "2026-09-07",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "동신2단지",
+    "dealAmount": "24,000",
+    "date": "2026-09-07",
+    "floor": 1,
+    "area": 48.23
+  },
+  {
+    "aptNm": "동신2단지",
     "dealAmount": "24,000",
     "date": "2026-08-24",
     "floor": 2,

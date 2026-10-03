@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "그린카운티1",
+    "dealAmount": "23,500",
+    "date": "2026-09-22",
+    "floor": 6,
+    "area": 83.9989
+  },
+  {
+    "aptNm": "동삼빌라트",
+    "dealAmount": "75,800",
+    "date": "2026-09-14",
+    "floor": 8,
+    "area": 81.16
+  },
+  {
+    "aptNm": "직산산호",
+    "dealAmount": "4,000",
+    "date": "2026-09-09",
+    "floor": 9,
+    "area": 49.8
+  },
+  {
     "aptNm": "직산산호",
     "dealAmount": "3,900",
     "date": "2026-08-25",

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "창신영천타운",
+    "dealAmount": "8,500",
+    "date": "2026-09-14",
+    "floor": 15,
+    "area": 59.34
+  },
+  {
+    "aptNm": "창신영천타운",
+    "dealAmount": "8,300",
+    "date": "2026-09-13",
+    "floor": 6,
+    "area": 59.34
+  },
+  {
+    "aptNm": "창신영천타운",
     "dealAmount": "7,900",
     "date": "2026-09-02",
     "floor": 14,

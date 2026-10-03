@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "명성강변",
+    "dealAmount": "10,500",
+    "date": "2026-10-01",
+    "floor": 11,
+    "area": 58.95
+  },
+  {
+    "aptNm": "명성강변",
+    "dealAmount": "10,000",
+    "date": "2026-09-10",
+    "floor": 8,
+    "area": 60
+  },
+  {
+    "aptNm": "명성강변",
+    "dealAmount": "8,800",
+    "date": "2026-09-08",
+    "floor": 12,
+    "area": 54.3
+  },
+  {
     "aptNm": "유원",
     "dealAmount": "27,800",
     "date": "2026-07-29",

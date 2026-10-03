@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "주공(2)",
+    "dealAmount": "6,700",
+    "date": "2026-09-17",
+    "floor": 2,
+    "area": 39.3
+  },
+  {
+    "aptNm": "주공(2)",
     "dealAmount": "6,900",
     "date": "2026-08-22",
     "floor": 2,
     "area": 39.6
+  },
+  {
+    "aptNm": "삼현팰리채",
+    "dealAmount": "75,000",
+    "date": "2026-08-18",
+    "floor": 5,
+    "area": 84.62
   },
   {
     "aptNm": "주공(2)",

@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "원일아름",
+    "dealAmount": "63,900",
+    "date": "2026-09-27",
+    "floor": 20,
+    "area": 59.81
+  },
+  {
+    "aptNm": "원일아름",
+    "dealAmount": "70,000",
+    "date": "2026-09-18",
+    "floor": 18,
+    "area": 84.75
+  },
+  {
+    "aptNm": "원일아름",
+    "dealAmount": "62,300",
+    "date": "2026-09-07",
+    "floor": 9,
+    "area": 59.81
+  },
+  {
+    "aptNm": "원일아름",
+    "dealAmount": "63,000",
+    "date": "2026-08-24",
+    "floor": 20,
+    "area": 59.81
+  },
+  {
+    "aptNm": "원일아름",
     "dealAmount": "25,600",
     "date": "2026-08-11",
     "floor": 8,

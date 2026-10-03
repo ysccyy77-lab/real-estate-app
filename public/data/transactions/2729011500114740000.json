@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "SKVIEW",
+    "dealAmount": "40,000",
+    "date": "2026-09-28",
+    "floor": 20,
+    "area": 84.3198
+  },
+  {
+    "aptNm": "제천자이더스카이",
+    "dealAmount": "37,900",
+    "date": "2026-09-19",
+    "floor": 3,
+    "area": 79.718
+  },
+  {
+    "aptNm": "SKVIEW",
+    "dealAmount": "38,500",
+    "date": "2026-09-04",
+    "floor": 14,
+    "area": 84.3198
+  },
+  {
+    "aptNm": "대림경동아파트",
+    "dealAmount": "150,000",
+    "date": "2026-08-25",
+    "floor": 7,
+    "area": 131.4
+  },
+  {
+    "aptNm": "풍년마을(건영)",
+    "dealAmount": "30,000",
+    "date": "2026-08-24",
+    "floor": 11,
+    "area": 84.39
+  },
+  {
+    "aptNm": "SKVIEW",
+    "dealAmount": "37,500",
+    "date": "2026-08-21",
+    "floor": 2,
+    "area": 84.3198
+  },
+  {
     "aptNm": "제천자이더스카이",
     "dealAmount": "40,000",
     "date": "2026-08-19",

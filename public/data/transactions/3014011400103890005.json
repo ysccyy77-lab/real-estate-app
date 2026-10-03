@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "파라곤",
+    "dealAmount": "42,000",
+    "date": "2026-09-12",
+    "floor": 2,
+    "area": 118.96
+  },
+  {
+    "aptNm": "파라곤",
     "dealAmount": "37,000",
     "date": "2026-08-24",
     "floor": 1,

@@ -1,6 +1,90 @@
 [
   {
     "aptNm": "주공(1단지)",
+    "dealAmount": "51,000",
+    "date": "2026-09-28",
+    "floor": 11,
+    "area": 67.43
+  },
+  {
+    "aptNm": "원메이저푸르지오",
+    "dealAmount": "45,000",
+    "date": "2026-09-28",
+    "floor": 6,
+    "area": 84.9639
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "50,000",
+    "date": "2026-09-22",
+    "floor": 4,
+    "area": 58.65
+  },
+  {
+    "aptNm": "동백",
+    "dealAmount": "55,400",
+    "date": "2026-09-19",
+    "floor": 13,
+    "area": 84.94
+  },
+  {
+    "aptNm": "원메이저푸르지오",
+    "dealAmount": "41,000",
+    "date": "2026-09-17",
+    "floor": 9,
+    "area": 74.9699
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "27,500",
+    "date": "2026-09-16",
+    "floor": 2,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "52,000",
+    "date": "2026-09-12",
+    "floor": 2,
+    "area": 66.6
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "36,000",
+    "date": "2026-09-11",
+    "floor": 6,
+    "area": 41.85
+  },
+  {
+    "aptNm": "영풍(849)",
+    "dealAmount": "26,800",
+    "date": "2026-09-09",
+    "floor": 6,
+    "area": 59.86
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "51,800",
+    "date": "2026-09-08",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "31,000",
+    "date": "2026-09-08",
+    "floor": 9,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "30,000",
+    "date": "2026-09-05",
+    "floor": 5,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
     "dealAmount": "30,000",
     "date": "2026-09-03",
     "floor": 6,
@@ -9,9 +93,37 @@
   {
     "aptNm": "주공(1단지)",
     "dealAmount": "30,000",
+    "date": "2026-09-03",
+    "floor": 10,
+    "area": 41.85
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "54,900",
+    "date": "2026-09-03",
+    "floor": 5,
+    "area": 58.65
+  },
+  {
+    "aptNm": "동백",
+    "dealAmount": "58,000",
+    "date": "2026-09-01",
+    "floor": 19,
+    "area": 84.94
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "30,000",
     "date": "2026-08-31",
     "floor": 10,
     "area": 42.66
+  },
+  {
+    "aptNm": "주공(1단지)",
+    "dealAmount": "25,000",
+    "date": "2026-08-31",
+    "floor": 1,
+    "area": 41.85
   },
   {
     "aptNm": "주공(1단지)",

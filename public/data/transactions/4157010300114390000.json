@@ -1,5 +1,68 @@
 [
   {
+    "aptNm": "가람마을",
+    "dealAmount": "11,000",
+    "date": "2026-09-22",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "벽산2",
+    "dealAmount": "56,000",
+    "date": "2026-09-22",
+    "floor": 20,
+    "area": 101.78
+  },
+  {
+    "aptNm": "벽산2",
+    "dealAmount": "29,500",
+    "date": "2026-09-17",
+    "floor": 10,
+    "area": 59.73
+  },
+  {
+    "aptNm": "전원마을(월드5차3단지)",
+    "dealAmount": "37,000",
+    "date": "2026-09-16",
+    "floor": 6,
+    "area": 134.95
+  },
+  {
+    "aptNm": "가람마을",
+    "dealAmount": "10,700",
+    "date": "2026-09-15",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "가람마을",
+    "dealAmount": "15,500",
+    "date": "2026-09-12",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "가람마을",
+    "dealAmount": "10,000",
+    "date": "2026-09-07",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "벽산2",
+    "dealAmount": "62,000",
+    "date": "2026-09-07",
+    "floor": 4,
+    "area": 164.74
+  },
+  {
+    "aptNm": "벽산2",
+    "dealAmount": "33,000",
+    "date": "2026-09-05",
+    "floor": 20,
+    "area": 59.73
+  },
+  {
     "aptNm": "전원마을(월드5차3단지)",
     "dealAmount": "32,000",
     "date": "2026-08-25",

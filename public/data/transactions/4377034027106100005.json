@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "기흥윗마을",
+    "dealAmount": "7,600",
+    "date": "2026-09-15",
+    "floor": 4,
+    "area": 59.9646
+  },
+  {
+    "aptNm": "더휴인Ⅴ",
+    "dealAmount": "13,700",
+    "date": "2026-09-07",
+    "floor": 8,
+    "area": 59.681
+  },
+  {
+    "aptNm": "기흥윗마을",
     "dealAmount": "7,800",
     "date": "2026-06-17",
     "floor": 4,

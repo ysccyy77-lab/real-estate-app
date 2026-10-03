@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "대왕암엘크루",
+    "dealAmount": "32,700",
+    "date": "2026-09-16",
+    "floor": 21,
+    "area": 74.7
+  },
+  {
+    "aptNm": "대왕암엘크루",
+    "dealAmount": "28,000",
+    "date": "2026-09-05",
+    "floor": 9,
+    "area": 59.6
+  },
+  {
+    "aptNm": "대왕암엘크루",
+    "dealAmount": "31,800",
+    "date": "2026-09-04",
+    "floor": 25,
+    "area": 74.7
+  },
+  {
+    "aptNm": "대왕암엘크루",
+    "dealAmount": "38,000",
+    "date": "2026-09-04",
+    "floor": 13,
+    "area": 84.53
+  },
+  {
     "aptNm": "동기포에버",
     "dealAmount": "21,000",
     "date": "2026-08-31",
     "floor": 5,
     "area": 84.9458
+  },
+  {
+    "aptNm": "스타파크",
+    "dealAmount": "82,000",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 55.34
   },
   {
     "aptNm": "풍산",

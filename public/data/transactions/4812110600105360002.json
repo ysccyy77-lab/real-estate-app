@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "구포전원타운",
+    "dealAmount": "5,000",
+    "date": "2026-09-27",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "화원한빛타운",
+    "dealAmount": "11,200",
+    "date": "2026-09-07",
+    "floor": 9,
+    "area": 59.535
+  },
+  {
+    "aptNm": "구포전원타운",
     "dealAmount": "3,250",
     "date": "2026-08-05",
     "floor": 4,

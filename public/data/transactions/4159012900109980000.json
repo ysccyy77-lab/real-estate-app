@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "두산위브",
+    "dealAmount": "139,400",
+    "date": "2026-09-12",
+    "floor": 6,
+    "area": 59.91
+  },
+  {
+    "aptNm": "신촌헤리센트",
+    "dealAmount": "24,000",
+    "date": "2026-08-31",
+    "floor": 6,
+    "area": 14.66
+  },
+  {
+    "aptNm": "두산위브",
     "dealAmount": "141,500",
     "date": "2026-08-23",
     "floor": 2,

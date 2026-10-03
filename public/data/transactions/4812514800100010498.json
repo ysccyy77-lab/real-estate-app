@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우방",
+    "dealAmount": "21,600",
+    "date": "2026-09-04",
+    "floor": 18,
+    "area": 69.99
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "22,500",
+    "date": "2026-09-03",
+    "floor": 15,
+    "area": 84.96
+  },
+  {
+    "aptNm": "우방",
     "dealAmount": "19,150",
     "date": "2026-05-07",
     "floor": 15,

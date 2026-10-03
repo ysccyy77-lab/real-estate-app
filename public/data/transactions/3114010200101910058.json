@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성도",
+    "dealAmount": "29,400",
+    "date": "2026-09-10",
+    "floor": 1,
+    "area": 84.6
+  },
+  {
+    "aptNm": "성도",
     "dealAmount": "40,000",
     "date": "2026-08-22",
     "floor": 13,

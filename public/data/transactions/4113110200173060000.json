@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "선경태평",
+    "dealAmount": "28,509",
+    "date": "2026-09-07",
+    "floor": 5,
+    "area": 35.51
+  },
+  {
+    "aptNm": "선경태평",
+    "dealAmount": "27,000",
+    "date": "2026-09-01",
+    "floor": 1,
+    "area": 35.51
+  },
+  {
+    "aptNm": "선경태평",
+    "dealAmount": "26,000",
+    "date": "2026-08-24",
+    "floor": 2,
+    "area": 35.51
+  },
+  {
+    "aptNm": "선경태평",
     "dealAmount": "36,959",
     "date": "2026-07-28",
     "floor": 1,
@@ -11,6 +32,13 @@
     "dealAmount": "25,800",
     "date": "2026-07-21",
     "floor": 4,
+    "area": 35.51
+  },
+  {
+    "aptNm": "선경태평",
+    "dealAmount": "24,500",
+    "date": "2026-06-22",
+    "floor": 2,
     "area": 35.51
   },
   {

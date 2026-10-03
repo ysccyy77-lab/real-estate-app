@@ -1,10 +1,185 @@
 [
   {
+    "aptNm": "하이젠시티",
+    "dealAmount": "9,000",
+    "date": "2026-10-01",
+    "floor": 5,
+    "area": 42.85
+  },
+  {
+    "aptNm": "주공3",
+    "dealAmount": "7,700",
+    "date": "2026-09-28",
+    "floor": 14,
+    "area": 39.87
+  },
+  {
+    "aptNm": "대림e-편한세상",
+    "dealAmount": "32,500",
+    "date": "2026-09-22",
+    "floor": 4,
+    "area": 79.5108
+  },
+  {
+    "aptNm": "불당아이파크",
+    "dealAmount": "45,000",
+    "date": "2026-09-22",
+    "floor": 8,
+    "area": 84.95
+  },
+  {
+    "aptNm": "강촌마을(동아)",
+    "dealAmount": "67,000",
+    "date": "2026-09-20",
+    "floor": 16,
+    "area": 84.96
+  },
+  {
+    "aptNm": "강촌마을(동아)",
+    "dealAmount": "56,000",
+    "date": "2026-09-19",
+    "floor": 11,
+    "area": 84.87
+  },
+  {
+    "aptNm": "학익SKVIEW",
+    "dealAmount": "43,400",
+    "date": "2026-09-19",
+    "floor": 5,
+    "area": 59.9482
+  },
+  {
+    "aptNm": "대림e-편한세상",
+    "dealAmount": "31,900",
+    "date": "2026-09-18",
+    "floor": 15,
+    "area": 79.5108
+  },
+  {
+    "aptNm": "우국리더스빌",
+    "dealAmount": "62,000",
+    "date": "2026-09-17",
+    "floor": 9,
+    "area": 59.96
+  },
+  {
+    "aptNm": "불당아이파크",
+    "dealAmount": "40,300",
+    "date": "2026-09-16",
+    "floor": 8,
+    "area": 84.95
+  },
+  {
+    "aptNm": "학익SKVIEW",
+    "dealAmount": "45,300",
+    "date": "2026-09-14",
+    "floor": 11,
+    "area": 59.9482
+  },
+  {
+    "aptNm": "강촌마을(동아)",
+    "dealAmount": "56,000",
+    "date": "2026-09-13",
+    "floor": 2,
+    "area": 84.87
+  },
+  {
+    "aptNm": "강촌마을(동아)",
+    "dealAmount": "51,500",
+    "date": "2026-09-13",
+    "floor": 1,
+    "area": 84.87
+  },
+  {
+    "aptNm": "교동청솔2차",
+    "dealAmount": "11,700",
+    "date": "2026-09-12",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
+    "aptNm": "교동청솔2차",
+    "dealAmount": "10,500",
+    "date": "2026-09-10",
+    "floor": 14,
+    "area": 59.85
+  },
+  {
+    "aptNm": "학익SKVIEW",
+    "dealAmount": "45,700",
+    "date": "2026-09-10",
+    "floor": 15,
+    "area": 59.9482
+  },
+  {
+    "aptNm": "학익SKVIEW",
+    "dealAmount": "46,700",
+    "date": "2026-09-10",
+    "floor": 28,
+    "area": 59.9482
+  },
+  {
+    "aptNm": "불당아이파크",
+    "dealAmount": "45,500",
+    "date": "2026-09-09",
+    "floor": 12,
+    "area": 84.95
+  },
+  {
+    "aptNm": "수광엘리시움",
+    "dealAmount": "9,500",
+    "date": "2026-09-08",
+    "floor": 8,
+    "area": 39.99
+  },
+  {
+    "aptNm": "의정부민락푸르지오",
+    "dealAmount": "44,500",
+    "date": "2026-09-05",
+    "floor": 10,
+    "area": 84.86
+  },
+  {
+    "aptNm": "수광엘리시움",
+    "dealAmount": "10,000",
+    "date": "2026-09-03",
+    "floor": 10,
+    "area": 39.99
+  },
+  {
+    "aptNm": "역삼래미안",
+    "dealAmount": "276,500",
+    "date": "2026-09-02",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
+    "aptNm": "강촌마을(동아)",
+    "dealAmount": "67,500",
+    "date": "2026-09-01",
+    "floor": 10,
+    "area": 84.96
+  },
+  {
     "aptNm": "세종마루투",
     "dealAmount": "9,000",
     "date": "2026-08-31",
     "floor": 6,
     "area": 28.127
+  },
+  {
+    "aptNm": "상우3차",
+    "dealAmount": "54,900",
+    "date": "2026-08-31",
+    "floor": 5,
+    "area": 82.2
+  },
+  {
+    "aptNm": "대림e-편한세상",
+    "dealAmount": "32,000",
+    "date": "2026-08-31",
+    "floor": 9,
+    "area": 79.5108
   },
   {
     "aptNm": "불당아이파크",
@@ -19,6 +194,13 @@
     "date": "2026-08-29",
     "floor": 10,
     "area": 84.95
+  },
+  {
+    "aptNm": "창현두산1단지아파트",
+    "dealAmount": "31,000",
+    "date": "2026-08-29",
+    "floor": 4,
+    "area": 99.69
   },
   {
     "aptNm": "대림e-편한세상",
@@ -49,6 +231,13 @@
     "area": 39.87
   },
   {
+    "aptNm": "대림e-편한세상",
+    "dealAmount": "33,000",
+    "date": "2026-08-25",
+    "floor": 5,
+    "area": 79.369
+  },
+  {
     "aptNm": "의정부민락푸르지오",
     "dealAmount": "43,300",
     "date": "2026-08-22",
@@ -68,6 +257,13 @@
     "date": "2026-08-21",
     "floor": 6,
     "area": 84.95
+  },
+  {
+    "aptNm": "하이젠시티",
+    "dealAmount": "7,150",
+    "date": "2026-08-21",
+    "floor": 6,
+    "area": 33.3
   },
   {
     "aptNm": "교동청솔2차",
@@ -131,6 +327,13 @@
     "date": "2026-08-08",
     "floor": 8,
     "area": 79.5108
+  },
+  {
+    "aptNm": "한양",
+    "dealAmount": "84,000",
+    "date": "2026-08-08",
+    "floor": 4,
+    "area": 86.62
   },
   {
     "aptNm": "불당아이파크",

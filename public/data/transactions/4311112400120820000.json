@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "소라",
+    "dealAmount": "11,900",
+    "date": "2026-09-21",
+    "floor": 4,
+    "area": 59.7
+  },
+  {
+    "aptNm": "힐스테이트두정역",
+    "dealAmount": "55,000",
+    "date": "2026-09-19",
+    "floor": 6,
+    "area": 84.9267
+  },
+  {
+    "aptNm": "소라",
     "dealAmount": "15,720",
     "date": "2026-08-29",
     "floor": 7,

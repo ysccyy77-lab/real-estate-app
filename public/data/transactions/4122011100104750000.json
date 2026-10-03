@@ -1,6 +1,69 @@
 [
   {
     "aptNm": "부영7",
+    "dealAmount": "13,150",
+    "date": "2026-09-30",
+    "floor": 17,
+    "area": 59.987
+  },
+  {
+    "aptNm": "부영7",
+    "dealAmount": "12,000",
+    "date": "2026-09-21",
+    "floor": 16,
+    "area": 59.987
+  },
+  {
+    "aptNm": "동부",
+    "dealAmount": "21,500",
+    "date": "2026-09-20",
+    "floor": 2,
+    "area": 99.63
+  },
+  {
+    "aptNm": "부영7",
+    "dealAmount": "13,400",
+    "date": "2026-09-18",
+    "floor": 6,
+    "area": 59.987
+  },
+  {
+    "aptNm": "증포동한솔솔파크",
+    "dealAmount": "25,000",
+    "date": "2026-09-12",
+    "floor": 4,
+    "area": 84.52
+  },
+  {
+    "aptNm": "부영7",
+    "dealAmount": "10,400",
+    "date": "2026-09-06",
+    "floor": 10,
+    "area": 59.987
+  },
+  {
+    "aptNm": "증포동한솔솔파크",
+    "dealAmount": "26,000",
+    "date": "2026-09-05",
+    "floor": 7,
+    "area": 84.83
+  },
+  {
+    "aptNm": "부영7",
+    "dealAmount": "10,950",
+    "date": "2026-09-03",
+    "floor": 5,
+    "area": 59.987
+  },
+  {
+    "aptNm": "증포동한솔솔파크",
+    "dealAmount": "25,500",
+    "date": "2026-08-28",
+    "floor": 8,
+    "area": 84.83
+  },
+  {
+    "aptNm": "부영7",
     "dealAmount": "13,400",
     "date": "2026-08-25",
     "floor": 11,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "장미동산타워",
+    "dealAmount": "14,500",
+    "date": "2026-09-20",
+    "floor": 1,
+    "area": 84.96
+  },
+  {
+    "aptNm": "장미동산타워",
+    "dealAmount": "12,500",
+    "date": "2026-09-02",
+    "floor": 5,
+    "area": 79.2
+  },
+  {
+    "aptNm": "장미동산타워",
     "dealAmount": "19,000",
     "date": "2026-06-22",
     "floor": 1,

@@ -2,6 +2,20 @@
   {
     "aptNm": "마석건영",
     "dealAmount": "19,000",
+    "date": "2026-09-30",
+    "floor": 6,
+    "area": 82.68
+  },
+  {
+    "aptNm": "마석건영",
+    "dealAmount": "21,000",
+    "date": "2026-09-01",
+    "floor": 11,
+    "area": 82.68
+  },
+  {
+    "aptNm": "마석건영",
+    "dealAmount": "19,000",
     "date": "2026-08-26",
     "floor": 6,
     "area": 82.68

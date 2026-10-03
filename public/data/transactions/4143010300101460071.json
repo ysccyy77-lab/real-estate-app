@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "우성6차",
+    "dealAmount": "33,000",
+    "date": "2026-09-12",
+    "floor": 1,
+    "area": 42.84
+  },
+  {
+    "aptNm": "우성6차",
+    "dealAmount": "49,000",
+    "date": "2026-09-03",
+    "floor": 3,
+    "area": 57.42
+  },
+  {
+    "aptNm": "우성6차",
+    "dealAmount": "27,000",
+    "date": "2026-08-18",
+    "floor": 1,
+    "area": 35.55
+  },
+  {
+    "aptNm": "우성6차",
     "dealAmount": "30,500",
     "date": "2026-03-10",
     "floor": 1,

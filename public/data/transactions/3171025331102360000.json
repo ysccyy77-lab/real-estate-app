@@ -1,5 +1,61 @@
 [
   {
+    "aptNm": "삼성아파트",
+    "dealAmount": "11,700",
+    "date": "2026-09-22",
+    "floor": 9,
+    "area": 59.91
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "7,700",
+    "date": "2026-09-16",
+    "floor": 2,
+    "area": 38.64
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "9,400",
+    "date": "2026-09-16",
+    "floor": 9,
+    "area": 45
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "9,500",
+    "date": "2026-09-11",
+    "floor": 4,
+    "area": 38.64
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "13,500",
+    "date": "2026-09-10",
+    "floor": 14,
+    "area": 52.09
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "12,300",
+    "date": "2026-09-10",
+    "floor": 2,
+    "area": 52.09
+  },
+  {
+    "aptNm": "주공5",
+    "dealAmount": "12,300",
+    "date": "2026-09-02",
+    "floor": 10,
+    "area": 52.09
+  },
+  {
+    "aptNm": "아남2",
+    "dealAmount": "88,500",
+    "date": "2026-09-01",
+    "floor": 1,
+    "area": 59.4
+  },
+  {
     "aptNm": "항동중흥에스클래스베르데카운티",
     "dealAmount": "94,500",
     "date": "2026-08-31",

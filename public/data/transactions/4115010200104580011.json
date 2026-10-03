@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "그랑베르",
+    "dealAmount": "9,300",
+    "date": "2026-09-14",
+    "floor": 6,
+    "area": 20.7874
+  },
+  {
+    "aptNm": "그랑베르",
     "dealAmount": "9,500",
     "date": "2026-04-02",
     "floor": 9,

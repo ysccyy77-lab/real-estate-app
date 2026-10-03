@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "삼성",
+    "dealAmount": "15,200",
+    "date": "2026-09-16",
+    "floor": 15,
+    "area": 59.886
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "15,400",
+    "date": "2026-09-15",
+    "floor": 4,
+    "area": 59.67
+  },
+  {
+    "aptNm": "삼성",
     "dealAmount": "23,000",
     "date": "2026-08-28",
     "floor": 6,

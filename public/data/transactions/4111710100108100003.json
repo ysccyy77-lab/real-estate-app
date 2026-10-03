@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "삼성1",
+    "dealAmount": "30,000",
+    "date": "2026-09-19",
+    "floor": 2,
+    "area": 55.16
+  },
+  {
+    "aptNm": "삼성1",
+    "dealAmount": "32,500",
+    "date": "2026-09-18",
+    "floor": 9,
+    "area": 55.16
+  },
+  {
+    "aptNm": "삼성1",
+    "dealAmount": "28,800",
+    "date": "2026-09-11",
+    "floor": 15,
+    "area": 44.45
+  },
+  {
+    "aptNm": "삼성1",
+    "dealAmount": "48,000",
+    "date": "2026-09-05",
+    "floor": 13,
+    "area": 84.6
+  },
+  {
+    "aptNm": "삼성1",
+    "dealAmount": "26,700",
+    "date": "2026-09-03",
+    "floor": 1,
+    "area": 44.45
+  },
+  {
+    "aptNm": "삼성1",
     "dealAmount": "33,100",
     "date": "2026-08-27",
     "floor": 10,

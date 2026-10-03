@@ -1,5 +1,75 @@
 [
   {
+    "aptNm": "문촌마을5단지(한일,쌍용)",
+    "dealAmount": "66,000",
+    "date": "2026-09-20",
+    "floor": 11,
+    "area": 134.07
+  },
+  {
+    "aptNm": "선경논골",
+    "dealAmount": "24,000",
+    "date": "2026-09-15",
+    "floor": 2,
+    "area": 34.05
+  },
+  {
+    "aptNm": "전농우성",
+    "dealAmount": "61,500",
+    "date": "2026-09-15",
+    "floor": 14,
+    "area": 84.84
+  },
+  {
+    "aptNm": "에코팰리스",
+    "dealAmount": "26,600",
+    "date": "2026-09-13",
+    "floor": 9,
+    "area": 71.8
+  },
+  {
+    "aptNm": "선경논골",
+    "dealAmount": "35,500",
+    "date": "2026-09-11",
+    "floor": 1,
+    "area": 44.01
+  },
+  {
+    "aptNm": "선경논골",
+    "dealAmount": "26,000",
+    "date": "2026-09-11",
+    "floor": 8,
+    "area": 34.05
+  },
+  {
+    "aptNm": "파크뷰",
+    "dealAmount": "320,000",
+    "date": "2026-09-04",
+    "floor": 16,
+    "area": 139.68
+  },
+  {
+    "aptNm": "전농우성",
+    "dealAmount": "89,300",
+    "date": "2026-09-04",
+    "floor": 6,
+    "area": 59.78
+  },
+  {
+    "aptNm": "전농우성",
+    "dealAmount": "95,000",
+    "date": "2026-09-01",
+    "floor": 2,
+    "area": 84.84
+  },
+  {
+    "aptNm": "파크뷰",
+    "dealAmount": "415,000",
+    "date": "2026-08-28",
+    "floor": 17,
+    "area": 199.777
+  },
+  {
     "aptNm": "전농우성",
     "dealAmount": "88,000",
     "date": "2026-08-22",

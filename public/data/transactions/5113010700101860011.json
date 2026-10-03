@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "선아",
+    "dealAmount": "3,800",
+    "date": "2026-10-01",
+    "floor": 5,
+    "area": 74.376
+  },
+  {
+    "aptNm": "선아",
+    "dealAmount": "6,000",
+    "date": "2026-09-07",
+    "floor": 2,
+    "area": 76.145
+  },
+  {
+    "aptNm": "선아",
+    "dealAmount": "6,000",
+    "date": "2026-09-03",
+    "floor": 2,
+    "area": 74.376
+  },
+  {
+    "aptNm": "선아",
     "dealAmount": "6,300",
     "date": "2026-08-18",
     "floor": 2,

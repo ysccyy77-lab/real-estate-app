@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "성서8주공아파트",
+    "dealAmount": "12,800",
+    "date": "2026-09-09",
+    "floor": 15,
+    "area": 49.76
+  },
+  {
+    "aptNm": "My더퍼스트",
+    "dealAmount": "19,800",
+    "date": "2026-09-02",
+    "floor": 2,
+    "area": 74.9
+  },
+  {
+    "aptNm": "성서8주공아파트",
+    "dealAmount": "13,000",
+    "date": "2026-08-31",
+    "floor": 7,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서8주공아파트",
     "dealAmount": "12,900",
     "date": "2026-08-24",
     "floor": 8,

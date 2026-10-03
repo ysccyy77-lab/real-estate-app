@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "독산현대",
+    "dealAmount": "71,000",
+    "date": "2026-09-12",
+    "floor": 20,
+    "area": 83.73
+  },
+  {
+    "aptNm": "독산현대",
+    "dealAmount": "60,000",
+    "date": "2026-09-05",
+    "floor": 13,
+    "area": 58.72
+  },
+  {
+    "aptNm": "독산현대",
+    "dealAmount": "66,000",
+    "date": "2026-08-31",
+    "floor": 4,
+    "area": 83.73
+  },
+  {
+    "aptNm": "독산현대",
+    "dealAmount": "59,300",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 83.73
+  },
+  {
     "aptNm": "서대센츄럴타운",
     "dealAmount": "23,900",
     "date": "2026-08-03",

@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "한신1",
+    "dealAmount": "34,500",
+    "date": "2026-09-04",
+    "floor": 6,
+    "area": 27
+  },
+  {
     "aptNm": "상용남성타운",
     "dealAmount": "5,500",
     "date": "2026-08-31",
     "floor": 2,
     "area": 59.89
+  },
+  {
+    "aptNm": "한신1",
+    "dealAmount": "50,000",
+    "date": "2026-08-31",
+    "floor": 10,
+    "area": 35.28
+  },
+  {
+    "aptNm": "한신2",
+    "dealAmount": "49,000",
+    "date": "2026-08-29",
+    "floor": 3,
+    "area": 35.28
   },
   {
     "aptNm": "청구",
@@ -75,6 +96,13 @@
     "date": "2026-07-25",
     "floor": 1,
     "area": 44.52
+  },
+  {
+    "aptNm": "한신1",
+    "dealAmount": "30,500",
+    "date": "2026-07-25",
+    "floor": 14,
+    "area": 27
   },
   {
     "aptNm": "한신1",

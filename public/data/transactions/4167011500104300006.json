@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "부영사랑으로",
+    "dealAmount": "9,200",
+    "date": "2026-09-18",
+    "floor": 9,
+    "area": 38.651
+  },
+  {
+    "aptNm": "부영사랑으로",
+    "dealAmount": "9,050",
+    "date": "2026-09-09",
+    "floor": 8,
+    "area": 38.651
+  },
+  {
+    "aptNm": "부영사랑��로",
+    "dealAmount": "8,200",
+    "date": "2026-09-04",
+    "floor": 3,
+    "area": 38.651
+  },
+  {
+    "aptNm": "부영사랑으로",
     "dealAmount": "9,700",
     "date": "2026-08-26",
     "floor": 10,

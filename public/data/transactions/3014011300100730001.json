@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "26,900",
+    "date": "2026-09-30",
+    "floor": 7,
+    "area": 84.846
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "23,300",
+    "date": "2026-09-22",
+    "floor": 1,
+    "area": 84.846
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "36,000",
+    "date": "2026-09-15",
+    "floor": 24,
+    "area": 115.456
+  },
+  {
+    "aptNm": "재동타워",
+    "dealAmount": "8,500",
+    "date": "2026-09-03",
+    "floor": 5,
+    "area": 59.62
+  },
+  {
     "aptNm": "동해",
     "dealAmount": "5,000",
     "date": "2026-08-31",

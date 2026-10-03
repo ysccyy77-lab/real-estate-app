@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우방청자",
+    "dealAmount": "18,000",
+    "date": "2026-09-02",
+    "floor": 2,
+    "area": 66.13
+  },
+  {
+    "aptNm": "서곡엘지",
+    "dealAmount": "33,200",
+    "date": "2026-08-19",
+    "floor": 2,
+    "area": 134.38
+  },
+  {
+    "aptNm": "우방청자",
     "dealAmount": "18,900",
     "date": "2026-07-09",
     "floor": 5,

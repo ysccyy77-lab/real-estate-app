@@ -1,5 +1,61 @@
 [
   {
+    "aptNm": "성원",
+    "dealAmount": "66,000",
+    "date": "2026-10-01",
+    "floor": 10,
+    "area": 84.56
+  },
+  {
+    "aptNm": "동양",
+    "dealAmount": "22,000",
+    "date": "2026-09-29",
+    "floor": 6,
+    "area": 105.45
+  },
+  {
+    "aptNm": "중앙마린파이브아파트",
+    "dealAmount": "31,000",
+    "date": "2026-09-24",
+    "floor": 27,
+    "area": 70.1442
+  },
+  {
+    "aptNm": "한신타워",
+    "dealAmount": "23,000",
+    "date": "2026-09-22",
+    "floor": 18,
+    "area": 84.6
+  },
+  {
+    "aptNm": "개운현대",
+    "dealAmount": "5,400",
+    "date": "2026-09-21",
+    "floor": 13,
+    "area": 35.1
+  },
+  {
+    "aptNm": "래미안포레카운티",
+    "dealAmount": "132,500",
+    "date": "2026-09-21",
+    "floor": 8,
+    "area": 59.92
+  },
+  {
+    "aptNm": "개운현대",
+    "dealAmount": "15,000",
+    "date": "2026-09-18",
+    "floor": 2,
+    "area": 84.974
+  },
+  {
+    "aptNm": "래미안포레카운티",
+    "dealAmount": "145,000",
+    "date": "2026-09-05",
+    "floor": 24,
+    "area": 84.97
+  },
+  {
     "aptNm": "한신타워",
     "dealAmount": "25,500",
     "date": "2026-08-31",

@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "덕희",
+    "dealAmount": "4,200",
+    "date": "2026-10-01",
+    "floor": 11,
+    "area": 22.2
+  },
+  {
+    "aptNm": "덕희",
     "dealAmount": "3,000",
     "date": "2026-08-13",
     "floor": 10,
+    "area": 22.2
+  },
+  {
+    "aptNm": "덕희",
+    "dealAmount": "3,000",
+    "date": "2026-08-04",
+    "floor": 7,
     "area": 22.2
   },
   {

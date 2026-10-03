@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "당진청구",
+    "dealAmount": "6,800",
+    "date": "2026-10-01",
+    "floor": 7,
+    "area": 59.908
+  },
+  {
+    "aptNm": "전원",
+    "dealAmount": "39,800",
+    "date": "2026-09-19",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "8,400",
+    "date": "2026-09-18",
+    "floor": 10,
+    "area": 84.87
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "8,250",
+    "date": "2026-09-12",
+    "floor": 2,
+    "area": 59.908
+  },
+  {
+    "aptNm": "장자마을부영(312)",
+    "dealAmount": "21,700",
+    "date": "2026-09-12",
+    "floor": 1,
+    "area": 84.9767
+  },
+  {
+    "aptNm": "우방아파트",
+    "dealAmount": "78,500",
+    "date": "2026-09-10",
+    "floor": 5,
+    "area": 114.73
+  },
+  {
+    "aptNm": "당진청구",
+    "dealAmount": "8,200",
+    "date": "2026-09-07",
+    "floor": 14,
+    "area": 59.908
+  },
+  {
     "aptNm": "대동타운",
     "dealAmount": "6,800",
     "date": "2026-09-04",
@@ -32,6 +81,13 @@
     "dealAmount": "6,800",
     "date": "2026-08-25",
     "floor": 13,
+    "area": 56.88
+  },
+  {
+    "aptNm": "대동타운",
+    "dealAmount": "5,500",
+    "date": "2026-08-24",
+    "floor": 4,
     "area": 56.88
   },
   {

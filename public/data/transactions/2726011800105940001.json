@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "예다인",
+    "dealAmount": "6,700",
+    "date": "2026-09-21",
+    "floor": 4,
+    "area": 59.7325
+  },
+  {
+    "aptNm": "시지에덴타운",
+    "dealAmount": "31,000",
+    "date": "2026-09-17",
+    "floor": 2,
+    "area": 134.9
+  },
+  {
+    "aptNm": "예다인",
     "dealAmount": "6,650",
     "date": "2026-09-01",
     "floor": 15,

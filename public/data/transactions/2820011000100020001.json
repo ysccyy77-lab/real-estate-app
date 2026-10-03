@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "남해오네뜨",
+    "dealAmount": "16,000",
+    "date": "2026-09-23",
+    "floor": 8,
+    "area": 73.9961
+  },
+  {
+    "aptNm": "동오",
+    "dealAmount": "19,400",
+    "date": "2026-09-18",
+    "floor": 1,
+    "area": 50.18
+  },
+  {
+    "aptNm": "남해오네뜨",
+    "dealAmount": "15,500",
+    "date": "2026-09-18",
+    "floor": 2,
+    "area": 73.9961
+  },
+  {
+    "aptNm": "종로센트레빌",
+    "dealAmount": "105,000",
+    "date": "2026-09-14",
+    "floor": 5,
+    "area": 59.92
+  },
+  {
+    "aptNm": "호계1차한양수자인아파트",
+    "dealAmount": "31,700",
+    "date": "2026-09-13",
+    "floor": 2,
+    "area": 84.994
+  },
+  {
+    "aptNm": "동오",
+    "dealAmount": "16,700",
+    "date": "2026-09-05",
+    "floor": 5,
+    "area": 50.18
+  },
+  {
+    "aptNm": "남해오네뜨",
+    "dealAmount": "16,800",
+    "date": "2026-09-02",
+    "floor": 7,
+    "area": 73.9961
+  },
+  {
     "aptNm": "대곡우방타운",
     "dealAmount": "15,800",
     "date": "2026-08-15",

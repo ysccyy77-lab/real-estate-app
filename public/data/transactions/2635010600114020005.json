@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼강",
+    "dealAmount": "28,988",
+    "date": "2026-08-25",
+    "floor": 5,
+    "area": 33.15
+  },
+  {
+    "aptNm": "삼강",
     "dealAmount": "16,700",
     "date": "2026-05-16",
     "floor": 5,

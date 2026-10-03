@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "일신베네스트",
+    "dealAmount": "3,800",
+    "date": "2026-09-28",
+    "floor": 5,
+    "area": 30.948
+  },
+  {
+    "aptNm": "일신베네스트",
+    "dealAmount": "4,150",
+    "date": "2026-09-03",
+    "floor": 5,
+    "area": 30.948
+  },
+  {
+    "aptNm": "일신베네스트",
     "dealAmount": "3,500",
     "date": "2026-06-09",
     "floor": 4,

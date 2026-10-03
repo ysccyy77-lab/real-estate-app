@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "삼양전원타운",
+    "dealAmount": "1,800",
+    "date": "2026-09-22",
+    "floor": 5,
+    "area": 59.53
+  },
+  {
+    "aptNm": "삼양전원타운",
+    "dealAmount": "3,000",
+    "date": "2026-08-29",
+    "floor": 3,
+    "area": 59.53
+  },
+  {
+    "aptNm": "삼양전원타운",
     "dealAmount": "2,200",
     "date": "2026-08-20",
     "floor": 1,

@@ -1,10 +1,115 @@
 [
   {
+    "aptNm": "포승삼부르네상스1단지",
+    "dealAmount": "13,000",
+    "date": "2026-09-19",
+    "floor": 9,
+    "area": 59.9642
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "26,000",
+    "date": "2026-09-19",
+    "floor": 16,
+    "area": 59.805
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "30,300",
+    "date": "2026-09-15",
+    "floor": 9,
+    "area": 84.93
+  },
+  {
+    "aptNm": "포승삼부르네상스1단지",
+    "dealAmount": "12,200",
+    "date": "2026-09-14",
+    "floor": 6,
+    "area": 59.9642
+  },
+  {
+    "aptNm": "더퍼스트예미지",
+    "dealAmount": "40,000",
+    "date": "2026-09-14",
+    "floor": 4,
+    "area": 84.9706
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "28,300",
+    "date": "2026-09-10",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "26,000",
+    "date": "2026-09-08",
+    "floor": 7,
+    "area": 59.805
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "30,000",
+    "date": "2026-09-08",
+    "floor": 15,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "26,700",
+    "date": "2026-09-05",
+    "floor": 17,
+    "area": 59.805
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "24,500",
+    "date": "2026-09-05",
+    "floor": 20,
+    "area": 59.805
+  },
+  {
+    "aptNm": "포승삼부르네상스1단지",
+    "dealAmount": "13,100",
+    "date": "2026-08-29",
+    "floor": 7,
+    "area": 59.9642
+  },
+  {
     "aptNm": "벽산",
     "dealAmount": "32,300",
     "date": "2026-08-28",
     "floor": 6,
     "area": 84.93
+  },
+  {
+    "aptNm": "더퍼스트예미지",
+    "dealAmount": "32,000",
+    "date": "2026-08-25",
+    "floor": 19,
+    "area": 66.9474
+  },
+  {
+    "aptNm": "더퍼스트예미지",
+    "dealAmount": "40,000",
+    "date": "2026-08-25",
+    "floor": 6,
+    "area": 84.9706
+  },
+  {
+    "aptNm": "포승삼부르네상스1단지",
+    "dealAmount": "13,300",
+    "date": "2026-08-21",
+    "floor": 6,
+    "area": 59.9642
+  },
+  {
+    "aptNm": "더퍼스트예미지",
+    "dealAmount": "42,000",
+    "date": "2026-08-16",
+    "floor": 20,
+    "area": 84.9706
   },
   {
     "aptNm": "벽산",

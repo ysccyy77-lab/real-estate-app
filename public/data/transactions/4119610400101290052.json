@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "원종주공",
+    "dealAmount": "27,000",
+    "date": "2026-09-03",
+    "floor": 1,
+    "area": 39.27
+  },
+  {
+    "aptNm": "원종주공",
     "dealAmount": "27,500",
     "date": "2026-06-05",
     "floor": 3,

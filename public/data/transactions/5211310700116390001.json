@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "문수로IPARK1",
+    "dealAmount": "115,000",
+    "date": "2026-09-20",
+    "floor": 6,
+    "area": 134.3958
+  },
+  {
+    "aptNm": "문수로IPARK1",
+    "dealAmount": "106,000",
+    "date": "2026-09-11",
+    "floor": 12,
+    "area": 84.3093
+  },
+  {
+    "aptNm": "문수로IPARK1",
+    "dealAmount": "116,500",
+    "date": "2026-09-08",
+    "floor": 13,
+    "area": 134.3958
+  },
+  {
+    "aptNm": "휴엔하임주상복합아파트",
+    "dealAmount": "23,800",
+    "date": "2026-09-05",
+    "floor": 15,
+    "area": 59.503
+  },
+  {
     "aptNm": "휴엔하임주상복합아파트",
     "dealAmount": "24,000",
     "date": "2026-08-21",

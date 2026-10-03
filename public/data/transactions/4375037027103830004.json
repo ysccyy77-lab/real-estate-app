@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "산일전원APT",
+    "dealAmount": "7,800",
+    "date": "2026-10-02",
+    "floor": 14,
+    "area": 58.158
+  },
+  {
+    "aptNm": "예천세아101동",
+    "dealAmount": "6,300",
+    "date": "2026-09-07",
+    "floor": 14,
+    "area": 58.22
+  },
+  {
+    "aptNm": "산일전원APT",
     "dealAmount": "5,000",
     "date": "2026-07-18",
     "floor": 18,

@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "유호",
+    "dealAmount": "22,000",
+    "date": "2026-09-09",
+    "floor": 12,
+    "area": 74.21
+  },
+  {
+    "aptNm": "유호",
     "dealAmount": "23,200",
     "date": "2026-08-24",
     "floor": 14,
     "area": 59.82
+  },
+  {
+    "aptNm": "유호",
+    "dealAmount": "29,000",
+    "date": "2026-08-24",
+    "floor": 14,
+    "area": 84.78
   },
   {
     "aptNm": "유호",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "벽산반도",
+    "dealAmount": "6,000",
+    "date": "2026-09-08",
+    "floor": 15,
+    "area": 59.48
+  },
+  {
+    "aptNm": "벽산반도",
     "dealAmount": "7,000",
     "date": "2026-07-06",
     "floor": 7,

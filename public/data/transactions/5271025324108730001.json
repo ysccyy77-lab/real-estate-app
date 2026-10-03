@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "전주렉시안",
+    "dealAmount": "13,300",
+    "date": "2026-09-21",
+    "floor": 8,
+    "area": 59.9604
+  },
+  {
+    "aptNm": "전주렉시안",
+    "dealAmount": "17,500",
+    "date": "2026-09-11",
+    "floor": 7,
+    "area": 84.9159
+  },
+  {
+    "aptNm": "전주렉시안",
+    "dealAmount": "14,300",
+    "date": "2026-09-09",
+    "floor": 6,
+    "area": 59.9604
+  },
+  {
+    "aptNm": "전주렉시안",
+    "dealAmount": "17,300",
+    "date": "2026-08-31",
+    "floor": 5,
+    "area": 84.9159
+  },
+  {
+    "aptNm": "전주렉시안",
     "dealAmount": "16,800",
     "date": "2026-08-24",
     "floor": 3,

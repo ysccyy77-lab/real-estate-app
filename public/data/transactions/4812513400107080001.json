@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "신안주공1",
+    "dealAmount": "28,200",
+    "date": "2026-09-17",
+    "floor": 14,
+    "area": 84.53
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "11,800",
+    "date": "2026-09-14",
+    "floor": 16,
+    "area": 59.98
+  },
+  {
+    "aptNm": "신안주공1",
+    "dealAmount": "27,200",
+    "date": "2026-09-13",
+    "floor": 9,
+    "area": 84.98
+  },
+  {
+    "aptNm": "신안주공1",
+    "dealAmount": "27,800",
+    "date": "2026-09-12",
+    "floor": 10,
+    "area": 84.98
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "14,300",
+    "date": "2026-09-12",
+    "floor": 11,
+    "area": 59.98
+  },
+  {
+    "aptNm": "신안주공1",
+    "dealAmount": "28,300",
+    "date": "2026-09-04",
+    "floor": 11,
+    "area": 84.91
+  },
+  {
+    "aptNm": "신안주공1",
     "dealAmount": "23,300",
     "date": "2026-08-28",
     "floor": 1,

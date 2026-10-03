@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "늘푸른사랑마을",
+    "dealAmount": "13,000",
+    "date": "2026-09-29",
+    "floor": 6,
+    "area": 59.87
+  },
+  {
+    "aptNm": "태산신그린",
+    "dealAmount": "16,200",
+    "date": "2026-09-19",
+    "floor": 9,
+    "area": 59.91
+  },
+  {
+    "aptNm": "늘푸른사랑마을",
+    "dealAmount": "14,000",
+    "date": "2026-09-12",
+    "floor": 2,
+    "area": 59.87
+  },
+  {
+    "aptNm": "태산신그린",
+    "dealAmount": "16,300",
+    "date": "2026-09-12",
+    "floor": 15,
+    "area": 59.91
+  },
+  {
+    "aptNm": "늘푸른사랑마을",
+    "dealAmount": "11,000",
+    "date": "2026-09-06",
+    "floor": 13,
+    "area": 59.755
+  },
+  {
+    "aptNm": "늘푸른사랑마을",
+    "dealAmount": "13,600",
+    "date": "2026-09-05",
+    "floor": 5,
+    "area": 59.87
+  },
+  {
+    "aptNm": "늘푸른사랑마을",
     "dealAmount": "11,700",
     "date": "2026-08-29",
     "floor": 9,

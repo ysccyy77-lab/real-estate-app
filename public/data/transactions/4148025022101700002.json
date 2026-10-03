@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "천호네스빌",
+    "dealAmount": "44,000",
+    "date": "2026-09-18",
+    "floor": 6,
+    "area": 50.46
+  },
+  {
+    "aptNm": "천호네스빌",
+    "dealAmount": "28,300",
+    "date": "2026-09-17",
+    "floor": 2,
+    "area": 33.93
+  },
+  {
+    "aptNm": "까뮤이스테이트",
+    "dealAmount": "17,900",
+    "date": "2026-09-14",
+    "floor": 8,
+    "area": 41.7
+  },
+  {
+    "aptNm": "까뮤이스테이트",
+    "dealAmount": "16,500",
+    "date": "2026-09-12",
+    "floor": 4,
+    "area": 37.37
+  },
+  {
+    "aptNm": "영수",
+    "dealAmount": "2,500",
+    "date": "2026-08-31",
+    "floor": 6,
+    "area": 37.8
+  },
+  {
+    "aptNm": "영수",
+    "dealAmount": "2,800",
+    "date": "2026-08-27",
+    "floor": 11,
+    "area": 37.8
+  },
+  {
     "aptNm": "영수",
     "dealAmount": "2,200",
     "date": "2026-08-18",

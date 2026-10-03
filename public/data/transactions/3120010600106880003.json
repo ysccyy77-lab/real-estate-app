@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대암파크랜드",
+    "dealAmount": "5,000",
+    "date": "2026-09-30",
+    "floor": 5,
+    "area": 63.26
+  },
+  {
+    "aptNm": "대암파크랜드",
+    "dealAmount": "5,950",
+    "date": "2026-09-22",
+    "floor": 1,
+    "area": 59.91
+  },
+  {
+    "aptNm": "대암파크랜드",
     "dealAmount": "10,200",
     "date": "2026-06-24",
     "floor": 9,

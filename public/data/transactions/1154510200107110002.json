@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "금천현대",
+    "dealAmount": "68,000",
+    "date": "2026-09-19",
+    "floor": 22,
+    "area": 59.82
+  },
+  {
+    "aptNm": "금천현대",
+    "dealAmount": "79,000",
+    "date": "2026-09-18",
+    "floor": 15,
+    "area": 84.83
+  },
+  {
+    "aptNm": "금천현대",
+    "dealAmount": "62,000",
+    "date": "2026-09-17",
+    "floor": 3,
+    "area": 59.82
+  },
+  {
+    "aptNm": "금천현대",
+    "dealAmount": "75,000",
+    "date": "2026-09-02",
+    "floor": 9,
+    "area": 84.83
+  },
+  {
+    "aptNm": "금천현대",
+    "dealAmount": "74,700",
+    "date": "2026-08-27",
+    "floor": 9,
+    "area": 84.83
+  },
+  {
+    "aptNm": "금천현대",
     "dealAmount": "61,800",
     "date": "2026-08-24",
     "floor": 5,

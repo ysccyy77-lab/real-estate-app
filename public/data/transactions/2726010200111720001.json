@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "산장맨션",
+    "dealAmount": "62,000",
+    "date": "2026-09-11",
+    "floor": 2,
+    "area": 84.78
+  },
+  {
+    "aptNm": "산장맨션",
     "dealAmount": "58,000",
     "date": "2026-08-29",
     "floor": 7,

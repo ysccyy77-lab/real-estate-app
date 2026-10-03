@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "협동아름",
+    "dealAmount": "7,500",
+    "date": "2026-09-04",
+    "floor": 11,
+    "area": 84.9
+  },
+  {
+    "aptNm": "협동아름",
     "dealAmount": "6,700",
     "date": "2026-05-14",
     "floor": 15,

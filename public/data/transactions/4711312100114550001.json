@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "롯데낙천대",
+    "dealAmount": "18,400",
+    "date": "2026-09-21",
+    "floor": 6,
+    "area": 125.27
+  },
+  {
+    "aptNm": "롯데낙천대",
+    "dealAmount": "18,050",
+    "date": "2026-09-08",
+    "floor": 14,
+    "area": 84.99
+  },
+  {
+    "aptNm": "롯데낙천대",
     "dealAmount": "16,800",
     "date": "2026-07-24",
     "floor": 5,

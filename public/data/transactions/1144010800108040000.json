@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "동양덱스빌",
+    "dealAmount": "30,300",
+    "date": "2026-09-30",
+    "floor": 18,
+    "area": 59.94
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "74,500",
+    "date": "2026-09-28",
+    "floor": 13,
+    "area": 84.88
+  },
+  {
+    "aptNm": "동양덱스빌",
+    "dealAmount": "24,500",
+    "date": "2026-09-08",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "82,700",
+    "date": "2026-09-08",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "마포자이2차",
+    "dealAmount": "260,000",
+    "date": "2026-09-01",
+    "floor": 16,
+    "area": 84.44
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "75,000",
+    "date": "2026-08-27",
+    "floor": 18,
+    "area": 84.88
+  },
+  {
     "aptNm": "대우",
     "dealAmount": "71,000",
     "date": "2026-08-15",

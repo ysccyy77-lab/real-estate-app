@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우성2",
+    "dealAmount": "30,500",
+    "date": "2026-09-30",
+    "floor": 4,
+    "area": 59.85
+  },
+  {
+    "aptNm": "우성2",
     "dealAmount": "43,500",
     "date": "2026-06-15",
     "floor": 7,

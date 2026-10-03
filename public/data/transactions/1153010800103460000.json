@@ -1,10 +1,59 @@
 [
   {
     "aptNm": "서해",
+    "dealAmount": "48,000",
+    "date": "2026-09-20",
+    "floor": 4,
+    "area": 59.04
+  },
+  {
+    "aptNm": "행당한진타운",
+    "dealAmount": "164,500",
+    "date": "2026-09-17",
+    "floor": 4,
+    "area": 59.96
+  },
+  {
+    "aptNm": "화원한샘타운",
+    "dealAmount": "12,250",
+    "date": "2026-09-16",
+    "floor": 11,
+    "area": 59.535
+  },
+  {
+    "aptNm": "행당한진타운",
+    "dealAmount": "165,000",
+    "date": "2026-09-12",
+    "floor": 8,
+    "area": 59.96
+  },
+  {
+    "aptNm": "서해",
+    "dealAmount": "61,000",
+    "date": "2026-09-08",
+    "floor": 4,
+    "area": 84.935
+  },
+  {
+    "aptNm": "서해",
+    "dealAmount": "48,000",
+    "date": "2026-09-02",
+    "floor": 22,
+    "area": 59.04
+  },
+  {
+    "aptNm": "서해",
     "dealAmount": "55,500",
     "date": "2026-08-29",
     "floor": 19,
     "area": 59.04
+  },
+  {
+    "aptNm": "오류동푸르지오",
+    "dealAmount": "75,900",
+    "date": "2026-08-25",
+    "floor": 10,
+    "area": 61.257
   },
   {
     "aptNm": "서해",

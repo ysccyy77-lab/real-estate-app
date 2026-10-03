@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "수정",
+    "dealAmount": "3,750",
+    "date": "2026-09-13",
+    "floor": 2,
+    "area": 27.96
+  },
+  {
+    "aptNm": "수정",
+    "dealAmount": "3,750",
+    "date": "2026-09-13",
+    "floor": 1,
+    "area": 27.96
+  },
+  {
+    "aptNm": "아이콘스타센트럴",
+    "dealAmount": "9,300",
+    "date": "2026-09-02",
+    "floor": 10,
+    "area": 22.868
+  },
+  {
+    "aptNm": "수정",
     "dealAmount": "7,000",
     "date": "2026-08-21",
     "floor": 1,

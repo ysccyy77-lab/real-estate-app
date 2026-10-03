@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "분평주공2",
+    "dealAmount": "8,700",
+    "date": "2026-10-01",
+    "floor": 12,
+    "area": 39.69
+  },
+  {
+    "aptNm": "분평주공2",
+    "dealAmount": "15,900",
+    "date": "2026-09-29",
+    "floor": 8,
+    "area": 59.71
+  },
+  {
+    "aptNm": "분평주공2",
+    "dealAmount": "11,600",
+    "date": "2026-09-21",
+    "floor": 20,
+    "area": 59.99
+  },
+  {
+    "aptNm": "분평주공2",
+    "dealAmount": "15,400",
+    "date": "2026-09-16",
+    "floor": 4,
+    "area": 59.71
+  },
+  {
+    "aptNm": "분평주공2",
+    "dealAmount": "8,200",
+    "date": "2026-09-12",
+    "floor": 2,
+    "area": 39.69
+  },
+  {
+    "aptNm": "분평주공2",
+    "dealAmount": "8,500",
+    "date": "2026-09-12",
+    "floor": 8,
+    "area": 39.69
+  },
+  {
     "aptNm": "양산평산동삼한사랑채",
     "dealAmount": "16,000",
     "date": "2026-08-31",

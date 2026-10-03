@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "본오주공",
+    "dealAmount": "37,000",
+    "date": "2026-09-20",
+    "floor": 10,
+    "area": 59.51
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "71,000",
+    "date": "2026-09-18",
+    "floor": 4,
+    "area": 59.92
+  },
+  {
+    "aptNm": "본오주공",
+    "dealAmount": "35,000",
+    "date": "2026-09-11",
+    "floor": 1,
+    "area": 59.15
+  },
+  {
+    "aptNm": "해오름시티",
+    "dealAmount": "8,300",
+    "date": "2026-09-11",
+    "floor": 10,
+    "area": 14.45
+  },
+  {
     "aptNm": "송천KCC스위첸",
     "dealAmount": "49,500",
     "date": "2026-08-19",

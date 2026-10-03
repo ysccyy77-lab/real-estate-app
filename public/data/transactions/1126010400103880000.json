@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "DMC센트럴아이파크",
+    "dealAmount": "143,000",
+    "date": "2026-09-21",
+    "floor": 1,
+    "area": 84.97
+  },
+  {
+    "aptNm": "대구혁신도시서한이다음4차",
+    "dealAmount": "21,000",
+    "date": "2026-09-19",
+    "floor": 2,
+    "area": 84.7703
+  },
+  {
+    "aptNm": "DMC센트럴아이파크",
+    "dealAmount": "125,000",
+    "date": "2026-09-07",
+    "floor": 4,
+    "area": 59.91
+  },
+  {
+    "aptNm": "DMC센트럴아이파크",
+    "dealAmount": "126,000",
+    "date": "2026-08-30",
+    "floor": 14,
+    "area": 59.91
+  },
+  {
+    "aptNm": "DMC센트럴아이파크",
+    "dealAmount": "145,000",
+    "date": "2026-08-28",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "DMC센트럴아이파크",
     "dealAmount": "143,500",
     "date": "2026-08-21",
     "floor": 6,

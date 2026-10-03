@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "다대다해",
+    "dealAmount": "8,000",
+    "date": "2026-09-21",
+    "floor": 1,
+    "area": 44.82
+  },
+  {
+    "aptNm": "다대다해",
     "dealAmount": "12,000",
     "date": "2026-05-28",
     "floor": 1,

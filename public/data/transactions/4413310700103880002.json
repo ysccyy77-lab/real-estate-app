@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "동보",
+    "dealAmount": "34,400",
+    "date": "2026-09-19",
+    "floor": 15,
+    "area": 84.58
+  },
+  {
+    "aptNm": "에스아이팰리스강동센텀I",
+    "dealAmount": "46,000",
+    "date": "2026-09-10",
+    "floor": 8,
+    "area": 33.291
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "30,000",
+    "date": "2026-09-10",
+    "floor": 4,
+    "area": 84.58
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "24,800",
+    "date": "2026-08-31",
+    "floor": 15,
+    "area": 60
+  },
+  {
     "aptNm": "굿모닝뷰",
     "dealAmount": "19,900",
     "date": "2026-08-24",

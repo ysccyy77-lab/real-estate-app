@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "대방",
+    "dealAmount": "22,500",
+    "date": "2026-09-23",
+    "floor": 1,
+    "area": 84.78
+  },
+  {
+    "aptNm": "대방",
+    "dealAmount": "17,000",
+    "date": "2026-09-12",
+    "floor": 3,
+    "area": 59.67
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "6,650",
+    "date": "2026-09-11",
+    "floor": 3,
+    "area": 59.886
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "7,500",
+    "date": "2026-09-10",
+    "floor": 7,
+    "area": 59.886
+  },
+  {
+    "aptNm": "대방",
+    "dealAmount": "29,900",
+    "date": "2026-08-28",
+    "floor": 8,
+    "area": 124.41
+  },
+  {
+    "aptNm": "민들레베스파트",
+    "dealAmount": "48,500",
+    "date": "2026-08-26",
+    "floor": 1,
+    "area": 84.876
+  },
+  {
     "aptNm": "삼성",
     "dealAmount": "8,400",
     "date": "2026-08-13",

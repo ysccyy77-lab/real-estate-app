@@ -1,10 +1,87 @@
 [
   {
     "aptNm": "트리비앙",
+    "dealAmount": "73,300",
+    "date": "2026-09-21",
+    "floor": 11,
+    "area": 101.93
+  },
+  {
+    "aptNm": "트리비앙",
+    "dealAmount": "72,300",
+    "date": "2026-09-19",
+    "floor": 15,
+    "area": 84.95
+  },
+  {
+    "aptNm": "한진한화그랑빌",
+    "dealAmount": "140,000",
+    "date": "2026-09-15",
+    "floor": 8,
+    "area": 114.97
+  },
+  {
+    "aptNm": "트리비앙",
+    "dealAmount": "56,000",
+    "date": "2026-09-12",
+    "floor": 14,
+    "area": 59.98
+  },
+  {
+    "aptNm": "트리비앙",
+    "dealAmount": "61,500",
+    "date": "2026-09-10",
+    "floor": 6,
+    "area": 76.03
+  },
+  {
+    "aptNm": "트리비앙",
+    "dealAmount": "68,000",
+    "date": "2026-09-10",
+    "floor": 4,
+    "area": 84.99
+  },
+  {
+    "aptNm": "트리비앙",
+    "dealAmount": "59,400",
+    "date": "2026-09-07",
+    "floor": 17,
+    "area": 59.98
+  },
+  {
+    "aptNm": "트리비앙",
+    "dealAmount": "71,500",
+    "date": "2026-09-05",
+    "floor": 10,
+    "area": 84.99
+  },
+  {
+    "aptNm": "트리비앙",
+    "dealAmount": "70,500",
+    "date": "2026-09-03",
+    "floor": 6,
+    "area": 84.95
+  },
+  {
+    "aptNm": "트리비앙",
+    "dealAmount": "71,400",
+    "date": "2026-08-28",
+    "floor": 14,
+    "area": 84.99
+  },
+  {
+    "aptNm": "트리비앙",
     "dealAmount": "69,000",
     "date": "2026-08-27",
     "floor": 16,
     "area": 76.03
+  },
+  {
+    "aptNm": "한진한화그랑빌",
+    "dealAmount": "114,000",
+    "date": "2026-08-21",
+    "floor": 17,
+    "area": 59.94
   },
   {
     "aptNm": "트리비앙",
@@ -39,6 +116,13 @@
     "dealAmount": "109,000",
     "date": "2026-08-08",
     "floor": 1,
+    "area": 84.97
+  },
+  {
+    "aptNm": "한진한화그랑빌",
+    "dealAmount": "125,000",
+    "date": "2026-08-07",
+    "floor": 14,
     "area": 84.97
   },
   {

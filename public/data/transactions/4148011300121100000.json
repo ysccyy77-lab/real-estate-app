@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "e편한세상대신",
+    "dealAmount": "49,700",
+    "date": "2026-10-01",
+    "floor": 7,
+    "area": 59.984
+  },
+  {
+    "aptNm": "e편한세상대신",
+    "dealAmount": "45,900",
+    "date": "2026-09-30",
+    "floor": 8,
+    "area": 59.977
+  },
+  {
+    "aptNm": "e편한세상대신",
+    "dealAmount": "45,300",
+    "date": "2026-09-14",
+    "floor": 6,
+    "area": 59.977
+  },
+  {
+    "aptNm": "e편한세상대신",
+    "dealAmount": "50,700",
+    "date": "2026-09-12",
+    "floor": 22,
+    "area": 59.984
+  },
+  {
+    "aptNm": "e편한세상대신",
+    "dealAmount": "48,900",
+    "date": "2026-09-09",
+    "floor": 29,
+    "area": 59.984
+  },
+  {
+    "aptNm": "e편한세상대신",
+    "dealAmount": "46,500",
+    "date": "2026-08-30",
+    "floor": 18,
+    "area": 59.977
+  },
+  {
+    "aptNm": "신영지웰운정신도시",
+    "dealAmount": "58,000",
+    "date": "2026-08-26",
+    "floor": 20,
+    "area": 84.9908
+  },
+  {
+    "aptNm": "e편한세상대신",
     "dealAmount": "56,000",
     "date": "2026-08-22",
     "floor": 21,

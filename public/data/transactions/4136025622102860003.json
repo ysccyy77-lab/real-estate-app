@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "영진그린필",
+    "dealAmount": "28,000",
+    "date": "2026-09-26",
+    "floor": 4,
+    "area": 84.946
+  },
+  {
+    "aptNm": "영진그린필",
+    "dealAmount": "27,000",
+    "date": "2026-09-24",
+    "floor": 12,
+    "area": 84.946
+  },
+  {
+    "aptNm": "영진그린필",
+    "dealAmount": "25,700",
+    "date": "2026-09-22",
+    "floor": 10,
+    "area": 84.946
+  },
+  {
+    "aptNm": "영진그린필",
     "dealAmount": "28,500",
     "date": "2026-07-18",
     "floor": 7,

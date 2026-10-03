@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "맥스타워",
+    "dealAmount": "6,700",
+    "date": "2026-09-17",
+    "floor": 12,
+    "area": 18.23
+  },
+  {
+    "aptNm": "맥스타워",
     "dealAmount": "4,500",
     "date": "2026-08-21",
     "floor": 13,

@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "무거현대",
+    "dealAmount": "14,300",
+    "date": "2026-09-18",
+    "floor": 11,
+    "area": 59.94
+  },
+  {
+    "aptNm": "무거현대",
     "dealAmount": "11,000",
     "date": "2026-09-04",
     "floor": 8,
     "area": 58.05
+  },
+  {
+    "aptNm": "동진1",
+    "dealAmount": "14,500",
+    "date": "2026-09-04",
+    "floor": 1,
+    "area": 54.84
   },
   {
     "aptNm": "무거현대",

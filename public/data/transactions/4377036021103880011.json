@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "홍은모드니",
+    "dealAmount": "3,150",
+    "date": "2026-09-23",
+    "floor": 2,
+    "area": 49.68
+  },
+  {
+    "aptNm": "홍은모드니",
+    "dealAmount": "3,300",
+    "date": "2026-09-15",
+    "floor": 3,
+    "area": 49.68
+  },
+  {
+    "aptNm": "홍은모드니",
     "dealAmount": "3,200",
     "date": "2026-08-27",
     "floor": 4,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "세중참사랑",
+    "dealAmount": "18,100",
+    "date": "2026-09-29",
+    "floor": 1,
+    "area": 84.99
+  },
+  {
+    "aptNm": "세중참사랑",
+    "dealAmount": "16,000",
+    "date": "2026-09-16",
+    "floor": 9,
+    "area": 84.99
+  },
+  {
+    "aptNm": "세중참사랑",
     "dealAmount": "16,300",
     "date": "2026-06-27",
     "floor": 10,

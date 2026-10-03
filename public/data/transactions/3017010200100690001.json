@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "금호2",
+    "dealAmount": "58,900",
+    "date": "2026-09-17",
+    "floor": 9,
+    "area": 84.46
+  },
+  {
+    "aptNm": "금호2",
+    "dealAmount": "57,000",
+    "date": "2026-09-11",
+    "floor": 4,
+    "area": 84.46
+  },
+  {
+    "aptNm": "금호2",
+    "dealAmount": "50,000",
+    "date": "2026-08-28",
+    "floor": 12,
+    "area": 71.98
+  },
+  {
     "aptNm": "계룡금암주공",
     "dealAmount": "16,000",
     "date": "2026-08-27",

@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "선비마을3단지",
+    "dealAmount": "24,700",
+    "date": "2026-09-19",
+    "floor": 15,
+    "area": 59.94
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "4,500",
+    "date": "2026-09-18",
+    "floor": 13,
+    "area": 47.1934
+  },
+  {
+    "aptNm": "선비마을3단지",
+    "dealAmount": "22,650",
+    "date": "2026-09-13",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "선비마을3단지",
+    "dealAmount": "25,000",
+    "date": "2026-09-12",
+    "floor": 13,
+    "area": 59.94
+  },
+  {
+    "aptNm": "선비마을3단지",
+    "dealAmount": "57,000",
+    "date": "2026-09-10",
+    "floor": 19,
+    "area": 134.53
+  },
+  {
+    "aptNm": "신암그린타운",
+    "dealAmount": "21,000",
+    "date": "2026-09-07",
+    "floor": 10,
+    "area": 59.9513
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "5,200",
+    "date": "2026-09-05",
+    "floor": 11,
+    "area": 47.1934
+  },
+  {
+    "aptNm": "선비마을3단지",
     "dealAmount": "60,000",
     "date": "2026-09-03",
     "floor": 13,

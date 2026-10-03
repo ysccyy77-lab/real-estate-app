@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "남양주대한",
+    "dealAmount": "16,500",
+    "date": "2026-09-19",
+    "floor": 7,
+    "area": 59.94
+  },
+  {
+    "aptNm": "남양주대한",
+    "dealAmount": "18,000",
+    "date": "2026-09-02",
+    "floor": 14,
+    "area": 59.94
+  },
+  {
+    "aptNm": "남양주대한",
+    "dealAmount": "16,180",
+    "date": "2026-08-29",
+    "floor": 17,
+    "area": 59.94
+  },
+  {
+    "aptNm": "남양주대한",
     "dealAmount": "17,500",
     "date": "2026-08-04",
     "floor": 5,

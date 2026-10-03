@@ -1,10 +1,101 @@
 [
   {
+    "aptNm": "서도2차",
+    "dealAmount": "5,450",
+    "date": "2026-09-22",
+    "floor": 11,
+    "area": 39.97
+  },
+  {
+    "aptNm": "대림하이빌",
+    "dealAmount": "23,700",
+    "date": "2026-09-22",
+    "floor": 16,
+    "area": 84.9365
+  },
+  {
+    "aptNm": "대림하이빌",
+    "dealAmount": "23,500",
+    "date": "2026-09-20",
+    "floor": 10,
+    "area": 84.9365
+  },
+  {
+    "aptNm": "서도2차",
+    "dealAmount": "6,000",
+    "date": "2026-09-17",
+    "floor": 10,
+    "area": 39.97
+  },
+  {
+    "aptNm": "서도2차",
+    "dealAmount": "5,350",
+    "date": "2026-09-14",
+    "floor": 4,
+    "area": 39.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "72,000",
+    "date": "2026-09-14",
+    "floor": 17,
+    "area": 84.53
+  },
+  {
+    "aptNm": "SK허브올리브",
+    "dealAmount": "18,200",
+    "date": "2026-09-09",
+    "floor": 24,
+    "area": 53.29
+  },
+  {
+    "aptNm": "대림하이빌",
+    "dealAmount": "24,500",
+    "date": "2026-09-05",
+    "floor": 18,
+    "area": 84.9365
+  },
+  {
+    "aptNm": "대림하이빌",
+    "dealAmount": "24,000",
+    "date": "2026-09-05",
+    "floor": 15,
+    "area": 84.9365
+  },
+  {
+    "aptNm": "서도2차",
+    "dealAmount": "4,800",
+    "date": "2026-09-01",
+    "floor": 10,
+    "area": 39.97
+  },
+  {
+    "aptNm": "서도2차",
+    "dealAmount": "5,500",
+    "date": "2026-08-29",
+    "floor": 9,
+    "area": 39.97
+  },
+  {
+    "aptNm": "서도2차",
+    "dealAmount": "4,300",
+    "date": "2026-08-24",
+    "floor": 2,
+    "area": 39.97
+  },
+  {
     "aptNm": "SK허브올리브",
     "dealAmount": "18,100",
     "date": "2026-08-23",
     "floor": 28,
     "area": 53.29
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "72,000",
+    "date": "2026-08-19",
+    "floor": 10,
+    "area": 84.21
   },
   {
     "aptNm": "중앙하이츠",

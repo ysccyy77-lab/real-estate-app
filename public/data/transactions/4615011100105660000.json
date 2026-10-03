@@ -1,5 +1,75 @@
 [
   {
+    "aptNm": "세경개나리",
+    "dealAmount": "8,900",
+    "date": "2026-09-28",
+    "floor": 8,
+    "area": 52.59
+  },
+  {
+    "aptNm": "e편한세상장유2차",
+    "dealAmount": "29,600",
+    "date": "2026-09-22",
+    "floor": 13,
+    "area": 74.914
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "45,000",
+    "date": "2026-09-18",
+    "floor": 1,
+    "area": 59.84
+  },
+  {
+    "aptNm": "다산월드메르디앙",
+    "dealAmount": "21,700",
+    "date": "2026-09-18",
+    "floor": 24,
+    "area": 72.8941
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "43,600",
+    "date": "2026-09-15",
+    "floor": 14,
+    "area": 59.84
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "40,700",
+    "date": "2026-09-11",
+    "floor": 9,
+    "area": 59.84
+  },
+  {
+    "aptNm": "e편한세상장유2차",
+    "dealAmount": "30,900",
+    "date": "2026-09-10",
+    "floor": 7,
+    "area": 74.914
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "43,000",
+    "date": "2026-09-08",
+    "floor": 14,
+    "area": 59.84
+  },
+  {
+    "aptNm": "다산월드메르디앙",
+    "dealAmount": "17,900",
+    "date": "2026-09-08",
+    "floor": 22,
+    "area": 59.988
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "200,000",
+    "date": "2026-08-31",
+    "floor": 23,
+    "area": 84.86
+  },
+  {
     "aptNm": "남양주라온프라이빗4단지",
     "dealAmount": "39,000",
     "date": "2026-08-27",

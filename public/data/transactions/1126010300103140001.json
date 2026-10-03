@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "미성",
+    "dealAmount": "10,300",
+    "date": "2026-09-29",
+    "floor": 5,
+    "area": 64.16
+  },
+  {
+    "aptNm": "태능에셈빌",
+    "dealAmount": "67,000",
+    "date": "2026-09-15",
+    "floor": 9,
+    "area": 84.843
+  },
+  {
+    "aptNm": "미성",
     "dealAmount": "9,000",
     "date": "2026-07-23",
     "floor": 4,

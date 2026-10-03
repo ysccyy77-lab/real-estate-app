@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "HS포레",
+    "dealAmount": "16,800",
+    "date": "2026-09-08",
+    "floor": 19,
+    "area": 35.76
+  },
+  {
+    "aptNm": "HS포레",
     "dealAmount": "13,700",
     "date": "2026-05-08",
     "floor": 18,

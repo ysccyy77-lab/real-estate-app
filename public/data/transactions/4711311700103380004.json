@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "태양",
+    "dealAmount": "3,900",
+    "date": "2026-10-01",
+    "floor": 3,
+    "area": 59.97
+  },
+  {
+    "aptNm": "태양",
+    "dealAmount": "5,450",
+    "date": "2026-09-11",
+    "floor": 5,
+    "area": 59.97
+  },
+  {
+    "aptNm": "태양",
     "dealAmount": "6,900",
     "date": "2026-08-22",
     "floor": 2,

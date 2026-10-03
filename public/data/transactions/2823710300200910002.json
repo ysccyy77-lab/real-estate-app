@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "부평IPARK",
+    "dealAmount": "60,000",
+    "date": "2026-09-28",
+    "floor": 35,
+    "area": 69.19
+  },
+  {
+    "aptNm": "명촌아드리아",
+    "dealAmount": "31,000",
+    "date": "2026-08-24",
+    "floor": 10,
+    "area": 83.92
+  },
+  {
+    "aptNm": "부평IPARK",
     "dealAmount": "58,000",
     "date": "2026-08-13",
     "floor": 14,

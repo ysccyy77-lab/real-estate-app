@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "LH허브시티",
+    "dealAmount": "16,200",
+    "date": "2026-09-27",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "LH허브시티",
+    "dealAmount": "13,600",
+    "date": "2026-09-18",
+    "floor": 10,
+    "area": 51.46
+  },
+  {
+    "aptNm": "심곡마을광교힐스테이트",
+    "dealAmount": "130,000",
+    "date": "2026-09-10",
+    "floor": 8,
+    "area": 134.3218
+  },
+  {
+    "aptNm": "동해석미모닝파크",
+    "dealAmount": "19,900",
+    "date": "2026-09-08",
+    "floor": 13,
+    "area": 84.2
+  },
+  {
     "aptNm": "롯데캐슬가야1단지",
     "dealAmount": "29,300",
     "date": "2026-09-02",
     "floor": 9,
     "area": 134.4329
+  },
+  {
+    "aptNm": "LH허브시티",
+    "dealAmount": "13,100",
+    "date": "2026-09-02",
+    "floor": 5,
+    "area": 51.46
   },
   {
     "aptNm": "LH허브시티",

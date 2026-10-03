@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "우성2",
+    "dealAmount": "17,900",
+    "date": "2026-09-30",
+    "floor": 7,
+    "area": 41.55
+  },
+  {
+    "aptNm": "우성2",
+    "dealAmount": "18,500",
+    "date": "2026-09-19",
+    "floor": 6,
+    "area": 41.55
+  },
+  {
+    "aptNm": "대원빌라",
+    "dealAmount": "12,000",
+    "date": "2026-09-14",
+    "floor": 15,
+    "area": 84.73
+  },
+  {
+    "aptNm": "우성2",
     "dealAmount": "34,700",
     "date": "2026-08-19",
     "floor": 18,

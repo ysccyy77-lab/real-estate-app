@@ -1,9 +1,72 @@
 [
   {
     "aptNm": "주공1",
+    "dealAmount": "29,000",
+    "date": "2026-09-29",
+    "floor": 10,
+    "area": 58.14
+  },
+  {
+    "aptNm": "위산일리온시티",
+    "dealAmount": "23,900",
+    "date": "2026-09-26",
+    "floor": 17,
+    "area": 19.42
+  },
+  {
+    "aptNm": "가야아파트",
+    "dealAmount": "4,400",
+    "date": "2026-09-22",
+    "floor": 6,
+    "area": 36.45
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "33,000",
+    "date": "2026-09-17",
+    "floor": 1,
+    "area": 58.14
+  },
+  {
+    "aptNm": "희훈타워빌",
+    "dealAmount": "67,000",
+    "date": "2026-09-11",
+    "floor": 29,
+    "area": 122.84
+  },
+  {
+    "aptNm": "희훈타워빌",
+    "dealAmount": "67,700",
+    "date": "2026-09-03",
+    "floor": 15,
+    "area": 127.05
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "36,000",
+    "date": "2026-08-29",
+    "floor": 5,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "33,000",
+    "date": "2026-08-27",
+    "floor": 10,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공1",
     "dealAmount": "36,000",
     "date": "2026-08-24",
     "floor": 10,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공1",
+    "dealAmount": "34,500",
+    "date": "2026-08-22",
+    "floor": 13,
     "area": 58.14
   },
   {

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동아",
+    "dealAmount": "192,000",
+    "date": "2026-08-22",
+    "floor": 1,
+    "area": 53.14
+  },
+  {
+    "aptNm": "동아",
     "dealAmount": "273,000",
     "date": "2026-06-18",
     "floor": 2,

@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "화북주공1단지",
+    "dealAmount": "35,000",
+    "date": "2026-10-02",
+    "floor": 1,
+    "area": 84.5
+  },
+  {
+    "aptNm": "수안",
+    "dealAmount": "26,000",
+    "date": "2026-09-10",
+    "floor": 3,
+    "area": 50.68
+  },
+  {
+    "aptNm": "한신1차",
+    "dealAmount": "38,350",
+    "date": "2026-09-02",
+    "floor": 14,
+    "area": 84.87
+  },
+  {
+    "aptNm": "서원블루오션D동",
+    "dealAmount": "32,100",
+    "date": "2026-08-29",
+    "floor": 6,
+    "area": 75.9734
+  },
+  {
+    "aptNm": "화북주공1단지",
     "dealAmount": "39,300",
     "date": "2026-08-28",
     "floor": 6,

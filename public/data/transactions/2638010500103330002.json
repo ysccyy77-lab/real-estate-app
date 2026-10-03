@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "지원시티파크",
+    "dealAmount": "16,500",
+    "date": "2026-10-01",
+    "floor": 5,
+    "area": 42.67
+  },
+  {
+    "aptNm": "경남타운101",
+    "dealAmount": "5,800",
+    "date": "2026-09-22",
+    "floor": 2,
+    "area": 69.1
+  },
+  {
+    "aptNm": "삼두",
+    "dealAmount": "14,400",
+    "date": "2026-09-19",
+    "floor": 1,
+    "area": 44.91
+  },
+  {
     "aptNm": "삼두",
     "dealAmount": "16,500",
     "date": "2026-09-01",

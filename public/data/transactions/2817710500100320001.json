@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "삼성",
+    "dealAmount": "39,000",
+    "date": "2026-09-10",
+    "floor": 1,
+    "area": 59.76
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "55,300",
+    "date": "2026-09-05",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
+    "aptNm": "삼성",
+    "dealAmount": "46,500",
+    "date": "2026-08-29",
+    "floor": 21,
+    "area": 59.76
+  },
+  {
     "aptNm": "상진지오벨리",
     "dealAmount": "11,500",
     "date": "2026-08-12",

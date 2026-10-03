@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "범어STX칸",
+    "dealAmount": "82,700",
+    "date": "2026-09-16",
+    "floor": 21,
+    "area": 84.8151
+  },
+  {
+    "aptNm": "범어STX칸",
     "dealAmount": "91,700",
     "date": "2026-08-21",
     "floor": 8,

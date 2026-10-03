@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "일두",
+    "dealAmount": "34,300",
+    "date": "2026-09-16",
+    "floor": 3,
+    "area": 55.95
+  },
+  {
+    "aptNm": "강선마을10단지한양",
+    "dealAmount": "19,500",
+    "date": "2026-09-15",
+    "floor": 17,
+    "area": 41.265
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "12,300",
+    "date": "2026-09-09",
+    "floor": 1,
+    "area": 59.91
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "18,000",
+    "date": "2026-09-09",
+    "floor": 2,
+    "area": 84.81
+  },
+  {
+    "aptNm": "DMC자이1단지",
+    "dealAmount": "175,000",
+    "date": "2026-09-09",
+    "floor": 19,
+    "area": 184.02
+  },
+  {
+    "aptNm": "푸른마을(쌍용)",
+    "dealAmount": "157,500",
+    "date": "2026-09-02",
+    "floor": 2,
+    "area": 59.78
+  },
+  {
     "aptNm": "강선마을10단지한양",
     "dealAmount": "21,000",
     "date": "2026-08-31",

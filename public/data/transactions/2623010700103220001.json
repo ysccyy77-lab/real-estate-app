@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "선광한빛",
+    "dealAmount": "10,500",
+    "date": "2026-09-14",
+    "floor": 1,
+    "area": 59.78
+  },
+  {
+    "aptNm": "성원(사슴4)",
+    "dealAmount": "66,000",
+    "date": "2026-08-20",
+    "floor": 6,
+    "area": 49.92
+  },
+  {
+    "aptNm": "선광한빛",
     "dealAmount": "14,300",
     "date": "2026-08-01",
     "floor": 12,

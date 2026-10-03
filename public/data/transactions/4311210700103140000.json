@@ -1,10 +1,101 @@
 [
   {
     "aptNm": "산남주공4단지아파트",
+    "dealAmount": "9,300",
+    "date": "2026-10-01",
+    "floor": 14,
+    "area": 49.94
+  },
+  {
+    "aptNm": "산남주공4단지아파트",
+    "dealAmount": "15,000",
+    "date": "2026-09-29",
+    "floor": 4,
+    "area": 76.51
+  },
+  {
+    "aptNm": "산남주공4단지아파트",
+    "dealAmount": "16,000",
+    "date": "2026-09-29",
+    "floor": 10,
+    "area": 84.79
+  },
+  {
+    "aptNm": "산남주공4단지아파트",
+    "dealAmount": "16,500",
+    "date": "2026-09-22",
+    "floor": 8,
+    "area": 84.79
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "58,000",
+    "date": "2026-09-15",
+    "floor": 11,
+    "area": 91.09
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "62,500",
+    "date": "2026-09-15",
+    "floor": 9,
+    "area": 91.05
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "44,000",
+    "date": "2026-09-10",
+    "floor": 9,
+    "area": 55.57
+  },
+  {
+    "aptNm": "산남주공4단지아파트",
+    "dealAmount": "9,200",
+    "date": "2026-09-08",
+    "floor": 8,
+    "area": 49.94
+  },
+  {
+    "aptNm": "귀인마을현대홈타운",
+    "dealAmount": "119,000",
+    "date": "2026-09-01",
+    "floor": 10,
+    "area": 56.065
+  },
+  {
+    "aptNm": "화인",
+    "dealAmount": "15,000",
+    "date": "2026-09-01",
+    "floor": 16,
+    "area": 73.44
+  },
+  {
+    "aptNm": "산남주공4단지아파트",
     "dealAmount": "14,000",
     "date": "2026-08-28",
     "floor": 4,
     "area": 76.51
+  },
+  {
+    "aptNm": "귀인마을현대홈타운",
+    "dealAmount": "154,500",
+    "date": "2026-08-27",
+    "floor": 14,
+    "area": 80.374
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "53,000",
+    "date": "2026-08-25",
+    "floor": 4,
+    "area": 64
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "102,000",
+    "date": "2026-08-25",
+    "floor": 13,
+    "area": 84.8
   },
   {
     "aptNm": "산남주공4단지아파트",

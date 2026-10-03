@@ -1,5 +1,54 @@
 [
   {
+    "aptNm": "에덴",
+    "dealAmount": "5,400",
+    "date": "2026-09-24",
+    "floor": 6,
+    "area": 60
+  },
+  {
+    "aptNm": "대방빌리지",
+    "dealAmount": "7,700",
+    "date": "2026-09-16",
+    "floor": 6,
+    "area": 59.97
+  },
+  {
+    "aptNm": "삼성푸른아파트",
+    "dealAmount": "26,500",
+    "date": "2026-09-14",
+    "floor": 14,
+    "area": 75.11
+  },
+  {
+    "aptNm": "삼성푸른아파트",
+    "dealAmount": "24,200",
+    "date": "2026-09-12",
+    "floor": 1,
+    "area": 75.11
+  },
+  {
+    "aptNm": "에덴",
+    "dealAmount": "5,700",
+    "date": "2026-09-10",
+    "floor": 19,
+    "area": 60
+  },
+  {
+    "aptNm": "대방빌리지",
+    "dealAmount": "6,900",
+    "date": "2026-09-03",
+    "floor": 2,
+    "area": 59.97
+  },
+  {
+    "aptNm": "삼성푸른아파트",
+    "dealAmount": "42,700",
+    "date": "2026-08-29",
+    "floor": 11,
+    "area": 111.815
+  },
+  {
     "aptNm": "삼성푸른아파트",
     "dealAmount": "26,700",
     "date": "2026-08-18",

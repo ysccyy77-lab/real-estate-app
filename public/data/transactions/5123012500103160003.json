@@ -1,6 +1,41 @@
 [
   {
     "aptNm": "유성",
+    "dealAmount": "4,500",
+    "date": "2026-09-15",
+    "floor": 4,
+    "area": 48.03
+  },
+  {
+    "aptNm": "유성",
+    "dealAmount": "5,000",
+    "date": "2026-09-14",
+    "floor": 8,
+    "area": 48.03
+  },
+  {
+    "aptNm": "유성",
+    "dealAmount": "3,750",
+    "date": "2026-09-07",
+    "floor": 1,
+    "area": 48.03
+  },
+  {
+    "aptNm": "유성",
+    "dealAmount": "4,400",
+    "date": "2026-09-03",
+    "floor": 9,
+    "area": 48.03
+  },
+  {
+    "aptNm": "유성",
+    "dealAmount": "4,300",
+    "date": "2026-09-03",
+    "floor": 4,
+    "area": 48.03
+  },
+  {
+    "aptNm": "유성",
     "dealAmount": "5,500",
     "date": "2026-08-15",
     "floor": 12,

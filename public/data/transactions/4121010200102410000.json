@@ -1,10 +1,80 @@
 [
   {
     "aptNm": "삼익1",
+    "dealAmount": "43,800",
+    "date": "2026-10-01",
+    "floor": 11,
+    "area": 84.92
+  },
+  {
+    "aptNm": "한양수자인에듀힐즈",
+    "dealAmount": "88,000",
+    "date": "2026-09-22",
+    "floor": 2,
+    "area": 84.9591
+  },
+  {
+    "aptNm": "주공13",
+    "dealAmount": "164,000",
+    "date": "2026-09-21",
+    "floor": 10,
+    "area": 83.7
+  },
+  {
+    "aptNm": "삼익1",
+    "dealAmount": "27,900",
+    "date": "2026-09-19",
+    "floor": 15,
+    "area": 59.4
+  },
+  {
+    "aptNm": "삼익1",
+    "dealAmount": "27,100",
+    "date": "2026-09-05",
+    "floor": 5,
+    "area": 59.4
+  },
+  {
+    "aptNm": "한양수자인에듀힐즈",
+    "dealAmount": "94,000",
+    "date": "2026-09-05",
+    "floor": 9,
+    "area": 84.9544
+  },
+  {
+    "aptNm": "삼익1",
+    "dealAmount": "42,000",
+    "date": "2026-09-04",
+    "floor": 9,
+    "area": 118.14
+  },
+  {
+    "aptNm": "한양수자인에듀힐즈",
+    "dealAmount": "86,500",
+    "date": "2026-09-02",
+    "floor": 10,
+    "area": 84.9544
+  },
+  {
+    "aptNm": "동경5차",
+    "dealAmount": "25,000",
+    "date": "2026-09-01",
+    "floor": 2,
+    "area": 59.94
+  },
+  {
+    "aptNm": "삼익1",
     "dealAmount": "40,500",
     "date": "2026-08-29",
     "floor": 6,
     "area": 84.92
+  },
+  {
+    "aptNm": "한양수자인에듀힐즈",
+    "dealAmount": "91,500",
+    "date": "2026-08-29",
+    "floor": 15,
+    "area": 84.9544
   },
   {
     "aptNm": "삼익1",

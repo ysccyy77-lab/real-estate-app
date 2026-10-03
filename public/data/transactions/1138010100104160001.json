@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "DMC 진흥",
+    "dealAmount": "77,800",
+    "date": "2026-09-29",
+    "floor": 10,
+    "area": 57.5033
+  },
+  {
+    "aptNm": "DMC 진흥",
+    "dealAmount": "96,000",
+    "date": "2026-09-20",
+    "floor": 10,
+    "area": 106.423
+  },
+  {
+    "aptNm": "성서2영남우방타운",
+    "dealAmount": "26,200",
+    "date": "2026-09-09",
+    "floor": 11,
+    "area": 84.98
+  },
+  {
+    "aptNm": "석림중앙하이츠빌",
+    "dealAmount": "24,500",
+    "date": "2026-08-26",
+    "floor": 4,
+    "area": 84.9974
+  },
+  {
     "aptNm": "석림중앙하이츠빌",
     "dealAmount": "23,000",
     "date": "2026-08-16",

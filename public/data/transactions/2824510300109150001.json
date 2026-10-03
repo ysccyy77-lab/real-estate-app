@@ -1,10 +1,59 @@
 [
   {
     "aptNm": "까치마을한진",
+    "dealAmount": "16,000",
+    "date": "2026-09-29",
+    "floor": 18,
+    "area": 37.38
+  },
+  {
+    "aptNm": "까치마을한진",
+    "dealAmount": "12,000",
+    "date": "2026-09-15",
+    "floor": 1,
+    "area": 37.38
+  },
+  {
+    "aptNm": "까치마을태화",
+    "dealAmount": "14,400",
+    "date": "2026-09-14",
+    "floor": 16,
+    "area": 37.38
+  },
+  {
+    "aptNm": "까치마을한진",
+    "dealAmount": "15,300",
+    "date": "2026-09-14",
+    "floor": 7,
+    "area": 37.38
+  },
+  {
+    "aptNm": "까치마을태화",
+    "dealAmount": "15,500",
+    "date": "2026-09-10",
+    "floor": 15,
+    "area": 37.38
+  },
+  {
+    "aptNm": "까치마을태화",
+    "dealAmount": "15,600",
+    "date": "2026-09-05",
+    "floor": 4,
+    "area": 37.38
+  },
+  {
+    "aptNm": "까치마을한진",
     "dealAmount": "14,200",
     "date": "2026-09-03",
     "floor": 14,
     "area": 37.38
+  },
+  {
+    "aptNm": "까치마을한진",
+    "dealAmount": "28,900",
+    "date": "2026-09-03",
+    "floor": 7,
+    "area": 59.91
   },
   {
     "aptNm": "까치마을태화",

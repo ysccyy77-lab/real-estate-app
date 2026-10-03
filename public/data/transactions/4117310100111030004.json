@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "은하수신성",
+    "dealAmount": "124,000",
+    "date": "2026-08-28",
+    "floor": 7,
+    "area": 84.6
+  },
+  {
+    "aptNm": "은하수신성",
+    "dealAmount": "118,500",
+    "date": "2026-08-27",
+    "floor": 11,
+    "area": 84.6
+  },
+  {
+    "aptNm": "은하수신성",
     "dealAmount": "117,000",
     "date": "2026-07-17",
     "floor": 4,

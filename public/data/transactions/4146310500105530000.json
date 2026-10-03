@@ -1,6 +1,146 @@
 [
   {
     "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "36,000",
+    "date": "2026-10-02",
+    "floor": 17,
+    "area": 74.89
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "36,800",
+    "date": "2026-09-29",
+    "floor": 3,
+    "area": 84.88
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "39,900",
+    "date": "2026-09-28",
+    "floor": 8,
+    "area": 84.88
+  },
+  {
+    "aptNm": "브라운스톤부평",
+    "dealAmount": "47,400",
+    "date": "2026-09-27",
+    "floor": 18,
+    "area": 59.99
+  },
+  {
+    "aptNm": "쌍용스윗닷홈1",
+    "dealAmount": "39,000",
+    "date": "2026-09-18",
+    "floor": 20,
+    "area": 84.7388
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "33,900",
+    "date": "2026-09-17",
+    "floor": 22,
+    "area": 74.77
+  },
+  {
+    "aptNm": "쌍용스윗닷홈1",
+    "dealAmount": "40,500",
+    "date": "2026-09-15",
+    "floor": 1,
+    "area": 109.0784
+  },
+  {
+    "aptNm": "쌍용스윗닷홈1",
+    "dealAmount": "50,000",
+    "date": "2026-09-15",
+    "floor": 2,
+    "area": 139.8988
+  },
+  {
+    "aptNm": "쌍용스윗닷홈1",
+    "dealAmount": "40,900",
+    "date": "2026-09-14",
+    "floor": 11,
+    "area": 84.7388
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "31,000",
+    "date": "2026-09-14",
+    "floor": 24,
+    "area": 59.76
+  },
+  {
+    "aptNm": "쌍용스윗닷홈1",
+    "dealAmount": "39,800",
+    "date": "2026-09-11",
+    "floor": 9,
+    "area": 84.7388
+  },
+  {
+    "aptNm": "쌍용스윗닷홈1",
+    "dealAmount": "61,000",
+    "date": "2026-09-10",
+    "floor": 9,
+    "area": 164.0634
+  },
+  {
+    "aptNm": "쌍용스윗닷홈1",
+    "dealAmount": "46,900",
+    "date": "2026-09-09",
+    "floor": 3,
+    "area": 84.7388
+  },
+  {
+    "aptNm": "브라운스톤부평",
+    "dealAmount": "47,500",
+    "date": "2026-09-09",
+    "floor": 15,
+    "area": 59.99
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "37,200",
+    "date": "2026-09-09",
+    "floor": 3,
+    "area": 84.88
+  },
+  {
+    "aptNm": "쌍용스윗닷홈1",
+    "dealAmount": "38,500",
+    "date": "2026-09-07",
+    "floor": 19,
+    "area": 84.7388
+  },
+  {
+    "aptNm": "브라운스톤부평",
+    "dealAmount": "46,000",
+    "date": "2026-09-07",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "28,900",
+    "date": "2026-09-06",
+    "floor": 24,
+    "area": 59.96
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "37,300",
+    "date": "2026-09-05",
+    "floor": 14,
+    "area": 84.85
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
+    "dealAmount": "33,500",
+    "date": "2026-09-05",
+    "floor": 18,
+    "area": 74.77
+  },
+  {
+    "aptNm": "청주모충LH트릴로채",
     "dealAmount": "33,000",
     "date": "2026-09-03",
     "floor": 3,

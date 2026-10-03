@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "한라비발디",
+    "dealAmount": "25,000",
+    "date": "2026-10-01",
+    "floor": 10,
+    "area": 84.573
+  },
+  {
+    "aptNm": "현대4",
+    "dealAmount": "26,000",
+    "date": "2026-09-29",
+    "floor": 16,
+    "area": 59.985
+  },
+  {
+    "aptNm": "한라비발디",
+    "dealAmount": "26,000",
+    "date": "2026-09-20",
+    "floor": 10,
+    "area": 84.573
+  },
+  {
+    "aptNm": "한라비발디",
+    "dealAmount": "19,800",
+    "date": "2026-09-19",
+    "floor": 1,
+    "area": 59.958
+  },
+  {
+    "aptNm": "한라비발디",
+    "dealAmount": "25,000",
+    "date": "2026-09-18",
+    "floor": 9,
+    "area": 84.573
+  },
+  {
+    "aptNm": "한라비발디",
+    "dealAmount": "25,500",
+    "date": "2026-09-11",
+    "floor": 4,
+    "area": 84.573
+  },
+  {
+    "aptNm": "한라비발디",
     "dealAmount": "24,000",
     "date": "2026-09-01",
     "floor": 6,

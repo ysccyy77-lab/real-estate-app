@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "늘푸른",
+    "dealAmount": "12,000",
+    "date": "2026-09-10",
+    "floor": 5,
+    "area": 51.096
+  },
+  {
+    "aptNm": "늘푸른",
     "dealAmount": "14,600",
     "date": "2026-08-20",
     "floor": 20,

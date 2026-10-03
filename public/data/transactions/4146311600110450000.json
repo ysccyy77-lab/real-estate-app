@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "초당마을현진에버빌",
+    "dealAmount": "52,000",
+    "date": "2026-09-23",
+    "floor": 13,
+    "area": 101.611
+  },
+  {
+    "aptNm": "한국",
+    "dealAmount": "26,500",
+    "date": "2026-09-21",
+    "floor": 2,
+    "area": 84.23
+  },
+  {
+    "aptNm": "대원맨션",
+    "dealAmount": "13,800",
+    "date": "2026-09-17",
+    "floor": 9,
+    "area": 84.36
+  },
+  {
+    "aptNm": "한국",
+    "dealAmount": "26,500",
+    "date": "2026-09-12",
+    "floor": 5,
+    "area": 84.23
+  },
+  {
+    "aptNm": "초당마을현진에버빌",
     "dealAmount": "59,500",
     "date": "2026-09-01",
     "floor": 8,

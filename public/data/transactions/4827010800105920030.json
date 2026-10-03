@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대승빌라",
+    "dealAmount": "11,500",
+    "date": "2026-09-17",
+    "floor": 2,
+    "area": 84.6
+  },
+  {
+    "aptNm": "대승빌라",
     "dealAmount": "7,000",
     "date": "2026-04-20",
     "floor": 10,

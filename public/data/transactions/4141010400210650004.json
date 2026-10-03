@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "신안모란",
+    "dealAmount": "58,700",
+    "date": "2026-09-11",
+    "floor": 18,
+    "area": 66.16
+  },
+  {
+    "aptNm": "신안모란",
+    "dealAmount": "59,300",
+    "date": "2026-09-05",
+    "floor": 2,
+    "area": 66.16
+  },
+  {
+    "aptNm": "신안모란",
+    "dealAmount": "63,000",
+    "date": "2026-09-05",
+    "floor": 10,
+    "area": 66.16
+  },
+  {
+    "aptNm": "신안모란",
     "dealAmount": "65,500",
     "date": "2026-08-02",
     "floor": 22,

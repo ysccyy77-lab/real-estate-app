@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "신세대",
+    "dealAmount": "8,600",
+    "date": "2026-09-27",
+    "floor": 15,
+    "area": 59.94
+  },
+  {
+    "aptNm": "신세대",
+    "dealAmount": "9,000",
+    "date": "2026-09-21",
+    "floor": 10,
+    "area": 59.94
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "36,000",
+    "date": "2026-09-07",
+    "floor": 9,
+    "area": 84.95
+  },
+  {
     "aptNm": "쌍용",
     "dealAmount": "36,000",
     "date": "2026-08-26",

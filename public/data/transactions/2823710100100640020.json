@@ -1,5 +1,61 @@
 [
   {
+    "aptNm": "금정빌리지",
+    "dealAmount": "21,000",
+    "date": "2026-09-28",
+    "floor": 9,
+    "area": 81.59
+  },
+  {
+    "aptNm": "대림1차",
+    "dealAmount": "22,800",
+    "date": "2026-09-21",
+    "floor": 12,
+    "area": 50.155
+  },
+  {
+    "aptNm": "대림1차",
+    "dealAmount": "23,600",
+    "date": "2026-09-21",
+    "floor": 7,
+    "area": 50.155
+  },
+  {
+    "aptNm": "대림1차",
+    "dealAmount": "25,000",
+    "date": "2026-09-17",
+    "floor": 7,
+    "area": 50.155
+  },
+  {
+    "aptNm": "대림1차",
+    "dealAmount": "21,100",
+    "date": "2026-09-16",
+    "floor": 4,
+    "area": 50.155
+  },
+  {
+    "aptNm": "대림1차",
+    "dealAmount": "22,000",
+    "date": "2026-09-12",
+    "floor": 5,
+    "area": 50.155
+  },
+  {
+    "aptNm": "대림1차",
+    "dealAmount": "31,000",
+    "date": "2026-09-07",
+    "floor": 15,
+    "area": 76.388
+  },
+  {
+    "aptNm": "대림1차",
+    "dealAmount": "35,000",
+    "date": "2026-09-04",
+    "floor": 9,
+    "area": 84.998
+  },
+  {
     "aptNm": "대림1차",
     "dealAmount": "32,700",
     "date": "2026-08-07",

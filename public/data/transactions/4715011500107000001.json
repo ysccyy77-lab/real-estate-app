@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "현대",
+    "dealAmount": "127,000",
+    "date": "2026-09-29",
+    "floor": 15,
+    "area": 84.51
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "101,000",
+    "date": "2026-09-16",
+    "floor": 15,
+    "area": 60.03
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "107,000",
+    "date": "2026-09-16",
+    "floor": 5,
+    "area": 60.03
+  },
+  {
+    "aptNm": "건화동부",
+    "dealAmount": "6,000",
+    "date": "2026-08-30",
+    "floor": 6,
+    "area": 59.82
+  },
+  {
+    "aptNm": "현대",
     "dealAmount": "108,000",
     "date": "2026-08-26",
     "floor": 9,

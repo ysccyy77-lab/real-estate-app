@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "현대세솔",
+    "dealAmount": "7,700",
+    "date": "2026-09-18",
+    "floor": 11,
+    "area": 59.976
+  },
+  {
+    "aptNm": "현대세솔",
+    "dealAmount": "8,600",
+    "date": "2026-09-11",
+    "floor": 11,
+    "area": 59.976
+  },
+  {
+    "aptNm": "현대세솔",
+    "dealAmount": "14,000",
+    "date": "2026-09-07",
+    "floor": 15,
+    "area": 84.964
+  },
+  {
+    "aptNm": "신흥마을주공",
+    "dealAmount": "24,500",
+    "date": "2026-09-04",
+    "floor": 13,
+    "area": 59.92
+  },
+  {
+    "aptNm": "신흥마을주공",
+    "dealAmount": "23,500",
+    "date": "2026-09-02",
+    "floor": 10,
+    "area": 59.44
+  },
+  {
     "aptNm": "아도훼밀리",
     "dealAmount": "4,800",
     "date": "2026-08-30",

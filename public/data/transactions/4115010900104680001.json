@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "청솔",
+    "dealAmount": "11,800",
+    "date": "2026-09-18",
+    "floor": 10,
+    "area": 59.81
+  },
+  {
+    "aptNm": "아람파크빌",
+    "dealAmount": "9,000",
+    "date": "2026-09-15",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "아람파크빌",
+    "dealAmount": "5,000",
+    "date": "2026-08-29",
+    "floor": 9,
+    "area": 40.32
+  },
+  {
+    "aptNm": "청솔",
     "dealAmount": "9,500",
     "date": "2026-08-16",
     "floor": 4,

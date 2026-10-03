@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "쌍용2단지",
+    "dealAmount": "8,950",
+    "date": "2026-09-29",
+    "floor": 1,
+    "area": 59.85
+  },
+  {
+    "aptNm": "쌍용2단지",
     "dealAmount": "5,800",
     "date": "2026-07-28",
     "floor": 4,

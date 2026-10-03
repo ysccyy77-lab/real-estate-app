@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "인정프린스1",
+    "dealAmount": "15,300",
+    "date": "2026-09-19",
+    "floor": 8,
+    "area": 49.36
+  },
+  {
+    "aptNm": "인정프린스1",
+    "dealAmount": "19,700",
+    "date": "2026-09-13",
+    "floor": 1,
+    "area": 59.93
+  },
+  {
+    "aptNm": "인정프린스1",
+    "dealAmount": "17,800",
+    "date": "2026-09-07",
+    "floor": 11,
+    "area": 49.36
+  },
+  {
+    "aptNm": "인정프린스1",
+    "dealAmount": "17,500",
+    "date": "2026-09-06",
+    "floor": 2,
+    "area": 59.93
+  },
+  {
+    "aptNm": "인정프린스1",
     "dealAmount": "21,300",
     "date": "2026-08-28",
     "floor": 10,

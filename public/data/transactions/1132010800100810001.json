@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "극동",
+    "dealAmount": "50,000",
+    "date": "2026-09-22",
+    "floor": 6,
+    "area": 84.83
+  },
+  {
+    "aptNm": "류진시티",
+    "dealAmount": "10,500",
+    "date": "2026-09-19",
+    "floor": 6,
+    "area": 38.4
+  },
+  {
+    "aptNm": "류진시티",
+    "dealAmount": "10,200",
+    "date": "2026-09-11",
+    "floor": 6,
+    "area": 38.4
+  },
+  {
     "aptNm": "일성계룡빌라3동",
     "dealAmount": "3,000",
     "date": "2026-08-31",
     "floor": 2,
     "area": 57.27
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "54,000",
+    "date": "2026-08-29",
+    "floor": 14,
+    "area": 84.83
   },
   {
     "aptNm": "극동",

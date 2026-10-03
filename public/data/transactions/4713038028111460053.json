@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "양지타워빌",
+    "dealAmount": "5,400",
+    "date": "2026-09-04",
+    "floor": 9,
+    "area": 75.75
+  },
+  {
+    "aptNm": "양지타워빌",
     "dealAmount": "5,350",
     "date": "2026-08-25",
     "floor": 13,

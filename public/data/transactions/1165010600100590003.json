@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한양5",
+    "dealAmount": "49,500",
+    "date": "2026-09-18",
+    "floor": 11,
+    "area": 65.37
+  },
+  {
+    "aptNm": "한양5",
     "dealAmount": "44,900",
     "date": "2026-07-23",
     "floor": 17,

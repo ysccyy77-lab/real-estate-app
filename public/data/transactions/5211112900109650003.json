@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대우DC대창",
+    "dealAmount": "29,800",
+    "date": "2026-09-29",
+    "floor": 4,
+    "area": 84.59
+  },
+  {
+    "aptNm": "대우DC대창",
+    "dealAmount": "30,250",
+    "date": "2026-09-29",
+    "floor": 5,
+    "area": 84.59
+  },
+  {
+    "aptNm": "대우DC대창",
     "dealAmount": "31,800",
     "date": "2026-08-26",
     "floor": 7,

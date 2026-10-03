@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동서훼밀리",
+    "dealAmount": "8,900",
+    "date": "2026-09-29",
+    "floor": 5,
+    "area": 55.89
+  },
+  {
+    "aptNm": "동서훼밀리",
     "dealAmount": "6,650",
     "date": "2026-04-15",
     "floor": 2,

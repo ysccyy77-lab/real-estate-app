@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "우림",
+    "dealAmount": "7,000",
+    "date": "2026-09-29",
+    "floor": 1,
+    "area": 39.84
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "8,500",
+    "date": "2026-09-08",
+    "floor": 1,
+    "area": 49.973
+  },
+  {
+    "aptNm": "우림",
+    "dealAmount": "9,600",
+    "date": "2026-09-02",
+    "floor": 4,
+    "area": 49.973
+  },
+  {
     "aptNm": "백조",
     "dealAmount": "4,500",
     "date": "2026-08-24",

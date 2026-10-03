@@ -1,5 +1,131 @@
 [
   {
+    "aptNm": "신명그린(가,나)",
+    "dealAmount": "5,000",
+    "date": "2026-10-01",
+    "floor": 2,
+    "area": 66.78
+  },
+  {
+    "aptNm": "부영(1차)",
+    "dealAmount": "12,500",
+    "date": "2026-09-30",
+    "floor": 11,
+    "area": 60
+  },
+  {
+    "aptNm": "부영(1차)",
+    "dealAmount": "12,200",
+    "date": "2026-09-23",
+    "floor": 10,
+    "area": 60
+  },
+  {
+    "aptNm": "신명그린(가,나)",
+    "dealAmount": "2,000",
+    "date": "2026-09-22",
+    "floor": 5,
+    "area": 66.78
+  },
+  {
+    "aptNm": "원주신일유토빌",
+    "dealAmount": "22,000",
+    "date": "2026-09-21",
+    "floor": 11,
+    "area": 84.79
+  },
+  {
+    "aptNm": "부영(1차)",
+    "dealAmount": "9,500",
+    "date": "2026-09-18",
+    "floor": 15,
+    "area": 50.49
+  },
+  {
+    "aptNm": "부영(1차)",
+    "dealAmount": "13,500",
+    "date": "2026-09-18",
+    "floor": 6,
+    "area": 60
+  },
+  {
+    "aptNm": "원주신일유토빌",
+    "dealAmount": "17,000",
+    "date": "2026-09-16",
+    "floor": 19,
+    "area": 59.727
+  },
+  {
+    "aptNm": "초안산신도브래뉴",
+    "dealAmount": "59,500",
+    "date": "2026-09-15",
+    "floor": 3,
+    "area": 80.0192
+  },
+  {
+    "aptNm": "부영(1차)",
+    "dealAmount": "12,700",
+    "date": "2026-09-15",
+    "floor": 3,
+    "area": 60
+  },
+  {
+    "aptNm": "영등3차제일아파트",
+    "dealAmount": "12,500",
+    "date": "2026-09-11",
+    "floor": 12,
+    "area": 59.77
+  },
+  {
+    "aptNm": "원주신일유토빌",
+    "dealAmount": "20,600",
+    "date": "2026-09-10",
+    "floor": 19,
+    "area": 84.79
+  },
+  {
+    "aptNm": "영등3차제일아파트",
+    "dealAmount": "16,000",
+    "date": "2026-09-09",
+    "floor": 13,
+    "area": 59.77
+  },
+  {
+    "aptNm": "원주신일유토빌",
+    "dealAmount": "20,000",
+    "date": "2026-09-07",
+    "floor": 14,
+    "area": 84.79
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "7,350",
+    "date": "2026-09-07",
+    "floor": 1,
+    "area": 37.2
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "5,050",
+    "date": "2026-09-04",
+    "floor": 3,
+    "area": 28.38
+  },
+  {
+    "aptNm": "원주신일유토빌",
+    "dealAmount": "22,000",
+    "date": "2026-09-03",
+    "floor": 15,
+    "area": 84.79
+  },
+  {
+    "aptNm": "부영(1차)",
+    "dealAmount": "10,700",
+    "date": "2026-09-03",
+    "floor": 9,
+    "area": 50.49
+  },
+  {
     "aptNm": "초안산신도브래뉴",
     "dealAmount": "65,000",
     "date": "2026-09-02",
@@ -8,10 +134,24 @@
   },
   {
     "aptNm": "원주신일유토빌",
+    "dealAmount": "20,500",
+    "date": "2026-09-02",
+    "floor": 7,
+    "area": 84.79
+  },
+  {
+    "aptNm": "원주신일유토빌",
     "dealAmount": "22,200",
     "date": "2026-08-30",
     "floor": 12,
     "area": 84.79
+  },
+  {
+    "aptNm": "월촌화성타운",
+    "dealAmount": "19,900",
+    "date": "2026-08-30",
+    "floor": 6,
+    "area": 59.97
   },
   {
     "aptNm": "동보",

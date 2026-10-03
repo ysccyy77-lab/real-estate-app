@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "GS하이츠자이",
+    "dealAmount": "88,000",
+    "date": "2026-09-18",
+    "floor": 27,
+    "area": 84.9016
+  },
+  {
+    "aptNm": "GS하이츠자이",
+    "dealAmount": "89,500",
+    "date": "2026-09-15",
+    "floor": 20,
+    "area": 84.7841
+  },
+  {
+    "aptNm": "GS하이츠자이",
+    "dealAmount": "136,500",
+    "date": "2026-09-06",
+    "floor": 27,
+    "area": 171.5082
+  },
+  {
+    "aptNm": "GS하이츠자이",
+    "dealAmount": "73,000",
+    "date": "2026-09-04",
+    "floor": 2,
+    "area": 84.9016
+  },
+  {
     "aptNm": "삼성",
     "dealAmount": "27,000",
     "date": "2026-09-03",
@@ -8,10 +36,24 @@
   },
   {
     "aptNm": "대동청솔",
+    "dealAmount": "25,000",
+    "date": "2026-09-02",
+    "floor": 10,
+    "area": 85
+  },
+  {
+    "aptNm": "대동청솔",
     "dealAmount": "23,200",
     "date": "2026-08-22",
     "floor": 9,
     "area": 85
+  },
+  {
+    "aptNm": "GS하이츠자이",
+    "dealAmount": "164,000",
+    "date": "2026-08-22",
+    "floor": 20,
+    "area": 171.5082
   },
   {
     "aptNm": "태평맨션",

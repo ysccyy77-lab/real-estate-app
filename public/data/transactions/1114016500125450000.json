@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "롯데캐슬",
+    "dealAmount": "110,500",
+    "date": "2026-09-16",
+    "floor": 15,
+    "area": 59.94
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "117,500",
+    "date": "2026-09-13",
+    "floor": 19,
+    "area": 59.94
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "140,000",
+    "date": "2026-09-12",
+    "floor": 33,
+    "area": 84.89
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "127,000",
+    "date": "2026-09-08",
+    "floor": 17,
+    "area": 84.92
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "130,000",
+    "date": "2026-09-07",
+    "floor": 11,
+    "area": 84.89
+  },
+  {
+    "aptNm": "롯데캐슬",
+    "dealAmount": "112,000",
+    "date": "2026-09-05",
+    "floor": 29,
+    "area": 59.91
+  },
+  {
+    "aptNm": "롯데캐슬",
     "dealAmount": "139,000",
     "date": "2026-07-23",
     "floor": 22,

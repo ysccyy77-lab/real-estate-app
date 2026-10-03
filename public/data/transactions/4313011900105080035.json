@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "새한",
+    "dealAmount": "8,900",
+    "date": "2026-09-29",
+    "floor": 10,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "8,900",
+    "date": "2026-09-14",
+    "floor": 7,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "10,700",
+    "date": "2026-09-06",
+    "floor": 4,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "9,250",
+    "date": "2026-09-04",
+    "floor": 8,
+    "area": 59.94
+  },
+  {
+    "aptNm": "새한",
     "dealAmount": "9,650",
     "date": "2026-08-29",
     "floor": 1,

@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "모아엘가",
+    "dealAmount": "18,000",
+    "date": "2026-09-15",
+    "floor": 6,
+    "area": 69.8455
+  },
+  {
+    "aptNm": "모아엘가",
+    "dealAmount": "17,700",
+    "date": "2026-09-12",
+    "floor": 15,
+    "area": 69.8455
+  },
+  {
+    "aptNm": "모아엘가",
+    "dealAmount": "18,000",
+    "date": "2026-09-07",
+    "floor": 10,
+    "area": 69.8455
+  },
+  {
+    "aptNm": "모아엘가",
+    "dealAmount": "17,100",
+    "date": "2026-08-30",
+    "floor": 5,
+    "area": 69.8455
+  },
+  {
+    "aptNm": "모아엘가",
     "dealAmount": "17,700",
     "date": "2026-08-06",
     "floor": 11,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "진흥W-park",
+    "dealAmount": "19,500",
+    "date": "2026-09-05",
+    "floor": 9,
+    "area": 84.958
+  },
+  {
+    "aptNm": "진흥W-park",
     "dealAmount": "20,000",
     "date": "2026-08-05",
     "floor": 9,

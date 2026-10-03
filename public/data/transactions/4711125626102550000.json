@@ -1,5 +1,75 @@
 [
   {
+    "aptNm": "증평삼일",
+    "dealAmount": "8,300",
+    "date": "2026-09-28",
+    "floor": 8,
+    "area": 59.9
+  },
+  {
+    "aptNm": "세종청정아파트",
+    "dealAmount": "18,000",
+    "date": "2026-09-22",
+    "floor": 8,
+    "area": 59.858
+  },
+  {
+    "aptNm": "증평삼일",
+    "dealAmount": "11,300",
+    "date": "2026-09-22",
+    "floor": 4,
+    "area": 84.95
+  },
+  {
+    "aptNm": "라인",
+    "dealAmount": "7,600",
+    "date": "2026-09-18",
+    "floor": 10,
+    "area": 59.93
+  },
+  {
+    "aptNm": "증평삼일",
+    "dealAmount": "7,000",
+    "date": "2026-09-14",
+    "floor": 5,
+    "area": 59.9
+  },
+  {
+    "aptNm": "포항자이애서턴",
+    "dealAmount": "52,500",
+    "date": "2026-09-13",
+    "floor": 19,
+    "area": 84.9253
+  },
+  {
+    "aptNm": "증평삼일",
+    "dealAmount": "15,000",
+    "date": "2026-09-12",
+    "floor": 15,
+    "area": 84.95
+  },
+  {
+    "aptNm": "포항자이애서턴",
+    "dealAmount": "54,465",
+    "date": "2026-09-07",
+    "floor": 2,
+    "area": 84.9684
+  },
+  {
+    "aptNm": "증평삼일",
+    "dealAmount": "8,000",
+    "date": "2026-09-03",
+    "floor": 10,
+    "area": 59.9
+  },
+  {
+    "aptNm": "라인",
+    "dealAmount": "12,900",
+    "date": "2026-09-02",
+    "floor": 2,
+    "area": 84.89
+  },
+  {
     "aptNm": "세종청정아파트",
     "dealAmount": "9,400",
     "date": "2026-08-14",

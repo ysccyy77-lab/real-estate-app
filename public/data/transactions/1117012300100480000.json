@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "선산주공",
+    "dealAmount": "4,500",
+    "date": "2026-09-22",
+    "floor": 15,
+    "area": 49.71
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "231,500",
+    "date": "2026-09-15",
+    "floor": 4,
+    "area": 80.29
+  },
+  {
+    "aptNm": "봉림",
+    "dealAmount": "16,900",
+    "date": "2026-09-10",
+    "floor": 2,
+    "area": 53.67
+  },
+  {
+    "aptNm": "용산e편한세상",
+    "dealAmount": "248,000",
+    "date": "2026-09-02",
+    "floor": 11,
+    "area": 84.89
+  },
+  {
     "aptNm": "삼익",
     "dealAmount": "25,000",
     "date": "2026-09-01",

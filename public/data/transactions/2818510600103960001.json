@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "세종그랑시아",
+    "dealAmount": "6,600",
+    "date": "2026-09-12",
+    "floor": 14,
+    "area": 59.69
+  },
+  {
+    "aptNm": "송도LuxeOceanSKVIEW",
+    "dealAmount": "95,000",
+    "date": "2026-09-09",
+    "floor": 22,
+    "area": 84.9987
+  },
+  {
+    "aptNm": "해맞이그린빌2단지",
+    "dealAmount": "14,500",
+    "date": "2026-09-02",
+    "floor": 19,
+    "area": 59.99
+  },
+  {
+    "aptNm": "세종그랑시아",
+    "dealAmount": "6,800",
+    "date": "2026-09-02",
+    "floor": 5,
+    "area": 59.69
+  },
+  {
+    "aptNm": "대옥",
+    "dealAmount": "8,300",
+    "date": "2026-09-01",
+    "floor": 1,
+    "area": 70.17
+  },
+  {
     "aptNm": "해맞이그린빌2단지",
     "dealAmount": "15,500",
     "date": "2026-08-31",
@@ -12,6 +47,13 @@
     "date": "2026-08-31",
     "floor": 11,
     "area": 59.69
+  },
+  {
+    "aptNm": "해맞이그린빌2단지",
+    "dealAmount": "16,000",
+    "date": "2026-08-28",
+    "floor": 22,
+    "area": 59.97
   },
   {
     "aptNm": "해맞이그린빌2단지",

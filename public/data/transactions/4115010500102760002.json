@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "웰링턴",
+    "dealAmount": "16,500",
+    "date": "2026-09-21",
+    "floor": 4,
+    "area": 44.6585
+  },
+  {
+    "aptNm": "웰링턴",
     "dealAmount": "16,000",
     "date": "2026-08-17",
     "floor": 18,

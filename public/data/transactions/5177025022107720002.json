@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "북실주공",
+    "dealAmount": "3,650",
+    "date": "2026-10-02",
+    "floor": 4,
+    "area": 39.3
+  },
+  {
+    "aptNm": "현대(772-2)",
+    "dealAmount": "15,050",
+    "date": "2026-09-07",
+    "floor": 1,
+    "area": 43.47
+  },
+  {
+    "aptNm": "북실주공",
     "dealAmount": "4,150",
     "date": "2026-08-13",
     "floor": 5,

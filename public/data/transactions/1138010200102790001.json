@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "선경2차",
+    "dealAmount": "55,500",
+    "date": "2026-09-29",
+    "floor": 5,
+    "area": 49.98
+  },
+  {
+    "aptNm": "동인(279-1)",
+    "dealAmount": "21,000",
+    "date": "2026-09-11",
+    "floor": 4,
+    "area": 78.02
+  },
+  {
+    "aptNm": "풍진",
+    "dealAmount": "6,800",
+    "date": "2026-09-11",
+    "floor": 1,
+    "area": 83.68
+  },
+  {
+    "aptNm": "동인(279-1)",
+    "dealAmount": "20,500",
+    "date": "2026-09-02",
+    "floor": 5,
+    "area": 78.02
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "54,700",
+    "date": "2026-09-01",
+    "floor": 5,
+    "area": 49.98
+  },
+  {
     "aptNm": "빌리브죽전",
     "dealAmount": "52,000",
     "date": "2026-08-31",
     "floor": 13,
     "area": 84.996
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "45,000",
+    "date": "2026-08-31",
+    "floor": 1,
+    "area": 49.98
   },
   {
     "aptNm": "선경2차",
@@ -15,9 +57,23 @@
   },
   {
     "aptNm": "선경2차",
+    "dealAmount": "56,000",
+    "date": "2026-08-27",
+    "floor": 4,
+    "area": 49.98
+  },
+  {
+    "aptNm": "선경2차",
     "dealAmount": "54,800",
     "date": "2026-08-22",
     "floor": 5,
+    "area": 49.98
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "54,000",
+    "date": "2026-08-22",
+    "floor": 11,
     "area": 49.98
   },
   {
@@ -291,6 +347,13 @@
     "dealAmount": "52,000",
     "date": "2026-05-09",
     "floor": 7,
+    "area": 49.98
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "47,900",
+    "date": "2026-05-09",
+    "floor": 2,
     "area": 49.98
   },
   {

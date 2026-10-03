@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "무지개",
+    "dealAmount": "13,000",
+    "date": "2026-09-14",
+    "floor": 11,
+    "area": 39.2
+  },
+  {
+    "aptNm": "무지개",
     "dealAmount": "14,100",
     "date": "2026-08-17",
     "floor": 7,

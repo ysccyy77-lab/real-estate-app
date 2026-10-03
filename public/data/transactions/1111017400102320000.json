@@ -1,10 +1,59 @@
 [
   {
     "aptNm": "성원",
+    "dealAmount": "59,800",
+    "date": "2026-09-11",
+    "floor": 5,
+    "area": 133.44
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "51,000",
+    "date": "2026-09-11",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "49,700",
+    "date": "2026-09-11",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "100,000",
+    "date": "2026-09-04",
+    "floor": 22,
+    "area": 59.95
+  },
+  {
+    "aptNm": "진해자이",
+    "dealAmount": "27,500",
+    "date": "2026-09-01",
+    "floor": 4,
+    "area": 84.9407
+  },
+  {
+    "aptNm": "역촌센트레빌",
+    "dealAmount": "78,000",
+    "date": "2026-08-28",
+    "floor": 11,
+    "area": 84.99
+  },
+  {
+    "aptNm": "성원",
     "dealAmount": "47,000",
     "date": "2026-08-22",
     "floor": 1,
     "area": 84.96
+  },
+  {
+    "aptNm": "역촌센트레빌",
+    "dealAmount": "73,500",
+    "date": "2026-08-21",
+    "floor": 9,
+    "area": 84.89
   },
   {
     "aptNm": "역촌센트레빌",

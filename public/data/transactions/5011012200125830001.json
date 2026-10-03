@@ -1,9 +1,44 @@
 [
   {
     "aptNm": "노형뜨란채",
+    "dealAmount": "58,000",
+    "date": "2026-09-29",
+    "floor": 10,
+    "area": 84.67
+  },
+  {
+    "aptNm": "노형뜨란채",
+    "dealAmount": "61,500",
+    "date": "2026-09-22",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "노형뜨란채",
+    "dealAmount": "58,000",
+    "date": "2026-09-20",
+    "floor": 4,
+    "area": 75.65
+  },
+  {
+    "aptNm": "노형뜨란채",
+    "dealAmount": "59,000",
+    "date": "2026-09-15",
+    "floor": 6,
+    "area": 84.67
+  },
+  {
+    "aptNm": "노형뜨란채",
     "dealAmount": "62,800",
     "date": "2026-08-27",
     "floor": 6,
+    "area": 84.98
+  },
+  {
+    "aptNm": "노형뜨란채",
+    "dealAmount": "61,500",
+    "date": "2026-08-15",
+    "floor": 11,
     "area": 84.98
   },
   {
