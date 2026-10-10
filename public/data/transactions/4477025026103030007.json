@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신흥",
+    "dealAmount": "5,200",
+    "date": "2026-10-06",
+    "floor": 13,
+    "area": 59.69
+  },
+  {
+    "aptNm": "신흥",
     "dealAmount": "5,800",
     "date": "2026-07-11",
     "floor": 9,

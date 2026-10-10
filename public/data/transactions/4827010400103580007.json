@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "세광맨션",
+    "dealAmount": "10,300",
+    "date": "2026-10-05",
+    "floor": 20,
+    "area": 77.13
+  },
+  {
+    "aptNm": "세광맨션",
     "dealAmount": "9,900",
     "date": "2026-09-11",
     "floor": 3,

@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "우성",
+    "dealAmount": "10,400",
+    "date": "2026-10-06",
+    "floor": 1,
+    "area": 59.78
+  },
+  {
+    "aptNm": "효자2차롯데",
+    "dealAmount": "16,000",
+    "date": "2026-10-06",
+    "floor": 10,
+    "area": 59.94
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "52,800",
+    "date": "2026-10-03",
+    "floor": 21,
+    "area": 84.052
+  },
+  {
+    "aptNm": "e편한세상지제역",
+    "dealAmount": "52,200",
+    "date": "2026-10-01",
+    "floor": 5,
+    "area": 84.8086
+  },
+  {
     "aptNm": "e편한세상지제역",
     "dealAmount": "51,500",
     "date": "2026-09-28",

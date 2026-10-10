@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "푸르지오",
+    "dealAmount": "36,000",
+    "date": "2026-10-04",
+    "floor": 5,
+    "area": 84.9356
+  },
+  {
+    "aptNm": "푸르지오",
+    "dealAmount": "31,500",
+    "date": "2026-09-23",
+    "floor": 9,
+    "area": 59.9211
+  },
+  {
+    "aptNm": "푸르지오",
+    "dealAmount": "36,500",
+    "date": "2026-09-21",
+    "floor": 5,
+    "area": 84.9356
+  },
+  {
+    "aptNm": "푸르지오",
     "dealAmount": "32,700",
     "date": "2026-08-26",
     "floor": 7,

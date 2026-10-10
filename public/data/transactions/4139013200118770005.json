@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "보성",
+    "dealAmount": "13,900",
+    "date": "2026-10-05",
+    "floor": 4,
+    "area": 33.4
+  },
+  {
+    "aptNm": "보성",
     "dealAmount": "21,000",
     "date": "2026-07-29",
     "floor": 2,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "명성",
+    "dealAmount": "7,800",
+    "date": "2026-10-06",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
+    "aptNm": "명성",
     "dealAmount": "5,200",
     "date": "2026-09-29",
     "floor": 2,

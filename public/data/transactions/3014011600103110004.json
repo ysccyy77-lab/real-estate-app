@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "송곡그린",
+    "dealAmount": "15,200",
+    "date": "2026-10-07",
+    "floor": 15,
+    "area": 59.85
+  },
+  {
+    "aptNm": "송곡그린",
     "dealAmount": "13,300",
     "date": "2026-08-12",
     "floor": 2,

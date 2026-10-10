@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "진해자이",
+    "dealAmount": "32,700",
+    "date": "2026-10-02",
+    "floor": 15,
+    "area": 84.9407
+  },
+  {
+    "aptNm": "새한그린파크",
+    "dealAmount": "9,800",
+    "date": "2026-09-28",
+    "floor": 16,
+    "area": 60
+  },
+  {
+    "aptNm": "역촌센트레빌",
+    "dealAmount": "79,000",
+    "date": "2026-09-23",
+    "floor": 15,
+    "area": 84.84
+  },
+  {
+    "aptNm": "역촌센트레빌",
+    "dealAmount": "78,000",
+    "date": "2026-09-19",
+    "floor": 4,
+    "area": 84.89
+  },
+  {
     "aptNm": "성원",
     "dealAmount": "59,800",
     "date": "2026-09-11",

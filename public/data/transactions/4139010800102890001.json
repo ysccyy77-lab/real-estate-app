@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동진아파트",
+    "dealAmount": "4,300",
+    "date": "2026-10-06",
+    "floor": 8,
+    "area": 39.9
+  },
+  {
+    "aptNm": "동진아파트",
     "dealAmount": "8,000",
     "date": "2026-09-11",
     "floor": 5,

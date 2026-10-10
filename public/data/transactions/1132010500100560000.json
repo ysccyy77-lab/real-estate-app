@@ -1,10 +1,45 @@
 [
   {
     "aptNm": "삼익세라믹",
+    "dealAmount": "62,900",
+    "date": "2026-10-06",
+    "floor": 8,
+    "area": 79.98
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "49,000",
+    "date": "2026-10-06",
+    "floor": 9,
+    "area": 58.77
+  },
+  {
+    "aptNm": "삼익세라믹",
+    "dealAmount": "35,000",
+    "date": "2026-10-02",
+    "floor": 6,
+    "area": 42.93
+  },
+  {
+    "aptNm": "삼익세라믹",
     "dealAmount": "65,500",
     "date": "2026-09-23",
     "floor": 13,
     "area": 79.98
+  },
+  {
+    "aptNm": "현대(고덕)",
+    "dealAmount": "184,000",
+    "date": "2026-09-23",
+    "floor": 13,
+    "area": 84.91
+  },
+  {
+    "aptNm": "우창진주1",
+    "dealAmount": "7,100",
+    "date": "2026-09-20",
+    "floor": 10,
+    "area": 59.955
   },
   {
     "aptNm": "삼익세라믹",

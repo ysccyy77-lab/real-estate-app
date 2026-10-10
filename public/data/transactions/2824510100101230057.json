@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "태산",
+    "dealAmount": "21,500",
+    "date": "2026-10-04",
+    "floor": 8,
+    "area": 59.96
+  },
+  {
+    "aptNm": "태산",
     "dealAmount": "21,300",
     "date": "2026-09-19",
     "floor": 6,

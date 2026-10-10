@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "벽산블루밍B",
+    "dealAmount": "37,500",
+    "date": "2026-10-07",
+    "floor": 1,
+    "area": 84.905
+  },
+  {
+    "aptNm": "동안마을(주공3단지)",
+    "dealAmount": "18,200",
+    "date": "2026-10-03",
+    "floor": 10,
+    "area": 59.27
+  },
+  {
+    "aptNm": "해뜨는마을",
+    "dealAmount": "5,800",
+    "date": "2026-10-03",
+    "floor": 19,
+    "area": 39.87
+  },
+  {
+    "aptNm": "벽산블루밍B",
     "dealAmount": "24,000",
     "date": "2026-10-01",
     "floor": 4,

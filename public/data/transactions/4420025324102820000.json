@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "성원",
+    "dealAmount": "9,700",
+    "date": "2026-10-07",
+    "floor": 4,
+    "area": 58.32
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "9,500",
+    "date": "2026-10-02",
+    "floor": 13,
+    "area": 58.32
+  },
+  {
     "aptNm": "배방삼정그린코아",
     "dealAmount": "12,500",
     "date": "2026-10-01",
     "floor": 17,
     "area": 47.67
+  },
+  {
+    "aptNm": "힐스테이트녹번",
+    "dealAmount": "130,000",
+    "date": "2026-09-22",
+    "floor": 9,
+    "area": 59.9
   },
   {
     "aptNm": "성원",

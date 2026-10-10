@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "신포천",
+    "dealAmount": "4,500",
+    "date": "2026-10-04",
+    "floor": 1,
+    "area": 44.22
+  },
+  {
+    "aptNm": "신포천",
     "dealAmount": "4,800",
     "date": "2026-10-01",
     "floor": 15,
+    "area": 50.67
+  },
+  {
+    "aptNm": "신포천",
+    "dealAmount": "5,050",
+    "date": "2026-09-29",
+    "floor": 2,
     "area": 50.67
   },
   {

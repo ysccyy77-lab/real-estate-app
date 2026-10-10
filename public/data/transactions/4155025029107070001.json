@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신안주공2",
+    "dealAmount": "10,500",
+    "date": "2026-09-28",
+    "floor": 5,
+    "area": 39.99
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "12,000",
+    "date": "2026-09-21",
+    "floor": 11,
+    "area": 59.38
+  },
+  {
+    "aptNm": "신안주공2",
     "dealAmount": "15,500",
     "date": "2026-09-17",
     "floor": 2,

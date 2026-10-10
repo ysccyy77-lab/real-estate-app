@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "파크맨션",
+    "dealAmount": "10,200",
+    "date": "2026-10-06",
+    "floor": 2,
+    "area": 52.24
+  },
+  {
+    "aptNm": "파크맨션",
     "dealAmount": "13,500",
     "date": "2026-07-15",
     "floor": 10,

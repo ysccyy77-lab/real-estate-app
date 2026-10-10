@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "아이유파크(IU-PARK)",
+    "dealAmount": "28,000",
+    "date": "2026-10-07",
+    "floor": 2,
+    "area": 64.7547
+  },
+  {
+    "aptNm": "아이유파크(IU-PARK)",
     "dealAmount": "29,400",
     "date": "2026-08-22",
     "floor": 4,

@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "덕일",
+    "dealAmount": "6,600",
+    "date": "2026-09-30",
+    "floor": 6,
+    "area": 59.94
+  },
+  {
+    "aptNm": "덕일",
     "dealAmount": "7,450",
     "date": "2026-09-29",
     "floor": 11,
     "area": 59.94
+  },
+  {
+    "aptNm": "금호어울림",
+    "dealAmount": "68,000",
+    "date": "2026-09-29",
+    "floor": 4,
+    "area": 59.97
   },
   {
     "aptNm": "대창",

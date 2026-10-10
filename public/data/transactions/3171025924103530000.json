@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "동원",
+    "dealAmount": "10,400",
+    "date": "2026-10-07",
+    "floor": 1,
+    "area": 49.2911
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "30,000",
+    "date": "2026-10-03",
+    "floor": 9,
+    "area": 84.4
+  },
+  {
+    "aptNm": "주공2",
+    "dealAmount": "11,500",
+    "date": "2026-09-29",
+    "floor": 8,
+    "area": 58.74
+  },
+  {
     "aptNm": "우방",
     "dealAmount": "60,000",
     "date": "2026-09-19",
@@ -14,10 +35,24 @@
     "area": 59.92
   },
   {
+    "aptNm": "대동",
+    "dealAmount": "27,000",
+    "date": "2026-09-17",
+    "floor": 6,
+    "area": 73.36
+  },
+  {
     "aptNm": "우방",
     "dealAmount": "71,000",
     "date": "2026-09-12",
     "floor": 13,
+    "area": 83.12
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "72,000",
+    "date": "2026-09-11",
+    "floor": 9,
     "area": 83.12
   },
   {

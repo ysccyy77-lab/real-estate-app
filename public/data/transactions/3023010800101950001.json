@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "그린타운",
+    "dealAmount": "17,100",
+    "date": "2026-10-03",
+    "floor": 5,
+    "area": 59.34
+  },
+  {
+    "aptNm": "그린타운",
     "dealAmount": "16,200",
     "date": "2026-08-31",
     "floor": 6,

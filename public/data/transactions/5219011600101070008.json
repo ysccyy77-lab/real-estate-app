@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "도통주공",
+    "dealAmount": "6,200",
+    "date": "2026-10-05",
+    "floor": 5,
+    "area": 39.69
+  },
+  {
+    "aptNm": "도통주공",
     "dealAmount": "8,200",
     "date": "2026-07-20",
     "floor": 4,

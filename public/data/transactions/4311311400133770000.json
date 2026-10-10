@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신영지웰",
+    "dealAmount": "45,000",
+    "date": "2026-10-04",
+    "floor": 2,
+    "area": 84.787
+  },
+  {
+    "aptNm": "신영지웰",
     "dealAmount": "50,000",
     "date": "2026-09-05",
     "floor": 2,

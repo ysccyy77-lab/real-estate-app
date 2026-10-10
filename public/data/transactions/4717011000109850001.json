@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "용상1주공",
+    "dealAmount": "6,250",
+    "date": "2026-10-02",
+    "floor": 1,
+    "area": 35.205
+  },
+  {
+    "aptNm": "용상1주공",
     "dealAmount": "6,500",
     "date": "2026-09-04",
     "floor": 1,

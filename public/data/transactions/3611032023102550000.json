@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "증평삼일",
+    "dealAmount": "13,400",
+    "date": "2026-10-07",
+    "floor": 14,
+    "area": 84.95
+  },
+  {
+    "aptNm": "증평삼일",
+    "dealAmount": "8,200",
+    "date": "2026-10-01",
+    "floor": 11,
+    "area": 59.9
+  },
+  {
+    "aptNm": "증평삼일",
     "dealAmount": "8,300",
     "date": "2026-09-28",
     "floor": 8,

@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "부천중동해링턴플레이스",
+    "dealAmount": "67,000",
+    "date": "2026-10-03",
+    "floor": 26,
+    "area": 75.7937
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "55,300",
+    "date": "2026-10-03",
+    "floor": 6,
+    "area": 84.84
+  },
+  {
+    "aptNm": "에코시티KCC스위첸",
+    "dealAmount": "51,200",
+    "date": "2026-10-03",
+    "floor": 5,
+    "area": 59.951
+  },
+  {
+    "aptNm": "에코시티KCC스위첸",
+    "dealAmount": "52,000",
+    "date": "2026-10-03",
+    "floor": 20,
+    "area": 59.951
+  },
+  {
+    "aptNm": "부천중동해링턴플레이스",
+    "dealAmount": "74,000",
+    "date": "2026-10-01",
+    "floor": 28,
+    "area": 84.9413
+  },
+  {
+    "aptNm": "건영2",
+    "dealAmount": "42,700",
+    "date": "2026-09-19",
+    "floor": 6,
+    "area": 59.526
+  },
+  {
     "aptNm": "에코시티KCC스위첸",
     "dealAmount": "65,000",
     "date": "2026-09-14",

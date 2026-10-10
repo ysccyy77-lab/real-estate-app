@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현대4차",
+    "dealAmount": "24,500",
+    "date": "2026-10-06",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "현대4차",
     "dealAmount": "19,500",
     "date": "2026-09-21",
     "floor": 2,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "백산",
+    "dealAmount": "41,000",
+    "date": "2026-10-02",
+    "floor": 3,
+    "area": 82.8
+  },
+  {
+    "aptNm": "백산",
     "dealAmount": "42,000",
     "date": "2026-10-01",
     "floor": 5,

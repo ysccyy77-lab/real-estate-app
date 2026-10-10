@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경성큰마을",
+    "dealAmount": "30,000",
+    "date": "2026-10-02",
+    "floor": 6,
+    "area": 59.9
+  },
+  {
+    "aptNm": "경성큰마을",
     "dealAmount": "32,200",
     "date": "2026-09-15",
     "floor": 9,

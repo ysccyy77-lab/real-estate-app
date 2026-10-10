@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신공영",
+    "dealAmount": "19,500",
+    "date": "2026-09-30",
+    "floor": 1,
+    "area": 80.69
+  },
+  {
+    "aptNm": "신공영",
     "dealAmount": "21,500",
     "date": "2026-04-29",
     "floor": 2,

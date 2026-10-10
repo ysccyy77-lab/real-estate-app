@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "73,900",
+    "date": "2026-10-03",
+    "floor": 5,
+    "area": 59.929
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "88,500",
+    "date": "2026-10-03",
+    "floor": 9,
+    "area": 84.911
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "86,000",
+    "date": "2026-10-02",
+    "floor": 29,
+    "area": 84.911
+  },
+  {
     "aptNm": "양주옥정LH엘리프",
     "dealAmount": "30,000",
     "date": "2026-09-29",
     "floor": 10,
     "area": 59.76
+  },
+  {
+    "aptNm": "양주옥정LH엘리프",
+    "dealAmount": "30,250",
+    "date": "2026-09-29",
+    "floor": 26,
+    "area": 59.85
   },
   {
     "aptNm": "e편한세상용인한숲시티2단지",
@@ -19,6 +47,20 @@
     "date": "2026-09-21",
     "floor": 7,
     "area": 59.82
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "111,000",
+    "date": "2026-09-19",
+    "floor": 16,
+    "area": 122.689
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "84,700",
+    "date": "2026-09-18",
+    "floor": 2,
+    "area": 84.911
   },
   {
     "aptNm": "양주옥정LH엘리프",
@@ -138,6 +180,13 @@
     "date": "2026-08-28",
     "floor": 28,
     "area": 84.957
+  },
+  {
+    "aptNm": "수원 SK SKY VIEW",
+    "dealAmount": "90,000",
+    "date": "2026-08-28",
+    "floor": 25,
+    "area": 84.893
   },
   {
     "aptNm": "수원 SK SKY VIEW",

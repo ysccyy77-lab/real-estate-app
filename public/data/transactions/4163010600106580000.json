@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "A9블럭신원마을호반베르디움",
+    "dealAmount": "61,000",
+    "date": "2026-10-03",
+    "floor": 6,
+    "area": 84.9831
+  },
+  {
+    "aptNm": "DMC한강숲중흥S-CLASS",
+    "dealAmount": "118,000",
+    "date": "2026-10-01",
+    "floor": 14,
+    "area": 84.9693
+  },
+  {
     "aptNm": "해동마을유승한내들",
     "dealAmount": "30,000",
     "date": "2026-09-23",
     "floor": 11,
     "area": 84.9645
+  },
+  {
+    "aptNm": "해동마을유승한내들",
+    "dealAmount": "30,800",
+    "date": "2026-09-22",
+    "floor": 14,
+    "area": 84.9536
+  },
+  {
+    "aptNm": "동일",
+    "dealAmount": "24,700",
+    "date": "2026-09-15",
+    "floor": 7,
+    "area": 111.99
+  },
+  {
+    "aptNm": "로데오현대",
+    "dealAmount": "130,000",
+    "date": "2026-09-14",
+    "floor": 4,
+    "area": 55.08
   },
   {
     "aptNm": "DMC한강숲중흥S-CLASS",

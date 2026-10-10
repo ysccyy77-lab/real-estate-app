@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "금동주공",
+    "dealAmount": "5,000",
+    "date": "2026-10-08",
+    "floor": 5,
+    "area": 46.68
+  },
+  {
+    "aptNm": "구산3주공",
+    "dealAmount": "10,750",
+    "date": "2026-10-02",
+    "floor": 6,
+    "area": 59.84
+  },
+  {
+    "aptNm": "신우아이딜(1차)",
+    "dealAmount": "21,500",
+    "date": "2026-09-30",
+    "floor": 7,
+    "area": 59.963
+  },
+  {
     "aptNm": "청원쌍용예가2단지",
     "dealAmount": "28,000",
     "date": "2026-09-28",
     "floor": 2,
     "area": 117.32
+  },
+  {
+    "aptNm": "금동주공",
+    "dealAmount": "6,000",
+    "date": "2026-09-28",
+    "floor": 1,
+    "area": 39.3
   },
   {
     "aptNm": "벽산",

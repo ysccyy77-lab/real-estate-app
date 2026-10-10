@@ -1,10 +1,52 @@
 [
   {
     "aptNm": "서해그랑블",
+    "dealAmount": "48,500",
+    "date": "2026-10-06",
+    "floor": 12,
+    "area": 84.98
+  },
+  {
+    "aptNm": "서해그랑블",
+    "dealAmount": "49,500",
+    "date": "2026-10-05",
+    "floor": 4,
+    "area": 84.97
+  },
+  {
+    "aptNm": "서해그랑블",
+    "dealAmount": "50,800",
+    "date": "2026-10-03",
+    "floor": 4,
+    "area": 84.97
+  },
+  {
+    "aptNm": "고덕센트럴IPARK",
+    "dealAmount": "192,500",
+    "date": "2026-10-02",
+    "floor": 12,
+    "area": 74.99
+  },
+  {
+    "aptNm": "금강캐스빌",
+    "dealAmount": "89,500",
+    "date": "2026-10-02",
+    "floor": 5,
+    "area": 84.06
+  },
+  {
+    "aptNm": "서해그랑블",
     "dealAmount": "54,300",
     "date": "2026-10-01",
     "floor": 9,
     "area": 84.97
+  },
+  {
+    "aptNm": "봉서산아이파크",
+    "dealAmount": "44,800",
+    "date": "2026-09-28",
+    "floor": 19,
+    "area": 109.9453
   },
   {
     "aptNm": "서해그랑블",

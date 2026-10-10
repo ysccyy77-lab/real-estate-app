@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "영남맨션",
+    "dealAmount": "24,000",
+    "date": "2026-10-04",
+    "floor": 9,
+    "area": 84.9
+  },
+  {
+    "aptNm": "영남맨션",
     "dealAmount": "30,500",
     "date": "2026-05-11",
     "floor": 12,

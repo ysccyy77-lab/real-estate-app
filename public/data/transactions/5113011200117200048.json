@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "뉴스테이아파트",
+    "dealAmount": "4,500",
+    "date": "2026-09-15",
+    "floor": 2,
+    "area": 60
+  },
+  {
+    "aptNm": "뉴스테이아파트",
     "dealAmount": "5,300",
     "date": "2026-07-17",
     "floor": 5,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "KTX포항역삼구트리니엔",
+    "dealAmount": "27,500",
+    "date": "2026-09-21",
+    "floor": 17,
+    "area": 67.9916
+  },
+  {
+    "aptNm": "KTX포항역삼구트리니엔",
     "dealAmount": "34,300",
     "date": "2026-09-03",
     "floor": 7,

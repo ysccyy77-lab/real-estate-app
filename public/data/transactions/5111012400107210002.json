@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "건영2",
+    "dealAmount": "41,500",
+    "date": "2026-10-03",
+    "floor": 5,
+    "area": 59.76
+  },
+  {
+    "aptNm": "건영2",
     "dealAmount": "35,000",
     "date": "2026-10-01",
     "floor": 7,

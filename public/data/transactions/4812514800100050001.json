@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "회야리버",
+    "dealAmount": "7,300",
+    "date": "2026-09-21",
+    "floor": 9,
+    "area": 45.073
+  },
+  {
+    "aptNm": "회야리버",
     "dealAmount": "7,400",
     "date": "2026-09-17",
     "floor": 10,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "영진크로바",
+    "dealAmount": "12,800",
+    "date": "2026-10-07",
+    "floor": 2,
+    "area": 113.58
+  },
+  {
+    "aptNm": "영진크로바",
+    "dealAmount": "10,900",
+    "date": "2026-10-02",
+    "floor": 10,
+    "area": 59.79
+  },
+  {
+    "aptNm": "영진크로바",
     "dealAmount": "9,400",
     "date": "2026-08-11",
     "floor": 10,

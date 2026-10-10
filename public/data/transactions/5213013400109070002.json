@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동신개나리",
+    "dealAmount": "8,000",
+    "date": "2026-10-03",
+    "floor": 12,
+    "area": 59.84
+  },
+  {
+    "aptNm": "동신개나리",
     "dealAmount": "5,700",
     "date": "2026-10-01",
     "floor": 2,

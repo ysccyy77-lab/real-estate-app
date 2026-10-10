@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서림",
+    "dealAmount": "6,700",
+    "date": "2026-09-18",
+    "floor": 8,
+    "area": 56.14
+  },
+  {
+    "aptNm": "서림",
     "dealAmount": "5,400",
     "date": "2026-08-21",
     "floor": 14,

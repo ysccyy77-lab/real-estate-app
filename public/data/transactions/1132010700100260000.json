@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "태양",
+    "dealAmount": "4,500",
+    "date": "2026-10-06",
+    "floor": 5,
+    "area": 83.91
+  },
+  {
+    "aptNm": "치악맨숀",
+    "dealAmount": "5,000",
+    "date": "2026-10-02",
+    "floor": 5,
+    "area": 86.601
+  },
+  {
     "aptNm": "삼성아파트",
     "dealAmount": "7,600",
     "date": "2026-08-28",

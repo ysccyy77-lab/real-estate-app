@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "광명",
+    "dealAmount": "10,500",
+    "date": "2026-10-07",
+    "floor": 3,
+    "area": 46.625
+  },
+  {
+    "aptNm": "국민드림빌7차",
+    "dealAmount": "6,700",
+    "date": "2026-10-05",
+    "floor": 3,
+    "area": 59.7356
+  },
+  {
+    "aptNm": "광명",
     "dealAmount": "10,200",
     "date": "2026-10-01",
     "floor": 3,

@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "센텀삼환Nauville",
+    "dealAmount": "57,000",
+    "date": "2026-10-06",
+    "floor": 13,
+    "area": 59.86
+  },
+  {
+    "aptNm": "Y CITY(와이시티)",
+    "dealAmount": "59,500",
+    "date": "2026-10-03",
+    "floor": 22,
+    "area": 84.97
+  },
+  {
+    "aptNm": "센텀삼환Nauville",
+    "dealAmount": "56,000",
+    "date": "2026-10-02",
+    "floor": 16,
+    "area": 59.86
+  },
+  {
+    "aptNm": "아름다운아침",
+    "dealAmount": "7,500",
+    "date": "2026-09-30",
+    "floor": 4,
+    "area": 39.08
+  },
+  {
+    "aptNm": "Y CITY(와이시티)",
+    "dealAmount": "59,300",
+    "date": "2026-09-30",
+    "floor": 9,
+    "area": 84.79
+  },
+  {
     "aptNm": "베이힐",
     "dealAmount": "17,400",
     "date": "2026-09-22",
@@ -26,6 +61,13 @@
     "date": "2026-09-16",
     "floor": 11,
     "area": 84.97
+  },
+  {
+    "aptNm": "베이힐",
+    "dealAmount": "18,000",
+    "date": "2026-09-16",
+    "floor": 5,
+    "area": 60.24
   },
   {
     "aptNm": "센텀삼환Nauville",

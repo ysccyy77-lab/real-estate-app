@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "만덕베르빌",
+    "dealAmount": "18,500",
+    "date": "2026-10-02",
+    "floor": 21,
+    "area": 59.8
+  },
+  {
+    "aptNm": "만덕베르빌",
+    "dealAmount": "22,000",
+    "date": "2026-10-01",
+    "floor": 1,
+    "area": 84.84
+  },
+  {
+    "aptNm": "만덕베르빌",
     "dealAmount": "17,000",
     "date": "2026-07-14",
     "floor": 13,

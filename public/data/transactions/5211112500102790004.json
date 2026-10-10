@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "진흥하이츠",
+    "dealAmount": "7,250",
+    "date": "2026-10-05",
+    "floor": 10,
+    "area": 59.4
+  },
+  {
     "aptNm": "은행마을",
     "dealAmount": "6,000",
     "date": "2026-09-21",
     "floor": 1,
     "area": 55.9675
+  },
+  {
+    "aptNm": "진흥하이츠",
+    "dealAmount": "9,000",
+    "date": "2026-09-18",
+    "floor": 15,
+    "area": 59.4
   },
   {
     "aptNm": "진흥하이츠",

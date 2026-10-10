@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "푸른숲",
+    "dealAmount": "9,100",
+    "date": "2026-10-07",
+    "floor": 2,
+    "area": 59.97
+  },
+  {
+    "aptNm": "푸른숲",
     "dealAmount": "6,200",
     "date": "2026-09-19",
     "floor": 4,

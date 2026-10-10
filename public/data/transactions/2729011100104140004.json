@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "성서6주공",
+    "dealAmount": "11,000",
+    "date": "2026-10-05",
+    "floor": 16,
+    "area": 49.95
+  },
+  {
+    "aptNm": "성서6주공",
+    "dealAmount": "14,700",
+    "date": "2026-10-03",
+    "floor": 1,
+    "area": 59.99
+  },
+  {
+    "aptNm": "성서6주공",
     "dealAmount": "12,700",
     "date": "2026-09-26",
     "floor": 8,

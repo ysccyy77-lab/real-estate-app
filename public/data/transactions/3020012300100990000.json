@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "한빛",
+    "dealAmount": "28,000",
+    "date": "2026-10-06",
+    "floor": 6,
+    "area": 54.48
+  },
+  {
+    "aptNm": "벽산블루밍",
+    "dealAmount": "101,000",
+    "date": "2026-10-02",
+    "floor": 18,
+    "area": 127.47
+  },
+  {
+    "aptNm": "한빛",
+    "dealAmount": "39,700",
+    "date": "2026-10-02",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "한빛",
     "dealAmount": "38,500",
     "date": "2026-09-29",
     "floor": 7,

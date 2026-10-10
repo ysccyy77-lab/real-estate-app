@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "쌍용화성",
+    "dealAmount": "51,000",
+    "date": "2026-10-06",
+    "floor": 9,
+    "area": 134.93
+  },
+  {
+    "aptNm": "쌍용화성",
     "dealAmount": "25,200",
     "date": "2026-08-01",
     "floor": 4,

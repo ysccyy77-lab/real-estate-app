@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "속초2차IPARK",
+    "dealAmount": "38,500",
+    "date": "2026-09-28",
+    "floor": 11,
+    "area": 84.92
+  },
+  {
     "aptNm": "공작아파트",
     "dealAmount": "84,900",
     "date": "2026-09-22",
@@ -29,10 +36,24 @@
   },
   {
     "aptNm": "공작아파트",
+    "dealAmount": "52,500",
+    "date": "2026-09-12",
+    "floor": 13,
+    "area": 37.85
+  },
+  {
+    "aptNm": "공작아파트",
     "dealAmount": "54,000",
     "date": "2026-09-10",
     "floor": 11,
     "area": 37.85
+  },
+  {
+    "aptNm": "공작아파트",
+    "dealAmount": "89,500",
+    "date": "2026-09-10",
+    "floor": 11,
+    "area": 60
   },
   {
     "aptNm": "공작아파트",

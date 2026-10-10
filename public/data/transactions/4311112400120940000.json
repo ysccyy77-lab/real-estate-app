@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "임광",
+    "dealAmount": "18,300",
+    "date": "2026-10-02",
+    "floor": 8,
+    "area": 101.98
+  },
+  {
+    "aptNm": "임광",
     "dealAmount": "19,000",
     "date": "2026-09-19",
     "floor": 4,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "명정",
+    "dealAmount": "9,000",
+    "date": "2026-10-06",
+    "floor": 10,
+    "area": 74.12
+  },
+  {
+    "aptNm": "명정",
     "dealAmount": "9,800",
     "date": "2026-08-13",
     "floor": 7,

@@ -36,6 +36,13 @@
   },
   {
     "aptNm": "상록",
+    "dealAmount": "93,500",
+    "date": "2026-08-08",
+    "floor": 2,
+    "area": 84.404
+  },
+  {
+    "aptNm": "상록",
     "dealAmount": "102,500",
     "date": "2026-08-07",
     "floor": 7,

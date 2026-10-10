@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "장웅파인힐",
+    "dealAmount": "8,000",
+    "date": "2026-09-15",
+    "floor": 4,
+    "area": 35.51
+  },
+  {
+    "aptNm": "장웅파인힐",
     "dealAmount": "8,700",
     "date": "2026-09-02",
     "floor": 8,

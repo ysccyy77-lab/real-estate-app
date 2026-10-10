@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "주례맨션",
+    "dealAmount": "18,000",
+    "date": "2026-10-03",
+    "floor": 1,
+    "area": 72.41
+  },
+  {
+    "aptNm": "주례맨션",
     "dealAmount": "10,500",
     "date": "2026-07-27",
     "floor": 1,

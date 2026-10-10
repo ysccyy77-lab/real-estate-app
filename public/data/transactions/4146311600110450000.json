@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "한국",
+    "dealAmount": "26,800",
+    "date": "2026-10-07",
+    "floor": 6,
+    "area": 84.23
+  },
+  {
     "aptNm": "초당마을현진에버빌",
     "dealAmount": "52,000",
     "date": "2026-09-23",
     "floor": 13,
     "area": 101.611
+  },
+  {
+    "aptNm": "한국",
+    "dealAmount": "26,000",
+    "date": "2026-09-23",
+    "floor": 9,
+    "area": 84.23
   },
   {
     "aptNm": "한국",

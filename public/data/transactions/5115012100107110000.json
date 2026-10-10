@@ -1,6 +1,97 @@
 [
   {
     "aptNm": "반석더샵",
+    "dealAmount": "58,800",
+    "date": "2026-10-08",
+    "floor": 20,
+    "area": 84.9777
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "20,305",
+    "date": "2026-09-30",
+    "floor": 5,
+    "area": 40.05
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "25,315",
+    "date": "2026-09-30",
+    "floor": 1,
+    "area": 51.93
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "21,205",
+    "date": "2026-09-30",
+    "floor": 2,
+    "area": 39.285
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "20,930",
+    "date": "2026-09-29",
+    "floor": 5,
+    "area": 39.285
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "23,560",
+    "date": "2026-09-29",
+    "floor": 5,
+    "area": 49.5
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "20,570",
+    "date": "2026-09-29",
+    "floor": 4,
+    "area": 40.05
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "23,895",
+    "date": "2026-09-29",
+    "floor": 4,
+    "area": 48.42
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "24,040",
+    "date": "2026-09-29",
+    "floor": 3,
+    "area": 49.5
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "21,360",
+    "date": "2026-09-29",
+    "floor": 3,
+    "area": 39.285
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "27,715",
+    "date": "2026-09-29",
+    "floor": 3,
+    "area": 59.22
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "20,570",
+    "date": "2026-09-29",
+    "floor": 2,
+    "area": 40.05
+  },
+  {
+    "aptNm": "신안A동",
+    "dealAmount": "27,175",
+    "date": "2026-09-29",
+    "floor": 1,
+    "area": 59.22
+  },
+  {
+    "aptNm": "반석더샵",
     "dealAmount": "55,000",
     "date": "2026-09-23",
     "floor": 15,

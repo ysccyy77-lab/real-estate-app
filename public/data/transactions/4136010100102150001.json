@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "유웅",
+    "dealAmount": "6,500",
+    "date": "2026-10-06",
+    "floor": 1,
+    "area": 82.8
+  },
+  {
     "aptNm": "벨라지오3동",
     "dealAmount": "12,000",
     "date": "2026-09-19",
     "floor": 7,
     "area": 48.91
+  },
+  {
+    "aptNm": "호평마을쌍용스윗닷홈",
+    "dealAmount": "59,000",
+    "date": "2026-09-19",
+    "floor": 8,
+    "area": 120.8
   },
   {
     "aptNm": "유웅",

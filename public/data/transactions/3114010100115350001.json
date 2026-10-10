@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "무거한라1차",
+    "dealAmount": "16,000",
+    "date": "2026-10-05",
+    "floor": 8,
+    "area": 59.4
+  },
+  {
+    "aptNm": "무거한라1차",
+    "dealAmount": "15,200",
+    "date": "2026-09-26",
+    "floor": 6,
+    "area": 59.4
+  },
+  {
+    "aptNm": "무거한라1차",
     "dealAmount": "15,500",
     "date": "2026-08-17",
     "floor": 4,

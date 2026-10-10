@@ -1,5 +1,68 @@
 [
   {
+    "aptNm": "라온프라이빗시티 Ⅰ",
+    "dealAmount": "7,400",
+    "date": "2026-10-08",
+    "floor": 6,
+    "area": 20.94
+  },
+  {
+    "aptNm": "주공그린빌10단지",
+    "dealAmount": "48,300",
+    "date": "2026-10-06",
+    "floor": 6,
+    "area": 84.99
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "49,300",
+    "date": "2026-10-03",
+    "floor": 10,
+    "area": 59.9907
+  },
+  {
+    "aptNm": "주공5차",
+    "dealAmount": "17,300",
+    "date": "2026-10-03",
+    "floor": 15,
+    "area": 51.88
+  },
+  {
+    "aptNm": "주공그린빌10단지",
+    "dealAmount": "45,000",
+    "date": "2026-10-02",
+    "floor": 11,
+    "area": 84.99
+  },
+  {
+    "aptNm": "주공5차",
+    "dealAmount": "17,500",
+    "date": "2026-10-02",
+    "floor": 10,
+    "area": 51.88
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "60,250",
+    "date": "2026-09-29",
+    "floor": 15,
+    "area": 95.4904
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "70,000",
+    "date": "2026-09-28",
+    "floor": 8,
+    "area": 115.3445
+  },
+  {
+    "aptNm": "인천 SK Sky VIEW",
+    "dealAmount": "57,000",
+    "date": "2026-09-23",
+    "floor": 4,
+    "area": 84.9974
+  },
+  {
     "aptNm": "한화꿈에그린1차",
     "dealAmount": "39,000",
     "date": "2026-09-22",
@@ -12,6 +75,13 @@
     "date": "2026-09-21",
     "floor": 15,
     "area": 84.9939
+  },
+  {
+    "aptNm": "동아아파트",
+    "dealAmount": "79,600",
+    "date": "2026-09-20",
+    "floor": 10,
+    "area": 59.76
   },
   {
     "aptNm": "인천 SK Sky VIEW",

@@ -1,9 +1,23 @@
 [
   {
+    "aptNm": "영통e-편한세상",
+    "dealAmount": "62,000",
+    "date": "2026-10-05",
+    "floor": 6,
+    "area": 84.98
+  },
+  {
     "aptNm": "신월시영",
     "dealAmount": "82,000",
     "date": "2026-09-15",
     "floor": 9,
+    "area": 50.67
+  },
+  {
+    "aptNm": "신월시영",
+    "dealAmount": "82,000",
+    "date": "2026-09-09",
+    "floor": 6,
     "area": 50.67
   },
   {

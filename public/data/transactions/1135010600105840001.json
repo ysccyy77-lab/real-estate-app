@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한성기린",
+    "dealAmount": "34,000",
+    "date": "2026-10-06",
+    "floor": 12,
+    "area": 84.84
+  },
+  {
+    "aptNm": "한성기린",
     "dealAmount": "22,000",
     "date": "2026-09-20",
     "floor": 3,

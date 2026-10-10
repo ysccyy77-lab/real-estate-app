@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "라임스토리",
+    "dealAmount": "3,900",
+    "date": "2026-10-06",
+    "floor": 7,
+    "area": 23.18
+  },
+  {
+    "aptNm": "라임스토리",
     "dealAmount": "6,000",
     "date": "2026-08-17",
     "floor": 7,

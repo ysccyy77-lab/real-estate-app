@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "해들마을5단지",
+    "dealAmount": "42,000",
+    "date": "2026-10-07",
+    "floor": 8,
+    "area": 59.92
+  },
+  {
+    "aptNm": "두진1차",
+    "dealAmount": "6,100",
+    "date": "2026-10-04",
+    "floor": 12,
+    "area": 47.37
+  },
+  {
+    "aptNm": "두진2차",
+    "dealAmount": "6,800",
+    "date": "2026-10-02",
+    "floor": 4,
+    "area": 58.58
+  },
+  {
     "aptNm": "LH동분당센트럴파크",
     "dealAmount": "110,000",
     "date": "2026-10-01",

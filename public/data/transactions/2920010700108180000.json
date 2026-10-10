@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "대실역리슈빌3단지",
+    "dealAmount": "43,000",
+    "date": "2026-10-07",
+    "floor": 8,
+    "area": 84.9837
+  },
+  {
     "aptNm": "수성롯데캐슬THEFIRST",
     "dealAmount": "82,000",
     "date": "2026-09-30",
@@ -28,11 +35,25 @@
     "area": 84.9866
   },
   {
+    "aptNm": "수성롯데캐슬THEFIRST",
+    "dealAmount": "77,900",
+    "date": "2026-09-18",
+    "floor": 7,
+    "area": 84.9746
+  },
+  {
     "aptNm": "대실역리슈빌3단지",
     "dealAmount": "36,000",
     "date": "2026-09-15",
     "floor": 1,
     "area": 84.9837
+  },
+  {
+    "aptNm": "창동현대4차",
+    "dealAmount": "85,000",
+    "date": "2026-09-15",
+    "floor": 1,
+    "area": 101.9957
   },
   {
     "aptNm": "코오롱하늘채",

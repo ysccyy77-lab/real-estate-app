@@ -2,6 +2,20 @@
   {
     "aptNm": "현대1",
     "dealAmount": "17,700",
+    "date": "2026-10-03",
+    "floor": 2,
+    "area": 59.968
+  },
+  {
+    "aptNm": "래미안라센트",
+    "dealAmount": "129,500",
+    "date": "2026-09-16",
+    "floor": 10,
+    "area": 59.98
+  },
+  {
+    "aptNm": "현대1",
+    "dealAmount": "17,700",
     "date": "2026-09-12",
     "floor": 2,
     "area": 59.968

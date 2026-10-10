@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "마산만I'PARK",
+    "dealAmount": "43,000",
+    "date": "2026-10-07",
+    "floor": 24,
+    "area": 84.9075
+  },
+  {
     "aptNm": "부민e편한세상",
     "dealAmount": "21,000",
     "date": "2026-09-29",
     "floor": 5,
     "area": 60
+  },
+  {
+    "aptNm": "양평한신",
+    "dealAmount": "138,800",
+    "date": "2026-09-19",
+    "floor": 4,
+    "area": 59.94
   },
   {
     "aptNm": "부민e편한세상",
