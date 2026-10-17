@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "고은",
+    "dealAmount": "42,800",
+    "date": "2026-10-02",
+    "floor": 5,
+    "area": 62.48
+  },
+  {
+    "aptNm": "고은",
     "dealAmount": "59,700",
     "date": "2026-08-22",
     "floor": 2,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "센텀SKVIEW아파트",
+    "dealAmount": "38,500",
+    "date": "2026-10-09",
+    "floor": 6,
+    "area": 124.59
+  },
+  {
+    "aptNm": "센텀SKVIEW아파트",
     "dealAmount": "29,000",
     "date": "2026-10-04",
     "floor": 13,

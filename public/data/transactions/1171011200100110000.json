@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "현대백조",
+    "dealAmount": "83,000",
+    "date": "2026-10-07",
+    "floor": 4,
+    "area": 31
+  },
+  {
+    "aptNm": "현대백조",
     "dealAmount": "72,000",
     "date": "2026-09-18",
     "floor": 2,
     "area": 31
+  },
+  {
+    "aptNm": "현대I-PARK3",
+    "dealAmount": "248,000",
+    "date": "2026-09-16",
+    "floor": 18,
+    "area": 171.39
   },
   {
     "aptNm": "현대I-PARK3",

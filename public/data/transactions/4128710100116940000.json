@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "동문",
+    "dealAmount": "32,000",
+    "date": "2026-10-09",
+    "floor": 14,
+    "area": 84.96
+  },
+  {
+    "aptNm": "신림현대",
+    "dealAmount": "90,000",
+    "date": "2026-10-09",
+    "floor": 6,
+    "area": 82.2
+  },
+  {
+    "aptNm": "신림현대",
+    "dealAmount": "49,700",
+    "date": "2026-10-03",
+    "floor": 11,
+    "area": 34.86
+  },
+  {
     "aptNm": "신림현대",
     "dealAmount": "89,700",
     "date": "2026-10-01",

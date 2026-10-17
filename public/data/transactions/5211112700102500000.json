@@ -1,9 +1,30 @@
 [
   {
+    "aptNm": "동신2차",
+    "dealAmount": "17,000",
+    "date": "2026-10-10",
+    "floor": 2,
+    "area": 119.76
+  },
+  {
+    "aptNm": "내안애양우",
+    "dealAmount": "55,600",
+    "date": "2026-10-09",
+    "floor": 19,
+    "area": 84.59
+  },
+  {
     "aptNm": "옥수삼성",
     "dealAmount": "227,000",
     "date": "2026-09-19",
     "floor": 5,
+    "area": 84.822
+  },
+  {
+    "aptNm": "옥수삼성",
+    "dealAmount": "240,000",
+    "date": "2026-09-18",
+    "floor": 9,
     "area": 84.822
   },
   {

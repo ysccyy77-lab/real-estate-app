@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "대실역리슈빌3단지",
+    "dealAmount": "44,800",
+    "date": "2026-10-12",
+    "floor": 18,
+    "area": 84.6695
+  },
+  {
+    "aptNm": "대실역리슈빌3단지",
+    "dealAmount": "52,000",
+    "date": "2026-10-12",
+    "floor": 19,
+    "area": 118.5181
+  },
+  {
+    "aptNm": "수성롯데캐슬THEFIRST",
+    "dealAmount": "70,000",
+    "date": "2026-10-09",
+    "floor": 5,
+    "area": 76.3821
+  },
+  {
+    "aptNm": "대실역리슈빌3단지",
     "dealAmount": "43,000",
     "date": "2026-10-07",
     "floor": 8,

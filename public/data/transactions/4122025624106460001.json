@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "우림필유2차",
+    "dealAmount": "25,500",
+    "date": "2026-10-10",
+    "floor": 4,
+    "area": 84.9673
+  },
+  {
+    "aptNm": "금광",
+    "dealAmount": "12,800",
+    "date": "2026-10-07",
+    "floor": 9,
+    "area": 55.5927
+  },
+  {
+    "aptNm": "SR친오애",
+    "dealAmount": "10,700",
+    "date": "2026-10-07",
+    "floor": 7,
+    "area": 55.2406
+  },
+  {
     "aptNm": "금광",
     "dealAmount": "20,700",
     "date": "2026-09-18",

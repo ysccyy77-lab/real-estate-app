@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "광안예서더불어",
+    "dealAmount": "32,500",
+    "date": "2026-10-08",
+    "floor": 15,
+    "area": 66.22
+  },
+  {
+    "aptNm": "팬더",
+    "dealAmount": "7,500",
+    "date": "2026-10-03",
+    "floor": 1,
+    "area": 42.6
+  },
+  {
+    "aptNm": "광안예서더불어",
     "dealAmount": "30,600",
     "date": "2026-09-11",
     "floor": 9,

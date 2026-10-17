@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "북죽곡엠코타운더솔레뉴",
+    "dealAmount": "27,400",
+    "date": "2026-10-09",
+    "floor": 22,
+    "area": 84.9927
+  },
+  {
+    "aptNm": "공작아파트",
+    "dealAmount": "97,500",
+    "date": "2026-10-06",
+    "floor": 18,
+    "area": 60
+  },
+  {
+    "aptNm": "공작아파트",
+    "dealAmount": "53,800",
+    "date": "2026-10-02",
+    "floor": 8,
+    "area": 37.85
+  },
+  {
+    "aptNm": "공작아파트",
+    "dealAmount": "53,000",
+    "date": "2026-09-30",
+    "floor": 2,
+    "area": 37.85
+  },
+  {
+    "aptNm": "공작아파트",
+    "dealAmount": "52,500",
+    "date": "2026-09-29",
+    "floor": 2,
+    "area": 37.85
+  },
+  {
+    "aptNm": "공작아파트",
+    "dealAmount": "84,000",
+    "date": "2026-09-29",
+    "floor": 11,
+    "area": 50
+  },
+  {
     "aptNm": "속초2차IPARK",
     "dealAmount": "38,500",
     "date": "2026-09-28",
     "floor": 11,
     "area": 84.92
+  },
+  {
+    "aptNm": "공작아파트",
+    "dealAmount": "80,000",
+    "date": "2026-09-28",
+    "floor": 11,
+    "area": 50
   },
   {
     "aptNm": "공작아파트",
@@ -40,6 +89,13 @@
     "date": "2026-09-12",
     "floor": 13,
     "area": 37.85
+  },
+  {
+    "aptNm": "공작아파트",
+    "dealAmount": "87,000",
+    "date": "2026-09-11",
+    "floor": 10,
+    "area": 50
   },
   {
     "aptNm": "공작아파트",

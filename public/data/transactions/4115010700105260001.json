@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "극동늘푸른",
+    "dealAmount": "19,000",
+    "date": "2026-10-12",
+    "floor": 2,
+    "area": 84.9
+  },
+  {
+    "aptNm": "광원",
+    "dealAmount": "43,000",
+    "date": "2026-10-10",
+    "floor": 15,
+    "area": 130.905
+  },
+  {
+    "aptNm": "극동늘푸른",
+    "dealAmount": "16,300",
+    "date": "2026-10-08",
+    "floor": 21,
+    "area": 59.91
+  },
+  {
+    "aptNm": "극동늘푸른",
     "dealAmount": "15,000",
     "date": "2026-10-01",
     "floor": 11,

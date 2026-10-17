@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "건영",
+    "dealAmount": "20,500",
+    "date": "2026-10-08",
+    "floor": 12,
+    "area": 84.93
+  },
+  {
+    "aptNm": "벽산그랜드코아",
+    "dealAmount": "29,500",
+    "date": "2026-10-03",
+    "floor": 18,
+    "area": 78.29
+  },
+  {
+    "aptNm": "건영",
     "dealAmount": "25,000",
     "date": "2026-10-02",
     "floor": 12,

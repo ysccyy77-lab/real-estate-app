@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "벽산신화",
+    "dealAmount": "15,000",
+    "date": "2026-10-12",
+    "floor": 2,
+    "area": 72.9
+  },
+  {
+    "aptNm": "벽산신화",
     "dealAmount": "11,500",
     "date": "2026-06-08",
     "floor": 7,

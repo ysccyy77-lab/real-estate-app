@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "선경태평",
+    "dealAmount": "36,959",
+    "date": "2026-10-14",
+    "floor": 1,
+    "area": 46.01
+  },
+  {
+    "aptNm": "선경태평",
     "dealAmount": "28,509",
     "date": "2026-09-07",
     "floor": 5,

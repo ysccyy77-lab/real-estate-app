@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "보배",
+    "dealAmount": "21,000",
+    "date": "2026-10-10",
+    "floor": 10,
+    "area": 126.57
+  },
+  {
+    "aptNm": "보배",
     "dealAmount": "19,000",
     "date": "2026-10-07",
     "floor": 6,

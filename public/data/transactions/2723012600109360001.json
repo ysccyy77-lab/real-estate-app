@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한신중앙",
+    "dealAmount": "15,800",
+    "date": "2026-09-21",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "한신중앙",
+    "dealAmount": "8,600",
+    "date": "2026-09-20",
+    "floor": 4,
+    "area": 47.25
+  },
+  {
+    "aptNm": "한신중앙",
     "dealAmount": "11,000",
     "date": "2026-09-04",
     "floor": 6,

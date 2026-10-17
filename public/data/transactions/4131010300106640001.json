@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "LH지행역더퍼스트",
+    "dealAmount": "24,000",
+    "date": "2026-10-13",
+    "floor": 6,
+    "area": 59.6
+  },
+  {
+    "aptNm": "LH지행역더퍼스트",
+    "dealAmount": "24,500",
+    "date": "2026-10-09",
+    "floor": 16,
+    "area": 59.6
+  },
+  {
+    "aptNm": "푸르지오2차",
+    "dealAmount": "75,000",
+    "date": "2026-10-05",
+    "floor": 20,
+    "area": 150.3851
+  },
+  {
+    "aptNm": "LH지행역더퍼스트",
     "dealAmount": "24,500",
     "date": "2026-10-01",
     "floor": 20,
     "area": 59.72
+  },
+  {
+    "aptNm": "주공2",
+    "dealAmount": "86,000",
+    "date": "2026-09-28",
+    "floor": 13,
+    "area": 84.99
   },
   {
     "aptNm": "LH지행역더퍼스트",

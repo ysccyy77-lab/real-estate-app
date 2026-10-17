@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "삼보신우타운",
+    "dealAmount": "5,750",
+    "date": "2026-10-08",
+    "floor": 14,
+    "area": 59.9
+  },
+  {
+    "aptNm": "상봉1",
+    "dealAmount": "4,500",
+    "date": "2026-10-05",
+    "floor": 5,
+    "area": 41.9
+  },
+  {
     "aptNm": "상봉1",
     "dealAmount": "7,750",
     "date": "2026-09-23",

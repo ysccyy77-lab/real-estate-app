@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "청실보성",
+    "dealAmount": "28,000",
+    "date": "2026-09-28",
+    "floor": 6,
+    "area": 84.753
+  },
+  {
+    "aptNm": "청실보성",
+    "dealAmount": "30,000",
+    "date": "2026-09-14",
+    "floor": 9,
+    "area": 84.753
+  },
+  {
+    "aptNm": "청실보성",
     "dealAmount": "32,300",
     "date": "2026-07-04",
     "floor": 3,

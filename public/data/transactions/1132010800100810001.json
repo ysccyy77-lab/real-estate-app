@@ -1,9 +1,30 @@
 [
   {
+    "aptNm": "청주",
+    "dealAmount": "7,800",
+    "date": "2026-10-14",
+    "floor": 1,
+    "area": 60.12
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "50,200",
+    "date": "2026-10-13",
+    "floor": 1,
+    "area": 84.83
+  },
+  {
     "aptNm": "극동",
     "dealAmount": "50,000",
     "date": "2026-09-22",
     "floor": 6,
+    "area": 84.83
+  },
+  {
+    "aptNm": "극동",
+    "dealAmount": "49,000",
+    "date": "2026-09-22",
+    "floor": 1,
     "area": 84.83
   },
   {

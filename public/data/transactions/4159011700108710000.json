@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "당동주공2단지",
+    "dealAmount": "11,380",
+    "date": "2026-10-08",
+    "floor": 1,
+    "area": 59.42
+  },
+  {
+    "aptNm": "별내푸르지오",
+    "dealAmount": "73,500",
+    "date": "2026-10-07",
+    "floor": 10,
+    "area": 84.9653
+  },
+  {
     "aptNm": "별내푸르지오",
     "dealAmount": "64,500",
     "date": "2026-10-03",
     "floor": 11,
     "area": 76.8213
+  },
+  {
+    "aptNm": "신안1",
+    "dealAmount": "49,200",
+    "date": "2026-10-03",
+    "floor": 4,
+    "area": 170.84
+  },
+  {
+    "aptNm": "신안1",
+    "dealAmount": "26,500",
+    "date": "2026-10-03",
+    "floor": 1,
+    "area": 62.4
   },
   {
     "aptNm": "별내푸르지오",

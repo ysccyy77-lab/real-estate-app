@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "현대상선",
+    "dealAmount": "68,200",
+    "date": "2026-10-01",
+    "floor": 11,
+    "area": 64.55
+  },
+  {
+    "aptNm": "현대상선",
+    "dealAmount": "81,500",
+    "date": "2026-09-22",
+    "floor": 15,
+    "area": 79.98
+  },
+  {
+    "aptNm": "현대상선",
     "dealAmount": "63,000",
     "date": "2026-07-25",
     "floor": 2,

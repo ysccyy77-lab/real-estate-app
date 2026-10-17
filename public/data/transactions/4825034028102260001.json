@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "청원한마을",
+    "dealAmount": "5,200",
+    "date": "2026-10-12",
+    "floor": 1,
+    "area": 49.92
+  },
+  {
+    "aptNm": "청원한마을",
     "dealAmount": "5,300",
     "date": "2026-07-02",
     "floor": 9,

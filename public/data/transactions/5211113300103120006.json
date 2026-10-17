@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우미",
+    "dealAmount": "13,400",
+    "date": "2026-10-12",
+    "floor": 16,
+    "area": 60
+  },
+  {
+    "aptNm": "우미",
     "dealAmount": "12,800",
     "date": "2026-09-12",
     "floor": 6,

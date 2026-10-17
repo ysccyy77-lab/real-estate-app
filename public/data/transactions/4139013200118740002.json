@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "화성",
+    "dealAmount": "38,000",
+    "date": "2026-09-02",
+    "floor": 1,
+    "area": 128.43
+  },
+  {
+    "aptNm": "화성",
     "dealAmount": "45,000",
     "date": "2026-07-11",
     "floor": 7,

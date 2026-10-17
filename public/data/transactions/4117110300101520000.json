@@ -1,5 +1,61 @@
 [
   {
+    "aptNm": "우성전원",
+    "dealAmount": "4,500",
+    "date": "2026-10-16",
+    "floor": 1,
+    "area": 69.565
+  },
+  {
+    "aptNm": "우성전원",
+    "dealAmount": "3,000",
+    "date": "2026-10-16",
+    "floor": 5,
+    "area": 69.565
+  },
+  {
+    "aptNm": "명유그린",
+    "dealAmount": "10,500",
+    "date": "2026-10-14",
+    "floor": 4,
+    "area": 64.26
+  },
+  {
+    "aptNm": "부강아파트",
+    "dealAmount": "3,500",
+    "date": "2026-10-09",
+    "floor": 4,
+    "area": 27.18
+  },
+  {
+    "aptNm": "부강아파트",
+    "dealAmount": "3,375",
+    "date": "2026-10-09",
+    "floor": 13,
+    "area": 26.01
+  },
+  {
+    "aptNm": "강창태성그린시티",
+    "dealAmount": "8,500",
+    "date": "2026-10-08",
+    "floor": 7,
+    "area": 44.06
+  },
+  {
+    "aptNm": "신안",
+    "dealAmount": "34,800",
+    "date": "2026-10-05",
+    "floor": 15,
+    "area": 65.52
+  },
+  {
+    "aptNm": "부강아파트",
+    "dealAmount": "3,100",
+    "date": "2026-10-03",
+    "floor": 14,
+    "area": 27.18
+  },
+  {
     "aptNm": "신안",
     "dealAmount": "37,300",
     "date": "2026-09-29",

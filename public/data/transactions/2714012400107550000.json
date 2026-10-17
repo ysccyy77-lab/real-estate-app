@@ -1,10 +1,52 @@
 [
   {
     "aptNm": "정관현진에버빌",
+    "dealAmount": "36,000",
+    "date": "2026-10-12",
+    "floor": 8,
+    "area": 132.248
+  },
+  {
+    "aptNm": "신도시시티빌",
+    "dealAmount": "4,200",
+    "date": "2026-10-09",
+    "floor": 12,
+    "area": 46.452
+  },
+  {
+    "aptNm": "신도시시티빌",
+    "dealAmount": "4,900",
+    "date": "2026-10-09",
+    "floor": 16,
+    "area": 45.36
+  },
+  {
+    "aptNm": "정관현진에버빌",
     "dealAmount": "28,500",
     "date": "2026-10-06",
     "floor": 9,
     "area": 84.988
+  },
+  {
+    "aptNm": "백마마을(삼성)",
+    "dealAmount": "81,500",
+    "date": "2026-10-05",
+    "floor": 4,
+    "area": 101.91
+  },
+  {
+    "aptNm": "백마마을(삼성)",
+    "dealAmount": "71,000",
+    "date": "2026-09-30",
+    "floor": 9,
+    "area": 101.91
+  },
+  {
+    "aptNm": "백마마을(삼성)",
+    "dealAmount": "79,500",
+    "date": "2026-09-28",
+    "floor": 6,
+    "area": 101.91
   },
   {
     "aptNm": "서천2차IPARK",

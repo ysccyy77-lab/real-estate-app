@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대상",
+    "dealAmount": "21,900",
+    "date": "2026-09-19",
+    "floor": 6,
+    "area": 84.495
+  },
+  {
+    "aptNm": "대상",
     "dealAmount": "16,100",
     "date": "2026-09-18",
     "floor": 3,

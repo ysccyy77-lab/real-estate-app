@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "반천현대",
+    "dealAmount": "9,000",
+    "date": "2026-10-15",
+    "floor": 8,
+    "area": 77.43
+  },
+  {
+    "aptNm": "반천현대",
+    "dealAmount": "10,200",
+    "date": "2026-10-13",
+    "floor": 9,
+    "area": 84.89
+  },
+  {
+    "aptNm": "반천현대",
+    "dealAmount": "9,600",
+    "date": "2026-10-12",
+    "floor": 20,
+    "area": 59.75
+  },
+  {
+    "aptNm": "반천현대",
     "dealAmount": "14,000",
     "date": "2026-10-05",
     "floor": 16,

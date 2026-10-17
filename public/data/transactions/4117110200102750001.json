@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "굴화주공1",
+    "dealAmount": "22,600",
+    "date": "2026-10-15",
+    "floor": 5,
+    "area": 59.99
+  },
+  {
+    "aptNm": "굴화주공1",
+    "dealAmount": "24,500",
+    "date": "2026-10-15",
+    "floor": 11,
+    "area": 59.99
+  },
+  {
+    "aptNm": "대승스카이빌",
+    "dealAmount": "6,400",
+    "date": "2026-10-13",
+    "floor": 10,
+    "area": 34.8899
+  },
+  {
+    "aptNm": "굴화주공1",
     "dealAmount": "24,380",
     "date": "2026-10-05",
     "floor": 9,

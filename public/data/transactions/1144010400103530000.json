@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "동원",
+    "dealAmount": "14,900",
+    "date": "2026-10-13",
+    "floor": 11,
+    "area": 59.469
+  },
+  {
+    "aptNm": "동원",
     "dealAmount": "10,400",
     "date": "2026-10-07",
     "floor": 1,
     "area": 49.2911
+  },
+  {
+    "aptNm": "수성월드메르디앙",
+    "dealAmount": "41,500",
+    "date": "2026-10-07",
+    "floor": 17,
+    "area": 84.8075
   },
   {
     "aptNm": "대동",
@@ -15,10 +29,38 @@
   },
   {
     "aptNm": "주공2",
+    "dealAmount": "6,850",
+    "date": "2026-09-30",
+    "floor": 15,
+    "area": 39.6
+  },
+  {
+    "aptNm": "주공2",
     "dealAmount": "11,500",
     "date": "2026-09-29",
     "floor": 8,
     "area": 58.74
+  },
+  {
+    "aptNm": "우방",
+    "dealAmount": "65,000",
+    "date": "2026-09-21",
+    "floor": 17,
+    "area": 59.74
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "29,500",
+    "date": "2026-09-21",
+    "floor": 9,
+    "area": 84.4
+  },
+  {
+    "aptNm": "대동",
+    "dealAmount": "25,800",
+    "date": "2026-09-21",
+    "floor": 14,
+    "area": 73.36
   },
   {
     "aptNm": "우방",

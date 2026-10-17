@@ -1,6 +1,62 @@
 [
   {
     "aptNm": "주공",
+    "dealAmount": "22,700",
+    "date": "2026-10-15",
+    "floor": 13,
+    "area": 37.67
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "21,400",
+    "date": "2026-10-13",
+    "floor": 9,
+    "area": 37.67
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "29,900",
+    "date": "2026-10-11",
+    "floor": 14,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "29,500",
+    "date": "2026-10-11",
+    "floor": 10,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "22,300",
+    "date": "2026-10-10",
+    "floor": 8,
+    "area": 37.67
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "33,300",
+    "date": "2026-10-09",
+    "floor": 6,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "28,800",
+    "date": "2026-10-07",
+    "floor": 8,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "29,800",
+    "date": "2026-10-01",
+    "floor": 6,
+    "area": 58.14
+  },
+  {
+    "aptNm": "주공",
     "dealAmount": "30,500",
     "date": "2026-09-16",
     "floor": 12,

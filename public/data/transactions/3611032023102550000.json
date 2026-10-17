@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "증평삼일",
+    "dealAmount": "15,000",
+    "date": "2026-10-13",
+    "floor": 13,
+    "area": 84.95
+  },
+  {
+    "aptNm": "증평삼일",
+    "dealAmount": "12,000",
+    "date": "2026-10-13",
+    "floor": 5,
+    "area": 84.95
+  },
+  {
+    "aptNm": "증평삼일",
     "dealAmount": "13,400",
     "date": "2026-10-07",
     "floor": 14,
     "area": 84.95
+  },
+  {
+    "aptNm": "무학",
+    "dealAmount": "113,500",
+    "date": "2026-10-04",
+    "floor": 10,
+    "area": 59.38
+  },
+  {
+    "aptNm": "증평삼일",
+    "dealAmount": "8,100",
+    "date": "2026-10-04",
+    "floor": 4,
+    "area": 59.9
   },
   {
     "aptNm": "증평삼일",

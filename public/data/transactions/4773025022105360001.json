@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "일심",
+    "dealAmount": "6,000",
+    "date": "2026-10-15",
+    "floor": 1,
+    "area": 44.01
+  },
+  {
+    "aptNm": "일심",
     "dealAmount": "5,650",
     "date": "2026-10-07",
     "floor": 2,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "드리미아",
+    "dealAmount": "5,950",
+    "date": "2026-10-13",
+    "floor": 8,
+    "area": 18.7426
+  },
+  {
+    "aptNm": "드리미아",
     "dealAmount": "5,600",
     "date": "2026-09-22",
     "floor": 12,

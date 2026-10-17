@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "시영2차",
+    "dealAmount": "3,450",
+    "date": "2026-10-02",
+    "floor": 8,
+    "area": 48.525
+  },
+  {
+    "aptNm": "시영2차",
     "dealAmount": "3,150",
     "date": "2026-07-17",
     "floor": 2,

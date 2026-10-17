@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "화서역푸르지오더에듀포레",
+    "dealAmount": "94,500",
+    "date": "2026-10-14",
+    "floor": 14,
+    "area": 148.75
+  },
+  {
+    "aptNm": "오화",
+    "dealAmount": "16,000",
+    "date": "2026-10-13",
+    "floor": 2,
+    "area": 46.54
+  },
+  {
+    "aptNm": "서수원한라비발디3단지",
+    "dealAmount": "50,000",
+    "date": "2026-10-11",
+    "floor": 5,
+    "area": 55.93
+  },
+  {
+    "aptNm": "한일",
+    "dealAmount": "9,500",
+    "date": "2026-10-09",
+    "floor": 17,
+    "area": 59.76
+  },
+  {
     "aptNm": "한일",
     "dealAmount": "9,000",
     "date": "2026-10-08",
     "floor": 19,
     "area": 59.76
+  },
+  {
+    "aptNm": "화서역푸르지오더에듀포레",
+    "dealAmount": "93,500",
+    "date": "2026-10-06",
+    "floor": 11,
+    "area": 84.79
   },
   {
     "aptNm": "법곡동KD아람채",

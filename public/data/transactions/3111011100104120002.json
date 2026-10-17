@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "진영동부",
+    "dealAmount": "27,700",
+    "date": "2026-10-13",
+    "floor": 6,
+    "area": 84.78
+  },
+  {
+    "aptNm": "진영동부",
     "dealAmount": "24,000",
     "date": "2026-10-05",
     "floor": 11,

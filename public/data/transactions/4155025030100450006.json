@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "대림한숲원",
+    "dealAmount": "3,270",
+    "date": "2026-10-15",
+    "floor": 4,
+    "area": 24.57
+  },
+  {
+    "aptNm": "대림한숲원",
+    "dealAmount": "5,000",
+    "date": "2026-10-14",
+    "floor": 7,
+    "area": 34.02
+  },
+  {
+    "aptNm": "대림한숲원",
+    "dealAmount": "3,000",
+    "date": "2026-10-13",
+    "floor": 1,
+    "area": 24.57
+  },
+  {
+    "aptNm": "대림한숲원",
     "dealAmount": "3,500",
     "date": "2026-10-05",
     "floor": 3,

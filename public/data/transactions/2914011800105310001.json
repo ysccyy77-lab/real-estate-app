@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "태강CITY",
+    "dealAmount": "20,900",
+    "date": "2026-09-27",
+    "floor": 2,
+    "area": 48.86
+  },
+  {
+    "aptNm": "태강CITY",
     "dealAmount": "20,000",
     "date": "2026-05-09",
     "floor": 9,

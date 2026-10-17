@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "율하롯데캐슬TOPCLASS",
+    "dealAmount": "47,000",
+    "date": "2026-10-07",
+    "floor": 8,
+    "area": 98.5953
+  },
+  {
+    "aptNm": "하양코아루",
+    "dealAmount": "24,800",
+    "date": "2026-10-05",
+    "floor": 17,
+    "area": 84.9643
+  },
+  {
+    "aptNm": "율하롯데캐슬TOPCLASS",
     "dealAmount": "42,500",
     "date": "2026-09-07",
     "floor": 1,

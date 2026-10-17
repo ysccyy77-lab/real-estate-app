@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대홍맨션",
+    "dealAmount": "8,000",
+    "date": "2026-10-15",
+    "floor": 6,
+    "area": 84.85
+  },
+  {
+    "aptNm": "대홍맨션",
     "dealAmount": "6,800",
     "date": "2026-09-04",
     "floor": 14,

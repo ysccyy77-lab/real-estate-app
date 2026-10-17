@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "보광타워",
+    "dealAmount": "13,000",
+    "date": "2026-09-14",
+    "floor": 11,
+    "area": 14.69
+  },
+  {
+    "aptNm": "보광타워",
     "dealAmount": "26,800",
     "date": "2026-06-20",
     "floor": 9,

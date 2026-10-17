@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "국화뉴서울",
+    "dealAmount": "37,500",
+    "date": "2026-10-14",
+    "floor": 8,
+    "area": 49.5
+  },
+  {
+    "aptNm": "국화뉴서울",
+    "dealAmount": "51,000",
+    "date": "2026-09-11",
+    "floor": 5,
+    "area": 82.59
+  },
+  {
+    "aptNm": "국화뉴서울",
     "dealAmount": "52,000",
     "date": "2026-09-09",
     "floor": 7,

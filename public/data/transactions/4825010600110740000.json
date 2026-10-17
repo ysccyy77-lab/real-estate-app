@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "구서SKVIEW1단지",
+    "dealAmount": "65,500",
+    "date": "2026-10-15",
+    "floor": 13,
+    "area": 84.8498
+  },
+  {
+    "aptNm": "구서SKVIEW1단지",
+    "dealAmount": "67,000",
+    "date": "2026-10-09",
+    "floor": 16,
+    "area": 84.7415
+  },
+  {
     "aptNm": "일동미라주",
     "dealAmount": "26,400",
     "date": "2026-10-05",

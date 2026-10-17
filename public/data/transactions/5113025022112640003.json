@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "동보렉스6차",
+    "dealAmount": "9,400",
+    "date": "2026-10-12",
+    "floor": 14,
+    "area": 84.9
+  },
+  {
+    "aptNm": "동보렉스6차",
+    "dealAmount": "6,300",
+    "date": "2026-10-11",
+    "floor": 13,
+    "area": 59.7
+  },
+  {
+    "aptNm": "동보렉스6차",
     "dealAmount": "5,500",
     "date": "2026-06-12",
     "floor": 13,

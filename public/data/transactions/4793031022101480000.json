@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "무궁화",
+    "dealAmount": "42,600",
+    "date": "2026-10-15",
+    "floor": 3,
+    "area": 59.76
+  },
+  {
+    "aptNm": "경산사동사랑으로부영6차",
+    "dealAmount": "22,700",
+    "date": "2026-10-12",
+    "floor": 14,
+    "area": 84.9834
+  },
+  {
+    "aptNm": "무궁화",
+    "dealAmount": "34,200",
+    "date": "2026-10-09",
+    "floor": 5,
+    "area": 51.57
+  },
+  {
+    "aptNm": "무궁화",
     "dealAmount": "41,000",
     "date": "2026-10-02",
     "floor": 4,

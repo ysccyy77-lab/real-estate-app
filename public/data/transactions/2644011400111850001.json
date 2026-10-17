@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "권선삼성",
+    "dealAmount": "36,400",
+    "date": "2026-10-07",
+    "floor": 3,
+    "area": 49.14
+  },
+  {
+    "aptNm": "권선삼성",
+    "dealAmount": "31,500",
+    "date": "2026-10-02",
+    "floor": 8,
+    "area": 49.14
+  },
+  {
+    "aptNm": "권선삼성",
     "dealAmount": "30,000",
     "date": "2026-09-30",
     "floor": 1,

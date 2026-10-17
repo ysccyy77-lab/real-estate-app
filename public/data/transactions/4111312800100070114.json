@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "연안",
+    "dealAmount": "15,950",
+    "date": "2026-10-07",
+    "floor": 2,
+    "area": 44.57
+  },
+  {
+    "aptNm": "연안",
     "dealAmount": "14,500",
     "date": "2026-09-08",
     "floor": 4,

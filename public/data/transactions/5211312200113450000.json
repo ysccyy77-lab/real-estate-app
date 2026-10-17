@@ -1,10 +1,31 @@
 [
   {
     "aptNm": "SK선경",
+    "dealAmount": "31,000",
+    "date": "2026-10-10",
+    "floor": 1,
+    "area": 74.935
+  },
+  {
+    "aptNm": "SK선경",
+    "dealAmount": "41,500",
+    "date": "2026-10-08",
+    "floor": 9,
+    "area": 84.995
+  },
+  {
+    "aptNm": "SK선경",
     "dealAmount": "39,000",
     "date": "2026-10-03",
     "floor": 1,
     "area": 84.995
+  },
+  {
+    "aptNm": "SK선경",
+    "dealAmount": "50,000",
+    "date": "2026-09-18",
+    "floor": 16,
+    "area": 164.01
   },
   {
     "aptNm": "프라지움7차",

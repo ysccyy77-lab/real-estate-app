@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "롯데",
+    "dealAmount": "10,400",
+    "date": "2026-10-11",
+    "floor": 1,
+    "area": 54.09
+  },
+  {
+    "aptNm": "서창자이",
+    "dealAmount": "46,400",
+    "date": "2026-10-10",
+    "floor": 9,
+    "area": 84.798
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "9,200",
+    "date": "2026-10-10",
+    "floor": 5,
+    "area": 47.82
+  },
+  {
+    "aptNm": "롯데",
     "dealAmount": "11,600",
     "date": "2026-10-08",
     "floor": 2,
     "area": 54.09
+  },
+  {
+    "aptNm": "이림",
+    "dealAmount": "13,000",
+    "date": "2026-10-07",
+    "floor": 17,
+    "area": 37.47
   },
   {
     "aptNm": "이림",

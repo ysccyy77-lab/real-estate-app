@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "럭키설악1",
+    "dealAmount": "7,500",
+    "date": "2026-10-13",
+    "floor": 9,
+    "area": 59.18
+  },
+  {
+    "aptNm": "럭키설악1",
     "dealAmount": "10,500",
     "date": "2026-07-09",
     "floor": 8,

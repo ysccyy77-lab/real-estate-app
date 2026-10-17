@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "월곶동유호NPLUSVILLE",
+    "dealAmount": "15,900",
+    "date": "2026-10-14",
+    "floor": 11,
+    "area": 44.505
+  },
+  {
+    "aptNm": "월곶동유호NPLUSVILLE",
     "dealAmount": "19,200",
     "date": "2026-06-29",
     "floor": 9,

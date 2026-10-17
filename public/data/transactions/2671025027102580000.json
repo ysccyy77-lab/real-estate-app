@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "팬더",
+    "dealAmount": "29,700",
+    "date": "2026-10-07",
+    "floor": 4,
+    "area": 84.92
+  },
+  {
+    "aptNm": "벽산",
+    "dealAmount": "168,000",
+    "date": "2026-10-05",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
     "aptNm": "경성스마트더블유",
     "dealAmount": "19,500",
     "date": "2026-10-03",
     "floor": 8,
     "area": 49.841
+  },
+  {
+    "aptNm": "씨앤스타빌",
+    "dealAmount": "9,750",
+    "date": "2026-09-27",
+    "floor": 5,
+    "area": 49.96
   },
   {
     "aptNm": "힐포레아파트",

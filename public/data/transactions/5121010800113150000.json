@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "힉스유타워",
+    "dealAmount": "36,300",
+    "date": "2026-10-15",
+    "floor": 8,
+    "area": 59.72
+  },
+  {
+    "aptNm": "우남1",
+    "dealAmount": "46,300",
+    "date": "2026-10-14",
+    "floor": 11,
+    "area": 59.75
+  },
+  {
+    "aptNm": "힉스유타워",
+    "dealAmount": "36,500",
+    "date": "2026-10-09",
+    "floor": 17,
+    "area": 59.79
+  },
+  {
     "aptNm": "우남1",
     "dealAmount": "37,000",
     "date": "2026-09-28",

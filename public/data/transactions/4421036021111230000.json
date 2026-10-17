@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "동삼그린힐",
+    "dealAmount": "9,300",
+    "date": "2026-10-15",
+    "floor": 11,
+    "area": 49.94
+  },
+  {
+    "aptNm": "동삼그린힐",
+    "dealAmount": "6,300",
+    "date": "2026-10-09",
+    "floor": 9,
+    "area": 41.3
+  },
+  {
+    "aptNm": "동삼그린힐",
     "dealAmount": "7,000",
     "date": "2026-09-28",
     "floor": 10,

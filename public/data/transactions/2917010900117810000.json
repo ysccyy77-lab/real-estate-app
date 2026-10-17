@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "한울마을1단지운정신도시IPARK",
+    "dealAmount": "72,000",
+    "date": "2026-10-15",
+    "floor": 4,
+    "area": 84.91
+  },
+  {
+    "aptNm": "한울마을1단지운정신도시IPARK",
+    "dealAmount": "77,000",
+    "date": "2026-10-09",
+    "floor": 5,
+    "area": 84.91
+  },
+  {
     "aptNm": "한울마을1단지��정신도시IPARK",
     "dealAmount": "79,000",
     "date": "2026-10-06",
@@ -12,6 +26,20 @@
     "date": "2026-10-02",
     "floor": 13,
     "area": 59.99
+  },
+  {
+    "aptNm": "한울마을1단지운정신도시IPARK",
+    "dealAmount": "77,000",
+    "date": "2026-10-01",
+    "floor": 5,
+    "area": 109.99
+  },
+  {
+    "aptNm": "한울마을1단지운정신도시IPARK",
+    "dealAmount": "68,900",
+    "date": "2026-09-29",
+    "floor": 1,
+    "area": 84.91
   },
   {
     "aptNm": "한울마을1단지운정신도시IPARK",

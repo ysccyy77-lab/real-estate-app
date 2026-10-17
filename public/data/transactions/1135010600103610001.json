@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "화서성일",
+    "dealAmount": "30,500",
+    "date": "2026-10-05",
+    "floor": 5,
+    "area": 47.79
+  },
+  {
+    "aptNm": "화서성일",
+    "dealAmount": "32,000",
+    "date": "2026-10-05",
+    "floor": 4,
+    "area": 49.83
+  },
+  {
+    "aptNm": "화서성일",
+    "dealAmount": "30,000",
+    "date": "2026-10-03",
+    "floor": 4,
+    "area": 49.83
+  },
+  {
+    "aptNm": "화서성일",
     "dealAmount": "30,600",
     "date": "2026-10-02",
     "floor": 3,
@@ -12,6 +33,27 @@
     "date": "2026-09-30",
     "floor": 9,
     "area": 84.84
+  },
+  {
+    "aptNm": "화서성일",
+    "dealAmount": "30,500",
+    "date": "2026-09-30",
+    "floor": 2,
+    "area": 47.79
+  },
+  {
+    "aptNm": "롯데우성",
+    "dealAmount": "131,000",
+    "date": "2026-09-18",
+    "floor": 2,
+    "area": 115.26
+  },
+  {
+    "aptNm": "화서성일",
+    "dealAmount": "29,000",
+    "date": "2026-09-16",
+    "floor": 1,
+    "area": 47.79
   },
   {
     "aptNm": "화서성일",

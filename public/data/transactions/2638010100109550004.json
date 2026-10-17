@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "IDS아델하임",
+    "dealAmount": "10,000",
+    "date": "2026-10-15",
+    "floor": 18,
+    "area": 26.02
+  },
+  {
+    "aptNm": "IDS아델하임",
     "dealAmount": "8,600",
     "date": "2026-09-03",
     "floor": 12,

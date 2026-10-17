@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "설악",
+    "dealAmount": "26,000",
+    "date": "2026-10-15",
+    "floor": 1,
+    "area": 43.56
+  },
+  {
+    "aptNm": "설악2",
+    "dealAmount": "25,800",
+    "date": "2026-10-13",
+    "floor": 20,
+    "area": 36.96
+  },
+  {
+    "aptNm": "설악",
+    "dealAmount": "26,750",
+    "date": "2026-10-08",
+    "floor": 10,
+    "area": 43.56
+  },
+  {
+    "aptNm": "설악",
     "dealAmount": "27,000",
     "date": "2026-10-05",
     "floor": 6,

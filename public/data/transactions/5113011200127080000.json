@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "태장주공3",
+    "dealAmount": "8,300",
+    "date": "2026-10-08",
+    "floor": 5,
+    "area": 49.61
+  },
+  {
+    "aptNm": "태장주공2",
+    "dealAmount": "12,400",
+    "date": "2026-10-08",
+    "floor": 14,
+    "area": 59.67
+  },
+  {
+    "aptNm": "태장주공3",
     "dealAmount": "8,800",
     "date": "2026-09-03",
     "floor": 13,

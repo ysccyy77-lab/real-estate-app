@@ -1,5 +1,68 @@
 [
   {
+    "aptNm": "이안더부천",
+    "dealAmount": "40,000",
+    "date": "2026-10-15",
+    "floor": 8,
+    "area": 45.362
+  },
+  {
+    "aptNm": "한신휴",
+    "dealAmount": "31,000",
+    "date": "2026-10-15",
+    "floor": 5,
+    "area": 59.946
+  },
+  {
+    "aptNm": "한신휴",
+    "dealAmount": "27,700",
+    "date": "2026-10-15",
+    "floor": 1,
+    "area": 59.946
+  },
+  {
+    "aptNm": "성원2",
+    "dealAmount": "45,500",
+    "date": "2026-10-13",
+    "floor": 10,
+    "area": 134.94
+  },
+  {
+    "aptNm": "성원2",
+    "dealAmount": "37,500",
+    "date": "2026-10-10",
+    "floor": 2,
+    "area": 101.88
+  },
+  {
+    "aptNm": "이안더부천",
+    "dealAmount": "54,300",
+    "date": "2026-10-08",
+    "floor": 19,
+    "area": 61.853
+  },
+  {
+    "aptNm": "한아름",
+    "dealAmount": "50,500",
+    "date": "2026-10-08",
+    "floor": 2,
+    "area": 101.85
+  },
+  {
+    "aptNm": "월곡두산위브",
+    "dealAmount": "118,500",
+    "date": "2026-10-08",
+    "floor": 17,
+    "area": 84.843
+  },
+  {
+    "aptNm": "한신휴",
+    "dealAmount": "47,000",
+    "date": "2026-10-06",
+    "floor": 5,
+    "area": 127.207
+  },
+  {
     "aptNm": "주공2차",
     "dealAmount": "13,950",
     "date": "2026-10-03",

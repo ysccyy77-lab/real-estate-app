@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동아목련",
+    "dealAmount": "18,900",
+    "date": "2026-10-03",
+    "floor": 8,
+    "area": 84.87
+  },
+  {
+    "aptNm": "동아목련",
     "dealAmount": "21,500",
     "date": "2026-05-11",
     "floor": 7,

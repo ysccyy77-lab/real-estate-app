@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "LH뉴웰시티",
+    "dealAmount": "22,000",
+    "date": "2026-10-09",
+    "floor": 2,
+    "area": 59.99
+  },
+  {
+    "aptNm": "LH뉴웰시티",
     "dealAmount": "24,200",
     "date": "2026-09-30",
     "floor": 12,

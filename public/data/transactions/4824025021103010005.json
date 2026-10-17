@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "전원맨션",
+    "dealAmount": "11,400",
+    "date": "2026-10-05",
+    "floor": 5,
+    "area": 82.21
+  },
+  {
+    "aptNm": "전원맨션",
     "dealAmount": "4,300",
     "date": "2026-08-07",
     "floor": 4,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "천마타운",
+    "dealAmount": "6,000",
+    "date": "2026-10-13",
+    "floor": 1,
+    "area": 59.24
+  },
+  {
+    "aptNm": "천마타운",
     "dealAmount": "6,350",
     "date": "2026-09-29",
     "floor": 7,

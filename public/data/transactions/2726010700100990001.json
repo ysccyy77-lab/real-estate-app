@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "신일해피트리",
+    "dealAmount": "37,800",
+    "date": "2026-10-13",
+    "floor": 1,
+    "area": 59.64
+  },
+  {
+    "aptNm": "김천주공",
+    "dealAmount": "6,600",
+    "date": "2026-10-12",
+    "floor": 8,
+    "area": 39.99
+  },
+  {
+    "aptNm": "신일해피트리",
+    "dealAmount": "43,100",
+    "date": "2026-10-09",
+    "floor": 4,
+    "area": 69.72
+  },
+  {
+    "aptNm": "신일해피트리",
+    "dealAmount": "38,900",
+    "date": "2026-10-09",
+    "floor": 7,
+    "area": 59.64
+  },
+  {
     "aptNm": "김천주공",
     "dealAmount": "11,700",
     "date": "2026-10-01",

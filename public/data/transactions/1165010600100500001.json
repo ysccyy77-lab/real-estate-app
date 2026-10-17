@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "유림",
+    "dealAmount": "27,700",
+    "date": "2026-10-13",
+    "floor": 24,
+    "area": 84.7
+  },
+  {
+    "aptNm": "낙원",
+    "dealAmount": "2,000",
+    "date": "2026-10-12",
+    "floor": 3,
+    "area": 26.46
+  },
+  {
     "aptNm": "낙원",
     "dealAmount": "2,800",
     "date": "2026-10-03",

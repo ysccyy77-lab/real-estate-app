@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "포레나대원",
+    "dealAmount": "85,700",
+    "date": "2026-10-12",
+    "floor": 7,
+    "area": 108.2567
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "48,000",
+    "date": "2026-10-09",
+    "floor": 1,
+    "area": 134.806
+  },
+  {
+    "aptNm": "포레나대원",
+    "dealAmount": "74,500",
+    "date": "2026-10-08",
+    "floor": 18,
+    "area": 84.353
+  },
+  {
+    "aptNm": "포레나대원",
     "dealAmount": "75,000",
     "date": "2026-10-05",
     "floor": 21,

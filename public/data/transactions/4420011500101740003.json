@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "서진",
+    "dealAmount": "4,900",
+    "date": "2026-10-09",
+    "floor": 15,
+    "area": 39.6
+  },
+  {
+    "aptNm": "서진",
     "dealAmount": "3,600",
     "date": "2026-09-19",
     "floor": 11,

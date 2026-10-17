@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "코오롱",
+    "dealAmount": "20,500",
+    "date": "2026-10-14",
+    "floor": 5,
+    "area": 84.99
+  },
+  {
+    "aptNm": "동남",
+    "dealAmount": "50,500",
+    "date": "2026-10-10",
+    "floor": 2,
+    "area": 84.9886
+  },
+  {
+    "aptNm": "코오롱하늘채골든비치",
+    "dealAmount": "107,000",
+    "date": "2026-10-10",
+    "floor": 1,
+    "area": 126.23
+  },
+  {
+    "aptNm": "코오롱",
+    "dealAmount": "23,500",
+    "date": "2026-10-09",
+    "floor": 7,
+    "area": 84.99
+  },
+  {
     "aptNm": "동남",
     "dealAmount": "42,000",
     "date": "2026-10-07",

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "청솔",
+    "dealAmount": "9,100",
+    "date": "2026-10-12",
+    "floor": 13,
+    "area": 58.2
+  },
+  {
+    "aptNm": "청솔",
+    "dealAmount": "8,800",
+    "date": "2026-10-09",
+    "floor": 14,
+    "area": 58.2
+  },
+  {
     "aptNm": "평안맨션",
     "dealAmount": "8,000",
     "date": "2026-10-05",

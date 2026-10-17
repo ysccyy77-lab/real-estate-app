@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대륙현대1차",
+    "dealAmount": "60,000",
+    "date": "2026-10-15",
+    "floor": 9,
+    "area": 84.747
+  },
+  {
+    "aptNm": "비둘기맨션",
+    "dealAmount": "6,800",
+    "date": "2026-09-09",
+    "floor": 8,
+    "area": 84.42
+  },
+  {
+    "aptNm": "대륙현대1차",
     "dealAmount": "50,500",
     "date": "2026-06-18",
     "floor": 4,

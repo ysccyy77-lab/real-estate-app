@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "동서",
+    "dealAmount": "39,800",
+    "date": "2026-10-10",
+    "floor": 2,
+    "area": 52.31
+  },
+  {
+    "aptNm": "덕산아내1차",
+    "dealAmount": "11,900",
+    "date": "2026-10-09",
+    "floor": 7,
+    "area": 75.563
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "13,700",
+    "date": "2026-09-30",
+    "floor": 16,
+    "area": 59.91
+  },
+  {
+    "aptNm": "동서",
     "dealAmount": "30,800",
     "date": "2026-09-28",
     "floor": 4,

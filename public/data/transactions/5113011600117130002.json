@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "청솔8차",
+    "dealAmount": "9,400",
+    "date": "2026-10-13",
+    "floor": 10,
+    "area": 59.85
+  },
+  {
+    "aptNm": "청솔8차",
     "dealAmount": "12,500",
     "date": "2026-09-30",
     "floor": 11,

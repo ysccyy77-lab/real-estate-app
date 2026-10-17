@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "엘리시아",
+    "dealAmount": "7,000",
+    "date": "2026-10-08",
+    "floor": 12,
+    "area": 12.294
+  },
+  {
+    "aptNm": "엘리시아",
     "dealAmount": "8,200",
     "date": "2026-07-08",
     "floor": 18,

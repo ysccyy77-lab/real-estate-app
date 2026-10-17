@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "청호뜨레피움퍼스트아파트",
+    "dealAmount": "73,000",
+    "date": "2026-10-08",
+    "floor": 4,
+    "area": 58.16
+  },
+  {
     "aptNm": "일신건영",
     "dealAmount": "44,800",
     "date": "2026-10-02",
     "floor": 4,
     "area": 84.78
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "109,000",
+    "date": "2026-10-02",
+    "floor": 20,
+    "area": 59.99
+  },
+  {
+    "aptNm": "쌍용",
+    "dealAmount": "104,500",
+    "date": "2026-09-18",
+    "floor": 6,
+    "area": 59.99
   },
   {
     "aptNm": "힐데스하임",

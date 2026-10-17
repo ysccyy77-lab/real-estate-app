@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "뜨란채",
+    "dealAmount": "11,055",
+    "date": "2026-10-16",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "뜨란채",
+    "dealAmount": "15,700",
+    "date": "2026-10-12",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "뜨란채",
+    "dealAmount": "15,900",
+    "date": "2026-10-10",
+    "floor": 13,
+    "area": 59.99
+  },
+  {
+    "aptNm": "뜨란채",
+    "dealAmount": "16,200",
+    "date": "2026-10-09",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "뜨란채",
+    "dealAmount": "12,400",
+    "date": "2026-10-09",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "뜨란채",
+    "dealAmount": "11,900",
+    "date": "2026-10-09",
+    "floor": 10,
+    "area": 59.99
+  },
+  {
+    "aptNm": "뜨란채",
     "dealAmount": "14,700",
     "date": "2026-09-29",
     "floor": 15,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "성원상떼빌",
+    "dealAmount": "17,500",
+    "date": "2026-10-09",
+    "floor": 8,
+    "area": 30.42
+  },
+  {
+    "aptNm": "성원상떼빌",
+    "dealAmount": "20,800",
+    "date": "2026-10-01",
+    "floor": 16,
+    "area": 35.1
+  },
+  {
+    "aptNm": "성원상떼빌",
+    "dealAmount": "21,700",
+    "date": "2026-09-22",
+    "floor": 13,
+    "area": 36.66
+  },
+  {
+    "aptNm": "성원상떼빌",
     "dealAmount": "17,900",
     "date": "2026-08-10",
     "floor": 4,

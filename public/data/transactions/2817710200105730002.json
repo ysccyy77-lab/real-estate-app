@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "용현대우",
+    "dealAmount": "29,500",
+    "date": "2026-10-07",
+    "floor": 22,
+    "area": 84.97
+  },
+  {
+    "aptNm": "용현대우",
     "dealAmount": "26,500",
     "date": "2026-09-30",
     "floor": 8,

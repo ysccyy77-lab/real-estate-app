@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "인정프린스",
+    "dealAmount": "24,000",
+    "date": "2026-10-15",
+    "floor": 19,
+    "area": 60
+  },
+  {
+    "aptNm": "춘광아티움101동",
+    "dealAmount": "5,900",
+    "date": "2026-10-11",
+    "floor": 6,
+    "area": 49.91
+  },
+  {
+    "aptNm": "인정프린스",
+    "dealAmount": "24,300",
+    "date": "2026-10-09",
+    "floor": 7,
+    "area": 60
+  },
+  {
+    "aptNm": "인정프린스",
     "dealAmount": "23,000",
     "date": "2026-08-29",
     "floor": 9,

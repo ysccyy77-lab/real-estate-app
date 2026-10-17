@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "장현주공",
+    "dealAmount": "25,500",
+    "date": "2026-10-08",
+    "floor": 18,
+    "area": 59.99
+  },
+  {
+    "aptNm": "롯데캐슬레이크",
+    "dealAmount": "24,300",
+    "date": "2026-10-08",
+    "floor": 1,
+    "area": 84.91
+  },
+  {
+    "aptNm": "장현주공",
     "dealAmount": "25,000",
     "date": "2026-09-11",
     "floor": 12,

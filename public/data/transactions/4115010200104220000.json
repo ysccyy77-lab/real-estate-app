@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "천안목천동우1차",
+    "dealAmount": "3,700",
+    "date": "2026-10-14",
+    "floor": 5,
+    "area": 39.95
+  },
+  {
+    "aptNm": "천안목천동우1차",
+    "dealAmount": "3,300",
+    "date": "2026-10-12",
+    "floor": 11,
+    "area": 39.95
+  },
+  {
+    "aptNm": "천안목천동우1차",
+    "dealAmount": "3,800",
+    "date": "2026-10-12",
+    "floor": 15,
+    "area": 39.95
+  },
+  {
+    "aptNm": "신라",
+    "dealAmount": "12,500",
+    "date": "2026-10-07",
+    "floor": 5,
+    "area": 84.95
+  },
+  {
     "aptNm": "우남",
     "dealAmount": "29,000",
     "date": "2026-10-02",

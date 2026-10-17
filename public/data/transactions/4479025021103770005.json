@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "천강",
+    "dealAmount": "15,800",
+    "date": "2026-10-09",
+    "floor": 8,
+    "area": 84.906
+  },
+  {
+    "aptNm": "천강",
+    "dealAmount": "17,000",
+    "date": "2026-10-01",
+    "floor": 19,
+    "area": 84.906
+  },
+  {
+    "aptNm": "천강",
     "dealAmount": "13,800",
     "date": "2026-08-08",
     "floor": 17,

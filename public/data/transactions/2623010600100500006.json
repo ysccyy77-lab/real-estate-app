@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "화인",
+    "dealAmount": "25,500",
+    "date": "2026-10-12",
+    "floor": 17,
+    "area": 84.88
+  },
+  {
+    "aptNm": "화인",
     "dealAmount": "27,500",
     "date": "2026-10-07",
     "floor": 5,

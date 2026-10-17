@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "호매실스타힐스",
+    "dealAmount": "47,000",
+    "date": "2026-10-09",
+    "floor": 18,
+    "area": 59.98
+  },
+  {
     "aptNm": "대구율하2세계육상선수촌2단지",
     "dealAmount": "34,300",
     "date": "2026-10-05",
@@ -15,10 +22,24 @@
   },
   {
     "aptNm": "해운대 I PARK",
+    "dealAmount": "173,000",
+    "date": "2026-09-30",
+    "floor": 16,
+    "area": 112.991
+  },
+  {
+    "aptNm": "해운대 I PARK",
     "dealAmount": "194,000",
     "date": "2026-09-21",
     "floor": 57,
     "area": 163.142
+  },
+  {
+    "aptNm": "해운대 I PARK",
+    "dealAmount": "140,000",
+    "date": "2026-09-21",
+    "floor": 44,
+    "area": 89.496
   },
   {
     "aptNm": "평리청구타운",

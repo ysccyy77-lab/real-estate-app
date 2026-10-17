@@ -1,6 +1,55 @@
 [
   {
     "aptNm": "문촌마을6단지기산쌍용",
+    "dealAmount": "54,000",
+    "date": "2026-10-13",
+    "floor": 17,
+    "area": 84.9
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "32,500",
+    "date": "2026-10-12",
+    "floor": 10,
+    "area": 59.22
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "40,800",
+    "date": "2026-10-12",
+    "floor": 2,
+    "area": 76.29
+  },
+  {
+    "aptNm": "월영마크리움주상복합",
+    "dealAmount": "27,800",
+    "date": "2026-10-10",
+    "floor": 23,
+    "area": 63.9086
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "40,000",
+    "date": "2026-10-09",
+    "floor": 2,
+    "area": 76.35
+  },
+  {
+    "aptNm": "김천혁신도시이지더원",
+    "dealAmount": "37,800",
+    "date": "2026-10-07",
+    "floor": 18,
+    "area": 84.5988
+  },
+  {
+    "aptNm": "럭키",
+    "dealAmount": "32,400",
+    "date": "2026-10-06",
+    "floor": 14,
+    "area": 59.22
+  },
+  {
+    "aptNm": "문촌마을6단지기산쌍용",
     "dealAmount": "34,500",
     "date": "2026-10-03",
     "floor": 1,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "LIG건영캐스빌",
+    "dealAmount": "69,500",
+    "date": "2026-09-18",
+    "floor": 1,
+    "area": 80.1498
+  },
+  {
+    "aptNm": "LIG건영캐스빌",
     "dealAmount": "60,000",
     "date": "2026-07-24",
     "floor": 4,
