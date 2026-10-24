@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "영진로얄",
+    "dealAmount": "20,500",
+    "date": "2026-10-19",
+    "floor": 7,
+    "area": 84.88
+  },
+  {
+    "aptNm": "명천주공4",
+    "dealAmount": "9,700",
+    "date": "2026-10-19",
+    "floor": 2,
+    "area": 49.97
+  },
+  {
+    "aptNm": "DMC에코자이",
+    "dealAmount": "139,000",
+    "date": "2026-10-17",
+    "floor": 6,
+    "area": 59.79
+  },
+  {
+    "aptNm": "DMC에코자이",
+    "dealAmount": "154,000",
+    "date": "2026-10-17",
+    "floor": 4,
+    "area": 84.823
+  },
+  {
     "aptNm": "초월롯데낙천대2",
     "dealAmount": "37,000",
     "date": "2026-10-16",

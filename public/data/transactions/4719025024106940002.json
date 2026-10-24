@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우공1",
+    "dealAmount": "3,000",
+    "date": "2026-10-19",
+    "floor": 8,
+    "area": 69.93
+  },
+  {
+    "aptNm": "우공1",
     "dealAmount": "4,500",
     "date": "2026-08-02",
     "floor": 2,

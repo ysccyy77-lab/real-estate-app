@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "삼익비치",
+    "dealAmount": "133,700",
+    "date": "2026-10-17",
+    "floor": 9,
+    "area": 115.6
+  },
+  {
+    "aptNm": "삼익비치",
+    "dealAmount": "85,800",
+    "date": "2026-10-17",
+    "floor": 10,
+    "area": 61.09
+  },
+  {
+    "aptNm": "삼익비치",
+    "dealAmount": "133,000",
+    "date": "2026-10-17",
+    "floor": 6,
+    "area": 115.6
+  },
+  {
+    "aptNm": "삼익비치",
     "dealAmount": "100,000",
     "date": "2026-10-07",
     "floor": 11,
     "area": 73.92
+  },
+  {
+    "aptNm": "삼익비치",
+    "dealAmount": "85,000",
+    "date": "2026-10-03",
+    "floor": 8,
+    "area": 60.83
   },
   {
     "aptNm": "삼익비치",

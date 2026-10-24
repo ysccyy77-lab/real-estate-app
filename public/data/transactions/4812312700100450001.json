@@ -1,9 +1,93 @@
 [
   {
     "aptNm": "성원",
+    "dealAmount": "27,300",
+    "date": "2026-10-22",
+    "floor": 21,
+    "area": 59.97
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "36,900",
+    "date": "2026-10-22",
+    "floor": 15,
+    "area": 84.91
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "42,900",
+    "date": "2026-10-22",
+    "floor": 18,
+    "area": 84.91
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "17,800",
+    "date": "2026-10-22",
+    "floor": 15,
+    "area": 49.98
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "23,750",
+    "date": "2026-10-20",
+    "floor": 10,
+    "area": 59.97
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "21,500",
+    "date": "2026-10-20",
+    "floor": 2,
+    "area": 59.97
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "39,200",
+    "date": "2026-10-17",
+    "floor": 23,
+    "area": 84.91
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "44,700",
+    "date": "2026-10-17",
+    "floor": 24,
+    "area": 108.5
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "36,000",
+    "date": "2026-10-17",
+    "floor": 1,
+    "area": 84.92
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "35,500",
+    "date": "2026-10-17",
+    "floor": 4,
+    "area": 84.91
+  },
+  {
+    "aptNm": "성원",
     "dealAmount": "34,800",
     "date": "2026-10-16",
     "floor": 20,
+    "area": 84.91
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "25,200",
+    "date": "2026-10-16",
+    "floor": 12,
+    "area": 59.97
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "42,000",
+    "date": "2026-10-16",
+    "floor": 18,
     "area": 84.91
   },
   {
@@ -43,6 +127,13 @@
   },
   {
     "aptNm": "성원",
+    "dealAmount": "27,500",
+    "date": "2026-10-11",
+    "floor": 15,
+    "area": 59.97
+  },
+  {
+    "aptNm": "성원",
     "dealAmount": "36,500",
     "date": "2026-10-10",
     "floor": 21,
@@ -61,6 +152,13 @@
     "date": "2026-10-08",
     "floor": 22,
     "area": 59.97
+  },
+  {
+    "aptNm": "디에스아이존빌",
+    "dealAmount": "19,800",
+    "date": "2026-10-08",
+    "floor": 4,
+    "area": 84.9582
   },
   {
     "aptNm": "성원",

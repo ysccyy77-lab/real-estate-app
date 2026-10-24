@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신한미지엔",
+    "dealAmount": "41,500",
+    "date": "2026-10-19",
+    "floor": 2,
+    "area": 115
+  },
+  {
+    "aptNm": "신한미지엔",
     "dealAmount": "40,500",
     "date": "2026-06-04",
     "floor": 7,

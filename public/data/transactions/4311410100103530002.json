@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "덕일한마음",
+    "dealAmount": "3,050",
+    "date": "2026-10-18",
+    "floor": 1,
+    "area": 26.13
+  },
+  {
+    "aptNm": "덕일한마음",
     "dealAmount": "4,200",
     "date": "2026-08-10",
     "floor": 14,

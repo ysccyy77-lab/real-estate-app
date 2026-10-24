@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "현대2",
+    "dealAmount": "23,300",
+    "date": "2026-10-19",
+    "floor": 11,
+    "area": 84.88
+  },
+  {
+    "aptNm": "보성황실타운",
+    "dealAmount": "21,300",
+    "date": "2026-10-19",
+    "floor": 9,
+    "area": 117.39
+  },
+  {
+    "aptNm": "현대2",
     "dealAmount": "22,500",
     "date": "2026-10-13",
     "floor": 9,

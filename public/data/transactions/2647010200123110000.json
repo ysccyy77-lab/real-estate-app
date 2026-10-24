@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "더샵파크시티",
+    "dealAmount": "64,250",
+    "date": "2026-10-19",
+    "floor": 27,
+    "area": 74.97
+  },
+  {
+    "aptNm": "더샵파크시티",
+    "dealAmount": "59,300",
+    "date": "2026-10-14",
+    "floor": 6,
+    "area": 69.9
+  },
+  {
+    "aptNm": "더샵파크시티",
+    "dealAmount": "67,000",
+    "date": "2026-10-14",
+    "floor": 34,
+    "area": 84.96
+  },
+  {
+    "aptNm": "더샵파크시티",
     "dealAmount": "67,900",
     "date": "2026-09-22",
     "floor": 3,

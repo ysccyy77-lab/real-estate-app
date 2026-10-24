@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "상우",
+    "dealAmount": "31,000",
+    "date": "2026-10-18",
+    "floor": 8,
+    "area": 84.87
+  },
+  {
+    "aptNm": "상우",
     "dealAmount": "16,000",
     "date": "2026-07-08",
     "floor": 6,

@@ -2,9 +2,30 @@
   {
     "aptNm": "창원무동STX칸1차",
     "dealAmount": "18,000",
+    "date": "2026-10-21",
+    "floor": 19,
+    "area": 84.99
+  },
+  {
+    "aptNm": "센스빌",
+    "dealAmount": "15,250",
+    "date": "2026-10-13",
+    "floor": 2,
+    "area": 59.92
+  },
+  {
+    "aptNm": "창원무동STX칸1차",
+    "dealAmount": "18,000",
     "date": "2026-10-09",
     "floor": 5,
     "area": 84.99
+  },
+  {
+    "aptNm": "센스빌",
+    "dealAmount": "16,800",
+    "date": "2026-10-07",
+    "floor": 15,
+    "area": 59.92
   },
   {
     "aptNm": "센스빌",

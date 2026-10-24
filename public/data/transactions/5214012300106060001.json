@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "솔리안",
+    "dealAmount": "5,000",
+    "date": "2026-10-19",
+    "floor": 9,
+    "area": 26.6598
+  },
+  {
+    "aptNm": "솔리안",
     "dealAmount": "8,000",
     "date": "2026-10-03",
     "floor": 9,
     "area": 20.5562
+  },
+  {
+    "aptNm": "덕소주공3",
+    "dealAmount": "49,000",
+    "date": "2026-10-02",
+    "floor": 17,
+    "area": 59.99
   },
   {
     "aptNm": "덕소주공3",

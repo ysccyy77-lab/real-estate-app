@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "위너비타",
+    "dealAmount": "6,800",
+    "date": "2026-10-22",
+    "floor": 4,
+    "area": 33.1
+  },
+  {
+    "aptNm": "위너비타",
     "dealAmount": "3,500",
     "date": "2026-07-07",
     "floor": 7,

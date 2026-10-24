@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "삼익세라믹",
+    "dealAmount": "13,500",
+    "date": "2026-10-16",
+    "floor": 4,
+    "area": 84.69
+  },
+  {
+    "aptNm": "삼익세라믹",
     "dealAmount": "9,000",
     "date": "2026-07-27",
     "floor": 7,

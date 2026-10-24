@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "현대4",
+    "dealAmount": "32,600",
+    "date": "2026-10-22",
+    "floor": 2,
+    "area": 84.6
+  },
+  {
+    "aptNm": "현대4",
+    "dealAmount": "24,700",
+    "date": "2026-10-21",
+    "floor": 17,
+    "area": 59.4
+  },
+  {
+    "aptNm": "한솔아파트",
+    "dealAmount": "14,500",
+    "date": "2026-10-16",
+    "floor": 10,
+    "area": 58.74
+  },
+  {
     "aptNm": "한솔아파트",
     "dealAmount": "15,400",
     "date": "2026-10-12",

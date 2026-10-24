@@ -2,6 +2,13 @@
   {
     "aptNm": "한양립스",
     "dealAmount": "9,500",
+    "date": "2026-10-02",
+    "floor": 8,
+    "area": 12.33
+  },
+  {
+    "aptNm": "한양립스",
+    "dealAmount": "9,500",
     "date": "2026-06-25",
     "floor": 10,
     "area": 12.33

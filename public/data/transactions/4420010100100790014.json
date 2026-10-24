@@ -2,6 +2,20 @@
   {
     "aptNm": "갤러리휴리움",
     "dealAmount": "6,000",
+    "date": "2026-10-20",
+    "floor": 9,
+    "area": 21.28
+  },
+  {
+    "aptNm": "갤러리휴리움",
+    "dealAmount": "4,500",
+    "date": "2026-10-20",
+    "floor": 7,
+    "area": 18.64
+  },
+  {
+    "aptNm": "갤러리휴리움",
+    "dealAmount": "6,000",
     "date": "2026-09-09",
     "floor": 12,
     "area": 21.28

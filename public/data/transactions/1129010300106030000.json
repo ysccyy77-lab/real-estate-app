@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "진아리채",
+    "dealAmount": "22,000",
+    "date": "2026-10-23",
+    "floor": 2,
+    "area": 84.9495
+  },
+  {
+    "aptNm": "진아리채",
+    "dealAmount": "27,300",
+    "date": "2026-10-16",
+    "floor": 6,
+    "area": 84.9495
+  },
+  {
+    "aptNm": "더샵센트럴시티",
+    "dealAmount": "113,000",
+    "date": "2026-10-13",
+    "floor": 6,
+    "area": 110.59
+  },
+  {
+    "aptNm": "진아리채",
     "dealAmount": "27,500",
     "date": "2026-10-09",
     "floor": 9,

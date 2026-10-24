@@ -2,6 +2,13 @@
   {
     "aptNm": "서강1",
     "dealAmount": "21,500",
+    "date": "2026-10-05",
+    "floor": 9,
+    "area": 49.59
+  },
+  {
+    "aptNm": "서강1",
+    "dealAmount": "21,500",
     "date": "2026-06-30",
     "floor": 9,
     "area": 52.2

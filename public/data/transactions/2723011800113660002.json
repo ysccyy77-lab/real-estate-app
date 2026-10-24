@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "칠곡보성",
+    "dealAmount": "15,300",
+    "date": "2026-10-08",
+    "floor": 5,
+    "area": 84.98
+  },
+  {
+    "aptNm": "칠곡보성",
     "dealAmount": "15,000",
     "date": "2026-09-05",
     "floor": 8,

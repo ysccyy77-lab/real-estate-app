@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "협진태양",
+    "dealAmount": "24,500",
+    "date": "2026-10-19",
+    "floor": 10,
+    "area": 59.9
+  },
+  {
+    "aptNm": "협진태양",
     "dealAmount": "24,000",
     "date": "2026-08-14",
     "floor": 13,

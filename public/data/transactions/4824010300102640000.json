@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "40,000",
+    "date": "2026-10-17",
+    "floor": 25,
+    "area": 59.9682
+  },
+  {
     "aptNm": "에일린의뜰1차",
     "dealAmount": "56,300",
     "date": "2026-09-30",
@@ -19,6 +26,13 @@
     "date": "2026-09-28",
     "floor": 13,
     "area": 59.9649
+  },
+  {
+    "aptNm": "신흥SKVIEW",
+    "dealAmount": "37,400",
+    "date": "2026-09-28",
+    "floor": 2,
+    "area": 59.9682
   },
   {
     "aptNm": "신흥SKVIEW",

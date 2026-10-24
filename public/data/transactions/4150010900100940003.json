@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "올레오",
+    "dealAmount": "10,900",
+    "date": "2026-10-15",
+    "floor": 8,
+    "area": 49.6
+  },
+  {
+    "aptNm": "올레오",
+    "dealAmount": "11,000",
+    "date": "2026-10-14",
+    "floor": 3,
+    "area": 46.75
+  },
+  {
+    "aptNm": "올레오",
     "dealAmount": "7,610",
     "date": "2026-10-07",
     "floor": 5,

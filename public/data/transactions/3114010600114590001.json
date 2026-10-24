@@ -2,6 +2,13 @@
   {
     "aptNm": "삼산현대",
     "dealAmount": "66,000",
+    "date": "2026-10-13",
+    "floor": 8,
+    "area": 153.74
+  },
+  {
+    "aptNm": "삼산현대",
+    "dealAmount": "66,000",
     "date": "2026-10-03",
     "floor": 8,
     "area": 128.87

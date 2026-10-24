@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우남",
+    "dealAmount": "8,000",
+    "date": "2026-10-21",
+    "floor": 15,
+    "area": 59.985
+  },
+  {
+    "aptNm": "우남",
+    "dealAmount": "5,400",
+    "date": "2026-10-17",
+    "floor": 14,
+    "area": 49.68
+  },
+  {
+    "aptNm": "우남",
     "dealAmount": "7,600",
     "date": "2026-10-02",
     "floor": 6,

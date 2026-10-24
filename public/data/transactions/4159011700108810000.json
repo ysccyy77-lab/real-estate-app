@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "롯데캐슬골드2단지",
+    "dealAmount": "64,500",
+    "date": "2026-10-22",
+    "floor": 6,
+    "area": 116.82
+  },
+  {
+    "aptNm": "안성E.TRINITY공도센트럴파크",
+    "dealAmount": "28,000",
+    "date": "2026-10-21",
+    "floor": 14,
+    "area": 74.1431
+  },
+  {
+    "aptNm": "호수마을(현대)",
+    "dealAmount": "60,000",
+    "date": "2026-10-17",
+    "floor": 14,
+    "area": 84.81
+  },
+  {
+    "aptNm": "부영벽산",
+    "dealAmount": "17,100",
+    "date": "2026-10-17",
+    "floor": 9,
+    "area": 74.01
+  },
+  {
     "aptNm": "호수마을(현대)",
     "dealAmount": "47,900",
     "date": "2026-10-11",
     "floor": 15,
     "area": 70.14
+  },
+  {
+    "aptNm": "호수마을(현대)",
+    "dealAmount": "38,000",
+    "date": "2026-10-08",
+    "floor": 2,
+    "area": 59.925
   },
   {
     "aptNm": "신명나리",

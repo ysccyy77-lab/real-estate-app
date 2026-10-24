@@ -8,6 +8,13 @@
   },
   {
     "aptNm": "LH지행역더퍼스트",
+    "dealAmount": "24,300",
+    "date": "2026-10-10",
+    "floor": 9,
+    "area": 59.99
+  },
+  {
+    "aptNm": "LH지행역더퍼스트",
     "dealAmount": "24,500",
     "date": "2026-10-09",
     "floor": 16,

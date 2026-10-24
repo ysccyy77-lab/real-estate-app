@@ -1,10 +1,38 @@
 [
   {
     "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "65,900",
+    "date": "2026-10-22",
+    "floor": 9,
+    "area": 74.6086
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "49,000",
+    "date": "2026-10-21",
+    "floor": 20,
+    "area": 51.998
+  },
+  {
+    "aptNm": "남광하우스토리",
+    "dealAmount": "40,500",
+    "date": "2026-10-19",
+    "floor": 1,
+    "area": 84.97
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
     "dealAmount": "29,700",
     "date": "2026-10-15",
     "floor": 2,
     "area": 36.0986
+  },
+  {
+    "aptNm": "이편한세상금정산",
+    "dealAmount": "40,000",
+    "date": "2026-10-15",
+    "floor": 19,
+    "area": 84.9378
   },
   {
     "aptNm": "부평SKVIEW해모로",
@@ -12,6 +40,20 @@
     "date": "2026-10-14",
     "floor": 13,
     "area": 59.975
+  },
+  {
+    "aptNm": "부평SKVIEW해모로",
+    "dealAmount": "74,000",
+    "date": "2026-10-13",
+    "floor": 9,
+    "area": 84.9659
+  },
+  {
+    "aptNm": "뉴그린1",
+    "dealAmount": "15,500",
+    "date": "2026-10-12",
+    "floor": 7,
+    "area": 54.9
   },
   {
     "aptNm": "회천파밀리에더퍼스트",
@@ -33,6 +75,13 @@
     "date": "2026-10-09",
     "floor": 5,
     "area": 57.33
+  },
+  {
+    "aptNm": "유블레스랜드마크47",
+    "dealAmount": "40,000",
+    "date": "2026-10-08",
+    "floor": 38,
+    "area": 84.4386
   },
   {
     "aptNm": "부평SKVIEW해모로",

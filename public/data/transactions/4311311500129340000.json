@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "청주SKVIEW자이",
+    "dealAmount": "40,400",
+    "date": "2026-10-21",
+    "floor": 19,
+    "area": 59.9735
+  },
+  {
+    "aptNm": "청주SKVIEW자이",
+    "dealAmount": "40,100",
+    "date": "2026-10-11",
+    "floor": 11,
+    "area": 59.9735
+  },
+  {
+    "aptNm": "청주SKVIEW자이",
     "dealAmount": "40,850",
     "date": "2026-10-03",
     "floor": 29,

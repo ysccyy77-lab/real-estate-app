@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "칠곡건영",
+    "dealAmount": "11,700",
+    "date": "2026-10-16",
+    "floor": 13,
+    "area": 59.715
+  },
+  {
+    "aptNm": "칠곡건영",
+    "dealAmount": "12,350",
+    "date": "2026-10-15",
+    "floor": 10,
+    "area": 59.88
+  },
+  {
+    "aptNm": "칠곡건영",
     "dealAmount": "12,400",
     "date": "2026-06-15",
     "floor": 4,

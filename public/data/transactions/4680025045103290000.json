@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "서호2차",
+    "dealAmount": "11,400",
+    "date": "2026-10-16",
+    "floor": 6,
+    "area": 59.88
+  },
+  {
+    "aptNm": "목동신시가지14",
+    "dealAmount": "233,000",
+    "date": "2026-10-08",
+    "floor": 14,
+    "area": 71.4
+  },
+  {
+    "aptNm": "청솔우성",
+    "dealAmount": "59,800",
+    "date": "2026-10-05",
+    "floor": 13,
+    "area": 59.27
+  },
+  {
+    "aptNm": "서호2차",
     "dealAmount": "10,500",
     "date": "2026-09-21",
     "floor": 10,

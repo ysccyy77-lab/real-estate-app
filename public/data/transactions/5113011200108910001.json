@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "영진2",
+    "dealAmount": "9,400",
+    "date": "2026-10-16",
+    "floor": 11,
+    "area": 59.94
+  },
+  {
+    "aptNm": "영진2",
     "dealAmount": "7,000",
     "date": "2026-10-05",
     "floor": 15,

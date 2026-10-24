@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "현대3",
+    "dealAmount": "40,000",
+    "date": "2026-10-23",
+    "floor": 19,
+    "area": 96.53
+  },
+  {
+    "aptNm": "현대3",
+    "dealAmount": "39,000",
+    "date": "2026-10-19",
+    "floor": 14,
+    "area": 96.53
+  },
+  {
+    "aptNm": "장암동신",
+    "dealAmount": "39,800",
+    "date": "2026-10-18",
+    "floor": 4,
+    "area": 96.53
+  },
+  {
+    "aptNm": "장암동신",
+    "dealAmount": "40,000",
+    "date": "2026-10-16",
+    "floor": 6,
+    "area": 96.53
+  },
+  {
     "aptNm": "장암동신",
     "dealAmount": "39,000",
     "date": "2026-10-06",

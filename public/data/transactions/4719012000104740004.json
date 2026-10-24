@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "부영8",
+    "dealAmount": "12,500",
+    "date": "2026-10-12",
+    "floor": 4,
+    "area": 81.1718
+  },
+  {
+    "aptNm": "부영8",
     "dealAmount": "9,850",
     "date": "2026-09-14",
     "floor": 10,

@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "동해하나리움",
+    "dealAmount": "17,400",
+    "date": "2026-10-19",
+    "floor": 6,
+    "area": 59.9844
+  },
+  {
     "aptNm": "원호대우",
     "dealAmount": "22,000",
     "date": "2026-10-01",
     "floor": 10,
     "area": 99.95
+  },
+  {
+    "aptNm": "주공12",
+    "dealAmount": "151,000",
+    "date": "2026-09-30",
+    "floor": 6,
+    "area": 84.97
   },
   {
     "aptNm": "성호",

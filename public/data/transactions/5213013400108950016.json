@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현대한솔",
+    "dealAmount": "6,800",
+    "date": "2026-10-05",
+    "floor": 4,
+    "area": 66.322
+  },
+  {
+    "aptNm": "현대한솔",
     "dealAmount": "8,500",
     "date": "2026-08-31",
     "floor": 9,

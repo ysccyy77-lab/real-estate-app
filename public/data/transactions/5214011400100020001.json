@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "한진",
+    "dealAmount": "13,000",
+    "date": "2026-10-17",
+    "floor": 8,
+    "area": 76.93
+  },
+  {
     "aptNm": "남해오네뜨",
     "dealAmount": "17,300",
     "date": "2026-10-13",
     "floor": 12,
     "area": 73.9961
+  },
+  {
+    "aptNm": "남해오네뜨",
+    "dealAmount": "20,000",
+    "date": "2026-10-11",
+    "floor": 12,
+    "area": 84.9109
   },
   {
     "aptNm": "동오",

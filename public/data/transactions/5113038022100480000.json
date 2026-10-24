@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "삼익",
+    "dealAmount": "22,000",
+    "date": "2026-10-16",
+    "floor": 9,
+    "area": 59.76
+  },
+  {
     "aptNm": "선산주공",
     "dealAmount": "4,000",
     "date": "2026-10-14",
     "floor": 15,
     "area": 49.71
+  },
+  {
+    "aptNm": "해오름",
+    "dealAmount": "25,500",
+    "date": "2026-10-11",
+    "floor": 13,
+    "area": 84.9729
   },
   {
     "aptNm": "선산주공",

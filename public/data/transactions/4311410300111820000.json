@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "그린타운(우성1)",
+    "dealAmount": "77,500",
+    "date": "2026-10-23",
+    "floor": 6,
+    "area": 128.94
+  },
+  {
+    "aptNm": "내대지마을건영캐스빌",
+    "dealAmount": "92,000",
+    "date": "2026-10-21",
+    "floor": 10,
+    "area": 134.5325
+  },
+  {
+    "aptNm": "내대지마을건영캐스빌",
+    "dealAmount": "89,000",
+    "date": "2026-10-19",
+    "floor": 5,
+    "area": 84.5773
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "5,900",
+    "date": "2026-10-15",
+    "floor": 3,
+    "area": 53.012
+  },
+  {
     "aptNm": "내대지마을건영캐스빌",
     "dealAmount": "95,000",
     "date": "2026-10-12",
@@ -28,11 +56,39 @@
     "area": 110.3495
   },
   {
+    "aptNm": "eliott아파트",
+    "dealAmount": "7,050",
+    "date": "2026-10-02",
+    "floor": 7,
+    "area": 59.56
+  },
+  {
+    "aptNm": "eliott아파트",
+    "dealAmount": "6,730",
+    "date": "2026-10-02",
+    "floor": 2,
+    "area": 59.56
+  },
+  {
+    "aptNm": "eliott아파트",
+    "dealAmount": "7,050",
+    "date": "2026-10-02",
+    "floor": 6,
+    "area": 59.56
+  },
+  {
     "aptNm": "그린타운(삼성)",
     "dealAmount": "81,000",
     "date": "2026-09-29",
     "floor": 2,
     "area": 133.47
+  },
+  {
+    "aptNm": "내대지마을건영캐스빌",
+    "dealAmount": "90,000",
+    "date": "2026-09-29",
+    "floor": 10,
+    "area": 84.5773
   },
   {
     "aptNm": "삼성",

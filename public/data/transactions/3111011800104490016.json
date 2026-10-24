@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "유로캐슬",
+    "dealAmount": "24,000",
+    "date": "2026-10-16",
+    "floor": 15,
+    "area": 81.7
+  },
+  {
+    "aptNm": "유로캐슬",
     "dealAmount": "23,000",
     "date": "2026-10-12",
     "floor": 4,

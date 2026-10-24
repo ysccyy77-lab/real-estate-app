@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "은초롱",
+    "dealAmount": "48,300",
+    "date": "2026-10-23",
+    "floor": 8,
+    "area": 84.93
+  },
+  {
+    "aptNm": "은초롱",
     "dealAmount": "46,500",
     "date": "2026-06-16",
     "floor": 13,

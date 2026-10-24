@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "서창자이",
+    "dealAmount": "50,000",
+    "date": "2026-10-22",
+    "floor": 17,
+    "area": 119.089
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "8,000",
+    "date": "2026-10-21",
+    "floor": 4,
+    "area": 47.82
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "9,300",
+    "date": "2026-10-17",
+    "floor": 4,
+    "area": 59.4
+  },
+  {
     "aptNm": "롯데",
     "dealAmount": "10,400",
     "date": "2026-10-11",

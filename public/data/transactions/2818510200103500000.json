@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "삼성한국형",
+    "dealAmount": "30,000",
+    "date": "2026-10-20",
+    "floor": 1,
+    "area": 134.97
+  },
+  {
+    "aptNm": "삼성한국형",
+    "dealAmount": "20,900",
+    "date": "2026-10-17",
+    "floor": 19,
+    "area": 59.67
+  },
+  {
+    "aptNm": "금호타운",
+    "dealAmount": "37,000",
+    "date": "2026-10-17",
+    "floor": 13,
+    "area": 84.9
+  },
+  {
     "aptNm": "경동",
     "dealAmount": "50,500",
     "date": "2026-10-13",

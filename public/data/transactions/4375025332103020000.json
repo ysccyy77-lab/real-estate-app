@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "천일은곡",
+    "dealAmount": "8,350",
+    "date": "2026-10-20",
+    "floor": 8,
+    "area": 59.739
+  },
+  {
+    "aptNm": "황실타운",
+    "dealAmount": "36,000",
+    "date": "2026-10-19",
+    "floor": 4,
+    "area": 65.76
+  },
+  {
+    "aptNm": "황실타운",
+    "dealAmount": "42,500",
+    "date": "2026-10-17",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "황실타운",
+    "dealAmount": "49,500",
+    "date": "2026-10-17",
+    "floor": 4,
+    "area": 84.93
+  },
+  {
+    "aptNm": "한솔그린빌",
+    "dealAmount": "5,500",
+    "date": "2026-10-16",
+    "floor": 2,
+    "area": 49.93
+  },
+  {
     "aptNm": "황실타운",
     "dealAmount": "46,900",
     "date": "2026-10-07",

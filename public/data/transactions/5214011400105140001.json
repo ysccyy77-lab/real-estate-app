@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "배산제일",
+    "dealAmount": "8,500",
+    "date": "2026-10-23",
+    "floor": 3,
+    "area": 59.99
+  },
+  {
+    "aptNm": "배산제일",
     "dealAmount": "7,700",
     "date": "2026-10-04",
     "floor": 5,

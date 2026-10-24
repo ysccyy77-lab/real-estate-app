@@ -1,9 +1,30 @@
 [
   {
     "aptNm": "부영3차",
+    "dealAmount": "7,600",
+    "date": "2026-10-19",
+    "floor": 14,
+    "area": 49.842
+  },
+  {
+    "aptNm": "상우",
+    "dealAmount": "64,000",
+    "date": "2026-10-16",
+    "floor": 1,
+    "area": 59.4
+  },
+  {
+    "aptNm": "부영3차",
     "dealAmount": "9,000",
     "date": "2026-10-12",
     "floor": 1,
+    "area": 59.8404
+  },
+  {
+    "aptNm": "부영3차",
+    "dealAmount": "10,500",
+    "date": "2026-10-09",
+    "floor": 11,
     "area": 59.8404
   },
   {

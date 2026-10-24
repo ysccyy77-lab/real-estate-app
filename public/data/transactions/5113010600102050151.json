@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동현맨션",
+    "dealAmount": "5,000",
+    "date": "2026-10-07",
+    "floor": 10,
+    "area": 55.11
+  },
+  {
+    "aptNm": "동현맨션",
     "dealAmount": "11,000",
     "date": "2026-07-01",
     "floor": 7,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "현대2차",
+    "dealAmount": "52,000",
+    "date": "2026-10-22",
+    "floor": 10,
+    "area": 69.84
+  },
+  {
+    "aptNm": "더샵퍼스트월드",
+    "dealAmount": "80,500",
+    "date": "2026-10-22",
+    "floor": 13,
+    "area": 101.748
+  },
+  {
+    "aptNm": "현대2차",
+    "dealAmount": "51,000",
+    "date": "2026-10-19",
+    "floor": 15,
+    "area": 69.84
+  },
+  {
+    "aptNm": "현대2차",
     "dealAmount": "58,500",
     "date": "2026-10-10",
     "floor": 5,

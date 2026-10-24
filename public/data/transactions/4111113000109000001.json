@@ -1,9 +1,44 @@
 [
   {
     "aptNm": "주공3차",
+    "dealAmount": "6,900",
+    "date": "2026-10-22",
+    "floor": 7,
+    "area": 49.86
+  },
+  {
+    "aptNm": "주공3차",
+    "dealAmount": "9,500",
+    "date": "2026-10-19",
+    "floor": 16,
+    "area": 59.42
+  },
+  {
+    "aptNm": "주공3차",
+    "dealAmount": "6,500",
+    "date": "2026-10-19",
+    "floor": 9,
+    "area": 49.86
+  },
+  {
+    "aptNm": "주공3차",
+    "dealAmount": "9,000",
+    "date": "2026-10-17",
+    "floor": 16,
+    "area": 59.42
+  },
+  {
+    "aptNm": "주공3차",
     "dealAmount": "9,800",
     "date": "2026-10-11",
     "floor": 1,
+    "area": 59.42
+  },
+  {
+    "aptNm": "주공3차",
+    "dealAmount": "8,300",
+    "date": "2026-09-29",
+    "floor": 18,
     "area": 59.42
   },
   {

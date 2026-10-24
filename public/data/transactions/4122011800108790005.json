@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "비전현대",
+    "dealAmount": "14,800",
+    "date": "2026-10-16",
+    "floor": 9,
+    "area": 44.87
+  },
+  {
+    "aptNm": "비전현대",
     "dealAmount": "17,000",
     "date": "2026-10-07",
     "floor": 9,

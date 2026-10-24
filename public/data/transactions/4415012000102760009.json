@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "이솔",
+    "dealAmount": "14,000",
+    "date": "2026-10-14",
+    "floor": 11,
+    "area": 59.1199
+  },
+  {
+    "aptNm": "이솔",
     "dealAmount": "13,700",
     "date": "2026-08-01",
     "floor": 6,

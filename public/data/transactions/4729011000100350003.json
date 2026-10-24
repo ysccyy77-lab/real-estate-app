@@ -22,6 +22,13 @@
   },
   {
     "aptNm": "유니빌",
+    "dealAmount": "4,000",
+    "date": "2026-09-22",
+    "floor": 5,
+    "area": 28.168
+  },
+  {
+    "aptNm": "유니빌",
     "dealAmount": "5,000",
     "date": "2026-09-15",
     "floor": 4,

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "삼신",
+    "dealAmount": "2,200",
+    "date": "2026-10-21",
+    "floor": 5,
+    "area": 43.68
+  },
+  {
+    "aptNm": "진흥빌라",
+    "dealAmount": "9,000",
+    "date": "2026-10-14",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
     "aptNm": "우성",
     "dealAmount": "83,807",
     "date": "2026-09-03",

@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "그린아파트",
+    "dealAmount": "3,800",
+    "date": "2026-10-19",
+    "floor": 2,
+    "area": 54.99
+  },
+  {
     "aptNm": "우성",
     "dealAmount": "47,000",
     "date": "2026-10-16",
     "floor": 8,
     "area": 84.97
+  },
+  {
+    "aptNm": "내지브로아파트",
+    "dealAmount": "19,500",
+    "date": "2026-10-12",
+    "floor": 5,
+    "area": 84.0729
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "39,000",
+    "date": "2026-10-09",
+    "floor": 1,
+    "area": 72.94
   },
   {
     "aptNm": "우성",

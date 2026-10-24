@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "대안IPARK",
+    "dealAmount": "18,300",
+    "date": "2026-10-21",
+    "floor": 10,
+    "area": 84.86
+  },
+  {
+    "aptNm": "군산미장아이파크",
+    "dealAmount": "29,200",
+    "date": "2026-10-21",
+    "floor": 16,
+    "area": 84.9965
+  },
+  {
+    "aptNm": "평택지제역동문굿모닝힐맘시티1단지",
+    "dealAmount": "26,500",
+    "date": "2026-10-20",
+    "floor": 12,
+    "area": 59.7109
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "37,800",
+    "date": "2026-10-16",
+    "floor": 15,
+    "area": 71.55
+  },
+  {
+    "aptNm": "대안IPARK",
+    "dealAmount": "13,000",
+    "date": "2026-10-16",
+    "floor": 6,
+    "area": 59.925
+  },
+  {
     "aptNm": "시흥시청역동원로얄듀크",
     "dealAmount": "63,000",
     "date": "2026-10-10",

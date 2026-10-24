@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "EG-the1아파트",
+    "dealAmount": "28,000",
+    "date": "2026-10-19",
+    "floor": 14,
+    "area": 84.9822
+  },
+  {
+    "aptNm": "EG-the1아파트",
+    "dealAmount": "18,500",
+    "date": "2026-10-18",
+    "floor": 17,
+    "area": 59.9473
+  },
+  {
+    "aptNm": "EG-the1아파트",
+    "dealAmount": "39,500",
+    "date": "2026-10-18",
+    "floor": 9,
+    "area": 113.999
+  },
+  {
+    "aptNm": "EG-the1아파트",
+    "dealAmount": "29,000",
+    "date": "2026-10-16",
+    "floor": 7,
+    "area": 84.9822
+  },
+  {
+    "aptNm": "EG-the1아파트",
     "dealAmount": "27,400",
     "date": "2026-10-13",
     "floor": 11,

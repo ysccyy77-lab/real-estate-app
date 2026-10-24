@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "명지더웨스턴",
+    "dealAmount": "35,200",
+    "date": "2026-10-21",
+    "floor": 6,
+    "area": 74.62
+  },
+  {
+    "aptNm": "명지더웨스턴",
+    "dealAmount": "36,000",
+    "date": "2026-10-19",
+    "floor": 1,
+    "area": 74.8
+  },
+  {
+    "aptNm": "명지더웨스턴",
+    "dealAmount": "42,000",
+    "date": "2026-10-16",
+    "floor": 14,
+    "area": 84.61
+  },
+  {
+    "aptNm": "명지더웨스턴",
     "dealAmount": "32,600",
     "date": "2026-10-10",
     "floor": 2,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신미주",
+    "dealAmount": "34,800",
+    "date": "2026-10-14",
+    "floor": 19,
+    "area": 59.22
+  },
+  {
+    "aptNm": "신미주",
     "dealAmount": "38,700",
     "date": "2026-09-12",
     "floor": 19,

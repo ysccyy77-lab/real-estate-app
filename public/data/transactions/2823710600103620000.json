@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대승하이아트1",
+    "dealAmount": "6,000",
+    "date": "2026-10-20",
+    "floor": 17,
+    "area": 73.37
+  },
+  {
+    "aptNm": "동남",
+    "dealAmount": "40,000",
+    "date": "2026-10-16",
+    "floor": 6,
+    "area": 84.75
+  },
+  {
+    "aptNm": "대승하이아트1",
     "dealAmount": "11,000",
     "date": "2026-10-12",
     "floor": 6,

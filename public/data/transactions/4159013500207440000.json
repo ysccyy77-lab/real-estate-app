@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "한국1",
+    "dealAmount": "25,500",
+    "date": "2026-10-17",
+    "floor": 8,
+    "area": 84.96
+  },
+  {
+    "aptNm": "풍호주공",
+    "dealAmount": "6,300",
+    "date": "2026-10-16",
+    "floor": 2,
+    "area": 39.3
+  },
+  {
     "aptNm": "적성",
     "dealAmount": "20,400",
     "date": "2026-10-14",

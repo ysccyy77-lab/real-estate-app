@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "삼환",
+    "dealAmount": "60,300",
+    "date": "2026-10-22",
+    "floor": 7,
+    "area": 73.62
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "49,200",
+    "date": "2026-10-17",
+    "floor": 15,
+    "area": 54.66
+  },
+  {
+    "aptNm": "삼환",
+    "dealAmount": "67,000",
+    "date": "2026-10-17",
+    "floor": 15,
+    "area": 84.9
+  },
+  {
+    "aptNm": "청구3차",
+    "dealAmount": "95,000",
+    "date": "2026-10-17",
+    "floor": 9,
+    "area": 59.4
+  },
+  {
+    "aptNm": "삼환",
     "dealAmount": "64,500",
     "date": "2026-10-13",
     "floor": 12,
@@ -60,6 +88,13 @@
     "dealAmount": "80,000",
     "date": "2026-09-30",
     "floor": 23,
+    "area": 124.9665
+  },
+  {
+    "aptNm": "한라비발디",
+    "dealAmount": "80,000",
+    "date": "2026-09-30",
+    "floor": 22,
     "area": 124.9665
   },
   {

@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "미사강변 골든 센트로",
+    "dealAmount": "117,000",
+    "date": "2026-10-17",
+    "floor": 16,
+    "area": 59.96
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "46,000",
+    "date": "2026-10-16",
+    "floor": 8,
+    "area": 74.25
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "57,000",
+    "date": "2026-10-16",
+    "floor": 8,
+    "area": 84.95
+  },
+  {
     "aptNm": "임광",
     "dealAmount": "44,000",
     "date": "2026-10-09",
     "floor": 2,
     "area": 74.25
+  },
+  {
+    "aptNm": "임광",
+    "dealAmount": "43,500",
+    "date": "2026-10-08",
+    "floor": 8,
+    "area": 73.91
   },
   {
     "aptNm": "임광",
@@ -21,11 +49,25 @@
     "area": 152.386
   },
   {
+    "aptNm": "석봉마을6단지대동4",
+    "dealAmount": "23,000",
+    "date": "2026-10-07",
+    "floor": 12,
+    "area": 122.39
+  },
+  {
     "aptNm": "임광",
     "dealAmount": "50,400",
     "date": "2026-09-29",
     "floor": 11,
     "area": 84.96
+  },
+  {
+    "aptNm": "미사강변 골든 센트로",
+    "dealAmount": "123,000",
+    "date": "2026-09-29",
+    "floor": 25,
+    "area": 59.96
   },
   {
     "aptNm": "임광",

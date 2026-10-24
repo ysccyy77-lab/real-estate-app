@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "한일",
+    "dealAmount": "12,500",
+    "date": "2026-10-22",
+    "floor": 1,
+    "area": 59.94
+  },
+  {
+    "aptNm": "이천뜨란채4단지",
+    "dealAmount": "32,500",
+    "date": "2026-10-20",
+    "floor": 12,
+    "area": 84.45
+  },
+  {
+    "aptNm": "한일",
     "dealAmount": "15,500",
     "date": "2026-10-15",
     "floor": 2,

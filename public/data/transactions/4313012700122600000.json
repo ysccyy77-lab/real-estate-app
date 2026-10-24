@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "럭키",
+    "dealAmount": "15,200",
+    "date": "2026-10-20",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "럭키",
     "dealAmount": "10,000",
     "date": "2026-09-15",
     "floor": 4,

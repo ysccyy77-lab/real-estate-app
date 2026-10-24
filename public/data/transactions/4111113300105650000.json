@@ -1,10 +1,52 @@
 [
   {
+    "aptNm": "부국",
+    "dealAmount": "11,500",
+    "date": "2026-10-22",
+    "floor": 12,
+    "area": 120.69
+  },
+  {
+    "aptNm": "한라동백",
+    "dealAmount": "13,000",
+    "date": "2026-10-16",
+    "floor": 10,
+    "area": 59.76
+  },
+  {
+    "aptNm": "부국",
+    "dealAmount": "11,000",
+    "date": "2026-10-08",
+    "floor": 11,
+    "area": 93.1
+  },
+  {
+    "aptNm": "우성1차",
+    "dealAmount": "130,000",
+    "date": "2026-10-03",
+    "floor": 11,
+    "area": 66.69
+  },
+  {
+    "aptNm": "우성1차",
+    "dealAmount": "148,800",
+    "date": "2026-10-03",
+    "floor": 16,
+    "area": 84.99
+  },
+  {
     "aptNm": "미사강변아란티움",
     "dealAmount": "124,000",
     "date": "2026-10-02",
     "floor": 10,
     "area": 84.97
+  },
+  {
+    "aptNm": "우성1차",
+    "dealAmount": "170,000",
+    "date": "2026-09-28",
+    "floor": 14,
+    "area": 127.02
   },
   {
     "aptNm": "한라동백",

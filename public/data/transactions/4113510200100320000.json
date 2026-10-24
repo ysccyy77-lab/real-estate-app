@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대한2차",
+    "dealAmount": "6,600",
+    "date": "2026-10-14",
+    "floor": 2,
+    "area": 59.985
+  },
+  {
+    "aptNm": "대한2차",
     "dealAmount": "7,100",
     "date": "2026-10-08",
     "floor": 4,

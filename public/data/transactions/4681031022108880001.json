@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "우성",
+    "dealAmount": "30,300",
+    "date": "2026-10-18",
+    "floor": 15,
+    "area": 84.72
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "27,200",
+    "date": "2026-10-17",
+    "floor": 20,
+    "area": 84.72
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "23,350",
+    "date": "2026-10-17",
+    "floor": 22,
+    "area": 59.97
+  },
+  {
+    "aptNm": "우성",
+    "dealAmount": "27,500",
+    "date": "2026-10-17",
+    "floor": 14,
+    "area": 84.72
+  },
+  {
+    "aptNm": "우성",
     "dealAmount": "28,450",
     "date": "2026-10-06",
     "floor": 17,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "봉곡현대",
+    "dealAmount": "16,500",
+    "date": "2026-10-12",
+    "floor": 6,
+    "area": 99.65
+  },
+  {
+    "aptNm": "봉곡현대",
     "dealAmount": "12,300",
     "date": "2026-10-03",
     "floor": 12,

@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "동성",
+    "dealAmount": "28,300",
+    "date": "2026-10-22",
+    "floor": 19,
+    "area": 84.71
+  },
+  {
+    "aptNm": "이든팰리스",
+    "dealAmount": "24,000",
+    "date": "2026-10-20",
+    "floor": 18,
+    "area": 67.3279
+  },
+  {
+    "aptNm": "동성",
+    "dealAmount": "32,500",
+    "date": "2026-10-18",
+    "floor": 15,
+    "area": 133.56
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "119,300",
+    "date": "2026-10-16",
+    "floor": 2,
+    "area": 134.115
+  },
+  {
+    "aptNm": "은아",
+    "dealAmount": "107,000",
+    "date": "2026-10-16",
+    "floor": 5,
+    "area": 111.61
+  },
+  {
+    "aptNm": "덕성그린타운",
+    "dealAmount": "10,700",
+    "date": "2026-10-11",
+    "floor": 8,
+    "area": 84.965
+  },
+  {
+    "aptNm": "동성",
     "dealAmount": "26,500",
     "date": "2026-10-09",
     "floor": 24,

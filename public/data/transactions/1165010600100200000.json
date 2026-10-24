@@ -1,10 +1,45 @@
 [
   {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,650",
+    "date": "2026-10-20",
+    "floor": 19,
+    "area": 29.94
+  },
+  {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,500",
+    "date": "2026-10-20",
+    "floor": 13,
+    "area": 29.94
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "26,000",
+    "date": "2026-10-20",
+    "floor": 5,
+    "area": 49.94
+  },
+  {
+    "aptNm": "동아",
+    "dealAmount": "34,700",
+    "date": "2026-10-17",
+    "floor": 15,
+    "area": 59.925
+  },
+  {
     "aptNm": "STX칸",
     "dealAmount": "14,500",
     "date": "2026-10-15",
     "floor": 9,
     "area": 84.9859
+  },
+  {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,200",
+    "date": "2026-10-14",
+    "floor": 1,
+    "area": 29.94
   },
   {
     "aptNm": "STX칸",
@@ -63,11 +98,53 @@
     "area": 59.88
   },
   {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,950",
+    "date": "2026-10-05",
+    "floor": 6,
+    "area": 29.94
+  },
+  {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,900",
+    "date": "2026-10-05",
+    "floor": 2,
+    "area": 29.94
+  },
+  {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,950",
+    "date": "2026-10-05",
+    "floor": 13,
+    "area": 29.94
+  },
+  {
+    "aptNm": "주공",
+    "dealAmount": "26,000",
+    "date": "2026-10-05",
+    "floor": 2,
+    "area": 49.94
+  },
+  {
     "aptNm": "동아",
     "dealAmount": "55,000",
     "date": "2026-10-03",
     "floor": 17,
     "area": 134.97
+  },
+  {
+    "aptNm": "신내대림아파트",
+    "dealAmount": "106,500",
+    "date": "2026-10-03",
+    "floor": 6,
+    "area": 102.7
+  },
+  {
+    "aptNm": "신내두산아파트",
+    "dealAmount": "120,000",
+    "date": "2026-10-03",
+    "floor": 4,
+    "area": 126.28
   },
   {
     "aptNm": "성원1차",

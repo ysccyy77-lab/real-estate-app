@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "프라자",
+    "dealAmount": "49,500",
+    "date": "2026-10-18",
+    "floor": 8,
+    "area": 75.42
+  },
+  {
+    "aptNm": "프라자",
     "dealAmount": "37,800",
     "date": "2026-10-08",
     "floor": 8,
@@ -11,6 +18,13 @@
     "dealAmount": "16,500",
     "date": "2026-10-07",
     "floor": 13,
+    "area": 59.97
+  },
+  {
+    "aptNm": "성원",
+    "dealAmount": "16,000",
+    "date": "2026-10-01",
+    "floor": 1,
     "area": 59.97
   },
   {

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "금강부광",
+    "dealAmount": "14,000",
+    "date": "2026-10-17",
+    "floor": 24,
+    "area": 59.86
+  },
+  {
+    "aptNm": "금강부광",
     "dealAmount": "34,500",
     "date": "2026-07-10",
     "floor": 9,

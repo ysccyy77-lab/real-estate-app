@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "일동미라주",
+    "dealAmount": "20,000",
+    "date": "2026-10-19",
+    "floor": 16,
+    "area": 59.887
+  },
+  {
+    "aptNm": "후곡마을(동아10)",
+    "dealAmount": "62,500",
+    "date": "2026-10-17",
+    "floor": 1,
+    "area": 101.24
+  },
+  {
+    "aptNm": "구서SKVIEW1단지",
+    "dealAmount": "65,500",
+    "date": "2026-10-16",
+    "floor": 13,
+    "area": 84.959
+  },
+  {
     "aptNm": "구서SKVIEW1단지",
     "dealAmount": "65,500",
     "date": "2026-10-15",

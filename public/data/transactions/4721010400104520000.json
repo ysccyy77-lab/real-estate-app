@@ -21,10 +21,24 @@
     "area": 59.4
   },
   {
+    "aptNm": "휴천현대2차",
+    "dealAmount": "12,700",
+    "date": "2026-09-27",
+    "floor": 9,
+    "area": 59.407
+  },
+  {
     "aptNm": "새한",
     "dealAmount": "8,200",
     "date": "2026-09-21",
     "floor": 9,
+    "area": 84.78
+  },
+  {
+    "aptNm": "새한",
+    "dealAmount": "8,200",
+    "date": "2026-09-21",
+    "floor": 10,
     "area": 84.78
   },
   {

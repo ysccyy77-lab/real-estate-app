@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "경동하이츠",
+    "dealAmount": "9,200",
+    "date": "2026-10-20",
+    "floor": 2,
+    "area": 59.92
+  },
+  {
+    "aptNm": "경동하이츠",
     "dealAmount": "9,500",
     "date": "2026-06-01",
     "floor": 1,

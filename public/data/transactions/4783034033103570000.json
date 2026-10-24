@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "개나리1차",
+    "dealAmount": "14,500",
+    "date": "2026-10-23",
+    "floor": 14,
+    "area": 49.41
+  },
+  {
+    "aptNm": "동산맨션",
+    "dealAmount": "22,500",
+    "date": "2026-10-23",
+    "floor": 5,
+    "area": 84.87
+  },
+  {
+    "aptNm": "개나리1차",
     "dealAmount": "13,800",
     "date": "2026-10-10",
     "floor": 12,

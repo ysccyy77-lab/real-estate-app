@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "e편한세상송도",
+    "dealAmount": "54,750",
+    "date": "2026-10-17",
+    "floor": 10,
+    "area": 70.3826
+  },
+  {
+    "aptNm": "e편한세상송도",
+    "dealAmount": "57,500",
+    "date": "2026-10-11",
+    "floor": 15,
+    "area": 70.5618
+  },
+  {
     "aptNm": "모리",
     "dealAmount": "12,600",
     "date": "2026-10-09",
     "floor": 5,
     "area": 59.66
+  },
+  {
+    "aptNm": "e편한세상송도",
+    "dealAmount": "66,700",
+    "date": "2026-10-08",
+    "floor": 38,
+    "area": 84.2538
   },
   {
     "aptNm": "e편한세상송도",

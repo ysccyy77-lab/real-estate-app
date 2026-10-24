@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "신천LH",
+    "dealAmount": "16,500",
+    "date": "2026-10-21",
+    "floor": 3,
+    "area": 79.07
+  },
+  {
+    "aptNm": "신천LH",
+    "dealAmount": "8,000",
+    "date": "2026-10-19",
+    "floor": 6,
+    "area": 45.68
+  },
+  {
+    "aptNm": "신천LH",
     "dealAmount": "13,700",
     "date": "2026-10-12",
     "floor": 12,

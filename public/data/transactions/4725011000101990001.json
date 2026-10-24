@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "금호1",
+    "dealAmount": "44,000",
+    "date": "2026-10-16",
+    "floor": 5,
+    "area": 56.73
+  },
+  {
     "aptNm": "구미원호푸르지오",
     "dealAmount": "32,000",
     "date": "2026-10-14",
     "floor": 14,
     "area": 107.118
+  },
+  {
+    "aptNm": "금호1",
+    "dealAmount": "28,000",
+    "date": "2026-10-14",
+    "floor": 5,
+    "area": 36.36
   },
   {
     "aptNm": "금호1",

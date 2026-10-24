@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "한양2",
+    "dealAmount": "26,500",
+    "date": "2026-10-21",
+    "floor": 6,
+    "area": 35.1
+  },
+  {
+    "aptNm": "한양2",
+    "dealAmount": "24,500",
+    "date": "2026-10-16",
+    "floor": 15,
+    "area": 35.1
+  },
+  {
+    "aptNm": "한양2",
+    "dealAmount": "22,000",
+    "date": "2026-10-14",
+    "floor": 5,
+    "area": 28.71
+  },
+  {
+    "aptNm": "한양2",
     "dealAmount": "37,900",
     "date": "2026-10-13",
     "floor": 3,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한양코아",
+    "dealAmount": "21,001",
+    "date": "2026-10-15",
+    "floor": 8,
+    "area": 64.3
+  },
+  {
+    "aptNm": "한양코아",
     "dealAmount": "34,500",
     "date": "2026-10-02",
     "floor": 14,

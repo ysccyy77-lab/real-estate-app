@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한빛타운",
+    "dealAmount": "9,500",
+    "date": "2026-10-11",
+    "floor": 9,
+    "area": 57.09
+  },
+  {
+    "aptNm": "한빛타운",
     "dealAmount": "9,700",
     "date": "2026-10-03",
     "floor": 7,

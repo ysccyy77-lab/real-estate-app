@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "녹번JR아파트",
+    "dealAmount": "82,500",
+    "date": "2026-10-12",
+    "floor": 10,
+    "area": 59.866
+  },
+  {
+    "aptNm": "녹번JR아파트",
+    "dealAmount": "78,700",
+    "date": "2026-10-09",
+    "floor": 10,
+    "area": 59.866
+  },
+  {
+    "aptNm": "녹번JR아파트",
+    "dealAmount": "84,500",
+    "date": "2026-10-05",
+    "floor": 2,
+    "area": 84.923
+  },
+  {
+    "aptNm": "녹번JR아파트",
     "dealAmount": "82,000",
     "date": "2026-10-02",
     "floor": 17,
@@ -11,6 +32,13 @@
     "dealAmount": "84,800",
     "date": "2026-09-29",
     "floor": 8,
+    "area": 59.866
+  },
+  {
+    "aptNm": "녹번JR아파트",
+    "dealAmount": "79,000",
+    "date": "2026-09-29",
+    "floor": 4,
     "area": 59.866
   },
   {

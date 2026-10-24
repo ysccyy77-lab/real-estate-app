@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "일산국제",
+    "dealAmount": "12,000",
+    "date": "2026-10-17",
+    "floor": 11,
+    "area": 59.91
+  },
+  {
+    "aptNm": "일산국제",
     "dealAmount": "9,900",
     "date": "2026-10-12",
     "floor": 9,

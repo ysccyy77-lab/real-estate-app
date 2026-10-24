@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "학마을한진",
+    "dealAmount": "16,400",
+    "date": "2026-10-10",
+    "floor": 8,
+    "area": 39.84
+  },
+  {
+    "aptNm": "학마을한진",
     "dealAmount": "22,500",
     "date": "2026-10-07",
     "floor": 5,
+    "area": 49.77
+  },
+  {
+    "aptNm": "학마을한진",
+    "dealAmount": "17,800",
+    "date": "2026-09-30",
+    "floor": 1,
     "area": 49.77
   },
   {

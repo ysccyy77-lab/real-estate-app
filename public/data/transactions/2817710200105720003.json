@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "용현동아",
+    "dealAmount": "18,700",
+    "date": "2026-10-22",
+    "floor": 8,
+    "area": 84.56
+  },
+  {
+    "aptNm": "용현동아",
     "dealAmount": "15,000",
     "date": "2026-10-12",
     "floor": 15,

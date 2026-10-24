@@ -1,10 +1,24 @@
 [
   {
     "aptNm": "화북주공1단지",
+    "dealAmount": "36,500",
+    "date": "2026-10-07",
+    "floor": 5,
+    "area": 84.6
+  },
+  {
+    "aptNm": "화북주공1단지",
     "dealAmount": "35,000",
     "date": "2026-10-02",
     "floor": 1,
     "area": 84.5
+  },
+  {
+    "aptNm": "현대I-PARK2",
+    "dealAmount": "238,500",
+    "date": "2026-10-02",
+    "floor": 14,
+    "area": 145.46
   },
   {
     "aptNm": "장미",

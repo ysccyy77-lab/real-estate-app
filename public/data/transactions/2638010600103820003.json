@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "자유",
+    "dealAmount": "21,000",
+    "date": "2026-10-21",
+    "floor": 8,
+    "area": 84.97
+  },
+  {
+    "aptNm": "자유",
     "dealAmount": "15,000",
     "date": "2026-09-29",
     "floor": 6,

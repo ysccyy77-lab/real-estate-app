@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "원천성일",
+    "dealAmount": "49,800",
+    "date": "2026-10-17",
+    "floor": 5,
+    "area": 49.94
+  },
+  {
+    "aptNm": "원천성일",
     "dealAmount": "50,000",
     "date": "2026-10-08",
     "floor": 10,

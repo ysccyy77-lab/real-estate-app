@@ -1,5 +1,33 @@
 [
   {
+    "aptNm": "대성베르힐리오파크",
+    "dealAmount": "17,500",
+    "date": "2026-10-23",
+    "floor": 17,
+    "area": 59.95
+  },
+  {
+    "aptNm": "동천파크자이",
+    "dealAmount": "97,000",
+    "date": "2026-10-20",
+    "floor": 7,
+    "area": 61.5589
+  },
+  {
+    "aptNm": "세원",
+    "dealAmount": "7,350",
+    "date": "2026-10-20",
+    "floor": 7,
+    "area": 59.52
+  },
+  {
+    "aptNm": "브라운스톤",
+    "dealAmount": "20,000",
+    "date": "2026-10-17",
+    "floor": 4,
+    "area": 84.992
+  },
+  {
     "aptNm": "세원",
     "dealAmount": "8,000",
     "date": "2026-10-13",

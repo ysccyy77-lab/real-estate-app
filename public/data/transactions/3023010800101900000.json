@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "삼익소월",
+    "dealAmount": "15,000",
+    "date": "2026-10-23",
+    "floor": 12,
+    "area": 59.76
+  },
+  {
+    "aptNm": "삼익소월",
+    "dealAmount": "16,500",
+    "date": "2026-10-23",
+    "floor": 11,
+    "area": 59.76
+  },
+  {
     "aptNm": "들말대경",
     "dealAmount": "19,700",
     "date": "2026-10-14",
     "floor": 10,
     "area": 59.595
+  },
+  {
+    "aptNm": "들말대경",
+    "dealAmount": "21,100",
+    "date": "2026-10-14",
+    "floor": 12,
+    "area": 59.595
+  },
+  {
+    "aptNm": "신성미소지움1차",
+    "dealAmount": "24,500",
+    "date": "2026-10-14",
+    "floor": 12,
+    "area": 84.96
+  },
+  {
+    "aptNm": "신성미소지움1차",
+    "dealAmount": "15,100",
+    "date": "2026-10-13",
+    "floor": 18,
+    "area": 59.97
+  },
+  {
+    "aptNm": "들말대경",
+    "dealAmount": "26,000",
+    "date": "2026-10-07",
+    "floor": 14,
+    "area": 76.23
+  },
+  {
+    "aptNm": "삼익소월",
+    "dealAmount": "23,400",
+    "date": "2026-10-03",
+    "floor": 10,
+    "area": 84.85
   },
   {
     "aptNm": "중화산동광진",

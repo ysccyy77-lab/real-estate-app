@@ -1,9 +1,51 @@
 [
   {
     "aptNm": "옥길데시앙",
+    "dealAmount": "56,000",
+    "date": "2026-10-19",
+    "floor": 13,
+    "area": 59.6
+  },
+  {
+    "aptNm": "옥길데시앙",
+    "dealAmount": "55,900",
+    "date": "2026-10-17",
+    "floor": 9,
+    "area": 59.6
+  },
+  {
+    "aptNm": "옥길데시앙",
+    "dealAmount": "57,500",
+    "date": "2026-10-12",
+    "floor": 25,
+    "area": 59.95
+  },
+  {
+    "aptNm": "옥길데시앙",
+    "dealAmount": "53,800",
+    "date": "2026-10-11",
+    "floor": 16,
+    "area": 59.6
+  },
+  {
+    "aptNm": "옥길데시앙",
+    "dealAmount": "55,400",
+    "date": "2026-10-11",
+    "floor": 9,
+    "area": 59.6
+  },
+  {
+    "aptNm": "옥길데시앙",
     "dealAmount": "52,500",
     "date": "2026-10-10",
     "floor": 2,
+    "area": 59.6
+  },
+  {
+    "aptNm": "옥길데시앙",
+    "dealAmount": "55,000",
+    "date": "2026-10-09",
+    "floor": 14,
     "area": 59.6
   },
   {

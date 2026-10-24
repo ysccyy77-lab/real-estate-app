@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "굿모닝뷰",
+    "dealAmount": "23,000",
+    "date": "2026-10-23",
+    "floor": 5,
+    "area": 73.04
+  },
+  {
+    "aptNm": "동보",
+    "dealAmount": "24,000",
+    "date": "2026-10-22",
+    "floor": 9,
+    "area": 60
+  },
+  {
     "aptNm": "동보",
     "dealAmount": "34,400",
     "date": "2026-09-19",

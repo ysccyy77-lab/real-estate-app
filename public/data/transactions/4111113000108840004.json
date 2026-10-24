@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "옥산해오름",
+    "dealAmount": "6,900",
+    "date": "2026-10-15",
+    "floor": 5,
+    "area": 49.8
+  },
+  {
+    "aptNm": "옥산해오름",
     "dealAmount": "8,300",
     "date": "2026-09-07",
     "floor": 13,

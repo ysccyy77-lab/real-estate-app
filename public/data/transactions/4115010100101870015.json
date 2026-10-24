@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "승윤노블리안시티II",
+    "dealAmount": "7,300",
+    "date": "2026-10-22",
+    "floor": 15,
+    "area": 23.31
+  },
+  {
+    "aptNm": "승윤노블리안시티II",
     "dealAmount": "7,800",
     "date": "2026-09-22",
     "floor": 4,

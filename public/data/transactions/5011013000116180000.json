@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "DMC상암센트럴파크2단지",
+    "dealAmount": "67,000",
+    "date": "2026-10-15",
+    "floor": 7,
+    "area": 36.69
+  },
+  {
+    "aptNm": "DMC상암센트럴파크2단지",
     "dealAmount": "90,000",
     "date": "2026-06-15",
     "floor": 3,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "제일",
+    "dealAmount": "127,000",
+    "date": "2026-10-13",
+    "floor": 7,
+    "area": 60.03
+  },
+  {
+    "aptNm": "제일",
     "dealAmount": "125,000",
     "date": "2026-09-02",
     "floor": 1,

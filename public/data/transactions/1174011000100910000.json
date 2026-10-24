@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "시범한양",
+    "dealAmount": "98,000",
+    "date": "2026-09-30",
+    "floor": 2,
+    "area": 28.71
+  },
+  {
+    "aptNm": "시범한양",
     "dealAmount": "80,000",
     "date": "2026-09-22",
     "floor": 15,

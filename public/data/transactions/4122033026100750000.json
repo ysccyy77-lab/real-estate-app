@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "태평",
+    "dealAmount": "12,000",
+    "date": "2026-10-19",
+    "floor": 4,
+    "area": 59.91
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "18,000",
+    "date": "2026-10-18",
+    "floor": 17,
+    "area": 84.81
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "11,500",
+    "date": "2026-10-17",
+    "floor": 6,
+    "area": 59.91
+  },
+  {
+    "aptNm": "태평",
+    "dealAmount": "14,000",
+    "date": "2026-10-12",
+    "floor": 18,
+    "area": 59.91
+  },
+  {
+    "aptNm": "주공4",
+    "dealAmount": "9,300",
+    "date": "2026-10-12",
+    "floor": 13,
+    "area": 41.3
+  },
+  {
+    "aptNm": "일두",
+    "dealAmount": "29,000",
+    "date": "2026-10-10",
+    "floor": 1,
+    "area": 42.36
+  },
+  {
     "aptNm": "적성-1",
     "dealAmount": "17,000",
     "date": "2026-10-06",

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "e편한세상대신",
+    "dealAmount": "47,350",
+    "date": "2026-10-14",
+    "floor": 20,
+    "area": 59.977
+  },
+  {
+    "aptNm": "e편한세상대신",
+    "dealAmount": "49,300",
+    "date": "2026-10-13",
+    "floor": 17,
+    "area": 59.984
+  },
+  {
+    "aptNm": "e편한세상대신",
+    "dealAmount": "57,600",
+    "date": "2026-10-10",
+    "floor": 10,
+    "area": 84.976
+  },
+  {
+    "aptNm": "e편한세상대신",
     "dealAmount": "49,700",
     "date": "2026-10-01",
     "floor": 7,

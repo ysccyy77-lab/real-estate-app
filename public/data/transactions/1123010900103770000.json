@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "호매실GS아파트",
+    "dealAmount": "42,000",
+    "date": "2026-10-22",
+    "floor": 18,
+    "area": 59.775
+  },
+  {
+    "aptNm": "호매실GS아파트",
+    "dealAmount": "49,300",
+    "date": "2026-10-21",
+    "floor": 14,
+    "area": 84.922
+  },
+  {
+    "aptNm": "호매실GS아파트",
+    "dealAmount": "42,500",
+    "date": "2026-10-16",
+    "floor": 11,
+    "area": 59.775
+  },
+  {
+    "aptNm": "호매실GS아파트",
+    "dealAmount": "36,000",
+    "date": "2026-10-14",
+    "floor": 19,
+    "area": 59.94
+  },
+  {
+    "aptNm": "호매실GS아파트",
     "dealAmount": "53,500",
     "date": "2026-09-30",
     "floor": 11,

@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "거산",
+    "dealAmount": "4,300",
+    "date": "2026-10-16",
+    "floor": 1,
+    "area": 49.38
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "100,000",
+    "date": "2026-10-14",
+    "floor": 4,
+    "area": 54.06
+  },
+  {
     "aptNm": "안산율곡2차",
     "dealAmount": "8,400",
     "date": "2026-10-07",
     "floor": 1,
     "area": 53.15
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "102,000",
+    "date": "2026-10-05",
+    "floor": 10,
+    "area": 59.36
   },
   {
     "aptNm": "힐스테이트송도더스카이",

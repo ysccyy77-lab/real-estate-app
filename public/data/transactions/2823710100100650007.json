@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "욱일",
+    "dealAmount": "26,500",
+    "date": "2026-10-21",
+    "floor": 6,
+    "area": 84.16
+  },
+  {
+    "aptNm": "욱일",
     "dealAmount": "26,300",
     "date": "2026-10-13",
     "floor": 14,

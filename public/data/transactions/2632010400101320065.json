@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "롯데",
+    "dealAmount": "23,300",
+    "date": "2026-10-20",
+    "floor": 21,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "21,700",
+    "date": "2026-10-17",
+    "floor": 19,
+    "area": 84.7504
+  },
+  {
+    "aptNm": "롯데",
     "dealAmount": "19,700",
     "date": "2026-10-15",
     "floor": 5,

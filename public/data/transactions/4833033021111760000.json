@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "수영SKVIEW1단지",
+    "dealAmount": "57,000",
+    "date": "2026-10-22",
+    "floor": 21,
+    "area": 59.9694
+  },
+  {
+    "aptNm": "수영SKVIEW1단지",
+    "dealAmount": "64,000",
+    "date": "2026-10-16",
+    "floor": 16,
+    "area": 84.9819
+  },
+  {
+    "aptNm": "수영SKVIEW1단지",
     "dealAmount": "58,500",
     "date": "2026-10-14",
     "floor": 35,

@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "삼천하이츠",
+    "dealAmount": "24,500",
+    "date": "2026-10-23",
+    "floor": 5,
+    "area": 84.87
+  },
+  {
+    "aptNm": "그랜드",
+    "dealAmount": "21,000",
+    "date": "2026-10-21",
+    "floor": 6,
+    "area": 84.95
+  },
+  {
+    "aptNm": "삼천하이츠",
     "dealAmount": "16,500",
     "date": "2026-10-09",
     "floor": 15,

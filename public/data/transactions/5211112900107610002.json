@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "쌍용서신",
+    "dealAmount": "11,900",
+    "date": "2026-10-21",
+    "floor": 10,
+    "area": 59.028
+  },
+  {
+    "aptNm": "쌍용서신",
+    "dealAmount": "11,200",
+    "date": "2026-10-20",
+    "floor": 8,
+    "area": 59.028
+  },
+  {
+    "aptNm": "쌍용서신",
+    "dealAmount": "13,200",
+    "date": "2026-10-14",
+    "floor": 12,
+    "area": 59.028
+  },
+  {
+    "aptNm": "쌍용서신",
     "dealAmount": "11,450",
     "date": "2026-09-14",
     "floor": 7,

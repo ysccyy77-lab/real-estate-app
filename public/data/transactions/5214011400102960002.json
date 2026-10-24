@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "리노빌",
+    "dealAmount": "35,000",
+    "date": "2026-10-19",
+    "floor": 10,
+    "area": 84.1253
+  },
+  {
+    "aptNm": "리노빌",
     "dealAmount": "25,500",
     "date": "2026-10-09",
     "floor": 1,
