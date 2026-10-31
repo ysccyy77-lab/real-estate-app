@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "코오롱",
+    "dealAmount": "14,500",
+    "date": "2026-10-25",
+    "floor": 18,
+    "area": 59.94
+  },
+  {
+    "aptNm": "코오롱",
     "dealAmount": "26,000",
     "date": "2026-10-18",
     "floor": 5,

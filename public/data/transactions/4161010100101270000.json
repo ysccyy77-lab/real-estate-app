@@ -1,6 +1,48 @@
 [
   {
     "aptNm": "성광우방타운",
+    "dealAmount": "18,800",
+    "date": "2026-10-26",
+    "floor": 9,
+    "area": 59.9
+  },
+  {
+    "aptNm": "성광우방타운",
+    "dealAmount": "18,300",
+    "date": "2026-10-26",
+    "floor": 16,
+    "area": 59.9
+  },
+  {
+    "aptNm": "성광우방타운",
+    "dealAmount": "25,400",
+    "date": "2026-10-24",
+    "floor": 10,
+    "area": 84.93
+  },
+  {
+    "aptNm": "성광우방타운",
+    "dealAmount": "18,200",
+    "date": "2026-10-22",
+    "floor": 7,
+    "area": 59.9
+  },
+  {
+    "aptNm": "선경(127)",
+    "dealAmount": "49,500",
+    "date": "2026-10-20",
+    "floor": 2,
+    "area": 59.17
+  },
+  {
+    "aptNm": "성광우방타운",
+    "dealAmount": "24,000",
+    "date": "2026-10-17",
+    "floor": 16,
+    "area": 84.93
+  },
+  {
+    "aptNm": "성광우방타운",
     "dealAmount": "17,000",
     "date": "2026-10-10",
     "floor": 19,

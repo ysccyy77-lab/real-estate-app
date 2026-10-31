@@ -29,9 +29,23 @@
   },
   {
     "aptNm": "신환",
+    "dealAmount": "43,000",
+    "date": "2026-10-07",
+    "floor": 13,
+    "area": 84.98
+  },
+  {
+    "aptNm": "신환",
     "dealAmount": "28,000",
     "date": "2026-10-05",
     "floor": 8,
+    "area": 54.27
+  },
+  {
+    "aptNm": "신환",
+    "dealAmount": "31,000",
+    "date": "2026-10-05",
+    "floor": 9,
     "area": 54.27
   },
   {

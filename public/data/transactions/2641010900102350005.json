@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "우신뉴타운",
+    "dealAmount": "35,000",
+    "date": "2026-10-29",
+    "floor": 9,
+    "area": 84.87
+  },
+  {
+    "aptNm": "우신뉴타운",
+    "dealAmount": "23,500",
+    "date": "2026-10-24",
+    "floor": 22,
+    "area": 59.82
+  },
+  {
+    "aptNm": "우신뉴타운",
     "dealAmount": "47,000",
     "date": "2026-07-11",
     "floor": 10,

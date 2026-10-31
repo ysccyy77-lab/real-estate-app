@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "동대주공3단지",
+    "dealAmount": "5,800",
+    "date": "2026-10-26",
+    "floor": 4,
+    "area": 39.6
+  },
+  {
     "aptNm": "원우",
     "dealAmount": "20,500",
     "date": "2026-10-16",
     "floor": 15,
     "area": 84.6
+  },
+  {
+    "aptNm": "동대주공3단지",
+    "dealAmount": "6,500",
+    "date": "2026-09-30",
+    "floor": 2,
+    "area": 47.31
   },
   {
     "aptNm": "원우",

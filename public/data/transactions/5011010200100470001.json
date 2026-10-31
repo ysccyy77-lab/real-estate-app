@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "17,200",
+    "date": "2026-10-26",
+    "floor": 20,
+    "area": 84.96
+  },
+  {
+    "aptNm": "건영",
+    "dealAmount": "47,000",
+    "date": "2026-10-13",
+    "floor": 8,
+    "area": 84.73
+  },
+  {
     "aptNm": "일도신천지",
     "dealAmount": "31,700",
     "date": "2026-10-06",
     "floor": 6,
     "area": 59.97
+  },
+  {
+    "aptNm": "비래동현대아파트",
+    "dealAmount": "19,800",
+    "date": "2026-10-01",
+    "floor": 10,
+    "area": 84.84
   },
   {
     "aptNm": "비래동현대아파트",

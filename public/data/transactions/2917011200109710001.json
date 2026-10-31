@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "벽적골롯데",
+    "dealAmount": "63,500",
+    "date": "2026-10-27",
+    "floor": 13,
+    "area": 49.71
+  },
+  {
+    "aptNm": "벽적골롯데",
+    "dealAmount": "78,000",
+    "date": "2026-10-21",
+    "floor": 8,
+    "area": 59.96
+  },
+  {
+    "aptNm": "벽적골롯데",
     "dealAmount": "69,000",
     "date": "2026-10-12",
     "floor": 13,

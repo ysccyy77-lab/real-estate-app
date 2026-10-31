@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "기상",
+    "dealAmount": "9,000",
+    "date": "2026-10-26",
+    "floor": 9,
+    "area": 84.96
+  },
+  {
+    "aptNm": "경남아너스빌",
+    "dealAmount": "17,800",
+    "date": "2026-10-25",
+    "floor": 6,
+    "area": 84.516
+  },
+  {
+    "aptNm": "삼보",
+    "dealAmount": "3,900",
+    "date": "2026-10-20",
+    "floor": 4,
+    "area": 59.82
+  },
+  {
     "aptNm": "그린아파트",
     "dealAmount": "3,800",
     "date": "2026-10-19",

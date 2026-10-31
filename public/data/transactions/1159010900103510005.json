@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대호3",
+    "dealAmount": "11,700",
+    "date": "2026-10-04",
+    "floor": 9,
+    "area": 74.76
+  },
+  {
+    "aptNm": "에메랄드(351-5)",
+    "dealAmount": "50,000",
+    "date": "2026-10-03",
+    "floor": 6,
+    "area": 59.764
+  },
+  {
+    "aptNm": "대호3",
     "dealAmount": "9,500",
     "date": "2026-08-15",
     "floor": 3,

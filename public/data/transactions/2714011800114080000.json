@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "평리청구타운",
+    "dealAmount": "22,000",
+    "date": "2026-10-23",
+    "floor": 1,
+    "area": 84.965
+  },
+  {
     "aptNm": "호매실스타힐스",
     "dealAmount": "44,000",
     "date": "2026-10-19",
     "floor": 2,
     "area": 59.98
+  },
+  {
+    "aptNm": "해운대 I PARK",
+    "dealAmount": "109,000",
+    "date": "2026-10-19",
+    "floor": 56,
+    "area": 92.152
   },
   {
     "aptNm": "호매실스타힐스",

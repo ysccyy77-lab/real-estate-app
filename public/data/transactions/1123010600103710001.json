@@ -8,6 +8,20 @@
   },
   {
     "aptNm": "삼성",
+    "dealAmount": "52,800",
+    "date": "2026-10-14",
+    "floor": 9,
+    "area": 84.88
+  },
+  {
+    "aptNm": "장안삼성쉐르빌",
+    "dealAmount": "81,800",
+    "date": "2026-10-14",
+    "floor": 11,
+    "area": 100.7
+  },
+  {
+    "aptNm": "삼성",
     "dealAmount": "39,500",
     "date": "2026-10-03",
     "floor": 16,

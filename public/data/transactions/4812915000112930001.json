@@ -8,6 +8,13 @@
   },
   {
     "aptNm": "일송",
+    "dealAmount": "12,000",
+    "date": "2026-10-21",
+    "floor": 1,
+    "area": 59.135
+  },
+  {
+    "aptNm": "일송",
     "dealAmount": "14,900",
     "date": "2026-10-20",
     "floor": 10,

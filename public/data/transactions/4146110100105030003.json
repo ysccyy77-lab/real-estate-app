@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "흥화",
+    "dealAmount": "11,100",
+    "date": "2026-10-28",
+    "floor": 8,
+    "area": 59.92
+  },
+  {
+    "aptNm": "흥화",
+    "dealAmount": "10,700",
+    "date": "2026-10-19",
+    "floor": 2,
+    "area": 84.96
+  },
+  {
     "aptNm": "신우",
     "dealAmount": "35,000",
     "date": "2026-09-02",

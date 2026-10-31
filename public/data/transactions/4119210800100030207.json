@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "중동대림",
+    "dealAmount": "58,000",
+    "date": "2026-10-21",
+    "floor": 5,
+    "area": 84.93
+  },
+  {
+    "aptNm": "중동대림",
     "dealAmount": "59,500",
     "date": "2026-10-14",
     "floor": 15,

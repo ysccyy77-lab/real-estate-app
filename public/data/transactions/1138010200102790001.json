@@ -1,9 +1,30 @@
 [
   {
+    "aptNm": "빌리브죽전",
+    "dealAmount": "59,500",
+    "date": "2026-10-17",
+    "floor": 42,
+    "area": 84.9954
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "59,700",
+    "date": "2026-10-14",
+    "floor": 6,
+    "area": 49.98
+  },
+  {
     "aptNm": "선경2차",
     "dealAmount": "55,000",
     "date": "2026-10-13",
     "floor": 15,
+    "area": 49.98
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "59,500",
+    "date": "2026-10-07",
+    "floor": 14,
     "area": 49.98
   },
   {

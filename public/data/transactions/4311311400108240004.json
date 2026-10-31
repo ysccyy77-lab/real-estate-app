@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "성광아파트",
+    "dealAmount": "5,700",
+    "date": "2026-10-30",
+    "floor": 1,
+    "area": 55.87
+  },
+  {
+    "aptNm": "성광아파트",
+    "dealAmount": "6,900",
+    "date": "2026-10-17",
+    "floor": 1,
+    "area": 55.87
+  },
+  {
+    "aptNm": "성광아파트",
     "dealAmount": "8,500",
     "date": "2026-05-03",
     "floor": 5,

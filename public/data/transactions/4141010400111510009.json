@@ -1,5 +1,26 @@
 [
   {
+    "aptNm": "설악",
+    "dealAmount": "28,700",
+    "date": "2026-10-29",
+    "floor": 13,
+    "area": 43.56
+  },
+  {
+    "aptNm": "설악",
+    "dealAmount": "28,000",
+    "date": "2026-10-25",
+    "floor": 15,
+    "area": 43.56
+  },
+  {
+    "aptNm": "설악",
+    "dealAmount": "28,800",
+    "date": "2026-10-24",
+    "floor": 11,
+    "area": 43.56
+  },
+  {
     "aptNm": "설악2",
     "dealAmount": "37,000",
     "date": "2026-10-21",
@@ -23,6 +44,13 @@
   {
     "aptNm": "설악",
     "dealAmount": "26,000",
+    "date": "2026-10-17",
+    "floor": 7,
+    "area": 43.56
+  },
+  {
+    "aptNm": "설악",
+    "dealAmount": "26,000",
     "date": "2026-10-15",
     "floor": 1,
     "area": 43.56
@@ -32,6 +60,13 @@
     "dealAmount": "25,800",
     "date": "2026-10-13",
     "floor": 20,
+    "area": 36.96
+  },
+  {
+    "aptNm": "설악2",
+    "dealAmount": "22,500",
+    "date": "2026-10-11",
+    "floor": 16,
     "area": 36.96
   },
   {

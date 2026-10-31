@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "삼호진덕",
+    "dealAmount": "38,800",
+    "date": "2026-10-31",
+    "floor": 11,
+    "area": 59.73
+  },
+  {
+    "aptNm": "미사강변아란티움",
+    "dealAmount": "120,000",
+    "date": "2026-10-28",
+    "floor": 9,
+    "area": 74.99
+  },
+  {
+    "aptNm": "삼한사랑채",
+    "dealAmount": "22,000",
+    "date": "2026-10-24",
+    "floor": 5,
+    "area": 59.1983
+  },
+  {
     "aptNm": "부국",
     "dealAmount": "11,500",
     "date": "2026-10-22",
     "floor": 12,
     "area": 120.69
+  },
+  {
+    "aptNm": "삼호진덕",
+    "dealAmount": "47,000",
+    "date": "2026-10-21",
+    "floor": 10,
+    "area": 59.88
   },
   {
     "aptNm": "한라동백",

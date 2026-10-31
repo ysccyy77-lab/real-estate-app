@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "연지자이",
+    "dealAmount": "44,000",
+    "date": "2026-10-30",
+    "floor": 17,
+    "area": 84.9842
+  },
+  {
     "aptNm": "삼성",
     "dealAmount": "52,000",
     "date": "2026-10-10",
     "floor": 11,
     "area": 101.82
+  },
+  {
+    "aptNm": "두산",
+    "dealAmount": "45,000",
+    "date": "2026-10-10",
+    "floor": 1,
+    "area": 134.97
   },
   {
     "aptNm": "삼성",

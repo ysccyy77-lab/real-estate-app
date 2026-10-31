@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "칠곡청구타운",
+    "dealAmount": "11,200",
+    "date": "2026-10-14",
+    "floor": 1,
+    "area": 59.34
+  },
+  {
+    "aptNm": "대동2",
+    "dealAmount": "9,300",
+    "date": "2026-10-13",
+    "floor": 5,
+    "area": 59.895
+  },
+  {
+    "aptNm": "칠곡청구타운",
     "dealAmount": "11,900",
     "date": "2026-09-30",
     "floor": 16,

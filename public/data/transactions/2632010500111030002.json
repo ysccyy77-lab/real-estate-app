@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "구포현대",
+    "dealAmount": "18,600",
+    "date": "2026-10-29",
+    "floor": 6,
+    "area": 72.87
+  },
+  {
+    "aptNm": "구포현대",
     "dealAmount": "18,500",
     "date": "2026-10-16",
     "floor": 3,

@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "이안여주강변",
+    "dealAmount": "27,000",
+    "date": "2026-10-30",
+    "floor": 11,
+    "area": 84.83
+  },
+  {
+    "aptNm": "신성",
+    "dealAmount": "12,000",
+    "date": "2026-10-24",
+    "floor": 12,
+    "area": 59.908
+  },
+  {
+    "aptNm": "이안여주강변",
+    "dealAmount": "29,500",
+    "date": "2026-10-21",
+    "floor": 19,
+    "area": 84.83
+  },
+  {
+    "aptNm": "이안여주강변",
     "dealAmount": "22,000",
     "date": "2026-10-14",
     "floor": 15,

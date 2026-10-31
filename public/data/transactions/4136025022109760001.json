@@ -22,6 +22,13 @@
   },
   {
     "aptNm": "벽산",
+    "dealAmount": "43,000",
+    "date": "2026-10-02",
+    "floor": 15,
+    "area": 59.968
+  },
+  {
+    "aptNm": "벽산",
     "dealAmount": "46,700",
     "date": "2026-09-12",
     "floor": 5,

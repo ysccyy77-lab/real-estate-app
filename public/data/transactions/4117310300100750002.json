@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "번암주공",
+    "dealAmount": "7,600",
+    "date": "2026-10-24",
+    "floor": 5,
+    "area": 39.3
+  },
+  {
+    "aptNm": "번암주공",
     "dealAmount": "8,400",
     "date": "2026-10-19",
     "floor": 1,

@@ -8,6 +8,13 @@
   },
   {
     "aptNm": "동일",
+    "dealAmount": "13,300",
+    "date": "2026-10-17",
+    "floor": 5,
+    "area": 59.85
+  },
+  {
+    "aptNm": "동일",
     "dealAmount": "13,200",
     "date": "2026-09-11",
     "floor": 1,

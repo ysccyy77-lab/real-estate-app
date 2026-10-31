@@ -1,10 +1,38 @@
 [
   {
+    "aptNm": "한동맨션",
+    "dealAmount": "5,000",
+    "date": "2026-10-29",
+    "floor": 13,
+    "area": 66.36
+  },
+  {
+    "aptNm": "한동맨션",
+    "dealAmount": "5,500",
+    "date": "2026-10-23",
+    "floor": 2,
+    "area": 66.36
+  },
+  {
     "aptNm": "화성파크드림와이드",
     "dealAmount": "26,000",
     "date": "2026-10-17",
     "floor": 8,
     "area": 84.9898
+  },
+  {
+    "aptNm": "유원",
+    "dealAmount": "20,000",
+    "date": "2026-10-15",
+    "floor": 3,
+    "area": 72.28
+  },
+  {
+    "aptNm": "한동맨션",
+    "dealAmount": "4,900",
+    "date": "2026-10-08",
+    "floor": 15,
+    "area": 66.36
   },
   {
     "aptNm": "정든마을(6단지)(우성)",

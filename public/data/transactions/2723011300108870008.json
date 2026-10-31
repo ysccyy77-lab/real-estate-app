@@ -2,6 +2,13 @@
   {
     "aptNm": "유성청구",
     "dealAmount": "9,400",
+    "date": "2026-10-22",
+    "floor": 15,
+    "area": 47.49
+  },
+  {
+    "aptNm": "유성청구",
+    "dealAmount": "9,400",
     "date": "2026-10-17",
     "floor": 11,
     "area": 47.49

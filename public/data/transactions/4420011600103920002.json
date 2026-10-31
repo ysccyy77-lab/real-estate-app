@@ -1,6 +1,27 @@
 [
   {
     "aptNm": "부영",
+    "dealAmount": "8,700",
+    "date": "2026-10-17",
+    "floor": 12,
+    "area": 59.76
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "6,450",
+    "date": "2026-10-10",
+    "floor": 6,
+    "area": 49.92
+  },
+  {
+    "aptNm": "부영",
+    "dealAmount": "7,400",
+    "date": "2026-10-08",
+    "floor": 13,
+    "area": 49.92
+  },
+  {
+    "aptNm": "부영",
     "dealAmount": "6,550",
     "date": "2026-10-07",
     "floor": 14,

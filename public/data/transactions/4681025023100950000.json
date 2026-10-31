@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "상인KCC스위첸",
+    "dealAmount": "59,000",
+    "date": "2026-10-23",
+    "floor": 7,
+    "area": 132.0332
+  },
+  {
+    "aptNm": "상인KCC스위첸",
     "dealAmount": "66,700",
     "date": "2026-09-17",
     "floor": 22,

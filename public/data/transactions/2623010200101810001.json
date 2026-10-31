@@ -1,10 +1,24 @@
 [
   {
+    "aptNm": "서면대우디오빌2",
+    "dealAmount": "6,800",
+    "date": "2026-10-29",
+    "floor": 18,
+    "area": 28.58
+  },
+  {
     "aptNm": "새피앙",
     "dealAmount": "15,000",
     "date": "2026-10-21",
     "floor": 5,
     "area": 59.4
+  },
+  {
+    "aptNm": "남성한빛가든",
+    "dealAmount": "8,300",
+    "date": "2026-10-16",
+    "floor": 4,
+    "area": 59.61
   },
   {
     "aptNm": "현대비치",

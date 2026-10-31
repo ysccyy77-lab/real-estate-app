@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대동중앙",
+    "dealAmount": "18,750",
+    "date": "2026-10-27",
+    "floor": 11,
+    "area": 59.9
+  },
+  {
+    "aptNm": "대동중앙",
+    "dealAmount": "19,100",
+    "date": "2026-10-26",
+    "floor": 8,
+    "area": 59.9
+  },
+  {
+    "aptNm": "대동중앙",
     "dealAmount": "18,500",
     "date": "2026-10-08",
     "floor": 7,

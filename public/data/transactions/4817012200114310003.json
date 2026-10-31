@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "청구타운",
+    "dealAmount": "16,450",
+    "date": "2026-10-27",
+    "floor": 8,
+    "area": 59.99
+  },
+  {
+    "aptNm": "청구타운",
     "dealAmount": "14,400",
     "date": "2026-10-21",
     "floor": 15,

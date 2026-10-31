@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "포레시안",
+    "dealAmount": "35,400",
+    "date": "2026-10-24",
+    "floor": 8,
+    "area": 59.71
+  },
+  {
+    "aptNm": "포레시안",
     "dealAmount": "34,600",
     "date": "2026-10-22",
     "floor": 22,

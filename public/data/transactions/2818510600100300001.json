@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "한신",
+    "dealAmount": "67,000",
+    "date": "2026-10-26",
+    "floor": 3,
+    "area": 84.94
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "29,500",
+    "date": "2026-10-25",
+    "floor": 9,
+    "area": 62.67
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "70,000",
+    "date": "2026-10-21",
+    "floor": 5,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
+    "dealAmount": "63,500",
+    "date": "2026-10-13",
+    "floor": 12,
+    "area": 84.94
+  },
+  {
+    "aptNm": "한신",
     "dealAmount": "64,500",
     "date": "2026-10-09",
     "floor": 1,
@@ -47,6 +75,13 @@
     "date": "2026-10-01",
     "floor": 5,
     "area": 84.9691
+  },
+  {
+    "aptNm": "대우",
+    "dealAmount": "44,000",
+    "date": "2026-10-01",
+    "floor": 12,
+    "area": 134.64
   },
   {
     "aptNm": "소라",

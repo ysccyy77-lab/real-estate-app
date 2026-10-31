@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "한마을",
+    "dealAmount": "3,800",
+    "date": "2026-10-23",
+    "floor": 6,
+    "area": 56.76
+  },
+  {
+    "aptNm": "한마을",
     "dealAmount": "6,000",
     "date": "2026-10-21",
     "floor": 3,

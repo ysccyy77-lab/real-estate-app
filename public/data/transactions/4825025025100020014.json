@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "대근(가나)",
+    "dealAmount": "3,100",
+    "date": "2026-10-28",
+    "floor": 6,
+    "area": 57.945
+  },
+  {
+    "aptNm": "대근(가나)",
+    "dealAmount": "6,700",
+    "date": "2026-10-14",
+    "floor": 1,
+    "area": 84.81
+  },
+  {
+    "aptNm": "대근(가나)",
     "dealAmount": "4,000",
     "date": "2026-02-09",
     "floor": 2,

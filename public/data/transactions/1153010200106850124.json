@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "중앙하이츠",
+    "dealAmount": "82,500",
+    "date": "2026-10-16",
+    "floor": 9,
+    "area": 79.97
+  },
+  {
+    "aptNm": "중앙하이츠",
+    "dealAmount": "82,000",
+    "date": "2026-10-07",
+    "floor": 6,
+    "area": 79.97
+  },
+  {
+    "aptNm": "중앙하이츠",
     "dealAmount": "64,500",
     "date": "2026-09-12",
     "floor": 4,

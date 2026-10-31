@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "일우",
+    "dealAmount": "11,000",
+    "date": "2026-10-23",
+    "floor": 1,
+    "area": 42.72
+  },
+  {
+    "aptNm": "일우",
     "dealAmount": "11,500",
     "date": "2026-10-13",
     "floor": 2,

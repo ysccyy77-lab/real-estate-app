@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "엑슬루타워",
+    "dealAmount": "42,000",
+    "date": "2026-10-29",
+    "floor": 4,
+    "area": 91.3
+  },
+  {
+    "aptNm": "엑슬루타워",
     "dealAmount": "49,700",
     "date": "2026-10-21",
     "floor": 8,

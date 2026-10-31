@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "당산한양",
+    "dealAmount": "150,000",
+    "date": "2026-10-11",
+    "floor": 1,
+    "area": 84.93
+  },
+  {
+    "aptNm": "당산한양",
+    "dealAmount": "156,500",
+    "date": "2026-10-10",
+    "floor": 6,
+    "area": 73.87
+  },
+  {
+    "aptNm": "당산한양",
     "dealAmount": "165,000",
     "date": "2026-09-12",
     "floor": 7,

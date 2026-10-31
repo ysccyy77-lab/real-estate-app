@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "삼보1",
+    "dealAmount": "13,000",
+    "date": "2026-10-29",
+    "floor": 5,
+    "area": 40.59
+  },
+  {
+    "aptNm": "신세계",
+    "dealAmount": "26,500",
+    "date": "2026-10-16",
+    "floor": 9,
+    "area": 88.68
+  },
+  {
     "aptNm": "신세계",
     "dealAmount": "28,500",
     "date": "2026-10-10",

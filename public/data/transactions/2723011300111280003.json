@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "민들레",
+    "dealAmount": "9,200",
+    "date": "2026-10-28",
+    "floor": 6,
+    "area": 59.94
+  },
+  {
+    "aptNm": "민들레",
     "dealAmount": "11,000",
     "date": "2026-09-21",
     "floor": 8,

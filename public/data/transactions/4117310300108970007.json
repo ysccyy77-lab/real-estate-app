@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "초원LG",
+    "dealAmount": "128,000",
+    "date": "2026-10-16",
+    "floor": 17,
+    "area": 84.9
+  },
+  {
+    "aptNm": "초원LG",
     "dealAmount": "99,000",
     "date": "2026-08-19",
     "floor": 5,

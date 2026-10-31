@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "미진무지개",
+    "dealAmount": "6,300",
+    "date": "2026-10-20",
+    "floor": 12,
+    "area": 49.74
+  },
+  {
+    "aptNm": "미진무지개",
     "dealAmount": "6,000",
     "date": "2026-09-09",
     "floor": 8,

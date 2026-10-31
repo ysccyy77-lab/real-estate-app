@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "청호6차",
+    "dealAmount": "10,500",
+    "date": "2026-10-23",
+    "floor": 9,
+    "area": 59.765
+  },
+  {
+    "aptNm": "청호6차",
     "dealAmount": "11,000",
     "date": "2026-06-30",
     "floor": 7,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성재",
+    "dealAmount": "1,800",
+    "date": "2026-10-16",
+    "floor": 1,
+    "area": 41.82
+  },
+  {
+    "aptNm": "성재",
     "dealAmount": "1,500",
     "date": "2026-10-13",
     "floor": 2,

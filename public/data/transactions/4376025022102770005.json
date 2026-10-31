@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "덕진봄",
+    "dealAmount": "12,800",
+    "date": "2026-10-23",
+    "floor": 14,
+    "area": 59.9616
+  },
+  {
+    "aptNm": "덕진봄",
     "dealAmount": "15,300",
     "date": "2026-10-13",
     "floor": 7,

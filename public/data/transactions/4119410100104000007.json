@@ -2,6 +2,13 @@
   {
     "aptNm": "청구",
     "dealAmount": "55,000",
+    "date": "2026-10-24",
+    "floor": 11,
+    "area": 134.55
+  },
+  {
+    "aptNm": "청구",
+    "dealAmount": "55,000",
     "date": "2026-10-05",
     "floor": 10,
     "area": 101.27

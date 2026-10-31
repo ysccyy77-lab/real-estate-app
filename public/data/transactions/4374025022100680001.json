@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "영동현대",
+    "dealAmount": "10,000",
+    "date": "2026-10-28",
+    "floor": 1,
+    "area": 59.76
+  },
+  {
+    "aptNm": "영동현대",
     "dealAmount": "12,500",
     "date": "2026-09-16",
     "floor": 4,

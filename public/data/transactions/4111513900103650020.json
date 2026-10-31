@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "포레스트",
+    "dealAmount": "6,500",
+    "date": "2026-10-19",
+    "floor": 8,
+    "area": 20.292
+  },
+  {
+    "aptNm": "포레스트",
     "dealAmount": "8,350",
     "date": "2026-08-05",
     "floor": 3,

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "성일",
+    "dealAmount": "26,400",
+    "date": "2026-10-26",
+    "floor": 4,
+    "area": 49.68
+  },
+  {
+    "aptNm": "성일",
     "dealAmount": "22,750",
     "date": "2026-10-21",
     "floor": 13,

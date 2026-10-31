@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "신초",
+    "dealAmount": "7,500",
+    "date": "2026-10-28",
+    "floor": 9,
+    "area": 59.305
+  },
+  {
+    "aptNm": "유원",
+    "dealAmount": "25,700",
+    "date": "2026-10-23",
+    "floor": 9,
+    "area": 108.89
+  },
+  {
     "aptNm": "유원",
     "dealAmount": "19,500",
     "date": "2026-10-15",

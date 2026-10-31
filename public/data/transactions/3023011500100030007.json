@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "덕암아파트",
+    "dealAmount": "7,200",
+    "date": "2026-10-30",
+    "floor": 15,
+    "area": 41.87
+  },
+  {
+    "aptNm": "덕암아파트",
     "dealAmount": "8,180",
     "date": "2026-10-17",
     "floor": 9,

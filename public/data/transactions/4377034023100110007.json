@@ -1,5 +1,12 @@
 [
   {
+    "aptNm": "동문1차아파트101동",
+    "dealAmount": "16,000",
+    "date": "2026-10-27",
+    "floor": 8,
+    "area": 84.87
+  },
+  {
     "aptNm": "음성SKVIEW",
     "dealAmount": "12,300",
     "date": "2026-09-28",

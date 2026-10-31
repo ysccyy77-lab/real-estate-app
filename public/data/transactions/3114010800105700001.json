@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "하얀마을아이파크",
+    "dealAmount": "84,500",
+    "date": "2026-10-28",
+    "floor": 1,
+    "area": 134.462
+  },
+  {
+    "aptNm": "하얀마을아이파크",
+    "dealAmount": "97,000",
+    "date": "2026-10-21",
+    "floor": 10,
+    "area": 134.703
+  },
+  {
+    "aptNm": "청구1",
+    "dealAmount": "42,000",
+    "date": "2026-10-18",
+    "floor": 13,
+    "area": 85
+  },
+  {
+    "aptNm": "청구1",
+    "dealAmount": "43,500",
+    "date": "2026-10-17",
+    "floor": 8,
+    "area": 85
+  },
+  {
+    "aptNm": "하얀마을아이파크",
     "dealAmount": "88,000",
     "date": "2026-10-11",
     "floor": 13,

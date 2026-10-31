@@ -1,10 +1,59 @@
 [
   {
+    "aptNm": "현대",
+    "dealAmount": "25,500",
+    "date": "2026-10-30",
+    "floor": 6,
+    "area": 84.6
+  },
+  {
+    "aptNm": "미도",
+    "dealAmount": "15,862",
+    "date": "2026-10-28",
+    "floor": 3,
+    "area": 66.09
+  },
+  {
+    "aptNm": "미도",
+    "dealAmount": "9,985",
+    "date": "2026-10-28",
+    "floor": 3,
+    "area": 40.59
+  },
+  {
+    "aptNm": "미도",
+    "dealAmount": "15,630",
+    "date": "2026-10-26",
+    "floor": 4,
+    "area": 66.09
+  },
+  {
+    "aptNm": "미도",
+    "dealAmount": "15,600",
+    "date": "2026-10-26",
+    "floor": 1,
+    "area": 66.09
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "17,250",
+    "date": "2026-10-25",
+    "floor": 14,
+    "area": 59.95
+  },
+  {
     "aptNm": "월평타운",
     "dealAmount": "20,500",
     "date": "2026-10-16",
     "floor": 8,
     "area": 59.74
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "16,500",
+    "date": "2026-10-16",
+    "floor": 8,
+    "area": 59.95
   },
   {
     "aptNm": "서광교파크뷰",

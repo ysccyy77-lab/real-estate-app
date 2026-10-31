@@ -1,9 +1,30 @@
 [
   {
+    "aptNm": "쌍북주공1",
+    "dealAmount": "8,000",
+    "date": "2026-10-28",
+    "floor": 4,
+    "area": 39.6
+  },
+  {
+    "aptNm": "신다대",
+    "dealAmount": "8,200",
+    "date": "2026-10-27",
+    "floor": 9,
+    "area": 39.78
+  },
+  {
     "aptNm": "신다대",
     "dealAmount": "5,250",
     "date": "2026-10-21",
     "floor": 2,
+    "area": 39.78
+  },
+  {
+    "aptNm": "신다대",
+    "dealAmount": "6,200",
+    "date": "2026-10-21",
+    "floor": 13,
     "area": 39.78
   },
   {
@@ -12,6 +33,13 @@
     "date": "2026-10-13",
     "floor": 2,
     "area": 76.43
+  },
+  {
+    "aptNm": "수성SK리더스뷰",
+    "dealAmount": "118,000",
+    "date": "2026-10-07",
+    "floor": 19,
+    "area": 128.4958
   },
   {
     "aptNm": "신다대",

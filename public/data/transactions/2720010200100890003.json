@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "미리내",
+    "dealAmount": "17,500",
+    "date": "2026-10-20",
+    "floor": 1,
+    "area": 84.19
+  },
+  {
+    "aptNm": "미리내",
     "dealAmount": "18,000",
     "date": "2026-05-16",
     "floor": 3,

@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "영남",
+    "dealAmount": "15,500",
+    "date": "2026-10-28",
+    "floor": 5,
+    "area": 57.87
+  },
+  {
+    "aptNm": "마산만I'PARK",
+    "dealAmount": "50,500",
+    "date": "2026-10-27",
+    "floor": 30,
+    "area": 84.9607
+  },
+  {
     "aptNm": "마산만I'PARK",
     "dealAmount": "46,000",
     "date": "2026-10-23",
@@ -19,6 +33,13 @@
     "date": "2026-10-17",
     "floor": 14,
     "area": 117.592
+  },
+  {
+    "aptNm": "양평한신",
+    "dealAmount": "140,000",
+    "date": "2026-10-17",
+    "floor": 10,
+    "area": 59.94
   },
   {
     "aptNm": "마산만I'PARK",

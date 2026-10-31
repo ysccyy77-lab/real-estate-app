@@ -2,9 +2,23 @@
   {
     "aptNm": "옥산해오름",
     "dealAmount": "6,900",
+    "date": "2026-10-18",
+    "floor": 9,
+    "area": 49.8
+  },
+  {
+    "aptNm": "옥산해오름",
+    "dealAmount": "6,900",
     "date": "2026-10-15",
     "floor": 5,
     "area": 49.8
+  },
+  {
+    "aptNm": "두견마을벽산3차",
+    "dealAmount": "71,500",
+    "date": "2026-10-13",
+    "floor": 3,
+    "area": 134.86
   },
   {
     "aptNm": "옥산해오름",

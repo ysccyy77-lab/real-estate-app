@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "송천KCC스위첸",
+    "dealAmount": "52,300",
+    "date": "2026-10-30",
+    "floor": 15,
+    "area": 84.912
+  },
+  {
+    "aptNm": "토평주공",
+    "dealAmount": "72,200",
+    "date": "2026-10-22",
+    "floor": 10,
+    "area": 59.92
+  },
+  {
     "aptNm": "본오주공",
     "dealAmount": "30,000",
     "date": "2026-10-18",

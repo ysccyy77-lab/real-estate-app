@@ -1,5 +1,40 @@
 [
   {
+    "aptNm": "부평LH2단지",
+    "dealAmount": "38,000",
+    "date": "2026-10-29",
+    "floor": 11,
+    "area": 59.96
+  },
+  {
+    "aptNm": "양주옥정신도시한신더휴",
+    "dealAmount": "46,000",
+    "date": "2026-10-26",
+    "floor": 5,
+    "area": 97.9031
+  },
+  {
+    "aptNm": "롯데",
+    "dealAmount": "71,000",
+    "date": "2026-10-25",
+    "floor": 8,
+    "area": 84.84
+  },
+  {
+    "aptNm": "부평LH2단지",
+    "dealAmount": "37,500",
+    "date": "2026-10-24",
+    "floor": 13,
+    "area": 59.98
+  },
+  {
+    "aptNm": "래미안이스트팰리스2단지",
+    "dealAmount": "139,500",
+    "date": "2026-10-23",
+    "floor": 23,
+    "area": 148.66
+  },
+  {
     "aptNm": "건영",
     "dealAmount": "33,800",
     "date": "2026-10-18",

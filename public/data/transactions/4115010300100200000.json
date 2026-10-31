@@ -1,5 +1,47 @@
 [
   {
+    "aptNm": "주공",
+    "dealAmount": "20,000",
+    "date": "2026-10-30",
+    "floor": 5,
+    "area": 41.3
+  },
+  {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,400",
+    "date": "2026-10-29",
+    "floor": 15,
+    "area": 29.94
+  },
+  {
+    "aptNm": "성원1차",
+    "dealAmount": "20,500",
+    "date": "2026-10-26",
+    "floor": 1,
+    "area": 79.81
+  },
+  {
+    "aptNm": "금호윤성모닝타운",
+    "dealAmount": "2,900",
+    "date": "2026-10-26",
+    "floor": 8,
+    "area": 29.94
+  },
+  {
+    "aptNm": "유토피아아파트",
+    "dealAmount": "20,000",
+    "date": "2026-10-26",
+    "floor": 2,
+    "area": 105.03
+  },
+  {
+    "aptNm": "현대",
+    "dealAmount": "19,500",
+    "date": "2026-10-21",
+    "floor": 1,
+    "area": 84.55
+  },
+  {
     "aptNm": "금호윤성모닝타운",
     "dealAmount": "2,650",
     "date": "2026-10-20",
@@ -22,10 +64,24 @@
   },
   {
     "aptNm": "동아",
+    "dealAmount": "31,700",
+    "date": "2026-10-19",
+    "floor": 20,
+    "area": 59.925
+  },
+  {
+    "aptNm": "동아",
     "dealAmount": "34,700",
     "date": "2026-10-17",
     "floor": 15,
     "area": 59.925
+  },
+  {
+    "aptNm": "성원1차",
+    "dealAmount": "28,300",
+    "date": "2026-10-16",
+    "floor": 7,
+    "area": 84.73
   },
   {
     "aptNm": "STX칸",
@@ -40,6 +96,13 @@
     "date": "2026-10-14",
     "floor": 1,
     "area": 29.94
+  },
+  {
+    "aptNm": "만수주공6단지",
+    "dealAmount": "19,000",
+    "date": "2026-10-12",
+    "floor": 5,
+    "area": 47.25
   },
   {
     "aptNm": "STX칸",

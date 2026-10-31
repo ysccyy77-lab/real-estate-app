@@ -1,10 +1,31 @@
 [
   {
+    "aptNm": "동부",
+    "dealAmount": "34,300",
+    "date": "2026-10-30",
+    "floor": 9,
+    "area": 58.44
+  },
+  {
+    "aptNm": "거제코아루파크드림",
+    "dealAmount": "16,500",
+    "date": "2026-10-28",
+    "floor": 20,
+    "area": 84.9893
+  },
+  {
     "aptNm": "율하리버파크",
     "dealAmount": "27,500",
     "date": "2026-10-20",
     "floor": 2,
     "area": 84.77
+  },
+  {
+    "aptNm": "율하리버파크",
+    "dealAmount": "28,500",
+    "date": "2026-10-15",
+    "floor": 6,
+    "area": 74.89
   },
   {
     "aptNm": "동부",

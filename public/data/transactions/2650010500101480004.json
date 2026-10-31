@@ -22,10 +22,31 @@
   },
   {
     "aptNm": "삼익비치",
+    "dealAmount": "109,700",
+    "date": "2026-10-17",
+    "floor": 2,
+    "area": 84.83
+  },
+  {
+    "aptNm": "워커힐푸르지오",
+    "dealAmount": "149,000",
+    "date": "2026-10-12",
+    "floor": 7,
+    "area": 69
+  },
+  {
+    "aptNm": "삼익비치",
     "dealAmount": "100,000",
     "date": "2026-10-07",
     "floor": 11,
     "area": 73.92
+  },
+  {
+    "aptNm": "삼익비치",
+    "dealAmount": "111,500",
+    "date": "2026-10-07",
+    "floor": 6,
+    "area": 84.83
   },
   {
     "aptNm": "삼익비치",

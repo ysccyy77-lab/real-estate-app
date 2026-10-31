@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "방화5",
+    "dealAmount": "60,000",
+    "date": "2026-10-21",
+    "floor": 4,
+    "area": 39.6
+  },
+  {
+    "aptNm": "방화5",
     "dealAmount": "57,800",
     "date": "2026-10-19",
     "floor": 2,

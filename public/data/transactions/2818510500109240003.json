@@ -1,6 +1,20 @@
 [
   {
     "aptNm": "래미안",
+    "dealAmount": "44,300",
+    "date": "2026-10-29",
+    "floor": 8,
+    "area": 95.76
+  },
+  {
+    "aptNm": "자이(xi)",
+    "dealAmount": "41,500",
+    "date": "2026-10-24",
+    "floor": 6,
+    "area": 95.55
+  },
+  {
+    "aptNm": "래미안",
     "dealAmount": "42,000",
     "date": "2026-09-10",
     "floor": 8,

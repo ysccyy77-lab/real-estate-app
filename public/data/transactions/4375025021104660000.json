@@ -1,5 +1,19 @@
 [
   {
+    "aptNm": "수정",
+    "dealAmount": "84,000",
+    "date": "2026-10-27",
+    "floor": 2,
+    "area": 84.42
+  },
+  {
+    "aptNm": "청수 포레나(FORENA)",
+    "dealAmount": "35,900",
+    "date": "2026-10-24",
+    "floor": 19,
+    "area": 86.6788
+  },
+  {
     "aptNm": "진천풍림아이원트리니움",
     "dealAmount": "20,000",
     "date": "2026-10-17",

@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "우림(Lumiart)",
+    "dealAmount": "27,200",
+    "date": "2026-10-27",
+    "floor": 19,
+    "area": 59.68
+  },
+  {
+    "aptNm": "우림(Lumiart)",
     "dealAmount": "26,800",
     "date": "2026-10-08",
     "floor": 7,

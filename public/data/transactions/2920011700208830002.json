@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "대화",
+    "dealAmount": "9,700",
+    "date": "2026-10-21",
+    "floor": 2,
+    "area": 84.81
+  },
+  {
+    "aptNm": "대화",
     "dealAmount": "9,250",
     "date": "2026-09-29",
     "floor": 4,

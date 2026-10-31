@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "동양맨션",
+    "dealAmount": "11,000",
+    "date": "2026-10-21",
+    "floor": 3,
+    "area": 47.11
+  },
+  {
+    "aptNm": "동양맨션",
     "dealAmount": "17,000",
     "date": "2026-06-11",
     "floor": 5,

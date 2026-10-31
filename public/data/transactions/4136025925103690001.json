@@ -1,6 +1,34 @@
 [
   {
     "aptNm": "선경2차",
+    "dealAmount": "43,600",
+    "date": "2026-10-28",
+    "floor": 23,
+    "area": 84.94
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "25,500",
+    "date": "2026-10-26",
+    "floor": 23,
+    "area": 59.74
+  },
+  {
+    "aptNm": "선경2차",
+    "dealAmount": "39,800",
+    "date": "2026-10-24",
+    "floor": 6,
+    "area": 84.94
+  },
+  {
+    "aptNm": "금강",
+    "dealAmount": "25,000",
+    "date": "2026-10-23",
+    "floor": 13,
+    "area": 59.86
+  },
+  {
+    "aptNm": "선경2차",
     "dealAmount": "30,000",
     "date": "2026-10-22",
     "floor": 17,

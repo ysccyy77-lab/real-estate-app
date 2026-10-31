@@ -1,9 +1,23 @@
 [
   {
     "aptNm": "동부새롬",
+    "dealAmount": "49,000",
+    "date": "2026-10-20",
+    "floor": 22,
+    "area": 59.91
+  },
+  {
+    "aptNm": "동부새롬",
     "dealAmount": "44,500",
     "date": "2026-10-09",
     "floor": 16,
+    "area": 59.91
+  },
+  {
+    "aptNm": "동부새롬",
+    "dealAmount": "47,800",
+    "date": "2026-10-08",
+    "floor": 14,
     "area": 59.91
   },
   {

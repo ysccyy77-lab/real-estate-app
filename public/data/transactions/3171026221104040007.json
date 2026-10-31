@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "덕정유림",
+    "dealAmount": "12,000",
+    "date": "2026-10-30",
+    "floor": 16,
+    "area": 59.84
+  },
+  {
+    "aptNm": "덕정유림",
     "dealAmount": "10,700",
     "date": "2026-10-08",
     "floor": 1,

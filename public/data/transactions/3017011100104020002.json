@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "쌍룡",
+    "dealAmount": "20,700",
+    "date": "2026-10-23",
+    "floor": 2,
+    "area": 84.89
+  },
+  {
+    "aptNm": "쌍룡",
     "dealAmount": "20,000",
     "date": "2026-08-06",
     "floor": 1,

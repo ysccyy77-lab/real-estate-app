@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신형석리3",
+    "dealAmount": "3,200",
+    "date": "2026-10-29",
+    "floor": 1,
+    "area": 59.53
+  },
+  {
+    "aptNm": "신형석리3",
     "dealAmount": "2,100",
     "date": "2026-10-21",
     "floor": 2,

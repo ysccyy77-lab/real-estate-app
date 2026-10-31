@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "신선",
+    "dealAmount": "12,300",
+    "date": "2026-10-30",
+    "floor": 11,
+    "area": 46.53
+  },
+  {
+    "aptNm": "신선",
     "dealAmount": "12,500",
     "date": "2026-09-30",
     "floor": 4,

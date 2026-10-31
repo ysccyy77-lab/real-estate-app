@@ -1,6 +1,13 @@
 [
   {
     "aptNm": "현진2차",
+    "dealAmount": "19,700",
+    "date": "2026-10-21",
+    "floor": 1,
+    "area": 54.96
+  },
+  {
+    "aptNm": "현진2차",
     "dealAmount": "21,200",
     "date": "2026-09-02",
     "floor": 3,
